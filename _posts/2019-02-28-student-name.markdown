@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 this is a test of an uploaded project
 with a link to an image in the assets folder
-![alt text for image](images/groupname/test.png)
+![alt text for image](./images/groupname/test.png)
