@@ -1,0 +1,26 @@
+<head>
+<!-- webfont -->
+  <link type="text/css" rel="stylesheet" href="https://fast.fonts.net/cssapi/c28915cb-7a1f-477c-9084-e9e755ede452.css"/>
+</head>
+
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
