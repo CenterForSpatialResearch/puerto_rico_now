@@ -18,7 +18,7 @@ Please use level 2 headings for major section divisions
 #### This is a level 4 heading
 And level 4 headings for any divisions within sections if you have them.
 
-To write words in **bold** like this.
+Write **words in bold** like this.
 
 Italics are *similar* and are formatted like this.
 
@@ -40,6 +40,6 @@ For images, you will place the image file in a folder named for your group in th
 
 If you want to include html files (i.e. an interactive map) host these via your own personal github page, and then you can embed them in your document with a iframe. The format looks like this:
 
-<iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:relative;width:100%;height:100%;" frameborder="0"></iframe>
 
 <iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" width: 100%></iframe>
