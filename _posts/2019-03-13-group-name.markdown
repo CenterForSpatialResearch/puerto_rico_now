@@ -12,11 +12,9 @@ To present and turn in your final projects for Conflict Urbanism: Puerto Rico No
 
 This webpage provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.
 
-You can define section headings in your project with the hash symbol `#`:
-## This is a level 2 heading
-Please use level 2 headings for major section divisions
-#### This is a level 4 heading
-And level 4 headings for any divisions within sections if you have them.
+## Please use level 2 headings for major section divisions
+
+#### And level 4 headings for any divisions within sections
 
 Write **words in bold** like this.
 

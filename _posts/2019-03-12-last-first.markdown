@@ -2,7 +2,7 @@
 layout: post
 date:   2018-05-28
 categories: jekyll update
-
+image: "/site0227/images/groupname2/test2.png"
 title:  "Final Project 2"
 author: "Names Of Everyone In Your Group"
 ---
