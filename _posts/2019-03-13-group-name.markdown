@@ -36,10 +36,11 @@ Or they can just be bullet points:
 
 To include hyperlinks format them like this [text of link](http://c4sr.columbia.edu/).
 
-For images, you will place the image file in a folder named for your group in the images folder. Then link to that image using the following format, but replace with the name of your group's folder and image file name: ![description of image](/site0227/images/groupname2/test2.png)
+For images, you will place the image file in a folder named for your group in the images folder. Then link to that image using the following format, but replace with the name of your group's folder and image file name: ![description of image](/site0227/images/groupname2/test2.png)![description of image](/site0227/images/groupname2/test2.png)![description of image](/site0227/images/groupname2/test2.png)
 
 If you want to include html files (i.e. an interactive map) host these via your own personal github page, and then you can embed them in your document with a iframe. The format looks like this:
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
+All you need to do to use one is replace the url that is between the two " "
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
