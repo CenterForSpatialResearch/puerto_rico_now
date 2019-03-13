@@ -2,7 +2,7 @@
 layout: post
 date:   2018-05-28
 categories: jekyll update
-
+image: "/site0227/images/groupname2/test2.png"
 title:  "Final Project 3"
 author: "Names Of Everyone In Your Group"
 ---
@@ -12,9 +12,7 @@ To present and turn in your final projects for Conflict Urbanism: Puerto Rico No
 
 This webpage provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.
 
-## Please use level 2 headings for major section divisions
-
-#### And level 4 headings for any divisions within sections
+#### Please use level 4 headings for major section divisions
 
 Write **words in bold** like this.
 
