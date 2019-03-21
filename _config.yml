@@ -18,8 +18,8 @@ author: Center for Spatial Research
 email: info@c4sr.columbia.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Student projects from the Spring 2019 Conflict Urbanism Puerto Rico seminar offered by Laura Kurgan and Frances Negron-Muntaner.
-baseurl: "/site0227" # the subpath of your site, e.g. /blog
-url: "darebrawley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/puerto_rico_now" # the subpath of your site, e.g. /blog
+url: "centerforspatialresearch.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: c4sr_columbia
 
 # Build settings
