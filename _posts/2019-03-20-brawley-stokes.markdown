@@ -1,8 +1,8 @@
 ---
 layout: post
 date:   2019-03-20
-image: "/puerto_rico_now/images/groupname2/test2-.png"
-title:  "Title of Your Final Project"
+image: "/puerto_rico_now/images/groupname/csr_thumbnail.png"
+title:  "Template: Title of Your Final Project"
 author: "Names Of Everyone In Your Group"
 ---
 This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.
@@ -33,7 +33,7 @@ To include hyperlinks format them like this [text of link](http://c4sr.columbia.
 
 To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:
 
-![description of image](/puerto_rico_now/images/groupname2/test2-.png)
+![description of image](/puerto_rico_now/images/groupname/test2-.png)
 
 If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:
 
