@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This website collects a student-led publication from the Spring 2019 seminar, Conflict Urbanism: Puerto Rico Now taught by Laura Kurgan and Frances Negrón-Muntaner. This is the fourth in a series of multidisciplinary Mellon seminars at the [Columbia Center for Spatial Research](c4sr.columbia.edu) on the topic of Conflict Urbanism, as part of a multi-university initiative in Architecture, Urbanism and the Humanities. This Spring 2019 course focused on the role of natural and economic disaster in terms of the spatial restructuring of Puerto Rico today.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+The seminar examined the ways in which hurricanes, debt, and migration are major forces which produce and shape spatial inequalities in contemporary Puerto Rico. It approached Puerto Rico as a network of conflicting forces, demands, and discourses (economic, spatial, political, environmental, historical, memorial, mediatic, aesthetic), and compared the Puerto Rican context with other intensive politicized spaces. What does Puerto Rico have in common with New Orleans Post Katrina? With the Dominican Republic or Singapore? Prior to Hurricane Maria, what did San Juan have in common with Detroit or Miami? To do our work we have drawn on and work with diverse sources of information including data about population displacement, urban destruction housing values and foreclosures, and reports and analysis of “expert’ bodies such as FEMA, Puerto Rico’s government, and the United Nations. We have considered how local and global organizing is challenging spatial inequalities, in order to reformat this information in a way that exposes some alternate images of Puerto Rico prior to these disasters and present some new post-disaster visions of it. The seminar involves thinking and action from some very new perspectives which engage multiple methods of learning and engagements.
