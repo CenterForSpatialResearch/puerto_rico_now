@@ -1,16 +1,15 @@
 ---
 layout: post
-date:   2018-05-28
-categories: jekyll update
+date:   2019-03-20
 image: "/puerto_rico_now/images/groupname2/test2-.png"
-title:  "This is a long Title"
+title:  "Title of Your Final Project"
 author: "Names Of Everyone In Your Group"
 ---
 This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.
 
 To present and turn in your final projects for Conflict Urbanism: Puerto Rico Now you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.
 
-This webpage provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.
+[This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.
 
 #### Please use level 4 headings for major section divisions
 
