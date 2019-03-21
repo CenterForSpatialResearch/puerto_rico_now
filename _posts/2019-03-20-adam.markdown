@@ -3,7 +3,7 @@ layout: post
 date:   2019-03-20
 image: "/puerto_rico_now/images/groupname/csr_thumbnail.png"
 title:  "xyz2222"
-author: "Jane Adam"
+author: "Jane Adams"
 ---
 **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Vivamus sit amet lectus vehicula, viverra mi sed, pretium lacus. Fusce aliquet ut felis quis posuere. Quisque convallis, tellus ut tincidunt viverra, eros tellus tincidunt risus, eleifend pharetra risus tellus quis felis. Suspendisse consequat mollis nisi in laoreet. Nulla mi diam, vehicula vel tincidunt sit amet, vestibulum non odio. Morbi eros neque, commodo nec ante vitae, posuere facilisis orci. Curabitur non aliquet diam.
 
