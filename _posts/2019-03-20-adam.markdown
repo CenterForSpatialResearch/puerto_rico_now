@@ -1,0 +1,14 @@
+---
+layout: post
+date:   2019-03-20
+image: "/puerto_rico_now/images/groupname/csr_thumbnail.png"
+title:  "xyz2222"
+author: "Jane Adam"
+---
+**Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Vivamus sit amet lectus vehicula, viverra mi sed, pretium lacus. Fusce aliquet ut felis quis posuere. Quisque convallis, tellus ut tincidunt viverra, eros tellus tincidunt risus, eleifend pharetra risus tellus quis felis. Suspendisse consequat mollis nisi in laoreet. Nulla mi diam, vehicula vel tincidunt sit amet, vestibulum non odio. Morbi eros neque, commodo nec ante vitae, posuere facilisis orci. Curabitur non aliquet diam.
+
+*Lorem ipsum* dolor sit amet, consectetur adipiscing elit. Vivamus sit amet lectus vehicula, viverra mi sed, pretium lacus. Fusce aliquet ut felis quis posuere. Quisque convallis, tellus ut tincidunt viverra, eros tellus tincidunt risus, eleifend pharetra risus tellus quis felis. Suspendisse consequat mollis nisi in laoreet. Nulla mi diam, vehicula vel tincidunt sit amet, vestibulum non odio. Morbi eros neque, commodo nec ante vitae, posuere facilisis orci. Curabitur non aliquet diam.
+
+[link](https://github.com/CenterForSpatialResearch/conflict_urbanism_puerto_rico_now)
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
