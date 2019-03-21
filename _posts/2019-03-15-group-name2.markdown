@@ -2,8 +2,8 @@
 layout: post
 date:   2018-05-28
 categories: jekyll update
-image: "/puerto_rico_now/images/groupname2/test2-.png"
-title:  "Title of Final Project"
+image: "/puerto_rico_now/images/groupname2/test2- copy.png"
+title:  "This is an even longer title for a final project"
 author: "Names Of Everyone In Your Group"
 ---
 This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.
