@@ -32,7 +32,7 @@ Or they can just be bullet points:
 
 To include hyperlinks format them like this [text of link](http://c4sr.columbia.edu/).
 
-For images, you will place the image file in a folder named for your group in the images folder. Then link to that image using the following format, but replace with the name of your group's folder and image file name: ![description of image](/site0227/images/groupname2/test2.png)
+For images, you will place the image file in a folder named for your group in the images folder. Then link to that image using the following format, but replace with the name of your group's folder and image file name: ![description of image](/site0227/images/groupname2/test2-.png)
 
 If you want to include html files (i.e. an interactive map) host these via your own personal github page, and then you can embed them in your document with a iframe. The format looks like this:
 

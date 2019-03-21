@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
   color: #000000;
-  text-decoration: none; }
+  text-decoration: underline; }
   a:visited {
     color: #000000; }
   a:hover {
@@ -520,7 +520,8 @@ table {
   .footer-heading{display:none;} */
 
   .post__img {
-      height: 18em;
+      height: 18
+      em;
       padding: 1em
   }
   @media (min-width:32em) {
