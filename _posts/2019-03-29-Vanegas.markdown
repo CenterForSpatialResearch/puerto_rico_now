@@ -3,55 +3,22 @@ layout: post
 date:   2019-03-29
 image: "/puerto_rico_now/images/groupname/csr_thumbnail.png"
 title:  "epv2105"
-author: "Esteban Vanegas esq."
+author: "Esteban Vanegas"
 ---
-Ima test things  
+**Brief**  
 
+Puerto Rico’s existing crisis, further intensified by the damage left behind by the storms, have led many opportunistic speculators to eye the island as a tabula rasa with an undetermined future. As such, we believe it is crucial to study what life may look like for the residents of Puerto Rico under these potential changes.  
 
+**Popular Predictions for the Future of Puerto Rico**
 
-This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
+1. *Tourist Paradise*: Given Puerto Rico’s financial crisis, developers have eyed Puerto Rico as the ultimate Caribbean vacation spot for domestic and international tourists. This development would likely focus around coastal areas and San Juan, with little focus on the interior. Potential stumbling blocks to this operation include local opposition and a potential federal minimum wage increase currently being debated by Congress, which, if passed, would more than double the current minimum wage and significantly raise operations costs.
+1. *The Singapore of the Caribbean*: Inspired by the tiger economy that catapulted Singapore to the forefront of Southeast Asian quality of life figures, some economists have speculated that intensive economic development may be possible as the island recovers. Neglecting that the Singaporean and similar economies that experienced such a boom did so after achieving a significant degree of autonomy, this plan would involve investing in industries which existing residents could work in, along with rigorous job training programs.
+1. *Islandwide Land Trust*: Taking inspiration from the community of Caño Martín Peña, this idea extrapolates what would happen if similar land trusts were to be established in other parts of Puerto Rico. Land trusts in the 8 neighborhoods that comprise Caño Martín Peña allow for collective ownership of households, which has inspired communities such as Rio Piedras to follow suit. This plan requires existing landowners to establish trusts that would then seek to take advantage of the current Puerto Rican land market to purchase abandoned properties for the development of affordable housing and services (Nonprofit Quarterly, 2018).
 
-To present and turn in your final projects for Conflict Urbanism: Puerto Rico Now you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.
-
-[This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.
-
-#### Please use level 4 headings for major section divisions
-
-Write **words in bold** like this.
-
-Italics are *similar* and are formatted like this.  
-*this is some italicized text*  
-**and this is bolded**
-
-To make a paragraph break you need to add two spaces at the end of your line before going to the next line.
-
-See this is now a new paragraph.
-
-Lists are easy:
-1. they can be ordered
-1. like this
-1. notice that the numbers are automatically ordered
-  1. use two spaces in front to indent
-
-Or they can just be bullet points:
-- like this
-* or like this
-  - use two spaces
-  - to have nested lists
-
-Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions.
-
-To include hyperlinks format them like this [text of link](http://c4sr.columbia.edu/).
-
-To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:
+[The github repository for this class's tutorials can be found here](https://github.com/CenterForSpatialResearch/conflict_urbanism_puerto_rico_now/)  
 
 ![description of image](/puerto_rico_now/images/groupname/test2-.png)
 
-If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:
+Please see below for proof of my webmap skillz
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
-
-All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:
-
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://epv2105.github.io/nyc_rats/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
