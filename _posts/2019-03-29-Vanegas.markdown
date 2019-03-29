@@ -17,7 +17,8 @@ Write **words in bold** like this.
 
 Italics are *similar* and are formatted like this.  
 *this is some italicized text*  
-**and this is bolded**
+**and this is bolded**  
+But what if I want to do both?
 
 To make a paragraph break you need to add two spaces at the end of your line before going to the next line.
 
