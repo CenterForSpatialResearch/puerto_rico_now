@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2019-03-20
-image: "/puerto_rico_now/images/tutorial/qy2192_flag.jpg"
+image: "/puerto_rico_now/images/tutorial/qy2192_flag.png"
 title:  "qy2192"
 author: "Aline, Esteban, Ge, Qi"
 ---
