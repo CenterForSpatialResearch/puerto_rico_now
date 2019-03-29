@@ -5,47 +5,100 @@ image: "/puerto_rico_now/images/groupname/csr_thumbnail.png"
 title:  "tnc2118"
 author: "Tyrene Calvesbert"
 ---
-This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
+Hello Conflict Urbanism. it is me again, Tyrene Calvesbert.
 
-To present and turn in your final projects for Conflict Urbanism: Puerto Rico Now you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.  
-
-[This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here.  
-
-#### Please use level 4 headings for major section divisions
-
-Write **words in bold** like this.  
-
-Italics are *similar* and are formatted like this.  
-
-To make a paragraph break you need to add two spaces at the end of your line before going to the next line.  
-
-See this is now a new paragraph.  
-
-Lists are easy:
-1. they can be ordered
-1. like this
-1. notice that the numbers are automatically ordered
-  1. use two spaces in front to indent
-
-Or they can just be bullet points:
-- like this
-* or like this
-  - use two spaces
-  - to have nested lists
-
-Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions.  
-
-To include hyperlinks format them like this [text of link](http://c4sr.columbia.edu/).  
-
-To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
-
-![description of image](/puerto_rico_now/images/groupname/test2-.png)
-
-If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
-
-All you need to do to use one is replace the url that is between the two " ". Here is an iframe of mapbox tiles:  
+Seventy eight large and small municipios or municipalities comprises the Puerto Rican archipelagos. Where in one of them, San Juan, also the capital houses the entire locations of the territorial government agencies.  
 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+You read correctly  **Seventy eight large and small municipalities**   
+
+The municipal governments are caught up between the lines of *decentralized and centralized frameworks.* 
+
+  
+![This is the map I am talking about](/puerto_rico_now/images/tutorial/Thesearethecity:municipalflagsofPuertoRico.png)
+  
+Find the list of the municipalities bellow:
+1. Adjuntas
+2. Aguada
+3. Aguadilla
+4. Aguas Buenas
+5. Aibonito
+6. Añasco
+7. Arecibo
+8. Arroyo
+9. Barceloneta
+10. Barranquitas
+Bayamón
+Cabo Rojo
+Caguas
+Camuy
+Canóvanas
+Carolina
+Cataño
+Cayey
+Ceiba
+Ciales
+Cidra
+Coamo
+Comerío
+Corozal
+Culebra
+Dorado
+Fajardo
+Florida
+Guánica
+Guayama
+Guayanilla
+Guaynabo
+Gurabo
+Hatillo
+Hormigueros
+Humacao
+Isabela
+Jayuya
+Juana Díaz
+Juncos
+Lajas
+Lares
+Las Marías
+Las Piedras
+Loíza
+Luquillo
+Manatí
+Maricao
+Maunabo
+Mayagüez
+Moca
+Morovis
+Naguabo
+Naranjito
+Orocovis
+Patillas
+Peñuelas
+Ponce
+Quebradillas
+Rincón
+Río Grande
+Sabana Grande
+Salinas
+San Germán
+San Juan
+San Lorenzo
+San Sebastián
+Santa Isabel
+Toa Alta
+Toa Baja
+Trujillo Alto
+Utuado
+Vega Alta
+Vega Baja
+Vieques
+Villalba
+Yabucoa
+Yauco
+
+ 
+
+[**see it here**](https://www.youtube.com/watch?v=0ZqI3tKqu3g).  
+
+
