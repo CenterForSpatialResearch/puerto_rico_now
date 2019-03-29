@@ -1,0 +1,10 @@
+---
+layout: post
+date:   2019-03-20
+image: "/puerto_rico_now/images/groupname/csr_thumbnail.png"
+title:  "A Final Project"
+author: "Anna Stokes"
+---
+**Here's a map of Puerto Rico**
+
+ ![a map of Puerto Rico](/images/txu-pclmaps-topo-pr-san_juan-1940.jpg)
