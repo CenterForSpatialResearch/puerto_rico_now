@@ -7,5 +7,5 @@ author: "Anna Stokes"
 ---
 **Here's a map of Puerto Rico**
 
-Test image link
+Test image link --- 
  ![a map of Puerto Rico](puerto_rico_now/images/txu-pclmaps-topo-pr-san_juan-1940.jpg)
