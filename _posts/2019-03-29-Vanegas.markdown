@@ -5,6 +5,10 @@ image: "/puerto_rico_now/images/groupname/csr_thumbnail.png"
 title:  "epv2105"
 author: "Esteban Vanegas esq."
 ---
+Ima test things  
+
+
+
 This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
 To present and turn in your final projects for Conflict Urbanism: Puerto Rico Now you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.
@@ -17,8 +21,7 @@ Write **words in bold** like this.
 
 Italics are *similar* and are formatted like this.  
 *this is some italicized text*  
-**and this is bolded**  
-But what if I want to do both?
+**and this is bolded**
 
 To make a paragraph break you need to add two spaces at the end of your line before going to the next line.
 
