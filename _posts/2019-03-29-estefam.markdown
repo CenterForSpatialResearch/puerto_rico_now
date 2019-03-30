@@ -1,0 +1,28 @@
+---
+layout: post
+date:   2019-03-29
+image: "/puerto_rico_now/images/groupname/csr_thumbnail.png"
+title:  "afe2110"
+author: "Aline Faiwichow Estefam"
+---
+**Methodology** 
+
+Our team hopes to explore a few of the possible futures for *vulnerable* areas in Puerto Rico in the wake of Maria hurricane through a combination decision and prediction model. Our methodology will involve identifying two different municipalities that fit a definition of *vulnerability* in different ways. A municipality may be defined as vulnerable by:
+1. Gross income
+2. Land ownership
+3. Emigration figures
+4. Closure of public institutions 
+Once two contrasting municipalities have been identified, we hope to first identify trends in the data for each of the appropriate metrics to predict future values using a customized mathematical predictive model. From these new data values, we hope to construct different scenarios for the futures of these two municipalities based on the following three popular predictions for the island’s future. 
+
+
+![Image of Puerto Rico](https://cdn-images-1.medium.com/max/2600/1*eABl8e7mc6Z1D6icO9yK3w.jpeg)
+
+For information about the methodology, see [this tutorial](https://github.com/CenterForSpatialResearch/conflict_urbanism_puerto_rico_now/blob/master/06_final_project_publishing.md). 
+
+You can also see some of the already produced simmilar maps, about NYC above:
+
+Landmark Violations in NYC <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/aestefam/cjsuw3ms88p5q1gqgvx02sz4q.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWVzdGVmYW0iLCJhIjoiY2pza214NHVsMmJtbzQ0czdzazQ3OTUzayJ9.aN7d8MlCodcKoa4mXDc-aw#10.1/40.737175/-73.937826/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+Rats in NYC <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/aestefam/cjsqb5h3j089v1fmjx0jihkbj.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWVzdGVmYW0iLCJhIjoiY2pza214NHVsMmJtbzQ0czdzazQ3OTUzayJ9.aN7d8MlCodcKoa4mXDc-aw#13.2/40.816032/-73.939272/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+
+
+
