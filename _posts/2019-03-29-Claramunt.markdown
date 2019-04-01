@@ -12,4 +12,4 @@ Fish that can see through its skull
 
 ![The barreleye](/puerto_rico_now/images/tutorial/barreleye.jpg)
 
-[In action](https://www.youtube.com/watch?v=7AopyN1EQZ4).  
+[Look at me in action](https://www.youtube.com/watch?v=7AopyN1EQZ4).  
