@@ -21,6 +21,7 @@ Within the overlaps of existing and emerging infrastructural systems - what is r
 We find it interesting that the majority of data found (thus far) is once-removed from its source topic. For example, understanding vacancy as a result of Post Office Change of Address logs, or mobile cell-phone data; road repair via crowdsourced data collection or satellite-monitored traffic patterns. We believe that navigating these associations will prove the biggest struggle in our project, discovering ways to creatively trace the data we seek which ensures the trustworthiness of our overlaid findings.  
 
 
+
 ![Damaged Power Lines along road in Puerto Rico after Hurricane Maria. Photo by Air Force Master Sgt. Joshua L. DeMotts](/puerto_rico_now/blob/master/images/infra_power/Infra_Power_Img1.jpg)  
 
 
@@ -41,13 +42,13 @@ Goodell, Jeff, and Jeff Goodell. 2018. [“The Perfect Storm: How Climate Change
 
 Hinojosa, Jennifer, and Edwin Meléndez. n.d. “The Housing Crisis in Puerto Rico and the Impact of Hurricane Maria,” 24.  
 
-[“How Hurricane Maria Exposed Puerto Rico’s ‘Colonial Boom and Bust’ | Urban Institute.”](https://www.urban.org/urban-wire/how-hurricane-maria-exposed-puerto-ricos-colonial-boom-and-bust) n.d.  
+[“How Hurricane Maria Exposed Puerto Rico’s ‘Colonial Boom and Bust’ Urban Institute.”](https://www.urban.org/urban-wire/how-hurricane-maria-exposed-puerto-ricos-colonial-boom-and-bust) n.d.  
 
 “Hurricane Maria One Year Update.” n.d., 12.  
 
 [“Hurricane Maria Triggered at Least 40,000 Landslides in Puerto Rico in 2017.”](https://blogs.agu.org/landslideblog/2019/02/11/hurricane-maria/) 2019. The Landslide Blog (blog). February 11, 2019.  
 
-[“NASA Provides New Look at Puerto Rico Post-Hurricane Maria | NASA.”](https://www.nasa.gov/feature/goddard/2018/nasa-provides-new-look-at-puerto-rico-post-hurricane-maria/) n.d.  
+[“NASA Provides New Look at Puerto Rico Post-Hurricane Maria NASA.”](https://www.nasa.gov/feature/goddard/2018/nasa-provides-new-look-at-puerto-rico-post-hurricane-maria/) n.d.  
 
 [“Puerto Rico.”](https://datausa.io/profile/geo/puerto-rico/#housing) n.d. Data USA.  
 
@@ -74,6 +75,8 @@ Hinojosa, Jennifer, and Edwin Meléndez. n.d. “The Housing Crisis in Puerto Ri
 
 
 
+
+
 #### Leftover Template How-To's
 
 Lists are easy:
@@ -89,10 +92,6 @@ Or they can just be bullet points:
   - to have nested lists
 
 Use Author-Date parenthetical citations following Chicago Manual of Style conventions throughout your document, and add a works cited at the bottom of your post. See Author-Date quick guide [here](https://www-chicagomanualofstyle-org.ezproxy.cul.columbia.edu/tools_citationguide/citation-guide-2.html) for citation conventions.  
-
-To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
-
-![description of image](/puerto_rico_now/images/groupname/test2-.png)
 
 Iframe:  
 
