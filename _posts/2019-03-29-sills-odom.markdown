@@ -24,8 +24,8 @@ We find it interesting that the majority of data found (thus far) is once-remove
 
 ![Damaged Power Lines along road in Puerto Rico after Hurricane Maria. Photo by Air Force Master Sgt. Joshua L. DeMotts](/puerto_rico_now/images/infra_power/Infra_Power_Img1.jpg)  
 
-
-
+  
+  
 #### References
 
 [“ArcGIS Web Application.”](https://www.arcgis.com/apps/webappviewer/index.html?id=24da7c00f59a4876989c4e7b02e0a3ab&extent=-7550145.754%2C1989803.0956%2C-7256627.5654%2C2138702.4267%2C102100) n.d.  
@@ -69,11 +69,7 @@ Hinojosa, Jennifer, and Edwin Meléndez. n.d. “The Housing Crisis in Puerto Ri
 [“We Can’t Assume Our Water Is Safe to Drink. But We Can Fix It.”]https://www.nationalgeographic.com/magazine/2019/03/drinking-water-safety-in-united-sates-can-be-fixed/ n.d.  
 
 [“Where Puerto Rico’s Residents Migrated Since Maria - CityLab.”](https://www.citylab.com/environment/2018/05/watch-puerto-ricos-hurricane-migration-via-mobile-phone-data/559889/) n.d.  
-
-
-
-
-
+  
 
 
 
