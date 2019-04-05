@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2019-03-29
-image: "/puerto_rico_now/blob/master/images/infra_power/Infra_Power_Img1_Square.jpg"
+image: "/puerto_rico_now/images/infra_power/Infra_Power_Img1_Square.jpg"
 title:  "Infrastructures of Power"
 author: "Caitlin Sills, Alexander Van Odom"
 ---
@@ -22,7 +22,7 @@ We find it interesting that the majority of data found (thus far) is once-remove
 
 
 
-![Damaged Power Lines along road in Puerto Rico after Hurricane Maria. Photo by Air Force Master Sgt. Joshua L. DeMotts](/puerto_rico_now/blob/master/images/infra_power/Infra_Power_Img1.jpg)  
+![Damaged Power Lines along road in Puerto Rico after Hurricane Maria. Photo by Air Force Master Sgt. Joshua L. DeMotts](/puerto_rico_now/images/infra_power/Infra_Power_Img1.jpg)  
 
 
 
