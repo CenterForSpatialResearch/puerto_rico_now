@@ -1,6 +1,6 @@
 layout: post
 date:   2019-04-04
-image: "/puerto_rico_now/images/decision_model/gsappup.jpg"
+image: "/puerto_rico_now/images/decision_model/bluetarps.jpg"
 title:  "Template: Decision Model"
 author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesbert"
 
