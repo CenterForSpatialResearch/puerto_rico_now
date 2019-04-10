@@ -1,0 +1,11 @@
+layout: post
+date:   2019-04-04
+image: "/puerto_rico_now/images/tutorial/gsappup.jpg"
+title:  "ceb2237"
+author: "Caitlin Bone"
+---
+####Decision Model Proposal
+
+This project develops a **decision model** based on *social* and *physical* vulnerability metrics that are first mapped individually and then added into one final model to render a map showing the capacity of municipalities to recover from socio-natural disasters and climate events.  Multicriteria Decision Analysis (MCDA)   
+
+![MCDA Fall 2017](/puerto_rico_now/images/tutorial/Bone_Smith_Entrikin_FA17.jpg)
