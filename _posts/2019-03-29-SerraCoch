@@ -1,0 +1,54 @@
+---
+layout: post
+date:   2019-04-05
+image: "/puerto_rico_now/images/groupname/csr_thumbnail.png"
+title:  "Template: gs2935"
+author: "Gloria Serra Coch"
+---
+
+#### Community Agency through Mapping:
+## Revealing Recovery Decisions in Puerto Rico
+
+
+When a natural disaster, such as Hurricane Maria, causes extensive damage to an urban area, where recovery resources are allocated often reflects the value system of the decision makers in power. We position this decision model as **an interactive web-based mapping tool to give agency to the stakeholders and communities to form their own position on what areas should be prioritized for recovery efforts.**  
+
+We intend to build a decision model that will map data within the framework of three socially driven values that concern Puerto Rico:  
+- Underserved Communities
+- Affected by Hurricane Maria
+- Economic Generator
+
+Because a decision model has the ability to weigh various layers of information, it can be a useful tool to determine areas ideal for planning for where resources should be allocated. As demonstrated by Ian McHarg, in his study of planning strategies for designing with nature on Staten Island, relevant layers of data can be overlapped and weighed to suggest areas best for the investment of recovery efforts and resources. The ability to prioritize where recovery resources may be allocated will unravel a deeper understanding to a wider public how layers of information can be easily manipulated to favor one set of values over another.  
+
+We anticipate that prioritizing underserved communities, areas most affected by Hurricane Maria, or areas that have greater tourism economic generating potential will produce different outcomes. When stakeholders and community members can understand how their values have the potential to inform a strategy for how recovery resources might be allocated, they can become advocates for the issues that are most important to them rather than accepting a policy that is aligned to a neighborhood’s best interests.  
+
+## Significance
+
+Following the aftermath of Hurricane Maria, Puerto Rico’s electrical grid failed, water systems were inoperable, debris from landslides blocked roads, cellular sites were knocked out, and households were damaged, among the numerous other challenges. Over a year has passed since Maria struck Puerto Rico in September 2017, and FEMA alone has approved to provide $2.36 billion dollars and has staffed 2,423 employees in assistance to survivors and communities on the island. With the severity of damage affecting people's’ lives and the amount of resources and funds set aside to help rebuild Puerto Rico, deciding where these efforts get allocated is an ethical responsibility.  
+
+[Population Density in Puerto Rico by Census Tract](/Population_estimates_PR.jpg)
+
+Although decision maps can rationalize a logic on how to distribute resources to certain areas, it is crucial that these funds are allocated judiciously. Our decision model raises the questions regarding the present infrastructure investments on Puerto Rico, and how this might impact the future of people living on or experiencing the island. For example, should areas that received the most damage be prioritized or should the neighborhoods that are more vulnerable to future disasters and are least equipped with community services and amenities be prioritized? Should public infrastructure be improved or private homes be repaired and rebuilt? Are places that yield greater economic stimulus through tourism or foreign investment more important to revive or should local communities that are lacking services receive more assistance?  
+
+[Distribution of Education Centers in Puerto Rico](/Education.jpg)
+
+To many of these questions, the answer remains unclear as to how much aid or how many resources should be allocated to each, but the decision model provides a mechanism for these topics to be analyzed, weighed, and thus, communicate the effects of prioritized policies.  
+
+## Anticipated Outcomes
+
+Our anticipated outcome is, at minimum, a website post explaining the aims of our project and 4 maps. The first three would be showing the allocation of efforts depending on our priorities, while the fourth one would overlap these three layers in a final decision map. 
+At best, we would also like to give some interaction to the website by allowing the user to play with the weighting of the layers. The objective is to give the user agency in deciding the priorities and revealing how, with the same data at hand and same question in mind, the results can completely diverge depending on the interests that initiate the project.  
+
+## Techniques & Data
+
+Our project focuses on uncovering the biases and underlying structures of power of the technique itself. For this reason, se are going to use three decision models responding to the same question, *where should recovery funds/efforts be allocated in Puerto Rico?*  but prioritizing three different outcomes. We operationalize these priority groups with a series of datasets and processes of analysis.
+
+**Underserved Communities.** The model searches areas where the population is high but services for the local community are low.   
+
+**Affected by Hurricane Maria.** The model searches for areas that were highly damaged by hurricane Maria and also have high numbers of population living there.   
+
+**Economic Generator.** The model searches for areas that have potential to attract visitors and their development might spur economic development.   
+
+
+## References
+
+[FEMA, U.S. Department of Homeland Security. March 14, 2019.](https://www.fema.gov/hurricane-maria).
