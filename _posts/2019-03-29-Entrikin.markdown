@@ -1,0 +1,14 @@
+---
+layout: post
+date:   2019-04-11
+image: "/puerto_rico_now/images/groupname/csr_thumbnail.png"
+title:  "mne2109"
+author: "Maddie Entrikin"
+---
+
+This project develops a decision model based in social and *physical vulnerability* metrics that are first mapped individually and secondly added into one final model to render a map showing the capacity of municipalities to recover from socio-natural disasters and climate events.  
+
+The **social vulnerability** indicators will be based on demographic and socioeconomic factors, including the change in populations related to migration post Hurricanes. The Physical vulnerability index will consider environmental conditions and impact in housing stock by using existent and new datasets. The analysis will consider “municipios”1 as a primary legal division ofPuerto Rico. An existent social vulnerability index (SVI)2 for Puerto Rico developed in 2017 will be revised, but as it is based on census tracts is not transferable to our study. This difference is relevant because municipios are in charge of  implementing and coordinating local government actions being a key player in the provision of services and resilience of communities. 
+
+[Github repoistory](https://github.com/CenterForSpatialResearch/conflict_urbanism_puerto_rico_now)
+
