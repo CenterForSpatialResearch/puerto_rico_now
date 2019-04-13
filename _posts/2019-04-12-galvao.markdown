@@ -1,0 +1,32 @@
+---
+layout: post
+date:   2019-04-12
+image: "/puerto_rico_now/images/groupname/csr_thumbnail.png"
+title:  "lbg2137"
+author: "Lorena Galvao and Richard Chou"
+---
+In September 17 of 2017, hurricane Maria struck the island of Puerto Rico, leaving everyone -
+rich and poor, and everywhere, urban and rural - on the island without electricity.
+
+Two months later, only a small part of the island had regained power, while vast part of the island was
+still left in the dark.
+
+Regardless of income, everyone suffered from the system failure equally. Priority was given to urban centers, despite the fact that smaller rural villages were closer geographically to power plants. In total, it took up to *11 months* for the island to fully recover its energy infrastructure.
+
+Those who could leave took refuge away from the island. About 6% of the population fled the island in face of Hurricane Maria. However, those who stayed experienced the impact of extended periods of outage.
+
+The complete failure of the energy infrastructure combined with the lack of government support had stimulated a new wave of enthusiasm for micro-grid solar energy systems due to the vast solar potential encompassing the entire island.
+
+Many see solar as the future of the island’s energy landscape. However, the government see differently, investing mostly in natural gas systems instead of renewable energy, So, it comes down to the citizens themselves to adapt to a off-grid solar system.
+
+Currently the majority of the people rely on power generators, which has a significantly lower initial investment than a solar system. Despite being more affordable, generators run on gasoline, which became equally problematic as municipalities run out of fuel months into the extended power outage. Further making the case for solar-energy systems.
+
+As communities invest in solar for the next hurricane season under the threat of another devastating Hurricane, we pose the question that who will have the right to electricity in the future?
+
+The investment into micro-grids will change the pattern of power outage and recovery in future,
+further accentuating the spatial inequality between those who can afford a micro-grid system
+and who can’t.
+
+**This calls for significant policy change in both local government and FEMA to allocate funding based on communities who need the most financial help. Priority should also be given to civic facilities such as hospitals, care-centers, and schools to turn them into beacons of energy distribution. It also calls for community organized movements to create crowdfunded local icro-grid systems.**
+
+[This webpage](https://guides.github.com/features/mastering-markdown/) 
