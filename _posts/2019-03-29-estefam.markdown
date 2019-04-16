@@ -21,8 +21,9 @@ For information about the methodology, see [this tutorial](https://github.com/Ce
 
 You can also see some of the already produced simmilar maps, about NYC above:
 
-Landmark Violations in NYC <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/aestefam/cjsuw3ms88p5q1gqgvx02sz4q.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWVzdGVmYW0iLCJhIjoiY2pza214NHVsMmJtbzQ0czdzazQ3OTUzayJ9.aN7d8MlCodcKoa4mXDc-aw#10.1/40.737175/-73.937826/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
-Rats in NYC <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/aestefam/cjsqb5h3j089v1fmjx0jihkbj.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWVzdGVmYW0iLCJhIjoiY2pza214NHVsMmJtbzQ0czdzazQ3OTUzayJ9.aN7d8MlCodcKoa4mXDc-aw#13.2/40.816032/-73.939272/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+[Landmark Violations in NYC] (https://api.mapbox.com/styles/v1/aestefam/cjsuw3ms88p5q1gqgvx02sz4q.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWVzdGVmYW0iLCJhIjoiY2pza214NHVsMmJtbzQ0czdzazQ3OTUzayJ9.aN7d8MlCodcKoa4mXDc-aw#10.1/40.737175/-73.937826/0)
 
+
+[Rats in NYC] (https://api.mapbox.com/styles/v1/aestefam/cjsqb5h3j089v1fmjx0jihkbj.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWVzdGVmYW0iLCJhIjoiY2pza214NHVsMmJtbzQ0czdzazQ3OTUzayJ9.aN7d8MlCodcKoa4mXDc-aw#13.2/40.816032/-73.939272/0)
 
 
