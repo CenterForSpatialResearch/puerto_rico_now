@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2019-03-29
-image: "/puerto_rico_now/blob/master/images/andrey/image1_prigov.jpg"
+image: "/puerto_rico_now/images/andrey/image1_prigov.jpg"
 title:  "ap3419"
 author: "Andrey Prigov"
 ---
