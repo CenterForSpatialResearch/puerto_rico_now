@@ -19,11 +19,5 @@ Once two contrasting municipalities have been identified, we hope to first ident
 
 For information about the methodology, see [this tutorial](https://github.com/CenterForSpatialResearch/conflict_urbanism_puerto_rico_now/blob/master/06_final_project_publishing.md). 
 
-You can also see some of the already produced simmilar maps, about NYC above:
-
-[Landmark Violations in NYC] (https://api.mapbox.com/styles/v1/aestefam/cjsuw3ms88p5q1gqgvx02sz4q.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWVzdGVmYW0iLCJhIjoiY2pza214NHVsMmJtbzQ0czdzazQ3OTUzayJ9.aN7d8MlCodcKoa4mXDc-aw#10.1/40.737175/-73.937826/0)
-
-
-[Rats in NYC] (https://api.mapbox.com/styles/v1/aestefam/cjsqb5h3j089v1fmjx0jihkbj.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWVzdGVmYW0iLCJhIjoiY2pza214NHVsMmJtbzQ0czdzazQ3OTUzayJ9.aN7d8MlCodcKoa4mXDc-aw#13.2/40.816032/-73.939272/0)
 
 
