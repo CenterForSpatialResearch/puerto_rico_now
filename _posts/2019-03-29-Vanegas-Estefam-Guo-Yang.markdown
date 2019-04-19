@@ -59,10 +59,18 @@ We’ve presented two very different scenarios of what Puerto Rico’s future mi
 
 
 **Economics Index**
-
 The Map showing the Debt
+
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo9rawabonc1flpiitc01fg.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+
 
 **Hotel**
 The Map showing the Debt
+
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuoazzbsbe001fn0v71i4psi.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+
+
+**Average Weekly Income**
+The Map showing the Debt
+
+<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuocajn03y3n1fnoms0w4aia.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
