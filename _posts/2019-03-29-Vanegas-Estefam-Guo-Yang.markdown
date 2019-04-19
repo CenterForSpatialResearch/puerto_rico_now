@@ -5,9 +5,10 @@ image: "/puerto_rico_now/images/future_scenarios/PotentialFutures_Title.png"
 title:  "Puerto Rico After Maria: Prediction of Future Scenario"
 author: "Esteban Vanegas Jr, Aline Faiwichow Estefam, Ge Guo, Qi Yang"
 ---
-****Introduction
+#### Introduction
 
 ![Should Work This Time](/puerto_rico_now/images/future_scenarios/PotentialFutures_Flag.png)
+
 Super cool important image
 Abstract/Brief (copy and past midterm text)
 Reason for doing this project (validity of both, who profits, etc.)
@@ -16,7 +17,7 @@ Presentation of the two scenarios
 Today, Puerto Rican still suffer from a complex system of predatory practices from over 500 years of colonial history. Following the destruction of these hurricanes, many have not supported plans for recovery and potential futures for the island.
 One of the scenarios is when developers, investors, politicians and citizens see Puerto Rico as a tourist heaven or next Singapore. All the players in this scenario benefit from tax breaks and other economic incentives to develop Puerto Rico with American investments.  For example, a tax break offered to American investing in tourism (aiming to build luxury spas and hotels) or the fact that part of the island is zoned as opportunity zone to encourage economic development.
 
-****PART I-Predatory Exploitative Development Scenario
+#### PART I-Predatory Exploitative Development Scenario
 
 Presentation of the development practices of American venture capitalists. Explanation of the legal framework in place to encourage this kind of development and government support for extraction. Segue into a decision map which shows the areas most likely to be developed if this model of predatory development continues. Make significant note of the difficulty of interpreting government datasets.
 Final Decision Map for Development
@@ -25,7 +26,7 @@ Economic index-map/explanation of motives to develop in which areas
 Analysis of this scenario as the natural continuation of existing practices. This is the existing model of colonial extraction of wealth from Puerto Rico for a very small percentage of American venture capitalists. Without an adequate intervention, Puerto Rico’s future will include more of these kinds of developments, turning the island into a haven for tourists and financial moguls and pushing out the remaining population or shackling them under ever greater inequality.
 
 
-****PART II-A (potential) Adequate Intervention: Land Trust/Collective Scenario
+#### PART II-A (potential) Adequate Intervention: Land Trust/Collective Scenario
 
 Discussion that Puerto Rico does not, however, have to follow this narrative. Consider that Congress has appropriated $18.5 billion in hurricane relief aid, (a previous $1.5 billion was approved for spending back in February, and so is not included in our analysis). Additionally, y percent of Puerto Rican debt has been argued to be unconstitutional. Let us suppose three things:
 Congress approves the spending of the $18.5 billion allocated for disaster relief
@@ -40,7 +41,7 @@ Others, as desired, or a combination of the above
 Remarks on the specific policies included in the visualization, and additional changes that would need to occur to make the micro-scenarios possible. Push beyond the obvious conclusions; a look at unintended consequences, a discussion of autonomy, a push at what happens next, or some additional analysis can occur here. 
 
 
-****PART III-CONCLUSION AND MANIFESTO
+#### PART III-CONCLUSION AND MANIFESTO
 We’ve presented two very different scenarios of what Puerto Rico’s future might look like. One that involves a continuation of the predatory development that profits a small portion of Puerto Ricans. The other directs funds to social spending measures that most benefits the population of Puerto Rico neglected by its government and hurt by unscrupulous development practices. Why did we do this, what does it say, what final conclusions can or cannot be drawn? 
 
 
