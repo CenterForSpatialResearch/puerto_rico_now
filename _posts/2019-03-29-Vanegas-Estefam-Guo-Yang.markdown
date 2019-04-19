@@ -46,8 +46,11 @@ We’ve presented two very different scenarios of what Puerto Rico’s future mi
 
 
 ![Should Work This Time](/puerto_rico_now/images/future_scenarios/PotentialFutures_Flag.png)
+
 **Tourism Scenario**
+
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo99aj902l51fmbd2lxl2mp.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 **Lantrust Scenario**
+
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo8ys5p066h1fpln1cxlrw6.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" frameborder="0"></iframe></div>
