@@ -8,7 +8,7 @@ author: "Esteban Vanegas Jr, Aline Faiwichow Estefam, Ge Guo, Qi Yang"
 #### Introduction
 
 ![concept_image](/puerto_rico_now/images/future_scenarios/concept_image.jpg)
-![concept photo](/puerto_rico_now/images/future_scenarios/concept_photo.png)
+![concept photo](/puerto_rico_now/images/future_scenarios/concept_photo.jpg)
 
 Super cool important image
 Abstract/Brief (copy and past midterm text)
