@@ -133,5 +133,5 @@ Below is a familiar map showing the income disparity in Puerto Rico at present, 
 *Future Scenario-Weekly Wage*
 
 <br/><br/>
-<span style="font-family:Helvetica; font-size:1.2em;">**Different Municipalities Developed under Two Scenarios**</span>
+<span style="font-family:Helvetica; font-size:1.2em;">**Most Invested Municipalities under Two Scenarios**</span>
 ![Two Municipality](/puerto_rico_now/images/future_scenarios/different_municipality.jpg)
