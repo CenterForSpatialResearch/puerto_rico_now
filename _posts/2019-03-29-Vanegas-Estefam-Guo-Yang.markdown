@@ -117,6 +117,7 @@ Though these isolated examples of collective organization are inspiring, many ar
 
 <br/><br/>
 <span style="font-family:Helvetica; font-size:1.5em;">**3-2.The Case for a Freer Puerto Rico: What Needs to Happen to Ensure Long-Term Success**</span>
+
 The previous scenario was developed supposing that only disaster relief funds be used to provide goods and services that were already lacking in Puerto Rico while aiding local businesses, partnerships, and cooperatives to generate employment and begin a path out of poverty. Ambitious to say the least, such a scenario will be hard pressed to succeed in a short amount of time. For a longer-term solution to take effect, we will need some more ambitious conditions.  
 
 
