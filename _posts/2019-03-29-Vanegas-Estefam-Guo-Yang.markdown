@@ -39,11 +39,29 @@ Though it is impossible to know the future, our team has identified multiple dir
 On one end of this spectrum lie developers, investors, politicians, and citizens who view Puerto Rico as a potential tourist haven, corporate tax shelter, or both. Such individuals benefit from economic incentives to develop Puerto Rico using American capital. On the other end of the spectrum lie Puerto Ricans who draw inspiration from a rich history of collective community organization to envision an island free of the extraction practices inherent to the colony. Such a Puerto Rico is organized into collective land trusts, has a diverse economy focused on local production and reinvestment into municipalities, and engages directly with global actors. 
 
 We understand, of course, that these are two extremes on a broad spectrum that includes individuals and groups with aligned, conflicting, and often competing interests. Yet in examining the ideology behind opposite ends of this spectrum and proposing our own radical future for the island tailored to each, we hope to reach a richer picture of where Puerto Rico is heading, how many of the factors contributing to change were already in place before the recent natural disaster, and what is being done currently to effect changes that, inevitably, will leave some better off and others deeply unsatisfied. 
+  
+  
+  
+#### **Exploitation and Extraction: a Scenario for Predatory Development**
+  
+Puerto Rico has long been a source for wealth extraction under colonial powers from Spain to the United States. Though legally classified as an unincorporated territory of the United States, Puerto Rico remains subject to exploitative laws that continue to profit American venture capitalists, developers, and investors. The business ventures of these figures often generate profits without providing significant job growth or tax revenue to the island. 
+  
+  
+#### **An Existing Legal Framework Incentivises Exploitative Development**
+  
+Our first scenario imagines a future in which such figures have developed Puerto Rico into a lucrative enterprise that operates with few local employees and is exempt from significant municipal, territorial, and federal taxes. Tourism--already a major part of Puerto Rico’s economy--has become the dominant industry on the island, providing luxury as well as discount services to tourists of all classes. Tax-sheltered business developments employ a small percentage of Puerto Ricans with sufficient education and wealth to make a relatively easy transition into the tech and finance sectors. Were such a scenario to be realized, we predict the greatest developments and their immediate consequences would most likely occur in the areas shown in the map below.
+  
+**Tourism Scenario**
+  
+<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo99aj902l51fmbd2lxl2mp.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 
 
 ![Tourism Layer Breakdown](/puerto_rico_now/images/future_scenarios/tourism_breakdown.jpg)
 ![Landtrust Layer Breakdown](/puerto_rico_now/images/future_scenarios/landtrust_breakdown.jpg)
+
+
+
 
 #### PART I-Predatory Exploitative Development Scenario
 
