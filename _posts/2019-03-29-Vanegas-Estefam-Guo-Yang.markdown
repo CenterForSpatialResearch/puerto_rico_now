@@ -5,6 +5,7 @@ image: "/puerto_rico_now/images/future_scenarios/PotentialFutures_Title.png"
 title:  "Puerto Rico After Maria: Prediction of Future Scenario"
 author: "Esteban Vanegas Jr, Aline Faiwichow Estefam, Ge Guo, Qi Yang"
 ---
+<span style="font-family:Roboto; font-size:16em;">Reconstruction is Underway</span>
 #### Introduction
 
 ![concept_image](/puerto_rico_now/images/future_scenarios/concept_image.jpg)
