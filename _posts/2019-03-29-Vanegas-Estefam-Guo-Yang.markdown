@@ -15,7 +15,7 @@ author: "Esteban Vanegas Jr, Aline Faiwichow Estefam, Ge Guo, Qi Yang"
 Puerto Rico is in a state of serious change. Over a year since the devastation of Hurricanes Maria and Irma, federal disaster aid continues to be withheld by Congress, forcing recovery efforts to continue unaided by the federal government. Prior to the storms making landfall in November 2017, residents of the island had already been feeling the effects of rising unemployment, crippling debt, and exploitative development practices for several decades. In addition to the loss of over 3,000 lives, the destruction left in the wake of these storms pushed much of the island’s infrastructure and resources past capacity. For many, this disaster has been the final motivator to leave Puerto Rico. Those who remain will be the first to bear witness to dramatic changes as reconstruction properly begins.
 
 <br/><br/>
-<span style="font-family:Helvetica; font-size:1.5em;">**In February of 2019, Congress Approved $1.5 Billion in Relief Aid**</span>
+<span style="font-family:Helvetica; font-size:1.5em;">**1-1.In February of 2019, Congress Approved $1.5 Billion in Relief Aid**</span>
   
 To understand what these changes may be and how Puerto Rico will be transformed, our research team began an initial investigation into the island’s ongoing demographic and economic shifts within a historical context to answer four questions:
   
@@ -25,7 +25,7 @@ To understand what these changes may be and how Puerto Rico will be transformed,
   - What are the alternatives to our prediction?
 
 <br/><br/>
-<span style="font-family:Helvetica; font-size:1.5em;">**That Same Year, Puerto Rico Reported a Record-Breaking 1.7 Million Tourists in 2018**</span>  
+<span style="font-family:Helvetica; font-size:1.5em;">**1-2.That Same Year, Puerto Rico Reported a Record-Breaking 1.7 Million Tourists in 2018**</span>  
   
 Though it is impossible to know the future, our team has identified multiple directions in which Puerto Rico may be headed using this data. Without loss of generality, we chose to develop and focus on two hypothetical future scenarios that favor the interests of individuals on opposite ends of a spectrum of figures who wish to see Puerto Rico prosper in different ways. In doing so, we hope to provide a specific picture of what is possible in the near future, as well as to highlight the dangerous processes underway in Puerto Rico at the present moment. 
   
@@ -76,7 +76,7 @@ Together, these factors determined regions in which we expect to receive the mos
 Why invest in Puerto Rico? As long as the capital we use to develop originates in the United States--via a real-estate holding company, mutual fund, or typical venture capitalist development operation--we benefit from a triple tax break offered to US investors. Moreover, some 98% of the island is classified as an Opportunity Zone; allowing us to reinvest capital gains from our initial investment into an income tax-free Opportunity Fund. Together, these advantages may save our investors up to 37.5% in federal taxes. 
 
 <br/><br/> 
-<span style="font-family:Helvetica; font-size:1.5em;">**2B.One (Potentially) Adequate Intervention:  a Collective Scenario for Puerto Ricans**</span>  
+<span style="font-family:Helvetica; font-size:1.5em;">**2B.One (Potentially) Adequate Intervention: a Collective Scenario for Puerto Ricans**</span>  
 
 Puerto Rico does not, by any means, have to follow this narrative. Consider that Congress has appropriated $18.5 billion in hurricane relief aid, (a previous $1.5 billion was approved for spending back in February, and so is not included in our analysis). Additionally, some 23.8% of Puerto Rican debt has recently been argued to be unconstitutional. Combining potential disaster relief aid and forgiven debt leaves the government of Puerto Rico in a significantly better financial position to provide for its residents in reconstruction efforts.  
 
