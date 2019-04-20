@@ -7,7 +7,7 @@ author: "Esteban Vanegas Jr, Aline Faiwichow Estefam, Ge Guo, Qi Yang"
 ---
 
 <br/><br/>
-![concept_image](/puerto_rico_now/images/future_scenarios/concept_photo.jpg)    
+![concept_image](/puerto_rico_now/images/future_scenarios/concept_photo.png)    
 <br/><br/>
 <br/><br/>
 #### **Reconstruction is Underway**
@@ -32,7 +32,7 @@ Though it is impossible to know the future, our team has identified multiple dir
 <br/><br/>
 #### **Two Scenarios: A Business-Class Tourist Paradise, or an Island for the People?**
   
-![concept photo](/puerto_rico_now/images/future_scenarios/concept_image.jpg)
+![concept photo](/puerto_rico_now/images/future_scenarios/concept_image.png)
   
 On one end of this spectrum lie developers, investors, politicians, and citizens who view Puerto Rico as a potential tourist haven, corporate tax shelter, or both. Such individuals benefit from economic incentives to develop Puerto Rico using American capital. On the other end of the spectrum lie Puerto Ricans who draw inspiration from a rich history of collective community organization to envision an island free of the extraction practices inherent to the colony. Such a Puerto Rico is organized into collective land trusts, has a diverse economy focused on local production and reinvestment into municipalities, and engages directly with global actors. 
 
@@ -53,7 +53,7 @@ Our first scenario imagines a future in which such figures have developed Puerto
   
 We began our investigation by imagining ourselves in the role of someone who possesses sufficient capital and desire to develop in Puerto Rico, and then constructed this map to see where the greatest incentive lay for our venture. It was necessary to first consider the zoning regulations of the island. Revitalization areas are regions designated by the government of Puerto Rico as badly in need of development. As such, these places are offered up to developers with significant tax breaks. Naturally Protected Areas and Difficult Development areas are regions where development is generally prohibited by law or discouraged by challenging geography. In addition, areas that have undergone significant depopulation following the hurricanes were considered using data from the Humanitarian Data Exchange. People often leave Puerto Rico for multiple reasons; resources can run out, unemployment can soar, and properties can be foreclosed. Such areas, however, present an advantage to investors who can buy up cheap and develop without the obstacle of displacing many existing inhabitants.  
 
-![Tourism Layer Breakdown](/puerto_rico_now/images/future_scenarios/tourism_breakdown.jpg)  
+![Tourism Layer Breakdown](/puerto_rico_now/images/future_scenarios/tourism_breakdown.png)  
 
 Most entrepreneurs, investors, and developers wish to see the greatest return on an investment with as little risk as possible, and look to examples of lucrative operations already turning a profit. Tourism should immediately come to mind. In spite of the destruction of Hurricanes Maria and Irma, the number of tourists lodging in hotels across the island was up to a  record-breaking 1,766,578 guests in 2018. This makes building a hotel, resort, spa, or attraction in an expensive area frequented by high-end visitors a good location for a profitable venture. Below are shown the locations of existing hotels, ranked by price, where we expect to see proportional future development.  
 
@@ -89,7 +89,7 @@ Why invest in Puerto Rico? As long as the capital we use to develop originates i
 
 
 
-![Landtrust Layer Breakdown](/puerto_rico_now/images/future_scenarios/landtrust_breakdown.jpg)
+![Landtrust Layer Breakdown](/puerto_rico_now/images/future_scenarios/landtrust_breakdown.png)
 
 
 
