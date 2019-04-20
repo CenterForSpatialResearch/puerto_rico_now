@@ -7,9 +7,7 @@ author: "Esteban Vanegas Jr, Aline Faiwichow Estefam, Ge Guo, Qi Yang"
 ---
 
 
-![concept_image](/puerto_rico_now/images/future_scenarios/concept_image.jpg)  
-
-![concept photo](/puerto_rico_now/images/future_scenarios/concept_photo.jpg)  
+![concept_image](/puerto_rico_now/images/future_scenarios/concept_image.jpg)    
   
   
   
@@ -21,22 +19,27 @@ Puerto Rico is in a state of serious change. Over a year since the devastation o
   
 #### **In February of 2019, Congress Approved $1.5 Billion in Relief Aid**
   
->>To understand what these changes may be and how Puerto Rico will be transformed, our research team began an initial investigation into the island’s ongoing demographic and economic shifts within a historical context to answer four questions:
->>
->Who stands to profit and who stands to suffer from reconstruction efforts?
->Which areas are going to see the greatest change?
->How are these areas going to be redeveloped, and at what cost?
->What are the alternatives to our prediction?
+To understand what these changes may be and how Puerto Rico will be transformed, our research team began an initial investigation into the island’s ongoing demographic and economic shifts within a historical context to answer four questions:
+  
+  *Who stands to profit and who stands to suffer from reconstruction efforts?
+  *Which areas are going to see the greatest change?
+  *How are these areas going to be redeveloped, and at what cost?
+  *What are the alternatives to our prediction?
+  
+  
+#### **That Same Year, Puerto Rico Reported a Record-Breaking 1.7 Million Tourists in 2018**
+  
+Though it is impossible to know the future, our team has identified multiple directions in which Puerto Rico may be headed using this data. Without loss of generality, we chose to develop and focus on two hypothetical future scenarios that favor the interests of individuals on opposite ends of a spectrum of figures who wish to see Puerto Rico prosper in different ways. In doing so, we hope to provide a specific picture of what is possible in the near future, as well as to highlight the dangerous processes underway in Puerto Rico at the present moment. 
+  
+  
+#### **Two Scenarios: A Business-Class Tourist Paradise, or an Island for the People?**
+  
+![concept photo](/puerto_rico_now/images/future_scenarios/concept_photo.jpg)
+  
+On one end of this spectrum lie developers, investors, politicians, and citizens who view Puerto Rico as a potential tourist haven, corporate tax shelter, or both. Such individuals benefit from economic incentives to develop Puerto Rico using American capital. On the other end of the spectrum lie Puerto Ricans who draw inspiration from a rich history of collective community organization to envision an island free of the extraction practices inherent to the colony. Such a Puerto Rico is organized into collective land trusts, has a diverse economy focused on local production and reinvestment into municipalities, and engages directly with global actors. 
 
+We understand, of course, that these are two extremes on a broad spectrum that includes individuals and groups with aligned, conflicting, and often competing interests. Yet in examining the ideology behind opposite ends of this spectrum and proposing our own radical future for the island tailored to each, we hope to reach a richer picture of where Puerto Rico is heading, how many of the factors contributing to change were already in place before the recent natural disaster, and what is being done currently to effect changes that, inevitably, will leave some better off and others deeply unsatisfied. 
 
-
-Super cool important image
-Abstract/Brief (copy and past midterm text)
-Reason for doing this project (validity of both, who profits, etc.)
-Presentation of the two scenarios 
-
-Today, Puerto Rican still suffer from a complex system of predatory practices from over 500 years of colonial history. Following the destruction of these hurricanes, many have not supported plans for recovery and potential futures for the island.
-One of the scenarios is when developers, investors, politicians and citizens see Puerto Rico as a tourist heaven or next Singapore. All the players in this scenario benefit from tax breaks and other economic incentives to develop Puerto Rico with American investments.  For example, a tax break offered to American investing in tourism (aiming to build luxury spas and hotels) or the fact that part of the island is zoned as opportunity zone to encourage economic development.
 
 
 ![Tourism Layer Breakdown](/puerto_rico_now/images/future_scenarios/tourism_breakdown.jpg)
