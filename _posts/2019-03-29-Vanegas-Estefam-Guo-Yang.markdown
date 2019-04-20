@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2019-03-29
-image: "/puerto_rico_now/images/future_scenarios/concept_image.png"
+image: "/puerto_rico_now/images/future_scenarios/thumbnail.png"
 title:  "Puerto Rico After Maria: Prediction of Future Scenario"
 author: "Esteban Vanegas Jr, Aline Faiwichow Estefam, Ge Guo, Qi Yang"
 ---
