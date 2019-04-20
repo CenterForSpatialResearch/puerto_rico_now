@@ -10,12 +10,12 @@ author: "Esteban Vanegas Jr, Aline Faiwichow Estefam, Ge Guo, Qi Yang"
 ![concept_image](/puerto_rico_now/images/future_scenarios/concept_photo.png)    
 <br/><br/>
 <br/><br/>
-#### **Reconstruction is Underway**
+<span style="font-family:Helvetica; font-size:1.5em;">[1]Reconstruction is Underway</span>
 
 Puerto Rico is in a state of serious change. Over a year since the devastation of Hurricanes Maria and Irma, federal disaster aid continues to be withheld by Congress, forcing recovery efforts to continue unaided by the federal government. Prior to the storms making landfall in November 2017, residents of the island had already been feeling the effects of rising unemployment, crippling debt, and exploitative development practices for several decades. In addition to the loss of over 3,000 lives, the destruction left in the wake of these storms pushed much of the island’s infrastructure and resources past capacity. For many, this disaster has been the final motivator to leave Puerto Rico. Those who remain will be the first to bear witness to dramatic changes as reconstruction properly begins.
 
 <br/><br/>
-#### **In February of 2019, Congress Approved $1.5 Billion in Relief Aid**
+<span style="font-family:Helvetica; font-size:1em;">[1-1]In February of 2019, Congress Approved $1.5 Billion in Relief Aid</span>
   
 To understand what these changes may be and how Puerto Rico will be transformed, our research team began an initial investigation into the island’s ongoing demographic and economic shifts within a historical context to answer four questions:
   
@@ -25,7 +25,7 @@ To understand what these changes may be and how Puerto Rico will be transformed,
   - What are the alternatives to our prediction?
 
 <br/><br/>
-#### **That Same Year, Puerto Rico Reported a Record-Breaking 1.7 Million Tourists in 2018**
+<span style="font-family:Helvetica; font-size:1em;">[1-2]That Same Year, Puerto Rico Reported a Record-Breaking 1.7 Million Tourists in 2018</span>  
   
 Though it is impossible to know the future, our team has identified multiple directions in which Puerto Rico may be headed using this data. Without loss of generality, we chose to develop and focus on two hypothetical future scenarios that favor the interests of individuals on opposite ends of a spectrum of figures who wish to see Puerto Rico prosper in different ways. In doing so, we hope to provide a specific picture of what is possible in the near future, as well as to highlight the dangerous processes underway in Puerto Rico at the present moment. 
   
@@ -97,7 +97,6 @@ In the present moment, numerous examples can be found of cooperative practices i
 
 Though these isolated examples of collective organization are inspiring, many are also struggling. It will require the support of these bottom-up practices from a major funding source to help guarantee their long-term success in the early stages of establishment as well as encourage others to follow suit. As such, our scenario requires us to suppose three things when considering the spending of a promised $18.5 Billion of disaster relief aid:
 
-<br/><br/>
 * **Federal Aid Must Put to the Task of Providing, not of Restoring:**  
 
   - The provision of basic goods and services--including health care and public education, the development of infrastructure in the poorest municipalities, and the recognition of human rights
