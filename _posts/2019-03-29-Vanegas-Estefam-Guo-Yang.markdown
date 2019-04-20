@@ -7,7 +7,7 @@ author: "Esteban Vanegas Jr, Aline Faiwichow Estefam, Ge Guo, Qi Yang"
 ---
 
 <br/><br/>
-![concept_image](/puerto_rico_now/images/future_scenarios/concept_image.jpg)    
+![concept_image](/puerto_rico_now/images/future_scenarios/concept_photo.jpg)    
 <br/><br/>
 <br/><br/>
 #### **Reconstruction is Underway**
@@ -32,7 +32,7 @@ Though it is impossible to know the future, our team has identified multiple dir
 <br/><br/>
 #### **Two Scenarios: A Business-Class Tourist Paradise, or an Island for the People?**
   
-![concept photo](/puerto_rico_now/images/future_scenarios/concept_photo.jpg)
+![concept photo](/puerto_rico_now/images/future_scenarios/concept_image.jpg)
   
 On one end of this spectrum lie developers, investors, politicians, and citizens who view Puerto Rico as a potential tourist haven, corporate tax shelter, or both. Such individuals benefit from economic incentives to develop Puerto Rico using American capital. On the other end of the spectrum lie Puerto Ricans who draw inspiration from a rich history of collective community organization to envision an island free of the extraction practices inherent to the colony. Such a Puerto Rico is organized into collective land trusts, has a diverse economy focused on local production and reinvestment into municipalities, and engages directly with global actors. 
 
