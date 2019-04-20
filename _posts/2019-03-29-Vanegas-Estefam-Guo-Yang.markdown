@@ -9,16 +9,18 @@ author: "Esteban Vanegas Jr, Aline Faiwichow Estefam, Ge Guo, Qi Yang"
 
 ![concept_image](/puerto_rico_now/images/future_scenarios/concept_image.jpg)
 
-<span style="font-family:Futura; font-size:1em;">Reconstruction is Underway</span>
+
+
+#### **Reconstruction is Underway**
 
 Puerto Rico is in a state of serious change. Over a year since the devastation of Hurricanes Maria and Irma, federal disaster aid continues to be withheld by Congress, forcing recovery efforts to continue unaided by the federal government. Prior to the storms making landfall in November 2017, residents of the island had already been feeling the effects of rising unemployment, crippling debt, and exploitative development practices for several decades. In addition to the loss of over 3,000 lives, the destruction left in the wake of these storms pushed much of the island’s infrastructure and resources past capacity. For many, this disaster has been the final motivator to leave Puerto Rico. Those who remain will be the first to bear witness to dramatic changes as reconstruction properly begins.
 
 
-<span style="font-family:Futura; font-size:1em;"> In February of 2019, Congress Approved $1.5 Billion in Relief Aid</span>
 
-#### In February of 2019, Congress Approved $1.5 Billion in Relief Aid
+#### **In February of 2019, Congress Approved $1.5 Billion in Relief Aid**
 
-![concept_image](/puerto_rico_now/images/future_scenarios/concept_image.jpg)
+
+
 ![concept photo](/puerto_rico_now/images/future_scenarios/concept_photo.jpg)
 
 Super cool important image
@@ -42,7 +44,7 @@ Economic index-map/explanation of motives to develop in which areas
 Analysis of this scenario as the natural continuation of existing practices. This is the existing model of colonial extraction of wealth from Puerto Rico for a very small percentage of American venture capitalists. Without an adequate intervention, Puerto Rico’s future will include more of these kinds of developments, turning the island into a haven for tourists and financial moguls and pushing out the remaining population or shackling them under ever greater inequality.
 
 
-#### PART II-A (potential) Adequate Intervention: Land Trust/Collective Scenario
+#### **PART II-A (potential) Adequate Intervention: Land Trust/Collective Scenario**
 
 Discussion that Puerto Rico does not, however, have to follow this narrative. Consider that Congress has appropriated $18.5 billion in hurricane relief aid, (a previous $1.5 billion was approved for spending back in February, and so is not included in our analysis). Additionally, y percent of Puerto Rican debt has been argued to be unconstitutional. Let us suppose three things:
 Congress approves the spending of the $18.5 billion allocated for disaster relief
