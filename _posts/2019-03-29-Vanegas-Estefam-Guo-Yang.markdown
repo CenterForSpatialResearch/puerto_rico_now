@@ -8,7 +8,7 @@ author: "Esteban Vanegas Jr, Aline Faiwichow Estefam, Ge Guo, Qi Yang"
 #### Introduction
 
 ![concept_image](/puerto_rico_now/images/future_scenarios/concept_image.jpg)
-![concept photo](/puerto_rico_now/images/future_scenarios/images/future_scenarios/concept_photo.jpg)
+![concept photo](/puerto_rico_now/images/future_scenarios/concept_photo.png)
 
 Super cool important image
 Abstract/Brief (copy and past midterm text)
@@ -19,8 +19,8 @@ Today, Puerto Rican still suffer from a complex system of predatory practices fr
 One of the scenarios is when developers, investors, politicians and citizens see Puerto Rico as a tourist heaven or next Singapore. All the players in this scenario benefit from tax breaks and other economic incentives to develop Puerto Rico with American investments.  For example, a tax break offered to American investing in tourism (aiming to build luxury spas and hotels) or the fact that part of the island is zoned as opportunity zone to encourage economic development.
 
 
-![Tourism Layer Breakdown](/puerto_rico_now/images/future_scenarios/images/future_scenarios/tourism_breakdown.jpg)
-![Landtrust Layer Breakdown](/puerto_rico_now/images/future_scenarios/images/future_scenarios/landtrust_breakdown.jpg)
+![Tourism Layer Breakdown](/puerto_rico_now/images/future_scenarios/tourism_breakdown.jpg)
+![Landtrust Layer Breakdown](/puerto_rico_now/images/future_scenarios/landtrust_breakdown.jpg)
 
 #### PART I-Predatory Exploitative Development Scenario
 
