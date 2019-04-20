@@ -30,7 +30,7 @@ To understand what these changes may be and how Puerto Rico will be transformed,
 Though it is impossible to know the future, our team has identified multiple directions in which Puerto Rico may be headed using this data. Without loss of generality, we chose to develop and focus on two hypothetical future scenarios that favor the interests of individuals on opposite ends of a spectrum of figures who wish to see Puerto Rico prosper in different ways. In doing so, we hope to provide a specific picture of what is possible in the near future, as well as to highlight the dangerous processes underway in Puerto Rico at the present moment. 
   
 <br/><br/>
-#### **Two Scenarios: A Business-Class Tourist Paradise, or an Island for the People?**
+<span style="font-family:Helvetica; font-size:2em;">**<2> Two Scenarios: A Business-Class Tourist Paradise, or an Island for the People?**</span>
   
 ![concept photo](/puerto_rico_now/images/future_scenarios/concept_image.png)
   
