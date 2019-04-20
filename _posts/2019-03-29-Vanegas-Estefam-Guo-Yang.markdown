@@ -10,12 +10,12 @@ author: "Esteban Vanegas Jr, Aline Faiwichow Estefam, Ge Guo, Qi Yang"
 ![concept_image](/puerto_rico_now/images/future_scenarios/concept_photo.png)    
 <br/><br/>
 <br/><br/>
-<span style="font-family:Helvetica; font-size:2em;">**<1> Reconstruction is Underway**</span>
+<span style="font-family:Helvetica; font-size:2em;">**1.Reconstruction is Underway**</span>
 
 Puerto Rico is in a state of serious change. Over a year since the devastation of Hurricanes Maria and Irma, federal disaster aid continues to be withheld by Congress, forcing recovery efforts to continue unaided by the federal government. Prior to the storms making landfall in November 2017, residents of the island had already been feeling the effects of rising unemployment, crippling debt, and exploitative development practices for several decades. In addition to the loss of over 3,000 lives, the destruction left in the wake of these storms pushed much of the island’s infrastructure and resources past capacity. For many, this disaster has been the final motivator to leave Puerto Rico. Those who remain will be the first to bear witness to dramatic changes as reconstruction properly begins.
 
 <br/><br/>
-<span style="font-family:Helvetica; font-size:1.5em;">**<1-1>In February of 2019, Congress Approved $1.5 Billion in Relief Aid**</span>
+<span style="font-family:Helvetica; font-size:1.5em;">**1-1.In February of 2019, Congress Approved $1.5 Billion in Relief Aid**</span>
   
 To understand what these changes may be and how Puerto Rico will be transformed, our research team began an initial investigation into the island’s ongoing demographic and economic shifts within a historical context to answer four questions:
   
@@ -25,12 +25,12 @@ To understand what these changes may be and how Puerto Rico will be transformed,
   - What are the alternatives to our prediction?
 
 <br/><br/>
-<span style="font-family:Helvetica; font-size:1em;">**<1-2>That Same Year, Puerto Rico Reported a Record-Breaking 1.7 Million Tourists in 2018**</span>  
+<span style="font-family:Helvetica; font-size:1.5em;">**1-2.That Same Year, Puerto Rico Reported a Record-Breaking 1.7 Million Tourists in 2018**</span>  
   
 Though it is impossible to know the future, our team has identified multiple directions in which Puerto Rico may be headed using this data. Without loss of generality, we chose to develop and focus on two hypothetical future scenarios that favor the interests of individuals on opposite ends of a spectrum of figures who wish to see Puerto Rico prosper in different ways. In doing so, we hope to provide a specific picture of what is possible in the near future, as well as to highlight the dangerous processes underway in Puerto Rico at the present moment. 
   
 <br/><br/>
-<span style="font-family:Helvetica; font-size:2em;">**<2> Two Scenarios: A Business-Class Tourist Paradise, or an Island for the People?**</span>
+<span style="font-family:Helvetica; font-size:2em;">**2.Two Scenarios: A Business-Class Tourist Paradise, or an Island for the People?**</span>
   
 ![concept photo](/puerto_rico_now/images/future_scenarios/concept_image.png)
   
@@ -39,6 +39,7 @@ On one end of this spectrum lie developers, investors, politicians, and citizens
 We understand, of course, that these are two extremes on a broad spectrum that includes individuals and groups with aligned, conflicting, and often competing interests. Yet in examining the ideology behind opposite ends of this spectrum and proposing our own radical future for the island tailored to each, we hope to reach a richer picture of where Puerto Rico is heading, how many of the factors contributing to change were already in place before the recent natural disaster, and what is being done currently to effect changes that, inevitably, will leave some better off and others deeply unsatisfied. 
 
 <br/><br/>  
+<span style="font-family:Helvetica; font-size:1.5em;">**2A.Exploitation and Extraction: a Scenario for Predatory Development**</span>
 #### **Exploitation and Extraction: a Scenario for Predatory Development**
   
 Puerto Rico has long been a source for wealth extraction under colonial powers from Spain to the United States. Though legally classified as an unincorporated territory of the United States, Puerto Rico remains subject to exploitative laws that continue to profit American venture capitalists, developers, and investors. The business ventures of these figures often generate profits without providing significant job growth or tax revenue to the island. 
@@ -58,13 +59,13 @@ We began our investigation by imagining ourselves in the role of someone who pos
 
 Most entrepreneurs, investors, and developers wish to see the greatest return on an investment with as little risk as possible, and look to examples of lucrative operations already turning a profit. Tourism should immediately come to mind. In spite of the destruction of Hurricanes Maria and Irma, the number of tourists lodging in hotels across the island was up to a  record-breaking 1,766,578 guests in 2018. This makes building a hotel, resort, spa, or attraction in an expensive area frequented by high-end visitors a good location for a profitable venture. Below are shown the locations of existing hotels, ranked by price, where we expect to see proportional future development.  
 
-*Tourism Density - Hotel Density and Price*
+*Tourism Density - Hotel Density and Price*  
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuoazzbsbe001fn0v71i4psi.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 Finally, we considered the debt of each municipality as reported by the Puerto Rican Bureau of Statistics in determining which areas will likely see the greatest investment in the near future. Areas with less debt received a higher ranking within an economic index, and marked as the most attractive for developers in the map below. White municipalities were left out of the government study that provided this economic data, and therefore were not considered.  
   
 
-*Economics Index*
+*Economics Index*  
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo9rawabonc1flpiitc01fg.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 Together, these factors determined regions in which we expect to receive the most American investment. Lighter municipalities--largely located within the interior--will likely see further unemployment and lower incomes, prompting increased migration. Areas on the periphery may be gentrified or developed in other ways to meet the needs of coastal regions and urban centers where the vast majority of Puerto Rico’s wealth is now concentrated. Puerto Ricans who remain employed in these rich, swanky municipalities will largely be occupying jobs in the service sector, with a small population of local mid-level management and an even smaller class of local investors and profiteers.  
