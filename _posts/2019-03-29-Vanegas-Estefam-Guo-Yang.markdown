@@ -7,18 +7,20 @@ author: "Esteban Vanegas Jr, Aline Faiwichow Estefam, Ge Guo, Qi Yang"
 ---
 
 
-![concept_image](/puerto_rico_now/images/future_scenarios/concept_image.jpg)
+![concept_image](/puerto_rico_now/images/future_scenarios/concept_image.jpg)  
 
-
-
+![concept photo](/puerto_rico_now/images/future_scenarios/concept_photo.jpg)  
+  
+  
+  
 #### **Reconstruction is Underway**
-
+  
 Puerto Rico is in a state of serious change. Over a year since the devastation of Hurricanes Maria and Irma, federal disaster aid continues to be withheld by Congress, forcing recovery efforts to continue unaided by the federal government. Prior to the storms making landfall in November 2017, residents of the island had already been feeling the effects of rising unemployment, crippling debt, and exploitative development practices for several decades. In addition to the loss of over 3,000 lives, the destruction left in the wake of these storms pushed much of the island’s infrastructure and resources past capacity. For many, this disaster has been the final motivator to leave Puerto Rico. Those who remain will be the first to bear witness to dramatic changes as reconstruction properly begins.
-
-
-
+  
+  
+  
 #### **In February of 2019, Congress Approved $1.5 Billion in Relief Aid**
-
+  
 >>To understand what these changes may be and how Puerto Rico will be transformed, our research team began an initial investigation into the island’s ongoing demographic and economic shifts within a historical context to answer four questions:
 >>
 >Who stands to profit and who stands to suffer from reconstruction efforts?
@@ -27,7 +29,6 @@ Puerto Rico is in a state of serious change. Over a year since the devastation o
 >What are the alternatives to our prediction?
 
 
-![concept photo](/puerto_rico_now/images/future_scenarios/concept_photo.jpg)
 
 Super cool important image
 Abstract/Brief (copy and past midterm text)
