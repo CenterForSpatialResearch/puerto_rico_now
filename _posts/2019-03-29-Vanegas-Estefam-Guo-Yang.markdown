@@ -97,6 +97,21 @@ In the present moment, numerous examples can be found of cooperative practices i
 
 Though these isolated examples of collective organization are inspiring, many are also struggling. It will require the support of these bottom-up practices from a major funding source to help guarantee their long-term success in the early stages of establishment as well as encourage others to follow suit. As such, our scenario requires us to suppose three things when considering the spending of a promised $18.5 Billion of disaster relief aid:
 
+<br/><br/>
+* **Federal Aid Must Put to the Task of Providing, not of Restoring:**  
+
+  - The provision of basic goods and services--including health care and public education, the development of infrastructure in the poorest municipalities, and the recognition of human rights
+  
+  - The provision of basic goods and services--especially healthcare and education--must be provided at little to no cost to all Puerto Ricans, many of whom mourn the loss of loved ones who perished from preventable causes following the hurricanes. 
+
+  - Local businesses, partnerships, collectives, and co-ops must be encouraged, through subsidies or tax incentives, and predatory development disincentivized, in an effort to close the income gap across Puerto Rico  
+  
+*Average Weekly Income*
+<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuocajn03y3n1fnoms0w4aia.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+
+*Unemployment*
+<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuocaor501v71gnsqsdyb9qi.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+
 
 
 
