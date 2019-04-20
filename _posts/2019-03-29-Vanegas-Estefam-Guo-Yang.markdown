@@ -49,7 +49,7 @@ Puerto Rico has long been a source for wealth extraction under colonial powers f
 Our first scenario imagines a future in which such figures have developed Puerto Rico into a lucrative enterprise that operates with few local employees and is exempt from significant municipal, territorial, and federal taxes. Tourism--already a major part of Puerto Rico’s economy--has become the dominant industry on the island, providing luxury as well as discount services to tourists of all classes. Tax-sheltered business developments employ a small percentage of Puerto Ricans with sufficient education and wealth to make a relatively easy transition into the tech and finance sectors. Were such a scenario to be realized, we predict the greatest developments and their immediate consequences would most likely occur in the areas shown in the map below.  
   
 
-**Tourism Scenario**  
+*Tourism Scenario Decision Making Map*
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo99aj902l51fmbd2lxl2mp.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
   
 We began our investigation by imagining ourselves in the role of someone who possesses sufficient capital and desire to develop in Puerto Rico, and then constructed this map to see where the greatest incentive lay for our venture. It was necessary to first consider the zoning regulations of the island. Revitalization areas are regions designated by the government of Puerto Rico as badly in need of development. As such, these places are offered up to developers with significant tax breaks. Naturally Protected Areas and Difficult Development areas are regions where development is generally prohibited by law or discouraged by challenging geography. In addition, areas that have undergone significant depopulation following the hurricanes were considered using data from the Humanitarian Data Exchange. People often leave Puerto Rico for multiple reasons; resources can run out, unemployment can soar, and properties can be foreclosed. Such areas, however, present an advantage to investors who can buy up cheap and develop without the obstacle of displacing many existing inhabitants.  
@@ -58,70 +58,50 @@ We began our investigation by imagining ourselves in the role of someone who pos
 
 Most entrepreneurs, investors, and developers wish to see the greatest return on an investment with as little risk as possible, and look to examples of lucrative operations already turning a profit. Tourism should immediately come to mind. In spite of the destruction of Hurricanes Maria and Irma, the number of tourists lodging in hotels across the island was up to a  record-breaking 1,766,578 guests in 2018. This makes building a hotel, resort, spa, or attraction in an expensive area frequented by high-end visitors a good location for a profitable venture. Below are shown the locations of existing hotels, ranked by price, where we expect to see proportional future development.  
 
-**Tourism Density - Hotel Density&Price**
+*Tourism Density - Hotel Density and Price*
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuoazzbsbe001fn0v71i4psi.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>    
 
 Finally, we considered the debt of each municipality as reported by the Puerto Rican Bureau of Statistics in determining which areas will likely see the greatest investment in the near future. Areas with less debt received a higher ranking within an economic index, and marked as the most attractive for developers in the map below. White municipalities were left out of the government study that provided this economic data, and therefore were not considered.  
   
 
-**Economics Index**
+*Economics Index*
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo9rawabonc1flpiitc01fg.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>   
 
 Together, these factors determined regions in which we expect to receive the most American investment. Lighter municipalities--largely located within the interior--will likely see further unemployment and lower incomes, prompting increased migration. Areas on the periphery may be gentrified or developed in other ways to meet the needs of coastal regions and urban centers where the vast majority of Puerto Rico’s wealth is now concentrated. Puerto Ricans who remain employed in these rich, swanky municipalities will largely be occupying jobs in the service sector, with a small population of local mid-level management and an even smaller class of local investors and profiteers.  
 
 Why invest in Puerto Rico? As long as the capital we use to develop originates in the United States--via a real-estate holding company, mutual fund, or typical venture capitalist development operation--we benefit from a triple tax break offered to US investors. Moreover, some 98% of the island is classified as an Opportunity Zone; allowing us to reinvest capital gains from our initial investment into an income tax-free Opportunity Fund. Together, these advantages may save our investors up to 37.5% in federal taxes. 
 
+<br/><br/> 
+#### **A (Potentially) Adequate Intervention:  a Collective Scenario for Puerto Ricans**  
 
+Puerto Rico does not, by any means, have to follow this narrative. Consider that Congress has appropriated $18.5 billion in hurricane relief aid, (a previous $1.5 billion was approved for spending back in February, and so is not included in our analysis). Additionally, some 23.8% of Puerto Rican debt has recently been argued to be unconstitutional. Combining potential disaster relief aid and forgiven debt leaves the government of Puerto Rico in a significantly better financial position to provide for its residents in reconstruction efforts.  
 
+*Lantrust Scenario Decision Making Map*
 
+<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo8ys5p066h1fpln1cxlrw6.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
 
-#### PART I-Predatory Exploitative Development Scenario
+<br/><br/> 
+#### **Puerto Rico has a Rich History of cooperative enterprises**  
 
-#### PART I-Predatory Exploitative Development Scenario
+Our Collective Scenario is so named because it draws upon a rich history of co-ops, inclusive work practices, land trusts, and past social welfare policies that were later struck down by the United States. Numerous political figures, such as Pedro Albizu Campo, were jailed by the United States for attempting to organize workers. During the process of drafting a constitution in the 1950’s, the framers of Puerto Rico’s constitution attempted to include a provision for the right to work, a measure vetoed by the United States Congress, and an issue which is still debated today.  
 
-#### PART I-Predatory Exploitative Development Scenario
+<br/><br/> 
+#### **The Development of Collective Work Practices and Land Trusts is Underway**
 
-#### PART I-Predatory Exploitative Development Scenario
-
-#### PART I-Predatory Exploitative Development Scenario
-
-#### PART I-Predatory Exploitative Development Scenario
-
-
-
+In the present moment, numerous examples can be found of cooperative practices in Puerto Rico that fortify communities and protect exploited and persecuted populations. Consider farming co-ops, some of which address the serious issue of food insecurity in Puerto Rico. Many of these collectives are run by women--others are self-proclaimed safe spaces for queer and LGBT communities. The community of Caño Martín Peña is famous as Puerto Rico’s only land trust. Located near the wealthy district of Milla de Oro, the eight neighborhoods that make up the trust faced serious threat of gentrification. While the land trust effectively prevents residents from losing their homes to gentrifiers or to competing land claims, the area remains impoverished and residents at risk of being priced out. Communities such as Rio Piedras are in the early stages of organizing in to a land trust, an endeavor which requires significant legal effort and expenses.  
 
 ![Landtrust Layer Breakdown](/puerto_rico_now/images/future_scenarios/landtrust_breakdown.png)
 
+<br/><br/>
+#### **Necessary Conditions for the Success of a Cooperative Scenario**  
+
+Though these isolated examples of collective organization are inspiring, many are also struggling. It will require the support of these bottom-up practices from a major funding source to help guarantee their long-term success in the early stages of establishment as well as encourage others to follow suit. As such, our scenario requires us to suppose three things when considering the spending of a promised $18.5 Billion of disaster relief aid:
 
 
 
-#### PART I-Predatory Exploitative Development Scenario
-
-Presentation of the development practices of American venture capitalists. Explanation of the legal framework in place to encourage this kind of development and government support for extraction. Segue into a decision map which shows the areas most likely to be developed if this model of predatory development continues. Make significant note of the difficulty of interpreting government datasets.
-Final Decision Map for Development
-Dot Density Map of Hotel locations and prices. 
-Economic index-map/explanation of motives to develop in which areas
-Analysis of this scenario as the natural continuation of existing practices. This is the existing model of colonial extraction of wealth from Puerto Rico for a very small percentage of American venture capitalists. Without an adequate intervention, Puerto Rico’s future will include more of these kinds of developments, turning the island into a haven for tourists and financial moguls and pushing out the remaining population or shackling them under ever greater inequality.
 
 
-#### **PART II-A (potential) Adequate Intervention: Land Trust/Collective Scenario**
-
-Discussion that Puerto Rico does not, however, have to follow this narrative. Consider that Congress has appropriated $18.5 billion in hurricane relief aid, (a previous $1.5 billion was approved for spending back in February, and so is not included in our analysis). Additionally, y percent of Puerto Rican debt has been argued to be unconstitutional. Let us suppose three things:
-Congress approves the spending of the $18.5 billion allocated for disaster relief
-X billion dollars of Puerto Rico’s $74 billion debt is ruled unconstitutional, meaning that it would not need to be repaid to the owners of this debt.
-Puerto Rican lawmakers are allowed to spend this total sum of Y billion dollars as they see fit.
-Interactive Data Visualization that shows three policies--change of Temporary Assistance for Needy Families funds, jobs creation program to change unemployment, and change in weekly wages via a financial incentive for employers.
-Presentation of several micro-scenarios:
-Increased Spending on Healthcare
-Subsidization of partnerships, small businesses, and farm collectives
-Increased Spending on Education
-Others, as desired, or a combination of the above
-Remarks on the specific policies included in the visualization, and additional changes that would need to occur to make the micro-scenarios possible. Push beyond the obvious conclusions; a look at unintended consequences, a discussion of autonomy, a push at what happens next, or some additional analysis can occur here. 
-
-
-#### PART III-CONCLUSION AND MANIFESTO
-We’ve presented two very different scenarios of what Puerto Rico’s future might look like. One that involves a continuation of the predatory development that profits a small portion of Puerto Ricans. The other directs funds to social spending measures that most benefits the population of Puerto Rico neglected by its government and hurt by unscrupulous development practices. Why did we do this, what does it say, what final conclusions can or cannot be drawn? 
-
+#
 
 ![Should Work This Time](/puerto_rico_now/images/future_scenarios/PotentialFutures_Flag.png)
 
