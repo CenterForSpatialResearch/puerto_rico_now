@@ -55,10 +55,29 @@ Our first scenario imagines a future in which such figures have developed Puerto
 **Tourism Scenario**
   
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo99aj902l51fmbd2lxl2mp.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+  
+We began our investigation by imagining ourselves in the role of someone who possesses sufficient capital and desire to develop in Puerto Rico, and then constructed this map to see where the greatest incentive lay for our venture. It was necessary to first consider the zoning regulations of the island. Revitalization areas are regions designated by the government of Puerto Rico as badly in need of development. As such, these places are offered up to developers with significant tax breaks. Naturally Protected Areas and Difficult Development areas are regions where development is generally prohibited by law or discouraged by challenging geography. In addition, areas that have undergone significant depopulation following the hurricanes were considered using data from the Humanitarian Data Exchange. People often leave Puerto Rico for multiple reasons; resources can run out, unemployment can soar, and properties can be foreclosed. Such areas, however, present an advantage to investors who can buy up cheap and develop without the obstacle of displacing many existing inhabitants.  
+
+![Tourism Layer Breakdown](/puerto_rico_now/images/future_scenarios/tourism_breakdown.jpg)  
+
+Most entrepreneurs, investors, and developers wish to see the greatest return on an investment with as little risk as possible, and look to examples of lucrative operations already turning a profit. Tourism should immediately come to mind. In spite of the destruction of Hurricanes Maria and Irma, the number of tourists lodging in hotels across the island was up to a  record-breaking 1,766,578 guests in 2018. This makes building a hotel, resort, spa, or attraction in an expensive area frequented by high-end visitors a good location for a profitable venture. Below are shown the locations of existing hotels, ranked by price, where we expect to see proportional future development.  
+
+**Tourism Density - Hotel**
+<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuoazzbsbe001fn0v71i4psi.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+
+Finally, we considered the debt of each municipality as reported by the Puerto Rican Bureau of Statistics in determining which areas will likely see the greatest investment in the near future. Areas with less debt received a higher ranking within an economic index, and marked as the most attractive for developers in the map below. White municipalities were left out of the government study that provided this economic data, and therefore were not considered.  
+
+**Economics Index**
+<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo9rawabonc1flpiitc01fg.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 
 
-![Tourism Layer Breakdown](/puerto_rico_now/images/future_scenarios/tourism_breakdown.jpg)
+
+
+
+
+
+
 ![Landtrust Layer Breakdown](/puerto_rico_now/images/future_scenarios/landtrust_breakdown.jpg)
 
 
