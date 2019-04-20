@@ -40,12 +40,11 @@ We understand, of course, that these are two extremes on a broad spectrum that i
 
 <br/><br/>  
 <span style="font-family:Helvetica; font-size:1.5em;">**2A.Exploitation and Extraction: a Scenario for Predatory Development**</span>
-#### **Exploitation and Extraction: a Scenario for Predatory Development**
   
 Puerto Rico has long been a source for wealth extraction under colonial powers from Spain to the United States. Though legally classified as an unincorporated territory of the United States, Puerto Rico remains subject to exploitative laws that continue to profit American venture capitalists, developers, and investors. The business ventures of these figures often generate profits without providing significant job growth or tax revenue to the island. 
   
 <br/><br/>  
-#### **An Existing Legal Framework Incentivises Exploitative Development**
+<span style="font-family:Helvetica; font-size:1.5em;">**2A-1.An Existing Legal Framework Incentivises Exploitative Development**</span>
   
 Our first scenario imagines a future in which such figures have developed Puerto Rico into a lucrative enterprise that operates with few local employees and is exempt from significant municipal, territorial, and federal taxes. Tourism--already a major part of Puerto Rico’s economy--has become the dominant industry on the island, providing luxury as well as discount services to tourists of all classes. Tax-sheltered business developments employ a small percentage of Puerto Ricans with sufficient education and wealth to make a relatively easy transition into the tech and finance sectors. Were such a scenario to be realized, we predict the greatest developments and their immediate consequences would most likely occur in the areas shown in the map below.  
   
@@ -73,7 +72,7 @@ Together, these factors determined regions in which we expect to receive the mos
 Why invest in Puerto Rico? As long as the capital we use to develop originates in the United States--via a real-estate holding company, mutual fund, or typical venture capitalist development operation--we benefit from a triple tax break offered to US investors. Moreover, some 98% of the island is classified as an Opportunity Zone; allowing us to reinvest capital gains from our initial investment into an income tax-free Opportunity Fund. Together, these advantages may save our investors up to 37.5% in federal taxes. 
 
 <br/><br/> 
-#### **A (Potentially) Adequate Intervention:  a Collective Scenario for Puerto Ricans**  
+<span style="font-family:Helvetica; font-size:2em;">**2B.One (Potentially) Adequate Intervention:  a Collective Scenario for Puerto Ricans**</span>  
 
 Puerto Rico does not, by any means, have to follow this narrative. Consider that Congress has appropriated $18.5 billion in hurricane relief aid, (a previous $1.5 billion was approved for spending back in February, and so is not included in our analysis). Additionally, some 23.8% of Puerto Rican debt has recently been argued to be unconstitutional. Combining potential disaster relief aid and forgiven debt leaves the government of Puerto Rico in a significantly better financial position to provide for its residents in reconstruction efforts.  
 
