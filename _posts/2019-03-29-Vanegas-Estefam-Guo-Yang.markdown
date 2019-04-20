@@ -19,6 +19,12 @@ Puerto Rico is in a state of serious change. Over a year since the devastation o
 
 #### **In February of 2019, Congress Approved $1.5 Billion in Relief Aid**
 
+>>To understand what these changes may be and how Puerto Rico will be transformed, our research team began an initial investigation into the island’s ongoing demographic and economic shifts within a historical context to answer four questions:
+>>
+>Who stands to profit and who stands to suffer from reconstruction efforts?
+>Which areas are going to see the greatest change?
+>How are these areas going to be redeveloped, and at what cost?
+>What are the alternatives to our prediction?
 
 
 ![concept photo](/puerto_rico_now/images/future_scenarios/concept_photo.jpg)
