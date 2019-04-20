@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2019-03-29
-image: "/puerto_rico_now/images/future_scenarios/PotentialFutures_Title.png"
+image: "/puerto_rico_now/images/future_scenarios/concept_image.png"
 title:  "Puerto Rico After Maria: Prediction of Future Scenario"
 author: "Esteban Vanegas Jr, Aline Faiwichow Estefam, Ge Guo, Qi Yang"
 ---
@@ -13,6 +13,8 @@ author: "Esteban Vanegas Jr, Aline Faiwichow Estefam, Ge Guo, Qi Yang"
 <span style="font-family:Helvetica; font-size:2em;">**1.Reconstruction is Underway**</span>
 
 Puerto Rico is in a state of serious change. Over a year since the devastation of Hurricanes Maria and Irma, federal disaster aid continues to be withheld by Congress, forcing recovery efforts to continue unaided by the federal government. Prior to the storms making landfall in November 2017, residents of the island had already been feeling the effects of rising unemployment, crippling debt, and exploitative development practices for several decades. In addition to the loss of over 3,000 lives, the destruction left in the wake of these storms pushed much of the island’s infrastructure and resources past capacity. For many, this disaster has been the final motivator to leave Puerto Rico. Those who remain will be the first to bear witness to dramatic changes as reconstruction properly begins.
+
+![concept_image](/puerto_rico_now/images/future_scenarios/blueroof.jpg)
 
 <br/><br/>
 <span style="font-family:Helvetica; font-size:1.5em;">**1-1.In February of 2019, Congress Approved $1.5 Billion in Relief Aid**</span>
