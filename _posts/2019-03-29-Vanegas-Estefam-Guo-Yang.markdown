@@ -6,18 +6,15 @@ title:  "Puerto Rico After Maria: Prediction of Future Scenario"
 author: "Esteban Vanegas Jr, Aline Faiwichow Estefam, Ge Guo, Qi Yang"
 ---
 
-
+<br/><br/>
 ![concept_image](/puerto_rico_now/images/future_scenarios/concept_image.jpg)    
 <br/><br/>
 <br/><br/>
-<br/><br/>
-<br/><br/>
 #### **Reconstruction is Underway**
-  
+
 Puerto Rico is in a state of serious change. Over a year since the devastation of Hurricanes Maria and Irma, federal disaster aid continues to be withheld by Congress, forcing recovery efforts to continue unaided by the federal government. Prior to the storms making landfall in November 2017, residents of the island had already been feeling the effects of rising unemployment, crippling debt, and exploitative development practices for several decades. In addition to the loss of over 3,000 lives, the destruction left in the wake of these storms pushed much of the island’s infrastructure and resources past capacity. For many, this disaster has been the final motivator to leave Puerto Rico. Those who remain will be the first to bear witness to dramatic changes as reconstruction properly begins.
-  
-  
-  
+
+<br/><br/>
 #### **In February of 2019, Congress Approved $1.5 Billion in Relief Aid**
   
 To understand what these changes may be and how Puerto Rico will be transformed, our research team began an initial investigation into the island’s ongoing demographic and economic shifts within a historical context to answer four questions:
@@ -26,13 +23,13 @@ To understand what these changes may be and how Puerto Rico will be transformed,
   - Which areas are going to see the greatest change?
   - How are these areas going to be redeveloped, and at what cost?
   - What are the alternatives to our prediction?
-  
-  
+
+<br/><br/>
 #### **That Same Year, Puerto Rico Reported a Record-Breaking 1.7 Million Tourists in 2018**
   
 Though it is impossible to know the future, our team has identified multiple directions in which Puerto Rico may be headed using this data. Without loss of generality, we chose to develop and focus on two hypothetical future scenarios that favor the interests of individuals on opposite ends of a spectrum of figures who wish to see Puerto Rico prosper in different ways. In doing so, we hope to provide a specific picture of what is possible in the near future, as well as to highlight the dangerous processes underway in Puerto Rico at the present moment. 
   
-  
+<br/><br/>
 #### **Two Scenarios: A Business-Class Tourist Paradise, or an Island for the People?**
   
 ![concept photo](/puerto_rico_now/images/future_scenarios/concept_photo.jpg)
@@ -40,20 +37,18 @@ Though it is impossible to know the future, our team has identified multiple dir
 On one end of this spectrum lie developers, investors, politicians, and citizens who view Puerto Rico as a potential tourist haven, corporate tax shelter, or both. Such individuals benefit from economic incentives to develop Puerto Rico using American capital. On the other end of the spectrum lie Puerto Ricans who draw inspiration from a rich history of collective community organization to envision an island free of the extraction practices inherent to the colony. Such a Puerto Rico is organized into collective land trusts, has a diverse economy focused on local production and reinvestment into municipalities, and engages directly with global actors. 
 
 We understand, of course, that these are two extremes on a broad spectrum that includes individuals and groups with aligned, conflicting, and often competing interests. Yet in examining the ideology behind opposite ends of this spectrum and proposing our own radical future for the island tailored to each, we hope to reach a richer picture of where Puerto Rico is heading, how many of the factors contributing to change were already in place before the recent natural disaster, and what is being done currently to effect changes that, inevitably, will leave some better off and others deeply unsatisfied. 
-  
-  
-  
+
+<br/><br/>  
 #### **Exploitation and Extraction: a Scenario for Predatory Development**
   
 Puerto Rico has long been a source for wealth extraction under colonial powers from Spain to the United States. Though legally classified as an unincorporated territory of the United States, Puerto Rico remains subject to exploitative laws that continue to profit American venture capitalists, developers, and investors. The business ventures of these figures often generate profits without providing significant job growth or tax revenue to the island. 
   
-  
+<br/><br/>  
 #### **An Existing Legal Framework Incentivises Exploitative Development**
   
-Our first scenario imagines a future in which such figures have developed Puerto Rico into a lucrative enterprise that operates with few local employees and is exempt from significant municipal, territorial, and federal taxes. Tourism--already a major part of Puerto Rico’s economy--has become the dominant industry on the island, providing luxury as well as discount services to tourists of all classes. Tax-sheltered business developments employ a small percentage of Puerto Ricans with sufficient education and wealth to make a relatively easy transition into the tech and finance sectors. Were such a scenario to be realized, we predict the greatest developments and their immediate consequences would most likely occur in the areas shown in the map below.
-  
-**Tourism Scenario**
-  
+Our first scenario imagines a future in which such figures have developed Puerto Rico into a lucrative enterprise that operates with few local employees and is exempt from significant municipal, territorial, and federal taxes. Tourism--already a major part of Puerto Rico’s economy--has become the dominant industry on the island, providing luxury as well as discount services to tourists of all classes. Tax-sheltered business developments employ a small percentage of Puerto Ricans with sufficient education and wealth to make a relatively easy transition into the tech and finance sectors. Were such a scenario to be realized, we predict the greatest developments and their immediate consequences would most likely occur in the areas shown in the map below.  
+
+**Tourism Scenario**  
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo99aj902l51fmbd2lxl2mp.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
   
 We began our investigation by imagining ourselves in the role of someone who possesses sufficient capital and desire to develop in Puerto Rico, and then constructed this map to see where the greatest incentive lay for our venture. It was necessary to first consider the zoning regulations of the island. Revitalization areas are regions designated by the government of Puerto Rico as badly in need of development. As such, these places are offered up to developers with significant tax breaks. Naturally Protected Areas and Difficult Development areas are regions where development is generally prohibited by law or discouraged by challenging geography. In addition, areas that have undergone significant depopulation following the hurricanes were considered using data from the Humanitarian Data Exchange. People often leave Puerto Rico for multiple reasons; resources can run out, unemployment can soar, and properties can be foreclosed. Such areas, however, present an advantage to investors who can buy up cheap and develop without the obstacle of displacing many existing inhabitants.  
@@ -68,12 +63,27 @@ Most entrepreneurs, investors, and developers wish to see the greatest return on
 Finally, we considered the debt of each municipality as reported by the Puerto Rican Bureau of Statistics in determining which areas will likely see the greatest investment in the near future. Areas with less debt received a higher ranking within an economic index, and marked as the most attractive for developers in the map below. White municipalities were left out of the government study that provided this economic data, and therefore were not considered.  
 
 **Economics Index**
-<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo9rawabonc1flpiitc01fg.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo9rawabonc1flpiitc01fg.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+
+Together, these factors determined regions in which we expect to receive the most American investment. Lighter municipalities--largely located within the interior--will likely see further unemployment and lower incomes, prompting increased migration. Areas on the periphery may be gentrified or developed in other ways to meet the needs of coastal regions and urban centers where the vast majority of Puerto Rico’s wealth is now concentrated. Puerto Ricans who remain employed in these rich, swanky municipalities will largely be occupying jobs in the service sector, with a small population of local mid-level management and an even smaller class of local investors and profiteers.  
+
+Why invest in Puerto Rico? As long as the capital we use to develop originates in the United States--via a real-estate holding company, mutual fund, or typical venture capitalist development operation--we benefit from a triple tax break offered to US investors. Moreover, some 98% of the island is classified as an Opportunity Zone; allowing us to reinvest capital gains from our initial investment into an income tax-free Opportunity Fund. Together, these advantages may save our investors up to 37.5% in federal taxes. 
 
 
 
 
 
+#### PART I-Predatory Exploitative Development Scenario
+
+#### PART I-Predatory Exploitative Development Scenario
+
+#### PART I-Predatory Exploitative Development Scenario
+
+#### PART I-Predatory Exploitative Development Scenario
+
+#### PART I-Predatory Exploitative Development Scenario
+
+#### PART I-Predatory Exploitative Development Scenario
 
 
 
