@@ -5,7 +5,7 @@ image: "/puerto_rico_now/images/food_soverignty/lemon.jpg"
 title:  "Food Sovereignty Project"
 author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 ---
-<img src="/puerto_rico_now/images/food_soverignty/Imports-GIF.gif" style="position:absolute;top:300;left:400;width:75%;height:75%;" frameborder="0">
+<img src="/puerto_rico_now/images/food_soverignty/Imports-GIF.gif" style="position:absolute;top:300;left:380;width:72%;height:72%;" frameborder="0">
 *Food Imports Map*
 
 <br />
