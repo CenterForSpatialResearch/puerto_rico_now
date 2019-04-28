@@ -9,7 +9,7 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 *Food Imports Map*
 
 
-<img src="/puerto_rico_now/images/food_soverignty/Imports-GIF.gif" style="position:absolute;top:0;left:0;width:100%;height:150%;">
+<img src="/puerto_rico_now/images/food_soverignty/Imports-GIF.gif" style="width:120%;height:120%;">
 
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://shioriosa.github.io/farmmap/" style="position:absolute;top:0;left:0;width:150%;height:150%;" frameborder="0"></iframe></div>
 *Farm Profile Map*
