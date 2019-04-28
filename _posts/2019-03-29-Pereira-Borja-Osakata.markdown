@@ -7,3 +7,7 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 ---
 ![description of image](/puerto_rico_now/images/food_soverignty/puerto-rican-food.jpg)
 
+
+<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://shioriosa.github.io/farmmap/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+*Farm Profile Map*
+
