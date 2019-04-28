@@ -5,8 +5,11 @@ image: "/puerto_rico_now/images/food_soverignty/lemon.jpg"
 title:  "Food Sovereignty Project"
 author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 ---
-![food imports](/puerto_rico_now/images/food_soverignty/Imports-GIF.gif|width=100)
+![food imports](/puerto_rico_now/images/food_soverignty/Imports-GIF.gif)
 *Food Imports Map*
+
+
+<img src="/puerto_rico_now/images/food_soverignty/Imports-GIF.gif" width="200">
 
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://shioriosa.github.io/farmmap/" style="position:absolute;top:0;left:0;width:150%;height:150%;" frameborder="0"></iframe></div>
 *Farm Profile Map*
