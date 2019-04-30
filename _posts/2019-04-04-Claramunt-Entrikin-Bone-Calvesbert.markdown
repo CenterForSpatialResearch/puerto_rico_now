@@ -12,6 +12,12 @@ author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesber
 
 This project develops a decision model based in *social* and *physical* vulnerability metrics that are first mapped individually and secondly added into one final model to render a map showing higher risk for municipalities and possible impact in their capacity to recover in the event of another Hurricane.
 
+![Puerto Rico](/puerto_rico_now/images/decision_model/risk_UNIDR.JPG)
+
+Disaster risk is expressed as the likelihood of loss of life, injury or destruction and damage from a disaster in a given period of time. UNISDR Global Assessment Report 2015
+
+>Disasters are sometimes considered external shocks, but disaster risk results from the complex interaction between development processes that generate conditions of exposure, vulnerability and hazard. Disaster risk is therefore considered as the combination of the severity and frequency of a hazard, the numbers of people and assets exposed to the hazard, and their vulnerability to damage (UNISDR, 2015a).
+
 **Social Vulnerability Results**
 ![Puerto Rico](/puerto_rico_now/images/decision_model/unweighted_final.png)
 The social vulnerability indicators will be based on demographic and socioeconomic factors, including the change in populations related to migration post Hurricanes. 
@@ -41,4 +47,3 @@ The following proxies will be considered to measure social vulnerability and phy
   <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="200" /> 
   <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="200" />
 </p>
-
