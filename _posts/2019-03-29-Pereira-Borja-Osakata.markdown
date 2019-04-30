@@ -17,6 +17,7 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 <img src="/puerto_rico_now/images/food_soverignty/Imports-GIF.gif">
 
 <br><br>
+<span style="font-family:'Open Sans', sans-serif; font-size:18pt;">*Sancocho: A Stew of Resilience*</span>
 <span style="font-family:'Open Sans', sans-serif; font-size:18pt;">*How many Countries does it take to make Sancocho?*</span>
 <br>
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;">*Mapping Aggregated Imports*</span>
