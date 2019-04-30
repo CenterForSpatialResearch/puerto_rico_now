@@ -1,8 +1,10 @@
+---
 layout: post
 date:   2019-04-04
-image: "/puerto_rico_now/images/decision_model/gsappup.jpg"
+image: "/puerto_rico_now/images/decision_model/munis_maria.jpg"
 title:  "Municipios at risk"
 author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesbert"
+---
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/munis_maria.jpg)
 
@@ -27,11 +29,9 @@ The following proxies will be considered to measure social vulnerability and phy
 ![Puerto Rico](/puerto_rico_now/images/decision_model/Combined_Total.png)
 
 ####Zoom to Municipios at Risk 
-![Puerto Rico](/puerto_rico_now/images/decision_model/MedianHHIncome1.png)
 
-
-
-
-
-
-
+<p float="left">
+  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="100" />
+  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="100" /> 
+  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="100" />
+</p>
