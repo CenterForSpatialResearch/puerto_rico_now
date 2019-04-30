@@ -45,7 +45,7 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 
 
 
-<span style="font-family:'Open Sans', sans-serif; font-size:18pt;"><b>Detecting the Pulse of Local Agriculture from a Distance</b></span><br>
+<span style="font-family:'Open Sans', sans-serif; font-size:18pt;"><b>Detecting the Pulse of Local Agriculture from a Distance</b></span><br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>Agro-ecological Farming</i></span><br>
 <p>Agroecology farming is a key component in Food Sovereignty. An alternative model to current industrial farming, where small farmers Agroecology is concerned with where food comes from, how it is produced, who produces it and how knowledge and skills around food and agriculture are shared. It accompanies this understanding of food and agricultural production with a social, cultural and political context – drawing a picture of our different agricultures, and celebrating their diversity. It provides a holistic understanding of our place in natural cycles and how our farming systems must adapt to and enhance the ecosystems and societies they depend on.</p>
@@ -61,7 +61,7 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 
 
 
-<span style="font-family:'Open Sans', sans-serif; font-size:18pt;"><b>A Different kind of Tourism</b></span><br>
+<span style="font-family:'Open Sans', sans-serif; font-size:18pt;"><b>A Different kind of Tourism</b></span><br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>Ways to Support…</i></span><br>
 <p>Visit a local Farm on your next trip Look for these organizations on the Map and follow them on Facebook El Departamento de La Comida, Vote on behalf of the Puerto Ricans on the island</p>
