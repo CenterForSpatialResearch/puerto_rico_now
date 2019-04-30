@@ -5,7 +5,7 @@ image: "/puerto_rico_now/images/food_soverignty/lemon.jpg"
 title:  "Food Sovereignty Project"
 author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 ---
-<span style="font-family:Helvetica; font-size:2em;">**Sancocho: A Stew of Resilience**</span>
+<h3><b>Sancocho: A Stew of Resilience</b></h3>
 
 <h4><b>Composition and History</b></h4>
 <br><br>
