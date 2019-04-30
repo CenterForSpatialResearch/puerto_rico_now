@@ -25,14 +25,24 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 <br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:18pt;"><b>Food Sovereignty without Political Sovereignty?</b></span><br>
+
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;">Define Food Sovereignty</span>
 <br>
-<p>Imports: 85% of Puerto Rico’s food is imported. What kinds of foods are being imported, how much and from where? </p><br><br>
+<p>“Food sovereignty is the right of peoples to healthy and culturally appropriate food produced through ecologically sound and sustainable methods, and their right to define their own food and agriculture systems. It puts the aspirations and needs of those who produce, distribute and consume food at the heart of food systems and policies rather than the demands of markets and corporations.” – Declaration of Nyéléni, the first global forum on food sovereignty, Mali, 2007</p>
+<br><br>
+
+<span style="font-family:'Open Sans', sans-serif; font-size:14pt;">Second Class Citizen Ranking and Colonization
+</span>
+<br>
+<p>Imports: 85% of Puerto Rico’s food is imported. What kinds of foods are being imported, how much and from where? </p>
+<br><br>
+
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;">A Government Left Behind</span>
 <br>
-<p>Imports: 85% of Puerto Rico’s food is imported. What kinds of foods are being imported, how much and from where? </p><br><br>
-<span style="font-family:'Open Sans', sans-serif; font-size:14pt;">Land Use and Monsanto</span>
-<br>
+<p>Imports: 85% of Puerto Rico’s food is imported. What kinds of foods are being imported, how much and from where? </p>
+<br><br>
+
+<span style="font-family:'Open Sans', sans-serif; font-size:14pt;">Land Use and Monsanto</span><br>
 <p>Imports: 85% of Puerto Rico’s food is imported. What kinds of foods are being imported, how much and from where? </p>
 <br><br>
 
@@ -41,7 +51,8 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;">Agro-ecological Farming</span>
 <br>
-<p>Imports: 85% of Puerto Rico’s food is imported. What kinds of foods are being imported, how much and from where? </p><br><br>
+<p>Agroecology farming is a key component in Food Sovereignty. An alternative model to current industrial farming, where small farmers Agroecology is concerned with where food comes from, how it is produced, who produces it and how knowledge and skills around food and agriculture are shared. It accompanies this understanding of food and agricultural production with a social, cultural and political context – drawing a picture of our different agricultures, and celebrating their diversity. It provides a holistic understanding of our place in natural cycles and how our farming systems must adapt to and enhance the ecosystems and societies they depend on.</p>
+<br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;">Food Businesses Rooted in Local</span>
 <br>
