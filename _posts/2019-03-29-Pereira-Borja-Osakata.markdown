@@ -18,16 +18,15 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 
 <br><br>
 <span style="font-family:'Open Sans', sans-serif; font-size:18pt;"><b>How many Countries does it take to make Sancocho?</b></span>
-<br>
-<span style="font-family:'Open Sans', sans-serif; font-size:14pt;">Mapping Aggregated Imports</span>
+<br><br>
+<span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>Mapping Aggregated Imports</i></span>
 <br>
 <p>Imports: 85% of Puerto Rico’s food is imported. What kinds of foods are being imported, how much and from where? </p>
 <br><br>
 
-<span style="font-family:'Open Sans', sans-serif; font-size:18pt;"><b>Food Sovereignty without Political Sovereignty?</b></span><br>
+<span style="font-family:'Open Sans', sans-serif; font-size:18pt;"><b>Food Sovereignty without Political Sovereignty?</b></span><br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;">Define Food Sovereignty</span><br><br>
-<br><br>
 <p>“Food sovereignty is the right of peoples to healthy and culturally appropriate food produced through ecologically sound and sustainable methods, and their right to define their own food and agriculture systems. It puts the aspirations and needs of those who produce, distribute and consume food at the heart of food systems and policies rather than the demands of markets and corporations.” – Declaration of Nyéléni, the first global forum on food sovereignty, Mali, 2007</p>
 <br><br>
 
