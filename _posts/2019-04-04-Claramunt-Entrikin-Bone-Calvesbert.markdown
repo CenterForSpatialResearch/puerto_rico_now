@@ -1,11 +1,10 @@
 ---
 layout: post
 date:   2019-04-04
-image: "/puerto_rico_now/images/decision_model/munis_maria.jpg"
+image: "/puerto_rico_now/images/decision_model/pr_GIF.gif"
 title:  "Municipios at risk in Puerto Rico"
 author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesbert"
 ---
-<div style="background-color:rgba(0, 0, 0)">
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/munis_maria.jpg)
 
@@ -32,13 +31,13 @@ The following proxies will be considered to measure social vulnerability and phy
 ####Zoom to Municipios at Risk 
 
 <p float="left">
-  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="300" />
-  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="300" /> 
-  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="300" />
+  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="200" />
+  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="200" /> 
+  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="200" />
 </p>
 
 <p float="left">
-  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="300" />
-  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="300" /> 
-  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="300" />
+  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="200" />
+  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="200" /> 
+  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="200" />
 </p>
