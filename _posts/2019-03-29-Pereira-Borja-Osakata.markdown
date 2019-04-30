@@ -26,8 +26,8 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 
 <span style="font-family:'Open Sans', sans-serif; font-size:18pt;"><b>Food Sovereignty without Political Sovereignty?</b></span><br>
 
-<span style="font-family:'Open Sans', sans-serif; font-size:14pt;">Define Food Sovereignty</span>
-<br>
+<span style="font-family:'Open Sans', sans-serif; font-size:14pt;">Define Food Sovereignty</span><br><br>
+<br><br>
 <p>“Food sovereignty is the right of peoples to healthy and culturally appropriate food produced through ecologically sound and sustainable methods, and their right to define their own food and agriculture systems. It puts the aspirations and needs of those who produce, distribute and consume food at the heart of food systems and policies rather than the demands of markets and corporations.” – Declaration of Nyéléni, the first global forum on food sovereignty, Mali, 2007</p>
 <br><br>
 
