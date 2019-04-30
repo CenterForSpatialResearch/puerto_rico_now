@@ -17,7 +17,8 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 <img src="/puerto_rico_now/images/food_soverignty/Imports-GIF.gif">
 
 <br><br>
-<span style="font-family:'Open Sans', sans-serif; font-size:18pt;">*How many Countries does it take to make Sancocho?*</span><br>
+<span style="font-family:'Open Sans', sans-serif; font-size:18pt;">*How many Countries does it take to make Sancocho?*</span>
+<br>
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;">*Mapping Aggregated Imports*</span>
 <br>
 <p>Imports: 85% of Puerto Rico’s food is imported. What kinds of foods are being imported, how much and from where? </p>
@@ -63,38 +64,6 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 <p>If you are working towards a food sovereign Puerto Rico email us at...</p><br><br>
 
 
-
-<br>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
