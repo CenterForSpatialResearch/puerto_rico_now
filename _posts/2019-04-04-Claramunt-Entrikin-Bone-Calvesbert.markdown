@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2019-04-04
-image: "/puerto_rico_now/images/decision_model/pr_GIF.gif"
+image: "/puerto_rico_now/images/decision_model/front_1.jpg"
 title:  "Municipios at risk in Puerto Rico"
 author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesbert"
 ---
