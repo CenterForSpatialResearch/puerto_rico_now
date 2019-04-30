@@ -5,7 +5,7 @@ image: "/puerto_rico_now/images/food_soverignty/lemon.jpg"
 title:  "Food Sovereignty Project"
 author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 ---
-<span style="font-family:'Open Sans', sans-serif; font-size:18pt;">Sancocho: A Stew of Resilience</span>
+<span style="font-family:'Open Sans', sans-serif; font-size:18pt;"><b>Sancocho: A Stew of Resilience</b></span>
 <br>
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;">Composition and History</span>
 <br>
@@ -17,14 +17,14 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 <img src="/puerto_rico_now/images/food_soverignty/Imports-GIF.gif">
 
 <br><br>
-<span style="font-family:'Open Sans', sans-serif; font-size:18pt;">**How many Countries does it take to make Sancocho?**</span>
+<span style="font-family:'Open Sans', sans-serif; font-size:18pt;"><b>How many Countries does it take to make Sancocho?</b></span>
 <br>
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;">Mapping Aggregated Imports</span>
 <br>
 <p>Imports: 85% of Puerto Rico’s food is imported. What kinds of foods are being imported, how much and from where? </p>
 <br><br>
 
-<span style="font-family:'Open Sans', sans-serif; font-size:18pt;">**Food Sovereignty without Political Sovereignty?**</span><br>
+<span style="font-family:'Open Sans', sans-serif; font-size:18pt;"><b>Food Sovereignty without Political Sovereignty?</b></span><br>
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;">Define Food Sovereignty</span>
 <br>
 <p>Imports: 85% of Puerto Rico’s food is imported. What kinds of foods are being imported, how much and from where? </p><br><br>
@@ -37,7 +37,7 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 <br><br>
 
 
-<span style="font-family:'Open Sans', sans-serif; font-size:18pt;">**Detecting the Pulse of Local Agriculture from a Distance**</span><br>
+<span style="font-family:'Open Sans', sans-serif; font-size:18pt;"><b>Detecting the Pulse of Local Agriculture from a Distance</b></span><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;">Agro-ecological Farming</span>
 <br>
@@ -52,13 +52,13 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 <p>In order to understand the dynamics around agriculture in Puerto Rico, we first intended to identify agricultural land use. However, surprisingly, there is no such data available, so we moved on identifying farm location. We have collected 78 farm information through cooperation with Prof. Adriana and manual web searching. Among 78 farms we identified, some of them don’t have addresses or website or some of the information wasn’t updated for a long time or some of the farms even don’t want be located, so for our sake, we decided to use 32 farm information, which has more accurate and updated data. We have been facing difficulties in accessing the data on agriculture throughout our research process, which made us difficult to narrow down our topic. 
 </p><br><br>
 
-<span style="font-family:'Open Sans', sans-serif; font-size:18pt;">**A Different kind of Tourism**</span><br>
+<span style="font-family:'Open Sans', sans-serif; font-size:18pt;"><b>A Different kind of Tourism</b></span><br>
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;">Ways to Support…</span>
 <br>
 <p>Visit a local Farm on your next trip Look for these organizations on the Map and follow them on Facebook El Departamento de La Comida, Vote on behalf of the Puerto Ricans on the island</p><br><br>
 
 
-<span style="font-family:'Open Sans', sans-serif; font-size:18pt;">**Want to see your Farm, Food Project or Local Food Business on the Map?**</span><br>
+<span style="font-family:'Open Sans', sans-serif; font-size:18pt;"><b>Want to see your Farm, Food Project or Local Food Business on the Map?</b></span><br>
 <br>
 <p>If you are working towards a food sovereign Puerto Rico email us at...</p><br><br>
 
