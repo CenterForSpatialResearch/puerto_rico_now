@@ -61,16 +61,8 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 <span style="font-family:'Open Sans', sans-serif; font-size:18pt;"><b>Want to see your Farm, Food Project or Local Food Business on the Map?</b></span><br>
 <br>
 <p>If you are working towards a food sovereign Puerto Rico email us at...</p><br><br>
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
+<br>
+<br>
 
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://shioriosa.github.io/farmmap/" style="position:absolute;top:0;left:0;width:150%;height:150%;" frameborder="0"></iframe></div>
 *Farm Profile Map*
