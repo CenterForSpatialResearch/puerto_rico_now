@@ -6,7 +6,7 @@ title:  "Recipe for Food Justice"
 author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 ---
 <span style="font-family:'Open Sans', sans-serif; font-size:16pt;"><b>Sancocho: A Stew of Resilience</b></span>
-<br>
+<br><br>
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>Composition and History</i></span>
 <br><br>
 <image src="/puerto_rico_now/images/food_soverignty/Sancocho White.png">
@@ -92,6 +92,6 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 <br>
 <br>
 
-<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://shioriosa.github.io/farmmap/" style="position:absolute;top:0;left:0;width:150%;height:150%;" frameborder="0"></iframe></div>
+<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://shioriosa.github.io/farmmap_4/" style="position:absolute;top:0;left:0;width:150%;height:150%;" frameborder="0"></iframe></div>
 *Farm Profile Map*
 
