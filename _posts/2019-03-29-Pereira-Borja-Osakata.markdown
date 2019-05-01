@@ -2,7 +2,7 @@
 layout: post
 date:   2019-03-29
 image: "/puerto_rico_now/images/food_soverignty/lemon.jpg"
-title:  "Food Sovereignty Project"
+title:  "Recipe for Food Justice"
 author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 ---
 <span style="font-family:'Open Sans', sans-serif; font-size:16pt;"><b>Sancocho: A Stew of Resilience</b></span>
@@ -41,6 +41,7 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 <img src="/puerto_rico_now/images/food_soverignty/08 CUMULATIVE.png">
 <br><br>
 <img src="/puerto_rico_now/images/food_soverignty/09 CUMULATIVE.png">
+<br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:16pt;"><b>Food Sovereignty without Political Sovereignty?</b></span><br><br>
 
