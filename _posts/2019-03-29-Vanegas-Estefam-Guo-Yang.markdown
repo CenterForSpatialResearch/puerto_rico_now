@@ -53,6 +53,7 @@ Our first scenario imagines a future in which such figures have developed Puerto
 
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo99aj902l51fmbd2lxl2mp.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 *Tourism Scenario Decision Making Map*
+
 ![LegendTest](/puerto_rico_now/images/future_scenarios/legendtest.png) 
  
 <br/><br/>
