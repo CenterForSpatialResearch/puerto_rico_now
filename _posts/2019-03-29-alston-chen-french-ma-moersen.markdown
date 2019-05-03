@@ -6,37 +6,67 @@ title:  "TREN URBANO: A MISPLACED INVESTMENT"
 author: "Don Chen, Alicia French, Ran Ma, Maria Moersen"
 ---
 
+
+<br/><br/>
+Vignette 0
+The Tren Urbano is a single-line, 10.7-mile fixed-guideway rapid transit system that serves the municipalities of San Juan, Bayamón, and Guaynabo in Puerto Rico. It opened in December 2004 and began revenue service in June 2005.
+
+Funded by federal grants, bond proceeds,TIFIA loans and other sources, the the Tren Urbano has cost $2.25 billion so far, almost 80% over budget.
+Today, the train system only attracts a third of the rides it needs to break even, and operates at only a 13.33% capacity, well under the 110,000 rail passengers planned by 2010.
+More than a decade on, the Tren Urbano is a monument to the folly, bloat and abuse that finally bankrupted Puerto Rico.
+
+
+Vignette 1 - EARLY CONCEPTION
+In 1971 Puerto Rico Planning Board and the U.S. federal government— recommended an islandwide, elevated transit system. In 1989, the Department of Transportation and Public Works officially adopts a proposal to begin design and construction.
+
+
+Vignette 2 - HUMBLE GOAL
+The project was implemented to provide a solution to the continually rising vehicle traffic levels and to bring a new mode of transportation to the most congested sections of the San Juan metropolitan area.
+
+Vignette 3 - ROLLING STOCK
+Tren Urbano includes 16 stations, a vehicle maintenance and storage facility, 74 rail cars (each 75 feet long), operations control center, traction power, train control, and communications systems.
+GUAYNABO Land Area 70.3 km2 Population 97,924
+
+Vignette 4 - FUNDING AND OPERATION 
+Federal grants - $828.8 million Bond proceeds - $637.8 million TIFIA loan - $300.0 million Other sources - $483.4 million
+
+Vignette 5 - UNDERPERFORMANCE
+Today, the train system only attracts a third of the rides it needs to break even, and operates at only a 13.33% capacity, well under the 110,000 rail passengers planned by 2010.
+
+
+
 <br/><br/>
 <span style="font-family:Helvetica; font-size:2em;">**URBAN FORM**</span>
 
 
 ![urban form of above vs below stations](/puerto_rico_now/images/debt/190503_urban form of above vs below stations.png)
-<span style="font-family:Helvetica; font-size:1em;">**Of the Train Urbano’s sixteen stations, only two are below ground. Delineated in the drawing above, whether a station is above vs below ground impacts the surrounding urban form. For example, adjacent stations, Universidad and Rio Piedras, are underground and do not have a physical presence on Avenida Juan Ponce de León; thus, the area retains density. On the contrary, Sagrado Corazon and Deportivo, run over roads, like an expressway, thus surrounded by parking and large, commercial buildings.**</span>
+Of the Train Urbano’s sixteen stations, only two are below ground. Delineated in the drawing above, whether a station is above vs below ground impacts the surrounding urban form. For example, adjacent stations, Universidad and Rio Piedras, are underground and do not have a physical presence on Avenida Juan Ponce de León; thus, the area retains density. On the contrary, Sagrado Corazon and Deportivo, run over roads, like an expressway, thus surrounded by parking and large, commercial buildings.
 
 <br/><br/>
-
-#### AVERAGE COMMUTE TIME
-<br/>
+<span style="font-family:Helvetica; font-size:2em;">**AVERAGE COMMUTE TIME**</span>
 
 Though rates of car ownership in Puerto Rico are similar to the national average (2 per household), employees in Puerto Rico have a longer commute time (27.9 minutes) versus the normal US worker (25.5 minutes). Additionally, 3.13% of the workforce in Puerto Rico have "super commutes" in excess of 90 minutes. While average travel time for the US worker has remained relatively constant (from 2013-2017), the average commute time for the Puerto Rican worker is rising steadily, begging increased efficiency in road infrastructure and wider availability of public transportation. 
 ![Average commute time](/puerto_rico_now/images/debt/190503_Average commute time.png)
 (Source: The American Community Survey, US Census Bureau) 
-<br/><br/>
 
-#### AVERAGE COMMUTE TIME BY PUERTO RICO MUNICIPALITY
+
+<br/><br/>
+<span style="font-family:Helvetica; font-size:2em;">**AVERAGE COMMUTE TIME BY PUERTO RICO MUNICIPALITY**</span>
+
 The municipalities of Toa Alta (46 min.) and Toa Baja (39 min.) in Puerto Rico have some of the longest commuting times to work of any of the counties tracked by the US Census.  Toa Alta and Toa Baja, west of San Juan, have high rates of workers commuting out of county to work:  Toa Alta 88%, Toa Baja 76%.
 ![Cost per ride per KM](/puerto_rico_now/images/debt/190503_Cost per ride per KM-01.png)
 (Source: Lumesis Inc.)
-<br><br>
 
-#### COST OF RIDE PER KILOMETER
+
+<br><br>
+<span style="font-family:Helvetica; font-size:2em;">**COST OF RIDE PER KILOMETER**</span>
 Despite the low initial cost of the Tren Urbano’s ride ticket ($1.50), when income per capita and train system length are taken into account, Tren Urbano provides the least affordable price per kilometer of travel out of 9 established public rail transit systems in the United States, highlighting the lacking value, and lacking affordability of the Tren Urbano. 
 <br><br>
 
 ![Commute time municipality](/puerto_rico_now/images/debt/190503_Commute time municipality.png)
 
 
-
-#### CRIME DENSITY
+<br><br>
+<span style="font-family:Helvetica; font-size:2em;">**CRIME DENSITY**</span>
 
 <div style="padding:65% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/al1616/cjv8d129i3wjd1ftazkl7tmr7.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWwxNjE2IiwiYSI6ImNqc200ZXQ0YTBnOWE0NG54Ym45YnYybHgifQ.t9lM7oOjsxtKmQS_BGfbdg#12.2/18.407805/-66.090904/0" style="position:absolute;top:3;left:-4;width:100%;height:100%;" frameborder="0"></iframe></div>
