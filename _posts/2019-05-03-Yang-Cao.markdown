@@ -7,7 +7,7 @@ author: "Shuo Yang and Junyu Cao"
 ---
 
 ![concept_image](/puerto_rico_now/images/infrastructure/853153644-Puerto-Rico-water-help.jpg)
-*RICARDO ARDUENGO/AFP/Getty Images*  
+<font size="1"><i>RICARDO ARDUENGO/AFP/Getty Images</i></font>
 <br/><br/>
 <br/><br/>
 <span style="font-family:Helvetica; font-size:2em;">**Introduction**</span>
@@ -48,6 +48,7 @@ This diagram shows how water treatment plants work. The situation of “No. 4”
 <iframe frameborder="0" class="juxtapose" width="100%" height="450" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=890034c0-6dc9-11e9-8106-0edaf8f81e27"></iframe>
 <font size="1"><i>https://storms.ngs.noaa.gov/storms/maria/index.html#19/18.48125/-66.67770, Google map</i></font>
 
+
 The first water treatment plant is located in rural area. The main infrastructure effect the water treatment plant non-operational sectors that is the energy system and the transportation system.
 
 
@@ -63,12 +64,14 @@ The zoom in pictures identify the sectors which affect water treatment plant. Th
 <iframe frameborder="0" class="juxtapose" width="100%" height="450" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5bfe47f6-6dd2-11e9-8106-0edaf8f81e27"></iframe>
 <font size="1"><i>https://storms.ngs.noaa.gov/storms/maria/index.html#19/18.48125/-66.67770, Google map</i></font>
 
+
 The second water treatment plant is located in the coastal area near an urban area. The main infrastructure sectors effect that is energy system.
 
 
 <br/><br/>
 ![concept_image](/puerto_rico_now/images/infrastructure/SITE 2 ZOOM-01 small.jpg)
 <font size="1"><i>https://storms.ngs.noaa.gov/storms/maria/index.html#19/18.48125/-66.67770, Google map</i></font>
+
 
 The zoom in pictures identify the sectors which affect the water treatment plant. During the hurricane, lack of energy supply effect the primary clarification section become non-operating. 
 
@@ -78,6 +81,7 @@ The zoom in pictures identify the sectors which affect the water treatment plant
 <iframe frameborder="0" class="juxtapose" width="100%" height="450" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=75e1bd08-6ddf-11e9-8106-0edaf8f81e27"></iframe>
 <font size="1"><i>https://storms.ngs.noaa.gov/storms/maria/index.html#19/18.48125/-66.67770, Google map</i></font>
 
+
 The third water treatment plant is a control group which located in the coastal area and near a solar energy station. 
 
 
@@ -85,10 +89,11 @@ The third water treatment plant is a control group which located in the coastal 
 ![concept_image](/puerto_rico_now/images/infrastructure/SITE3 ZOOM-01 small.jpg)
 <font size="1"><i>https://storms.ngs.noaa.gov/storms/maria/index.html#19/18.48125/-66.67770, Google map</i></font>
 
+
 During the hurricane, the water treatment plant still operates because of the independent power supply system via the solar energy station.
 
 <br/><br/>
-Those comparisons display the main sector effect water treatment plants is energy infrastructure. The transportation infrastructure may delay the speed of recovery.
+Those comparisons display the main sector effect water treatment plants is energy infrastructure. The transportation infrastructure may delay the speed of recovery. After Comparing the water treatment plants in different locations, We zoom out to Puerto Rico Region Scale to talk about how the water treatment system has been effect by other infrastructure networks.
 
 <br/><br/>
 <span style="font-family:Helvetica; font-size:2em;">**Infrastructure Network throughout Puerto Rico**</span>
