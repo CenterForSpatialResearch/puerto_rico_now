@@ -5,6 +5,9 @@ image: "/puerto_rico_now/images/debt/san-juan-tren-urbano-map.png"
 title:  "Debt"
 author: "Jaala Alston, Don Chen, Alicia French, Ran Ma, Maria Moersen"
 ---
+#### URBAN FORM
+
+Of the Train Urbano’s sixteen stations, only two are below ground. Delineated in the drawing above, whether a station is above vs below ground impacts the surrounding urban form. For example, adjacent stations, Universidad and Rio Piedras, are underground and do not have a physical presence on Avenida Juan Ponce de León; thus, the area retains density. On the contrary, Sagrado Corazon and Deportivo, run over roads, like an expressway, thus surrounded by parking and large, commercial buildings. 
 
 ![urban form of above vs below stations](/puerto_rico_now/images/debt/190503_urban form of above vs below stations.png)
 
