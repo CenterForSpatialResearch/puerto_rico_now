@@ -6,7 +6,7 @@ title:  "Municipios at risk in Puerto Rico"
 author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesbert"
 ---
 
-![Puerto Rico](/puerto_rico_now/images/decision_model/munis_maria.jpg)
+![Puerto Rico](/puerto_rico_now/images/decision_model/pixel_gif.gif)
 
 **RQ: What areas of Puerto Rico are at the most risk in the event of another hurricane?**
 
@@ -19,7 +19,7 @@ Disaster risk is expressed as the likelihood of loss of life, injury or destruct
 >Disasters are sometimes considered external shocks, but disaster risk results from the complex interaction between development processes that generate conditions of exposure, vulnerability and hazard. Disaster risk is therefore considered as the combination of the severity and frequency of a hazard, the numbers of people and assets exposed to the hazard, and their vulnerability to damage (UNISDR, 2015a).
 
 **Social Vulnerability Results**
-![Puerto Rico](/puerto_rico_now/images/decision_model/unweighted_final.png)
+![Puerto Rico](/puerto_rico_now/images/decision_model/social_vulnerability_GIF.gif)
 The social vulnerability indicators will be based on demographic and socioeconomic factors, including the change in populations related to migration post Hurricanes. 
 
 **Physical Vulnerability Results**
@@ -32,14 +32,14 @@ The following proxies will be considered to measure social vulnerability and phy
 
 **Municipios at Risk**
 
-![Puerto Rico](/puerto_rico_now/images/decision_model/Combined_Total.png)
+![Puerto Rico](/puerto_rico_now/images/decision_model/final_combined_gif.gif)
 
 **Zoom to Municipios at Risk**
 
 <p float="left">
-  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="200" />
-  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="200" /> 
-  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="200" />
+  <img src="/puerto_rico_now/images/decision_model/Yabucoa.gif" width="200" />
+  <img src="/puerto_rico_now/images/decision_model/canovanas_gif.gif" width="200" /> 
+  <img src="/puerto_rico_now/images/decision_model/Comeri0.gif" width="200" />
 </p>
 
 <p float="left">
