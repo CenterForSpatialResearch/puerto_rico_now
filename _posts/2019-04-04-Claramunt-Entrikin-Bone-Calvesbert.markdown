@@ -23,7 +23,7 @@ Disaster risk is expressed as the likelihood of loss of life, injury or destruct
 The social vulnerability indicators will be based on demographic and socioeconomic factors, including the change in populations related to migration post Hurricanes. 
 
 **Physical Vulnerability Results**
-![Puerto Rico](/puerto_rico_now/images/decision_model/unweighted_physical_final.png)
+![Puerto Rico](/puerto_rico_now/images/decision_model/unweighted_physical.jpg)
 
 **The Physical vulnerability index** will consider environmental conditions and impact in housing stock by using existent and new datasets. The analysis will consider “municipios” as a primary legal division of Puerto Rico. An existent **social vulnerability index (SVI)** for Puerto Rico developed in 2017 will be revised, but as it is based on census tracts is not transferable to our study. This difference is
 relevant because municipios are in charge of implementing and coordinating local government actions being a key player in the provision of services and resilience of communities. 
