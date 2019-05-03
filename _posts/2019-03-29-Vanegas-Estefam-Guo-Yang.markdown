@@ -137,6 +137,7 @@ Below is a familiar map showing the income disparity in Puerto Rico at present, 
 
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://yqjim111.github.io/conflicturbanism/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 *Future Scenario-Weekly Wage*
+![Future Average Annual Employment Legend](/puerto_rico_now/images/future_scenarios/futureaverageweeklysalaryLegend.png)
 
 <br/><br/>
 <span style="font-family:Helvetica; font-size:1.2em;">**Most Invested Municipalities under Two Scenarios**</span>
