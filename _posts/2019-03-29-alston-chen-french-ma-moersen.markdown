@@ -96,7 +96,7 @@ Despite the low initial cost of the Tren Urbano’s ride ticket ($1.50), when in
 ![Commute time municipality](/puerto_rico_now/images/debt/190503_Commute time municipality.png)
 
 <br/><br/>
-<span style="font-family:Helvetica; font-size:1.8em;">** AREA SERVED BY THE TREN URBANO**</span>
+<span style="font-family:Helvetica; font-size:1.8em;">**AREA SERVED BY THE TREN URBANO**</span>
 
 ![area served and bus map](/puerto_rico_now/images/debt/Area Served and Bus Map-01.png)
 
