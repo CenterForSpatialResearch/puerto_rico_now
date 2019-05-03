@@ -5,8 +5,6 @@ image: "/puerto_rico_now/images/groupname/csr_thumbnail.png"
 title:  "Migration Journies: Origins, Memory, & Spatial Inequality"
 author: "Isabella Lajara, Isaac Kim, Chenyan Zhou, Sanggyu Shin, Jinsook Lee, Simone Stavnsbo"
 ---
-#### Introduction
-
 The Puerto Rican exodus refers to the massive wave of migration from Puerto Rico to the US mainland following Hurricane Maria. While migration from the island is a constant fact of life for Puerto Ricans, the hurricane brought a new urgency to an already pressing migration crisis.
 
 Many Puerto Ricans migrated to the U.S. temporarily during and after the hurricane. Some settled more permanently while others chose to return to Puerto Rico, even if the conditions were not yet back to pre-hurricane standards.
@@ -24,6 +22,8 @@ In order to support our thesis, we decided to gather our data through interviews
 What we found is our case studies from more urban areas tended to have greater financial resources that allowed them to return to Puerto Rico after Hurricane Maria. Those in rural areas with lower financial resources cited the crumbling economy as a reason for their migration away from Puerto Rico being permanent. A common factor that affected all our case studies was the presence of strong familial ties, that kept firm connections to Puerto Rico, driving some with greater financial resources to stay on the island.
 
 #### FEO & LINDA
+
+![Feo & Linda Timeline](/puerto_rico_now/images/migration/Timeline_Final-04.jpg)
 
 Feo and Linda, the oldest of our case studies at seventy five and seventy two, respectfully, are from the rural Guaynabo. Our thesis examines why some people migrate temporarily and others permanently, so we interviewed the older Feo and Linda about their migratory experiences. Coming from a more rural working class area and being retired, we expected Feo and Linda to not want to migrate from Puerto Rico, or at least not want to migrate permanently, due to their age. This was confirmed by Feo and Linda who cited their reason for returning to Puerto Rico after Hurricane Maria to their family who still reside in Guaynabo. With their older age and retired status, they did not want to leave their home that holds so much history and sentimental value. Furthermore, they are not searching for jobs in Puerto Rico’s crumbling economy, and are thus less affected by their rural context than others we have interviewed.
 
