@@ -13,7 +13,7 @@ In September 17 of 2017, hurricane Maria struck the island of Puerto Rico,  leav
 Regardless of income, everyone suffered from the system failure equally. Priority to restore power was given to urban centers, despite the fact that smaller rural villages were closer geographically to power plants. In total, it took up to 11 months for the island to fully recover its energy infrastructure.
 Those who could leave took refuge away from the island. About 6% of the population fled the island in face of Hurricane Maria. However, those who stayed experienced the impact of extended periods of outage. 
 
-![Bivariant Diagram 01](/puerto_rico_now/images/outage/bivariant_diagram_01.jpg)
+![Bivariant Diagram 01](/puerto_rico_now/images/outage/bivariant_diagram_01.png)
 
 The complete failure of the energy infrastructure combined with the lack of government support stimulated a new wave of enthusiasm for micro-grid solar energy systems due to the vast solar potential encompassing the entire island.
 Many saw solar as the future of the island’s energy landscape. In 2019, as part of a broader package of energy reforms, the Puerto Rico government passed a bill to reach 100% renewable energy by 2050, with  interim goals of 40% renewables by 2025 and 50% by 2040. However, this goal seems far from reach as the government keeps investing mostly in natural gas systems instead of renewable energy. So, it comes down to the citizens themselves to adapt to a off-grid solar system.
