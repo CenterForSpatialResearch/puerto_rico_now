@@ -3,7 +3,7 @@ layout: post
 date:   2019-03-20
 image: "/puerto_rico_now/images/debt/san-juan-tren-urbano-map.png"
 title:  "Debt"
-author: "Jaala Alston, Don Chen, Alicia French, Ran Ma, Maria Moersen"
+author: "Don Chen, Alicia French, Ran Ma, Maria Moersen"
 ---
 #### URBAN FORM
 
