@@ -7,17 +7,14 @@ author: "Don Chen, Alicia French, Ran Ma, Maria Moersen"
 ---
 
 <br/><br/>
-<span style="font-family:Helvetica; font-size:2em;">**[TIMELINE](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1DWOCwES0SCjHYVse9o3VgRY2Wro5m9taLy-nTs7OaaQ&font=OpenSans-GentiumBook&lang=en&hash_bookmark=true&initial_zoom=2&height=650#event-tren-urbano-misplaced-investment) **</span>
-
-<br/><br/>
+<span style="font-family:Helvetica; font-size:1.8em;">[TIMELINE](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1DWOCwES0SCjHYVse9o3VgRY2Wro5m9taLy-nTs7OaaQ&font=OpenSans-GentiumBook&lang=en&hash_bookmark=true&initial_zoom=2&height=650#event-tren-urbano-misplaced-investment) </span>
 
 ![Vignette 0](/puerto_rico_now/images/debt/Vignette0_Main .png)
+INTRODUCTION
 The Tren Urbano is a single-line, 10.7-mile fixed-guideway rapid transit system that serves the municipalities of San Juan, Bayamón, and Guaynabo in Puerto Rico. It opened in December 2004 and began revenue service in June 2005.
-
 Funded by federal grants, bond proceeds,TIFIA loans and other sources, the the Tren Urbano has cost $2.25 billion so far, almost 80% over budget.
 Today, the train system only attracts a third of the rides it needs to break even, and operates at only a 13.33% capacity, well under the 110,000 rail passengers planned by 2010.
 More than a decade on, the Tren Urbano is a monument to the folly, bloat and abuse that finally bankrupted Puerto Rico.
-
 
 ![Vignette 1](/puerto_rico_now/images/debt/Vignette1_Early Conception.png)
 EARLY CONCEPTION
@@ -35,7 +32,6 @@ GUAYNABO Land Area 70.3 km2 Population 97,924
 ![Vignette 4](/puerto_rico_now/images/debt/Vignette4_Funding and Operation  .png)
 FUNDING AND OPERATION 
 Federal grants - $828.8 million Bond proceeds - $637.8 million TIFIA loan - $300.0 million Other sources - $483.4 million
-
 
 ![Vignette 5](/puerto_rico_now/images/debt/Vignette5_Underperformance.png)
 UNDERPERFORMANCE
