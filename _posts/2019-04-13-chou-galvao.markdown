@@ -84,5 +84,8 @@ All you need to do to use one is replace the url that is between the two " ". He
 
 test test
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe frameborder="0" class="juxtapose" width="100%" height="100%" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=35c476c8-6d46-11e9-8106-0edaf8f81e27"></iframe></div>
+<div style="padding:10% 0 0 0;position:relative;"><iframe frameborder="0" class="juxtapose" width="100%" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=35c476c8-6d46-11e9-8106-0edaf8f81e27"></iframe></div>
+
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe frameborder="0" class="juxtapose" width="100%" height="100%" src="https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/rchou81/CU_Kepler/master/keplergl.json"></iframe></div>
 
