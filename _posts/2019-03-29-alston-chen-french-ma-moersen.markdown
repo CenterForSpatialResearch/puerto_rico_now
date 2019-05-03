@@ -15,4 +15,4 @@ Of the Train Urbano’s sixteen stations, only two are below ground. Delineated 
 
 ![description of image](/puerto_rico_now/images/debt/san-juan-tren-urbano-map.png)
 
-<div style="padding:65% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/al1616/cjuvre6br4e2r1gpj0egk3tga.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWwxNjE2IiwiYSI6ImNqc200ZXQ0YTBnOWE0NG54Ym45YnYybHgifQ.t9lM7oOjsxtKmQS_BGfbdg#12.0/18.428195/-66.103666/0" style="position:absolute;top:3;left:-4;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div style="padding:65% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/al1616/cjv8d129i3wjd1ftazkl7tmr7.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWwxNjE2IiwiYSI6ImNqc200ZXQ0YTBnOWE0NG54Ym45YnYybHgifQ.t9lM7oOjsxtKmQS_BGfbdg#12.2/18.401426/-66.103995/0" style="position:absolute;top:3;left:-4;width:100%;height:100%;" frameborder="0"></iframe></div>
