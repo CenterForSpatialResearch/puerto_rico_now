@@ -18,18 +18,15 @@ Spatial inequality is one of the factors informing migration journeys. Not only 
 
 
 ![Overview map of Puerto Rico & Interviewee Municipalities](/puerto_rico_now/images/migration/conflict urbanism_datadriven-01.jpg)
-<font size="1"><i>This is an overview map, showing all of Puerto Rico, with its geographical topography. This shows the terrain of rural areas, which are often more poverty stricken in the mountainous areas. The origin municipalities of our interviewees are highlighted.</i></font>
-
-
+<font size="2"><i>This is an overview map, showing all of Puerto Rico, with its geographical topography. This shows the terrain of rural areas, which are often more poverty stricken in the mountainous areas. The origin municipalities of our interviewees are highlighted.</i></font>
+<br/><br/>
 
 In effect, this means that a migration from a underserviced, rural area in Puerto Rico to the U.S. mainland is a very different experience than migrating from urban Puerto Rico. We propose that this difference can be a determining factor when people decide to migrate permanently or temporarily -- people from rural Puerto Rico are more likely to migrate permanently.
 
 
-
 ![Overlay Maps of Population, Unemployment, & Poverty](/puerto_rico_now/images/migration/conflict urbanism_datadriven-02.jpg)
-<font size="1"><i>These maps of the island show unemployment, poverty and population across Puerto Rico. Population is divided into municipalities, while the unemployment and poverty maps are further divided into neighborhoods (barrios). These maps show how poverty is spatially distributed in Puerto Rico. Rural areas, which are less populous, are generally more poverty stricken. The unemployment rates differ less across municipalities, however the highest rates of unemployment are still mostly situated in rural areas.</i></font>
-
-
+<font size="2"><i>These maps of the island show unemployment, poverty and population across Puerto Rico. Population is divided into municipalities, while the unemployment and poverty maps are further divided into neighborhoods (barrios). These maps show how poverty is spatially distributed in Puerto Rico. Rural areas, which are less populous, are generally more poverty stricken. The unemployment rates differ less across municipalities, however the highest rates of unemployment are still mostly situated in rural areas.</i></font>
+<br/><br/>
 
 
 In order to support our thesis, we decided to gather our data through interviews, a process that has allowed us to put a face to the migration stories. Through nine case studies of people of varying ages, socioeconomic statuses, differing neighborhoods, and personal connections to migration out of Puerto Rico, we were able to compare and contrast migration stories to create a narrative surrounding the importance of the place of origin in migration journeys. Seven of our cases are based on our own interviews, while two (Eunice and Juanyri) are interviews found online, both from the Miami Herald [here](https://www.miamiherald.com/news/nation-world/national/article218228870.html) and [here](https://www.miamiherald.com/news/local/education/article187409178.html).
@@ -103,6 +100,13 @@ Joanyri was a english teacher at a local school in Arecibo. Following the hurric
 
 
 #### FINDINGS & CONCLUSIONS
+
+![Schools and Hospitals in Municipalities](/puerto_rico_now/images/migration/conflict urbanism_datadriven-03.jpg)
+![Unemployment and Povery in Municipalities](/puerto_rico_now/images/migration/conflict urbanism_datadriven-04.jpg)
+![Compiled View of Municipalities](/puerto_rico_now/images/migration/conflict urbanism_datadriven-05.jpg)
+<font size="2"><i>These images focus on the individual municipalities, arranged on a scale of rural to urban based on service and infrastructure availability. The interviewees from these municipalities are pictured below the corresponding municipality. The images show the placement and amount of schools, colleges and hospitals. Poverty rates are shown by neighborhood. This allows us to compare the municipalities to each other, using some key indicators of economic conditions and infrastructure. The images demonstrate how the more rural municipalities are also more poverty stricken, and the mountainous regions within the municipalities are more poverty stricken compared to other areas. Hospitals and schools are generally more available in urban municipalities and in the coastal areas of the individual municipalities.
+</i></font>
+<br/><br/>
 
 The data collected through our interviews support our thesis, as all the interviewees from rural areas have indeed decide not to return to Puerto Rico, but migrate permanently. Francheska, Nilsa and Dilberto were already college educated, or receiving a college education. However, the lack of job opportunities they met before the hurricane, which was only exasperated further after the hurricane, caused them to migrate permanently out of Puerto Rico, searching for a higher quality of life. Feo and Linda are the exception. They, as mentioned above, present an unusual case, as they are less affected by the factors causing many other rural people to permanently migrate.
 
