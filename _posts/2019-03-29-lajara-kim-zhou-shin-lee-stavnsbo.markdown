@@ -14,7 +14,7 @@ The dominating narratives surrounding the migration focus on integration of the 
 This is the central question of our project - examining why some people migrate temporarily and others permanently, taking our point of departure in the origins of migrants not the destination.
 
 Spatial inequality is one of the factors informing migration journeys. Not only the spatial inequality between the U.S. mainland and the island, but also internally in Puerto Rico. Urban areas are often much more affluent, have better infrastructure and better access to essential services compared to rural areas. Cities, in particular the capital San Juan, have been able to bounce back from the hurricane faster and better than rural areas. The demographic divide is also startling -- poverty is more prevalent in rural areas, and few working class people can afford to live in urban areas.
-
+<br/>
 
 
 ![Overview map of Puerto Rico & Interviewee Municipalities](/puerto_rico_now/images/migration/conflict urbanism_datadriven-01.jpg)
@@ -22,7 +22,7 @@ Spatial inequality is one of the factors informing migration journeys. Not only 
 <br/><br/>
 
 In effect, this means that a migration from a underserviced, rural area in Puerto Rico to the U.S. mainland is a very different experience than migrating from urban Puerto Rico. We propose that this difference can be a determining factor when people decide to migrate permanently or temporarily -- people from rural Puerto Rico are more likely to migrate permanently.
-
+<br/>
 
 ![Overlay Maps of Population, Unemployment, & Poverty](/puerto_rico_now/images/migration/conflict urbanism_datadriven-02.jpg)
 <font size="2"><i>These maps of the island show unemployment, poverty and population across Puerto Rico. Population is divided into municipalities, while the unemployment and poverty maps are further divided into neighborhoods (barrios). These maps show how poverty is spatially distributed in Puerto Rico. Rural areas, which are less populous, are generally more poverty stricken. The unemployment rates differ less across municipalities, however the highest rates of unemployment are still mostly situated in rural areas.</i></font>
@@ -100,9 +100,11 @@ Joanyri was a english teacher at a local school in Arecibo. Following the hurric
 <br/><br/>
 
 #### FINDINGS & CONCLUSIONS
-
+<br/>
 ![Schools and Hospitals in Municipalities](/puerto_rico_now/images/migration/conflict urbanism_datadriven-03.jpg)
+<br/>
 ![Unemployment and Povery in Municipalities](/puerto_rico_now/images/migration/conflict urbanism_datadriven-04.jpg)
+<br/>
 ![Compiled View of Municipalities](/puerto_rico_now/images/migration/conflict urbanism_datadriven-05.jpg)
 <font size="2"><i>These images focus on the individual municipalities, arranged on a scale of rural to urban based on service and infrastructure availability. The interviewees from these municipalities are pictured below the corresponding municipality. The images show the placement and amount of schools, colleges and hospitals. Poverty rates are shown by neighborhood. This allows us to compare the municipalities to each other, using some key indicators of economic conditions and infrastructure. The images demonstrate how the more rural municipalities are also more poverty stricken, and the mountainous regions within the municipalities are more poverty stricken compared to other areas. Hospitals and schools are generally more available in urban municipalities and in the coastal areas of the individual municipalities.
 </i></font>
