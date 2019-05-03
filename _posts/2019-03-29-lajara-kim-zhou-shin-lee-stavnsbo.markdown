@@ -91,9 +91,9 @@ All of the returning families have framed their decision as being “for the fam
 
 This is represented spatially and socioeconomically, with case studies from rural areas being left with few other options but permanent migration, especially if they were working class with no employment opportunities on the island. Those from more suburban and urban areas with a higher socioeconomic status, found themselves with the luxury of being able to choose freely to migrate permanently or return to Puerto Rico post hurricane. Many families moved back without their college aged children, who migrated in the hopes of receiving a better education than what was possible in Puerto Rico.
 
-![description of image](/puerto_rico_now/images/groupname/test2-.png)
-![description of image](/puerto_rico_now/images/groupname/test2-.png)
-![description of image](/puerto_rico_now/images/groupname/test2-.png)
-![description of image](/puerto_rico_now/images/groupname/test2-.png)
+![description of image](/puerto_rico_now/images/migration/Dilberto.jpg)
+![description of image](/puerto_rico_now/images/migration/Francheska.jpg)
+![description of image](/puerto_rico_now/images/migration/Laurel.jpg)
+![description of image](/puerto_rico_now/images/migration/Nilsa.jpg)
 
 After speaking to our seven interviewees, an apparent theme is the sense of attachment to Puerto Rico. Despite making active choices to migrate, whether permanently or temporarily, they all shared a sentimental connection to their homelands and communities. These memories are especially painful for those who feel they cannot return to Puerto Rico. People like Francheska cited missing familiar faces waving hello to her and her son and Dilberto misses the easy access he had to family members, often just a drive up the street. Even those whose families returned to Puerto Rico miss places that previously held sentimental value but were destroyed by the hurricane. Laurel’s connection to Condado, where she went to school and spent weekends with friends, felt severed due to the amount of damage. She said, “it doesn’t even feel like home.” Nilsa, who moved thousands of miles away from the warm Island of Puerto Rico to the colder Pennsylvania, misses the empanadillas and waterfalls that were part of her childhood. For those not too far away, like Mariettani and Feo and Linda, who went to the Dominican Republic and Florida, where the physical distance is smaller than in Nilsa’s case, memories of the home they once knew are forever altered having seen the damage done to neighboring homes and schools.
