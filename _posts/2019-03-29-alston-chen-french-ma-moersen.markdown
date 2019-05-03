@@ -46,6 +46,7 @@ Today, the train system only attracts a third of the rides it needs to break eve
 <span style="font-family:Helvetica; font-size:1.8em;">**PREVIOUS TRAIN LINES IN PUERTO RICO**</span>
 
 Under Spanish rule, a network of trains was constructed on the island that was for the transportation of goods and labor around the island (in that time, sugar cane was the major good transported). These railways continued to be in use as Puerto Rico transitioned to American rule in 1898 and continued for the first half of the 20th century, in this pre-industrial era before Operation Bootstrap and its accompanying large-scale switch to industrial forms of labor. 
+
 ![1900PRRail](/puerto_rico_now/images/debt/1900PRRail1.jpg)
 (Source: RAILFAN GUIDES of the U.S.)
 
