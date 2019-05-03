@@ -15,7 +15,7 @@ The Tren Urbano is a single-line, 10.7-mile fixed-guideway rapid transit system 
 Funded by federal grants, bond proceeds,TIFIA loans and other sources, the the Tren Urbano has cost $2.25 billion so far, almost 80% over budget.
 Today, the train system only attracts a third of the rides it needs to break even, and operates at only a 13.33% capacity, well under the 110,000 rail passengers planned by 2010.
 More than a decade on, the Tren Urbano is a monument to the folly, bloat and abuse that finally bankrupted Puerto Rico.
-
+<br/>
 
 ![Vignette 1](/puerto_rico_now/images/debt/Vignette1_Early Conception.png)
 EARLY CONCEPTION
