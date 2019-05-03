@@ -86,4 +86,4 @@ test test
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=35c476c8-6d46-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe></div>
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://kepler.gl/demo?mapUrl=https://raw.githubusercontent.com/rchou81/CU_Kepler/master/keplergl.json" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://rchou81.github.io/CU_Kepler/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
