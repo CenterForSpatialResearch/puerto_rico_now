@@ -44,7 +44,6 @@ Today, the train system only attracts a third of the rides it needs to break eve
 <br/><br/>
 <span style="font-family:Helvetica; font-size:1.5em;">**URBAN FORM**</span>
 
-
 ![urban form of above vs below stations](/puerto_rico_now/images/debt/190503_urban form of above vs below stations.png)
 Of the Train Urbano’s sixteen stations, only two are below ground. Delineated in the drawing above, whether a station is above vs below ground impacts the surrounding urban form. For example, adjacent stations, Universidad and Rio Piedras, are underground and do not have a physical presence on Avenida Juan Ponce de León; thus, the area retains density. On the contrary, Sagrado Corazon and Deportivo, run over roads, like an expressway, thus surrounded by parking and large, commercial buildings.
 
@@ -66,6 +65,7 @@ The municipalities of Toa Alta (46 min.) and Toa Baja (39 min.) in Puerto Rico h
 
 <br><br>
 <span style="font-family:Helvetica; font-size:2em;">**COST OF RIDE PER KILOMETER**</span>
+
 Despite the low initial cost of the Tren Urbano’s ride ticket ($1.50), when income per capita and train system length are taken into account, Tren Urbano provides the least affordable price per kilometer of travel out of 9 established public rail transit systems in the United States, highlighting the lacking value, and lacking affordability of the Tren Urbano. 
 <br><br>
 
