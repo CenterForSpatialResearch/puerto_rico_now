@@ -17,17 +17,20 @@ Those who could leave took refuge away from the island. About 6% of the populati
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
 
+
 #### **The Push Towards Solar Energy** 
 
 The complete failure of the energy infrastructure combined with the lack of government support stimulated a new wave of enthusiasm for micro-grid solar energy systems due to the vast potential encompassing the majority of the island. In 2018, as part of a broader package of energy reforms, the Puerto Rico government passed a bill to reach 100% renewable energy by 2050, with interim goals of 40% renewables by 2025 and 50% by 2040. However, this goal seems far from reach as, in the 2016-2017 fiscal year, **only 2%** of the island’s energy came from renewable sources, and *PREPA* (Puerto Rico Electric Power Authority) still heavily invests in importing natural gas. So, it comes down to the citizens themselves to adapt to an off-grid solar system.
 
 ![PREPA Diagram](/puerto_rico_now/images/outage/prepa_graph_04.png)
 
-While a solar system has significant benefits, reducing high prices from imported fossil fuels, as well as building on resilience from extreme weather and vulnerable transmission infrastructure, the solar system technology is still out of the reach of the majority of Puerto Ricans. The current prices to install a household solar system range around **20.000 - 30.000 USD**(quotes from for 3 to 5 kilowatts of photovoltaic (PV) capacity, with around 10 kilowatt-hours of usable storage¹), as foreign private companies such as *Tesla* and *Sunnova* invade Puerto Rican territory. 
+While a solar system has significant benefits, reducing high prices from imported fossil fuels, as well as building on resilience from extreme weather and vulnerable transmission infrastructure, the solar system technology is still out of the reach of the majority of Puerto Ricans. The current prices to install a household solar system range around **20.000 - 30.000 USD** (quotes from for 3 to 5 kilowatts of photovoltaic (PV) capacity, with around 10 kilowatt-hours of usable storage¹), as foreign private companies such as *Tesla* and *Sunnova* invade Puerto Rican territory. 
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+
 
 As communities invest in solar under the threat of another devastating hurricane, we pose the question: **who will have the right to solar electricity in the face of future power outages?**
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/290575503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
 
 #### **Identifying a Future Pattern of Access to Solar Electricity** 
 
@@ -42,17 +45,20 @@ While income level plays a role in determining who can afford a solar micro-grid
 
 Using a method of *Bivariate Choropleth Maps*, we study the relationship between **Median Household Income** (in the past 12 months) and the **Solar Potential** measured by the **Direct Normal Irradiance** (DNI) data to determine who will, most likely, have access to electricity in face of future storms  
 
-![Bivariant Diagram 01](/puerto_rico_now/images/outage/bivariant_diagram_01.png)
-
 ![Bivariant Diagram 02](/puerto_rico_now/images/outage/method_matrix-01.png)
 
 ![Bivariant Diagram 03](/puerto_rico_now/images/outage/method_matrix-02.png)
 
-#### **Call for Action** 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://rchou81.github.io/CU_Bivariance_Map/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 ![Matrix_Percentage](/puerto_rico_now/images/outage/matrix_percentage.png)
+
+
+
+#### **Call for Action** 
+
+![Island Without Access](/puerto_rico_now/images/outage/landscape_no_access.jpg)
 
 While many see solar as the future of Puerto Rico, over **64%** of households cannot afford these micro-grids, while **34%** will have limited access needing to invest around ⅓ of their household income into solar. A very few **1.6%** of the island will configure the new landscape of those who will likely have access to immediate electricity in face future power outages.
 
