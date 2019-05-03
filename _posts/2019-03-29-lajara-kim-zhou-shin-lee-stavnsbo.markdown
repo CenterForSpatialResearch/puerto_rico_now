@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2019-05-03
-image: "/puerto_rico_now/images/groupname/csr_thumbnail.png"
+image: "/puerto_rico_now/images/migration/immigration_banner2-01.jpg"
 title:  "Migration Journies: Origins, Memory, & Spatial Inequality"
 author: "Isabella Lajara, Isaac Kim, Chenyan Zhou, Sanggyu Shin, Jinsook Lee, Simone Stavnsbo"
 ---
@@ -136,6 +136,6 @@ Nilsa, who moved thousands of miles away from the warm Island of Puerto Rico to 
 
 For those not too far away, like Mariettani and Feo and Linda, who went to the Dominican Republic and Florida, where the physical distance is smaller than in Nilsa’s case, memories of the home they once knew are forever altered having seen the damage done to neighboring homes and schools.
 
-#### REFERENCES
+#### FINDINGS & CONCLUSIONS
 
 To be added
