@@ -8,7 +8,8 @@ author: "Don Chen, Alicia French, Ran Ma, Maria Moersen"
 
 
 <br/><br/>
-Vignette 0
+
+![Vignette 0](/puerto_rico_now/images/debt/Vignette0_Main .png)
 The Tren Urbano is a single-line, 10.7-mile fixed-guideway rapid transit system that serves the municipalities of San Juan, Bayamón, and Guaynabo in Puerto Rico. It opened in December 2004 and began revenue service in June 2005.
 
 Funded by federal grants, bond proceeds,TIFIA loans and other sources, the the Tren Urbano has cost $2.25 billion so far, almost 80% over budget.
@@ -16,27 +17,32 @@ Today, the train system only attracts a third of the rides it needs to break eve
 More than a decade on, the Tren Urbano is a monument to the folly, bloat and abuse that finally bankrupted Puerto Rico.
 
 
-Vignette 1 - EARLY CONCEPTION
+![Vignette 1](/puerto_rico_now/images/debt/Vignette1_Early Conception.png)
+EARLY CONCEPTION
 In 1971 Puerto Rico Planning Board and the U.S. federal government— recommended an islandwide, elevated transit system. In 1989, the Department of Transportation and Public Works officially adopts a proposal to begin design and construction.
 
-
-Vignette 2 - HUMBLE GOAL
+![Vignette 2](/puerto_rico_now/images/debt/Vignette2_Humble Goal .png)
+HUMBLE GOAL
 The project was implemented to provide a solution to the continually rising vehicle traffic levels and to bring a new mode of transportation to the most congested sections of the San Juan metropolitan area.
 
-Vignette 3 - ROLLING STOCK
+![Vignette 3](/puerto_rico_now/images/debt/Vignette3_Rolling Stock .png)
+ROLLING STOCK
 Tren Urbano includes 16 stations, a vehicle maintenance and storage facility, 74 rail cars (each 75 feet long), operations control center, traction power, train control, and communications systems.
 GUAYNABO Land Area 70.3 km2 Population 97,924
 
-Vignette 4 - FUNDING AND OPERATION 
+![Vignette 4](/puerto_rico_now/images/debt/Vignette4_Funding and Operation  .png)
+FUNDING AND OPERATION 
 Federal grants - $828.8 million Bond proceeds - $637.8 million TIFIA loan - $300.0 million Other sources - $483.4 million
 
-Vignette 5 - UNDERPERFORMANCE
+
+![Vignette 5](/puerto_rico_now/images/debt/Vignette5_Underperformance.png)
+UNDERPERFORMANCE
 Today, the train system only attracts a third of the rides it needs to break even, and operates at only a 13.33% capacity, well under the 110,000 rail passengers planned by 2010.
 
 
 
 <br/><br/>
-<span style="font-family:Helvetica; font-size:2em;">**URBAN FORM**</span>
+<span style="font-family:Helvetica; font-size:1.5em;">**URBAN FORM**</span>
 
 
 ![urban form of above vs below stations](/puerto_rico_now/images/debt/190503_urban form of above vs below stations.png)
