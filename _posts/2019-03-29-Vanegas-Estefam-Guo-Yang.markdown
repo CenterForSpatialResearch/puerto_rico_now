@@ -53,8 +53,6 @@ Our first scenario imagines a future in which such figures have developed Puerto
 
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo99aj902l51fmbd2lxl2mp.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 *Tourism Scenario Decision Making Map*
-
-![LegendTest](/puerto_rico_now/images/future_scenarios/legendtest.png) 
  
 <br/><br/>
 We began our investigation by imagining ourselves in the role of someone who possesses sufficient capital and desire to develop in Puerto Rico, and then constructed this map to see where the greatest incentive lay for our venture. It was necessary to first consider the zoning regulations of the island. Revitalization areas are regions designated by the government of Puerto Rico as badly in need of development. As such, these places are offered up to developers with significant tax breaks. Naturally Protected Areas and Difficult Development areas are regions where development is generally prohibited by law or discouraged by challenging geography. In addition, areas that have undergone significant depopulation following the hurricanes were considered using data from the Humanitarian Data Exchange. People often leave Puerto Rico for multiple reasons; resources can run out, unemployment can soar, and properties can be foreclosed. Such areas, however, present an advantage to investors who can buy up cheap and develop without the obstacle of displacing many existing inhabitants.  
@@ -73,6 +71,8 @@ Finally, we considered the debt of each municipality as reported by the Puerto R
  
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo9rawabonc1flpiitc01fg.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 *Economics Index* 
+
+![LegendTest](/puerto_rico_now/images/future_scenarios/economicsindexLegend.png) 
 
 <br/><br/>
 Together, these factors determined regions in which we expect to receive the most American investment. Lighter municipalities--largely located within the interior--will likely see further unemployment and lower incomes, prompting increased migration. Areas on the periphery may be gentrified or developed in other ways to meet the needs of coastal regions and urban centers where the vast majority of Puerto Rico’s wealth is now concentrated. Puerto Ricans who remain employed in these rich, swanky municipalities will largely be occupying jobs in the service sector, with a small population of local mid-level management and an even smaller class of local investors and profiteers.  
