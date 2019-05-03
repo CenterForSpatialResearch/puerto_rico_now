@@ -20,10 +20,9 @@ Those who could leave took refuge away from the island. About 6% of the populati
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/334064707?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
 
 &nbsp;
-
 &nbsp;
-
 ---
+&nbsp;
 #### **The Push Towards Solar Energy** 
 
 The complete failure of the energy infrastructure combined with the lack of government support stimulated a new wave of enthusiasm for micro-grid solar energy systems due to the vast potential encompassing the majority of the island. In 2018, as part of a broader package of energy reforms, the Puerto Rico government passed a bill to reach 100% renewable energy by 2050, with interim goals of 40% renewables by 2025 and 50% by 2040. However, this goal seems far from reach as, in the 2016-2017 fiscal year, **only 2%** of the island’s energy came from renewable sources, and *PREPA* (Puerto Rico Electric Power Authority) still heavily invests in importing natural gas. So, it comes down to the citizens themselves to adapt to an off-grid solar system.
@@ -39,8 +38,8 @@ As communities invest in solar under the threat of another devastating hurricane
 
 &nbsp;
 &nbsp;
-
-
+---
+&nbsp;
 #### **Identifying a Future Pattern of Access to Solar Electricity - Method** 
 
 The investment in solar energy will change the patterns of a power outage and its recovery. In future hurricanes, the outage will no longer affect everyone and has the potential to further accentuate spatial inequality between those who can and cannot afford a micro-grid system.
@@ -51,13 +50,13 @@ While income level plays a role in determining who can afford a solar micro-grid
 
 ![DNI Map](/puerto_rico_now/images/outage/dni_map.png)
 
-
+&nbsp;
 Using a method of ***Bivariate Choropleth Maps***, we study the relationship between **Median Household Income** (in the past 12 months) and the **Solar Potential** measured by the **Direct Normal Irradiance** (DNI) data to determine who will, most likely, have access to electricity in face of future storms  
 
 ![Bivariant Diagram 02](/puerto_rico_now/images/outage/method_matrix-01.png)
 
  *BUILDING A RELATIONSHIP BETWEEN INCOME AND SOLAR POTENTIAL*
-
+&nbsp;
 ![Bivariant Diagram 03](/puerto_rico_now/images/outage/method_matrix-02.png)
 
 *THRESHOLD OF SYSTEM FEASIBILITY AND AFFORDABILITY*
@@ -68,7 +67,8 @@ Using a method of ***Bivariate Choropleth Maps***, we study the relationship bet
 
 &nbsp;
 &nbsp;
-
+---
+&nbsp;
 #### **Identifying a Future Pattern of Access to Solar Electricity - Conclusion** 
 
 ![Island Without Access](/puerto_rico_now/images/outage/no_access_landscape-01.jpg)
@@ -96,6 +96,10 @@ With this latent scenario in which solar energy micro-grids are claimed to be th
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=84d80374-6d5a-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe></div>
 
+&nbsp;
+&nbsp;
+---
+&nbsp;
 #### **Call for Action**
 
 Our call for action builds on a two-fold strategy, 1) government implement guidelines and subsidies and allocate *FEMA* funds to regulate and lower the price of micro-grid solar systems in Puerto Rico, 2) for communities and government to act together to build solar grids in public and civic facilities, such as hospitals, care centers, and schools to turn them into beacons of energy distribution,  amplifying the reach of solar for those that live in areas with low solar capacity. This strategy builds on the existing work of several local organizations such as *Casa Pueblo* and *Verdifica* which been installing community micro-grids in key public infrastructures, so citizens can have access to power when in need.     
