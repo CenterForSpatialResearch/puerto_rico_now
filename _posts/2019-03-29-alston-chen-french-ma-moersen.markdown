@@ -6,6 +6,8 @@ title:  "TREN URBANO: A MISPLACED INVESTMENT"
 author: "Don Chen, Alicia French, Ran Ma, Maria Moersen"
 ---
 
+<br/><br/>
+<span style="font-family:Helvetica; font-size:2em;">**[TIMELINE](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1DWOCwES0SCjHYVse9o3VgRY2Wro5m9taLy-nTs7OaaQ&font=OpenSans-GentiumBook&lang=en&hash_bookmark=true&initial_zoom=2&height=650#event-tren-urbano-misplaced-investment) **</span>
 
 <br/><br/>
 
@@ -39,6 +41,11 @@ Federal grants - $828.8 million Bond proceeds - $637.8 million TIFIA loan - $300
 UNDERPERFORMANCE
 Today, the train system only attracts a third of the rides it needs to break even, and operates at only a 13.33% capacity, well under the 110,000 rail passengers planned by 2010.
 
+<br/><br/>
+<span style="font-family:Helvetica; font-size:2em;">**PREVIOUS TRAIN LINES IN PUERTO RICO**</span>
+Under Spanish rule, a network of trains was constructed on the island that was for the transportation of goods and labor around the island (in that time, sugar cane was the major good transported). These railways continued to be in use as Puerto Rico transitioned to American rule in 1898 and continued for the first half of the 20th century, in this pre-industrial era before Operation Bootstrap and its accompanying large-scale switch to industrial forms of labor. 
+![](/puerto_rico_now/images/debt/Vignette4_Funding and Operation  .png)
+(RAILFAN GUIDES of the U.S.)
 
 
 <br/><br/>
