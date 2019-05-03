@@ -43,10 +43,21 @@ UNDERPERFORMANCE
 Today, the train system only attracts a third of the rides it needs to break even, and operates at only a 13.33% capacity, well under the 110,000 rail passengers planned by 2010.
 
 <br/><br/>
-<span style="font-family:Helvetica; font-size:2em;">**PREVIOUS TRAIN LINES IN PUERTO RICO**</span>
+<span style="font-family:Helvetica; font-size:1.8em;">**PREVIOUS TRAIN LINES IN PUERTO RICO**</span>
+
 Under Spanish rule, a network of trains was constructed on the island that was for the transportation of goods and labor around the island (in that time, sugar cane was the major good transported). These railways continued to be in use as Puerto Rico transitioned to American rule in 1898 and continued for the first half of the 20th century, in this pre-industrial era before Operation Bootstrap and its accompanying large-scale switch to industrial forms of labor. 
-![](/puerto_rico_now/images/debt/Vignette4_Funding and Operation  .png)
-(RAILFAN GUIDES of the U.S.)
+![1900PRRail](/puerto_rico_now/images/debt/1900PRRail1.jpg)
+(Source: RAILFAN GUIDES of the U.S.)
+
+The first map (1900) shows a scattershot grouping of regional transit running between major coastal cities. 
+
+![1924PRRail](/puerto_rico_now/images/debt/2880px-Railroad_map_of_PR_1924.jpg)
+(Source: Library of Congress)
+
+By 1924 rail transport expanded, and was comprised of multiple routes that connected nearly the entire coastline (although this utility was compromised by the fact that there were multiple businesses, private and public, controlling each of these lines—thus, there was no one ticket that you could possibly use to circumnavigate from Caguas to Guyama, for example). This is clearly a rail system that was used for private interests, not the general interests of Puerto Ricans attempting to move from city to city. Additionally, Utuado, Cayey, Lares and other populous locations in the center of the island were separated from this transit system (and still are). 
+
+Operation Bootstrap was an economic development strategy in 1950s-60s Puerto Rico that sought to industrialize and modernize the economy of the island. Prior to Operation Bootstrap the economy of Puerto Rico was heavily reliant on agricultural production, including the output of the sugar cane industry that was a critical component of the goods and services being shipped along the original rail lines. Operation Bootstrap aimed to improve on the skillset of the working class, creating a massive amount of industrial jobs in manufacturing and other fields. This labor was aimed to assist the United States market, however, instead of the local market, and relied on United States corporations to invest in their economy. 
+
 
 
 <br/><br/>
