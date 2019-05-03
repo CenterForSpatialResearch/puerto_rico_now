@@ -12,7 +12,7 @@ author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesber
 
 This project develops a decision model based in *social* and *physical* vulnerability metrics that are first mapped individually and secondly added into one final model to render a map showing higher risk for municipalities and possible impact in their capacity to recover in the event of another Hurricane.
 
-![Puerto Rico](/puerto_rico_now/images/decision_model/risk_UNIDR.JPG)
+![Puerto Rico](/puerto_rico_now/images/decision_model/Risk_Muni.jpg)
 
 Disaster risk is expressed as the likelihood of loss of life, injury or destruction and damage from a disaster in a given period of time. UNISDR Global Assessment Report 2015
 
