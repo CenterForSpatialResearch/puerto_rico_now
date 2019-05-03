@@ -2,7 +2,7 @@
 layout: post
 date:   2019-03-20
 image: "/puerto_rico_now/images/debt/Debt cover image.jpg"
-title:  "Debt"
+title:  "TREN URBANO: A MISPLACED INVESTMENT"
 author: "Don Chen, Alicia French, Ran Ma, Maria Moersen"
 ---
 
