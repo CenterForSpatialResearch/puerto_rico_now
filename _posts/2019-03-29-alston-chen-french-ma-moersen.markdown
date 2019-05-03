@@ -20,27 +20,32 @@ More than a decade on, the Tren Urbano is a monument to the folly, bloat and abu
 ![Vignette 1](/puerto_rico_now/images/debt/Vignette1_Early Conception.png)
 EARLY CONCEPTION
 In 1971 Puerto Rico Planning Board and the U.S. federal government— recommended an islandwide, elevated transit system. In 1989, the Department of Transportation and Public Works officially adopts a proposal to begin design and construction.
+<br/><br/>
 
 
 ![Vignette 2](/puerto_rico_now/images/debt/Vignette2_Humble Goal .png)
 HUMBLE GOAL
 The project was implemented to provide a solution to the continually rising vehicle traffic levels and to bring a new mode of transportation to the most congested sections of the San Juan metropolitan area.
+<br/><br/>
 
 
 ![Vignette 3](/puerto_rico_now/images/debt/Vignette3_Rolling Stock .png)
 ROLLING STOCK
 Tren Urbano includes 16 stations, a vehicle maintenance and storage facility, 74 rail cars (each 75 feet long), operations control center, traction power, train control, and communications systems.
 GUAYNABO Land Area 70.3 km2 Population 97,924
+<br/><br/>
 
 
 ![Vignette 4](/puerto_rico_now/images/debt/Vignette4_Funding and Operation  .png)
 FUNDING AND OPERATION 
 Federal grants - $828.8 million Bond proceeds - $637.8 million TIFIA loan - $300.0 million Other sources - $483.4 million
+<br/><br/>
 
 
 ![Vignette 5](/puerto_rico_now/images/debt/Vignette5_Underperformance.png)
 UNDERPERFORMANCE
 Today, the train system only attracts a third of the rides it needs to break even, and operates at only a 13.33% capacity, well under the 110,000 rail passengers planned by 2010.
+<br/><br/>
 
 <br/><br/>
 <span style="font-family:Helvetica; font-size:1.8em;">**PREVIOUS TRAIN LINES IN PUERTO RICO**</span>
@@ -59,7 +64,7 @@ By 1924 rail transport expanded, and was comprised of multiple routes that conne
 
 Operation Bootstrap was an economic development strategy in 1950s-60s Puerto Rico that sought to industrialize and modernize the economy of the island. Prior to Operation Bootstrap the economy of Puerto Rico was heavily reliant on agricultural production, including the output of the sugar cane industry that was a critical component of the goods and services being shipped along the original rail lines. Operation Bootstrap aimed to improve on the skillset of the working class, creating a massive amount of industrial jobs in manufacturing and other fields. This labor was aimed to assist the United States market, however, instead of the local market, and relied on United States corporations to invest in their economy. 
 
-
+<br/><br/>
 
 <br/><br/>
 <span style="font-family:Helvetica; font-size:1.8em;">**URBAN FORM**</span>
@@ -82,8 +87,7 @@ The municipalities of Toa Alta (46 min.) and Toa Baja (39 min.) in Puerto Rico h
 ![Cost per ride per KM](/puerto_rico_now/images/debt/190503_Cost per ride per KM-01.png)
 (Source: Lumesis Inc.)
 
-
-<br><br>
+<br/><br/>
 <span style="font-family:Helvetica; font-size:1.8em;">**COST OF RIDE PER KILOMETER**</span>
 
 Despite the low initial cost of the Tren Urbano’s ride ticket ($1.50), when income per capita and train system length are taken into account, Tren Urbano provides the least affordable price per kilometer of travel out of 9 established public rail transit systems in the United States, highlighting the lacking value, and lacking affordability of the Tren Urbano. 
@@ -91,8 +95,7 @@ Despite the low initial cost of the Tren Urbano’s ride ticket ($1.50), when in
 
 ![Commute time municipality](/puerto_rico_now/images/debt/190503_Commute time municipality.png)
 
-
-<br><br>
+<br/><br/>
 <span style="font-family:Helvetica; font-size:1.8em;">** AREA SERVED BY THE TREN URBANO**</span>
 
 ![area served and bus map](/puerto_rico_now/images/debt/Area Served and Bus Map-01.png)
@@ -103,8 +106,8 @@ This map shows both the preexisting bus routes in San Juan as well as the relati
 
 Although there were more lines/stations planned for the Tren Urbano (7 lines in total that would connect to Old San Juan, the airport, Condado, as well as father-out counties that have significant populations that commute to San Juan like Toa Baja and Caguas), the Tren Urbano did not have political leaders that would commit to finishing the expansion, nor did an expansion of the train seem fiscally feasible after the completion of Phase 1. 
 
-
-<br><br>
+<br/><br/>
+<br/><br/>
 <span style="font-family:Helvetica; font-size:1.8em;">**CRIME DENSITY**</span>
 
 <div style="padding:65% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/al1616/cjv8d129i3wjd1ftazkl7tmr7.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWwxNjE2IiwiYSI6ImNqc200ZXQ0YTBnOWE0NG54Ym45YnYybHgifQ.t9lM7oOjsxtKmQS_BGfbdg#12.2/18.407805/-66.090904/0" style="position:absolute;top:3;left:-4;width:100%;height:100%;" frameborder="0"></iframe></div>
