@@ -21,7 +21,8 @@ Those who could leave took refuge away from the island. About 6% of the populati
 *Source: VOZ
 
 &nbsp;
----
+
+&nbsp;
 &nbsp;
 #### **The Push Towards Solar Energy** 
 
@@ -40,7 +41,7 @@ As communities invest in solar under the threat of another devastating hurricane
 
 &nbsp;
 &nbsp;
----
+
 &nbsp;
 #### **Identifying a Future Pattern of Access to Solar Electricity - Method** 
 
@@ -69,30 +70,30 @@ Using a method of ***Bivariate Choropleth Maps***, we study the relationship bet
 
 &nbsp;
 &nbsp;
----
+
 &nbsp;
 #### **Identifying a Future Pattern of Access to Solar Electricity - Conclusion** 
 
-![Island Without Access](/puerto_rico_now/images/outage/no_access_landscape-01.jpg)
+![Island Without Access](/puerto_rico_now/images/outage/no_access_landscape-01.png)
 
-![Island Without Access](/puerto_rico_now/images/outage/access_landscape-01.jpg)
+![Island Without Access](/puerto_rico_now/images/outage/access_landscape-01.png)
 
     *A NEW SOLAR ENERGY LANDSCAPE*
 
 Access to solar energy is conditional to both affordability and sun incidence, with access varying widely between adjacent neighborhoods. As one zoom's in the capital San Juan, it is easy to notice these conditions.
 
-![LaPerla_Zoom](/puerto_rico_now/images/outage/Zoom_SanJuan_Bay-01.png)
+![LaPerla_Zoom](/puerto_rico_now/images/outage/Zoom_SanJuan_Bay-01.jpg)
 
 1. *La Perla has limited access while the Harbor Front neighborhood has access to solar due to claimed income levels*
 
-![MilladeOro_Zoom](/puerto_rico_now/images/outage/Zoom_SanJuan_MartinPena2-01.png)
+![MilladeOro_Zoom](/puerto_rico_now/images/outage/Zoom_SanJuan_MartinPena2-01.jpg)
 
 2. *Milla de Oro, affluent business district of San Juan does not have enough sun capacity (DNI) to install a solar system, while Caño Martin Peña with considerable less income levels have limited access to a micro-grid.*
 
 
 While many see solar as the future of Puerto Rico, over **64%** of households cannot afford these micro-grids, while **34%** will have limited access needing to invest around ⅓ of their household income into solar. A very few **1.6%** of the island will configure the new landscape of those who will likely have access to immediate electricity in face future power outages.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://rchou81.github.io/CU_Kepler/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<!-- <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://rchou81.github.io/CU_Kepler/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div> -->
 
 With this latent scenario in which solar energy micro-grids are claimed to be the future of Puerto Rico, it is important to develop a well round implementation plan, that build on both government policies and community organization. If only dependent on current policies and international private companies, solar will not be the answer to Puerto Rico’s energy crises, but it will, in fact, further spacial and social inequality. 
 
@@ -100,7 +101,7 @@ With this latent scenario in which solar energy micro-grids are claimed to be th
 
 &nbsp;
 &nbsp;
----
+
 &nbsp;
 #### **Call for Action**
 
