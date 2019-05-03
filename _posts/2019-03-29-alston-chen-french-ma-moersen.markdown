@@ -13,4 +13,4 @@ Test Post
 
 ![description of image](/puerto_rico_now/images/groupname/debt.png)
 
-<div style="padding:60.25% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/al1616/cjuvre6br4e2r1gpj0egk3tga.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWwxNjE2IiwiYSI6ImNqc200ZXQ0YTBnOWE0NG54Ym45YnYybHgifQ.t9lM7oOjsxtKmQS_BGfbdg#12.0/18.428195/-66.103666/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div style="padding:80% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/al1616/cjuvre6br4e2r1gpj0egk3tga.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWwxNjE2IiwiYSI6ImNqc200ZXQ0YTBnOWE0NG54Ym45YnYybHgifQ.t9lM7oOjsxtKmQS_BGfbdg#12.0/18.428195/-66.103666/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
