@@ -136,6 +136,6 @@ Nilsa, who moved thousands of miles away from the warm Island of Puerto Rico to 
 
 For those not too far away, like Mariettani and Feo and Linda, who went to the Dominican Republic and Florida, where the physical distance is smaller than in Nilsa’s case, memories of the home they once knew are forever altered having seen the damage done to neighboring homes and schools.
 
-#### FINDINGS & CONCLUSIONS
+#### REFERENCES
 
 To be added
