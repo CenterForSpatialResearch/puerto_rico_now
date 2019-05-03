@@ -13,6 +13,7 @@ In September 17 of 2017, hurricane Maria struck the island of Puerto Rico,  leav
 Regardless of income, everyone suffered from the system failure equally. Priority to restore power was given to urban centers, despite the fact that smaller rural villages were closer geographically to power plants. In total, it took up to 11 months for the island to fully recover its energy infrastructure.
 Those who could leave took refuge away from the island. About 6% of the population fled the island in face of Hurricane Maria. However, those who stayed experienced the impact of extended periods of outage. 
 
+![Island Without Access](/puerto_rico_now/images/outage/bivariant_diagram_01.jpg)
 
 The complete failure of the energy infrastructure combined with the lack of government support stimulated a new wave of enthusiasm for micro-grid solar energy systems due to the vast solar potential encompassing the entire island.
 Many saw solar as the future of the island’s energy landscape. In 2019, as part of a broader package of energy reforms, the Puerto Rico government passed a bill to reach 100% renewable energy by 2050, with  interim goals of 40% renewables by 2025 and 50% by 2040. However, this goal seems far from reach as the government keeps investing mostly in natural gas systems instead of renewable energy. So, it comes down to the citizens themselves to adapt to a off-grid solar system.
@@ -30,7 +31,6 @@ The investment into micro-grids will change the pattern of power outage and reco
 
 This calls for significant policy change in both local government and FEMA to allocate funding based on communities who need the most financial help. Priority should also be given to civic facilities such as hospitals, care-centers, and schools to turn them into beacons of energy distribution. It also calls for community organized movements to create crowdfunded local micro-grid systems.
 **[Previous comparison map & overlay of Hospital, Care-center, and schools locations]**
-
 
 
 
@@ -80,3 +80,9 @@ All you need to do to use one is replace the url that is between the two " ". He
 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://rchou81.github.io/CU_Bivariance_Map/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+
+
+test test
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe frameborder="0" class="juxtapose" width="100%" height="2057" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=35c476c8-6d46-11e9-8106-0edaf8f81e27"></iframe></div>
+
