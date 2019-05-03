@@ -9,7 +9,7 @@ author: "Don Chen, Alicia French, Ran Ma, Maria Moersen"
 <br/><br/>
 <span style="font-family:Helvetica; font-size:1.8em;">[TIMELINE](https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1DWOCwES0SCjHYVse9o3VgRY2Wro5m9taLy-nTs7OaaQ&font=OpenSans-GentiumBook&lang=en&hash_bookmark=true&initial_zoom=2&height=650#event-tren-urbano-misplaced-investment) </span>
 
-![Vignette 0](/puerto_rico_now/images/debt/Vignette0_Main.png)
+![Vignette 0](/puerto_rico_now/images/debt/Vignette0_Main .png)
 INTRODUCTION
 The Tren Urbano is a single-line, 10.7-mile fixed-guideway rapid transit system that serves the municipalities of San Juan, Bayamón, and Guaynabo in Puerto Rico. It opened in December 2004 and began revenue service in June 2005.
 Funded by federal grants, bond proceeds,TIFIA loans and other sources, the the Tren Urbano has cost $2.25 billion so far, almost 80% over budget.
@@ -23,20 +23,20 @@ In 1971 Puerto Rico Planning Board and the U.S. federal government— recommende
 <br/><br/>
 
 
-![Vignette 2](/puerto_rico_now/images/debt/Vignette2_Humble Goal.png)
+![Vignette 2](/puerto_rico_now/images/debt/Vignette2_Humble Goal .png)
 HUMBLE GOAL
 The project was implemented to provide a solution to the continually rising vehicle traffic levels and to bring a new mode of transportation to the most congested sections of the San Juan metropolitan area.
 <br/><br/>
 
 
-![Vignette 3](/puerto_rico_now/images/debt/Vignette3_Rolling Stock.png)
+![Vignette 3](/puerto_rico_now/images/debt/Vignette3_Rolling Stock .png)
 ROLLING STOCK
 Tren Urbano includes 16 stations, a vehicle maintenance and storage facility, 74 rail cars (each 75 feet long), operations control center, traction power, train control, and communications systems.
 GUAYNABO Land Area 70.3 km2 Population 97,924
 <br/><br/>
 
 
-![Vignette 4](/puerto_rico_now/images/debt/Vignette4_Funding and Operation.png)
+![Vignette 4](/puerto_rico_now/images/debt/Vignette4_Funding and Operation  .png)
 FUNDING AND OPERATION 
 Federal grants - $828.8 million Bond proceeds - $637.8 million TIFIA loan - $300.0 million Other sources - $483.4 million
 <br/><br/>
