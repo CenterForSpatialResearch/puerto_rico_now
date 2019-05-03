@@ -14,31 +14,30 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 
 <span style="font-family:'Open Sans', sans-serif; font-size:16pt;"><b>1. Season Pieces of Beef. Dredge and Sear. </b></span>
 <br><br>
-<img src="/puerto_rico_now/images/food_soverignty/03 CUMULATIVE.png"><br><br>
+<img src="/puerto_rico_now/images/food_soverignty/01 Meat.png"><br><br>
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>Imports of Beef</i></span><br>
 <p>Imports: 85% of Puerto Rico’s food is imported. What kinds of foods are being imported, how much and from where? </p><br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:16pt;"><b>2. Add Sofrito, Onion, Garlic and Carrots. Cook until Onion is Translucent. </b></span>
 <br><br>
-<img src="/puerto_rico_now/images/food_soverignty/02 CUMULATIVE.png"><br><br>
+<img src="/puerto_rico_now/images/food_soverignty/02 Sofrito.png"><br><br>
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>Imports</i></span><br>
 <p>Sofrito is a Puerto Rican seasoning base made of garlic, cilantro, culantro, onions, and sweet peppers. One can find a pint in almost every mother’s refrigerator. Garlic is central to Puerto Rican cookery, and strangely none of it is grown on the island.</p><br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:16pt;"><b>3. Add Broth. Bring to a Boil. Simmer. </b></span>
 <br><br>
-<img src="/puerto_rico_now/images/food_soverignty/01 CUMULATIVE.png"><br><br>
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>Imports</i></span><br>
 <p>It is believed that the stew was born out of the African Diaspora. While slaves worked the fields of sugar or coffee plantations, a calderon of sancocho is to be seen simmering away for hours over a fire. Since beef pieces were the toughest pieces used it was important to have the stew cook until tender. <br><br>Puerto Rico is the oldest colony in the world. First conquered by the Spaniards, after years of neglect, Puerto Rican culture formed during this period. A mixture of Spaniards, Taínos and Africans. They were ready to govern themselves following the pattern of other Latin American countries who declared Independence. But, in 1898, the country was handed over at the request of the United States in the ______ treaty that ended the Spanish American War. Switching hands from one colonizer to the next. </p><br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:16pt;"><b>4. Add Plátanos, Yucca. Maybe Yautía. Simmer. </b></span>
 <br><br>
-<img src="/puerto_rico_now/images/food_soverignty/05 CUMULATIVE.png"><br><br>
+<img src="/puerto_rico_now/images/food_soverignty/03 Starches.png"><br><br>
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>Imports</i></span><br>
 <p>Plátanos trace us back to African roots. Yucca traces us back to Taíno roots. Indigenous ingredients, originally cultivated on the land. Soon after the U.S. take over, there was a push for an increase in sugar and coffee.</p><br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:16pt;"><b>5. Add Corn. Simmer</b></span>
 <br><br>
-<img src="/puerto_rico_now/images/food_soverignty/04 CUMULATIVE.png"><br><br>
+<img src="/puerto_rico_now/images/food_soverignty/04 Corn.png"><br><br>
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>Imports</i></span><br>
 <p>Non Government Organizations are organizing to undue the political and historical process that has made Puerto Rico dependent on food importation. More than 85% of foods are brought from outside countries. In 2016 _________ was spent on foods that could have been grown on the island. While it is unclear if Puerto Rico can produce all its food, NGOS are working hard to decrease this dependence. This is money that could have been spent on the local economy<br><br>NGOS are focusing on agroecology principles to reverse damages taht have been done and reliance on corporations for inputs.<br><br>Sancocho is a dish that does not cost much to make but can feed many. Chances are you’ll find it at welcome parties, birthday parties, dinner parties, community events, and sometimes even after a brutal storm.</p><br><br>
 
