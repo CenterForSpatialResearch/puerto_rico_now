@@ -8,7 +8,7 @@ author: "Don Chen, Alicia French, Ran Ma, Maria Moersen"
 
 <br/><br/>
 #### URBAN FORM
-<span style="font-family:Helvetica; font-size:5em;">**1.Reconstruction is Underway**</span>
+<span style="font-family:Helvetica; font-size:1em;">**1.Reconstruction is Underway**</span>
 
 
 ![urban form of above vs below stations](/puerto_rico_now/images/debt/190503_urban form of above vs below stations.png)
