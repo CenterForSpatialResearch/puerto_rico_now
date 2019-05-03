@@ -25,7 +25,7 @@ What we found is our case studies from more urban areas tended to have greater f
 
 ![Feo & Linda Timeline](/puerto_rico_now/images/migration/Timeline_Final-04.jpg)
 
-![Feo & Linda Timeline](/puerto_rico_now/images/migration/test.jpg)
+![Feo & Linda Timeline](/puerto_rico_now/images/migration/test-01.jpg)
 
 Feo and Linda, the oldest of our case studies at seventy five and seventy two, respectfully, are from the rural Guaynabo. Our thesis examines why some people migrate temporarily and others permanently, so we interviewed the older Feo and Linda about their migratory experiences. Coming from a more rural working class area and being retired, we expected Feo and Linda to not want to migrate from Puerto Rico, or at least not want to migrate permanently, due to their age. This was confirmed by Feo and Linda who cited their reason for returning to Puerto Rico after Hurricane Maria to their family who still reside in Guaynabo. With their older age and retired status, they did not want to leave their home that holds so much history and sentimental value. Furthermore, they are not searching for jobs in Puerto Rico’s crumbling economy, and are thus less affected by their rural context than others we have interviewed.
 
