@@ -11,11 +11,7 @@ Of the Train Urbano’s sixteen stations, only two are below ground. Delineated 
 
 ![urban form of above vs below stations](/puerto_rico_now/images/debt/190503_urban form of above vs below stations.png)
 
-[This webpage](https://guides.github.com/features/mastering-markdown/) provides a comprehensive guide to markdown syntax. But to make things easier for you we are including a cheat sheet of the main things you need to know here. 
 
-This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
-
-#### Please use level 4 headings for major section divisions
 
 ![description of image](/puerto_rico_now/images/debt/san-juan-tren-urbano-map.png)
 
