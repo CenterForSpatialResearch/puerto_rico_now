@@ -18,8 +18,8 @@ Regardless of income, everyone suffered from system failure equally. Priority to
 Those who could leave took refuge away from the island. About 6% of the population fled the island in face of Hurricane Maria. However, those who stayed experienced the impact of extended periods of outage. 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/334064707?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+*Source: VOZ
 
-&nbsp;
 &nbsp;
 ---
 &nbsp;
@@ -32,6 +32,8 @@ The complete failure of the energy infrastructure combined with the lack of gove
 While a solar system has significant benefits, reducing high prices from imported fossil fuels, as well as building on resilience from extreme weather and vulnerable transmission infrastructure, the solar system technology is still out of the reach of the majority of Puerto Ricans. The current prices to install a household solar system range around **20.000 - 30.000 USD** (quotes from for 3 to 5 kilowatts of photovoltaic (PV) capacity, with around 10 kilowatt-hours of usable storage¹), as foreign private companies such as *Tesla* and *Sunnova* invade Puerto Rican territory. 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/334064869?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
+*Source: QUARTZ
+
 &nbsp;
 
 As communities invest in solar under the threat of another devastating hurricane, we pose the question: **who will have the right to solar electricity in the face of future power outages?**
