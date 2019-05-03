@@ -31,6 +31,8 @@ The economy was a theme throughout our case studies. In three of the case studie
 
 #### NILSA
 
+![description of image](/puerto_rico_now/images/migration/Timeline_Final-01.jpg)
+
 Nilsa, who gained her bachelors in culinary arts from the Interamerican University of Puerto Rico, was frustrated at the lack of jobs in the culinary field, a field she had dedicated four years to. She has migrated to Lancaster, Pennsylvania where she works as a saleswoman to financially support herself and her two children. She cited the lack of resources after the hurricane as a determining factor in her permanent migration to Lancaster. While Lancaster is very different from Villalba spatially, she felt it provided the best future for her career and for her two young children's education. She still misses the waterfalls in Villalba and the empanadillas she used to get from Collores, but she knows her decision to leave was her only option in achieving a higher quality of life.   
 
 #### FRANCHESKA
