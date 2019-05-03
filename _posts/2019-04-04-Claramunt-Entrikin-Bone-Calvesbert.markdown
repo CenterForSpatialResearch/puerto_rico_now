@@ -43,7 +43,7 @@ The following proxies will be considered to measure social vulnerability and phy
 </p>
 
 <p float="left">
-  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="200" />
-  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="200" /> 
-  <img src="/puerto_rico_now/images/decision_model/pr_GIF.gif" width="200" />
+  <img src="/puerto_rico_now/images/decision_model/Utuad0.gif" width="200" />
+  <img src="/puerto_rico_now/images/decision_model/Juncos.gif" width="200" /> 
+  <img src="/puerto_rico_now/images/decision_model/Naguab0.gif" width="200" />
 </p>
