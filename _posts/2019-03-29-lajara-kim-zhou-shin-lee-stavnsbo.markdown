@@ -7,6 +7,7 @@ author: "Isabella Lajara, Isaac Kim, Chenyan Zhou, Sanggyu Shin, Jinsook Lee, Si
 ---
 #### **BACKGROUND: THE STORIES ALREADY TOLD**
 ![Opening Banner](/puerto_rico_now/images/migration/immigration_banner2-02.jpg)
+<br/>
 The Puerto Rican diaspora refers to the massive wave of migration from Puerto Rico to the US mainland throughout the 20th and 21st centuries. While this movement from the island has been and is a constant fact of life for Puerto Ricans, Hurricane Maria in 2017 brought a new urgency to an already pressing migration crisis.
 
 Many Puerto Ricans migrated to the U.S. temporarily during and after the hurricane. Some settled more permanently while others chose to return to the island even if the conditions were not yet back to pre-hurricane standards.
@@ -16,24 +17,24 @@ The dominating narratives surrounding the migration focus on integration of the 
 This is the central question of our project - examining why some people migrate temporarily and others permanently, taking our point of departure in exploring the origins of migrants, not the destination.
 
 Spatial inequality is one of the factors informing migration journeys. Not only the spatial inequality between the U.S. mainland and the island, but also internally in Puerto Rico. Urban areas are often much more affluent, have better infrastructure and better access to essential services compared to rural areas. Cities, in particular the capital of San Juan, were able to rebuild after the hurricane faster and better than rural areas due to an unequal distribution of resources. The demographic divide is also startling -- poverty is more prevalent in rural areas, and few working class people can afford to live in urban areas.
-<br/><br/>
+<br/>
 
 ![Overview map of Puerto Rico & Interviewee Municipalities](/puerto_rico_now/images/migration/conflict urbanism_datadriven-01.jpg)
-<font size="1.5"><i>This overview of Puerto Rico shows the topography of the island. It shows the terrain of rural areas, which are often more poverty stricken in the mountainous areas. The origin municipalities of our interviewees are highlighted.</i></font>
+<font size="1.75"><i>**This overview of Puerto Rico shows the topography of the island. It shows the terrain of rural areas, which are often more poverty stricken in the mountainous areas. The origin municipalities of our interviewees are highlighted.**</i></font>
 <br/><br/>
 
 In effect, this means that a migration from a underserviced, rural area in Puerto Rico to the U.S. mainland is a very different experience than migrating from urban Puerto Rico. We propose that this difference can be a determining factor when people decide to migrate permanently or temporarily -- people from rural Puerto Rico are more likely to migrate permanently.
-
+<br/><br/>
 
 ![Puerto Rico Population Map](/puerto_rico_now/images/migration/conflict urbanism_datadriven-02A.jpg)
 ![Puerto Rico Population Map](/puerto_rico_now/images/migration/conflict urbanism_datadriven-02B.jpg)
 ![Puerto Rico Population Map](/puerto_rico_now/images/migration/conflict urbanism_datadriven-02C.jpg)
-<font size="1.5"><i>These maps of the island show unemployment, poverty and population across Puerto Rico. Population is divided into municipalities, while the unemployment and poverty maps are further divided into neighborhoods (barrios). These maps show how poverty is spatially distributed in Puerto Rico. Rural areas, which are less populous, are generally more poverty stricken. The unemployment rates differ less across municipalities, however the highest rates of unemployment are still mostly situated in rural areas.</i></font>
+<font size="1.75"><i>**These maps of the island show unemployment, poverty and population across Puerto Rico. Population is divided into municipalities, while the unemployment and poverty maps are further divided into neighborhoods (barrios). These maps show how poverty is spatially distributed in Puerto Rico. Rural areas, which are less populous, are generally more poverty stricken. The unemployment rates differ less across municipalities, however the highest rates of unemployment are still mostly situated in rural areas**.</i></font>
 <br/><br/>
 
 
 #### **THE INDIVIDUAL NARRATIVE OF MIGRATION**
-![Interviewee Map](/puerto_rico_now/images/migration/Interviewee Banner 2.jpg)
+![Interviewee Map](/puerto_rico_now/images/migration/Interviewee Banner.jpg)
 
 In order to support our thesis, we decided to gather our data through interviews, a process that has allowed us to put a human face to the migration narrative. Through nine case studies of people of varying ages, socioeconomic statuses, differing neighborhoods, and personal connections to migration out of Puerto Rico, we were able to compare and contrast migration stories to create a narrative surrounding the importance of the place of origin in migration journeys. Seven of our cases are based on our own interviews, while two (Eunice and Juanyri) are interviews found online, both from the Miami Herald [here](https://www.miamiherald.com/news/nation-world/national/article218228870.html) and [here](https://www.miamiherald.com/news/local/education/article187409178.html).
 
@@ -54,6 +55,7 @@ The economy was a theme throughout our case studies. In three of the case studie
 ![description of image](/puerto_rico_now/images/migration/Timeline_Nilsa.jpg)
 
 Nilsa, who gained her bachelors in culinary arts from the Interamerican University of Puerto Rico, was frustrated at the lack of jobs in the culinary field, a field she had dedicated four years to. She has migrated to Lancaster, Pennsylvania where she works as a saleswoman to financially support herself and her two children. She cited the lack of resources after the hurricane as a determining factor in her permanent migration to Lancaster. While Lancaster is very different from Villalba spatially, she felt it provided the best future for her career and for her two young children's education. She still misses the waterfalls in Villalba and the empanadillas she used to get from Collores, but she knows her decision to leave was her only option in achieving a higher quality of life.
+![Nilsa's Memories](/puerto_rico_now/images/migration/Nilsa.jpg)
 <br/><br/>
 
 #### FRANCHESKA
@@ -102,20 +104,22 @@ Eunice is the grandmother and primary caretaker of three girls. One of her grand
 
 ![description of image](/puerto_rico_now/images/migration/Timeline_Joanyri.jpg)
 
-Joanyri was a english teacher at a local school in Arecibo. Following the hurricane, the local tap water had been contaminated and Joanyri became ill. Many hospitals were closed, and in order to receive treatment Joanyri had to first find fuel to be able to transport herself to a place with cell reception to then be able to seek treatment. Following this ordeal, and given the fact that her workplace was closed and her water supply contaminated, she decides to move to Miami. In Miami, it was much easier for her to access medical aide. She was quickly able to find a job at a local school, as there is a much larger demand for teachers in Florida compared to Puerto Rico. Not only are there more job opportunities in the U.S., but the jobs are also often better recompensed than in Puerto Rico. Despite her daughter and fiance in Puerto Rico, Joanyri decided to stay permanently in Miami because of the stability of medical services and employment opportunities.
+Joanyri was a english teacher at a local school in Arecibo. Following the hurricane, the local tap water had been contaminated and Joanyri became ill. Many hospitals were closed, and in order to receive treatment Joanyri had to first find fuel to be able to transport herself to a place with cell reception to then be able to seek treatment. Following this ordeal, and given the fact that her workplace was closed and her water supply contaminated, she decides to move to Miami. In Miami, it was much easier for her to access medical aid. She was quickly able to find a job at a local school, as there is a much larger demand for teachers in Florida compared to Puerto Rico. Not only are there more job opportunities in the U.S., but the jobs are also often better recompensed than in Puerto Rico. Despite her daughter and fiance in Puerto Rico, Joanyri decided to stay permanently in Miami because of the stability of medical services and employment opportunities.
 <br/><br/>
 
 #### **FINDINGS AND CONCLUSIONS**
-
-The data collected through our interviews support our thesis, as all the interviewees from rural areas have indeed decide not to return to Puerto Rico, but migrate permanently. Francheska, Nilsa and Dilberto were already college educated, or receiving a college education. However, the lack of job opportunities they met before the hurricane, which was only exasperated further after the hurricane, caused them to migrate permanently out of Puerto Rico, searching for a higher quality of life. Feo and Linda are the exception. They, as mentioned above, present an unusual case, as they are less affected by the factors causing many other rural people to permanently migrate.
+<br/>
+![Interviewee Map](/puerto_rico_now/images/migration/Interviewee Banner 2.jpg)
+<br/>
+The data collected through our interviews support our thesis, as all the interviewees from rural areas have indeed decided not to return to Puerto Rico, but migrate permanently. Francheska, Nilsa and Dilberto were already college educated, or receiving a college education. However, the lack of job opportunities they met before the hurricane, which was only exasperated further after the hurricane, caused them to migrate permanently out of Puerto Rico, searching for a higher quality of life. Feo and Linda are the exception. They, as mentioned above, present an unusual case, as they are less affected by the factors causing many other rural people to permanently migrate.
 
 The families of interviewees from urban areas have all returned to Puerto Rico, leaving behind their college-aged children who are pursuing further education outside of the island, with the knowledge that the post graduation job market  in Puerto Rico will most likely not have opportunities for them. However, these young people would likely have gone to the U.S. to pursue higher education regardless of the hurricane, with the exception of Mariettani, who could not afford to migrate to the U.S., but was able to attend university in the Dominican Republic instead.
 <br/><br/>
 
 ![Schools and Hospitals in Municipalities](/puerto_rico_now/images/migration/conflict urbanism_datadriven-03.jpg)
 ![Unemployment and Povery in Municipalities](/puerto_rico_now/images/migration/conflict urbanism_datadriven-04.jpg)
-![Compiled View of Municipalities](/puerto_rico_now/images/migration/conflict urbanism_datadriven-05.jpg)
-<font size="1.5"><i>These images focus on the individual municipalities, arranged on a scale of rural to urban based on service and infrastructure availability. The interviewees from these municipalities are pictured below the corresponding municipality. The images show the placement and amount of schools, colleges and hospitals. Poverty rates are shown by neighborhood. This allows us to compare the municipalities to each other, using some key indicators of economic conditions and infrastructure. The images demonstrate how the more rural municipalities are also more poverty stricken, and the mountainous regions within the municipalities are more poverty stricken compared to other areas. Hospitals and schools are generally more available in urban municipalities and in the coastal areas of the individual municipalities.
+
+<font size="1.75"><i>**These images focus on the individual municipalities, arranged on a scale of rural to urban based on service and infrastructure availability. The interviewees from these municipalities are pictured below the corresponding municipality. The images show the placement and amount of schools, colleges and hospitals. Poverty rates are shown by neighborhood. This allows us to compare the municipalities to each other, using some key indicators of economic conditions and infrastructure. The images demonstrate how the more rural municipalities are also more poverty stricken, and the mountainous regions within the municipalities are more poverty stricken compared to other areas. Hospitals and schools are generally more available in urban municipalities and in the coastal areas of the individual municipalities.**
 </i></font>
 <br/><br/>
 
@@ -123,13 +127,15 @@ All of the returning families have framed their decision as being “for the fam
 
 This is represented spatially and socioeconomically, with case studies from rural areas being left with few other options but permanent migration, especially if they were working class with no employment opportunities on the island. Those from more suburban and urban areas with a higher socioeconomic status, found themselves with the luxury of being able to choose freely to migrate permanently or return to Puerto Rico post hurricane. Many families moved back without their college aged children, who migrated in the hopes of receiving a better education than what was possible in Puerto Rico.
 
+![Compiled View of Municipalities](/puerto_rico_now/images/migration/conflict urbanism_datadriven-05.jpg)
+<br/>
 After speaking to our seven interviewees, an apparent theme is the sense of attachment to Puerto Rico. Despite making active choices to migrate, whether permanently or temporarily, they all shared a sentimental connection to their homelands and communities. These memories are especially painful for those who feel they cannot return to Puerto Rico.
 
-People like Francheska cited missing familiar faces waving hello to her and her son.
+People like Francheska cited missing familiar faces waving hello to her and her son in the Nuevo Pino neighborhood in Villalba.
 
 ![Francheska's Memories](/puerto_rico_now/images/migration/Francheska.jpg)
 
-Dilberto misses the easy access he had to family members, often just a drive up the street.
+Dilberto misses the easy access he had to family members, often just a drive up the street in the Caonillas neigborhood of Villalba.
 
 ![Dilberto's Memories](/puerto_rico_now/images/migration/Dilberto.jpg)
 
@@ -138,8 +144,6 @@ Even those whose families returned to Puerto Rico miss places that previously he
 ![Laurel's Memories](/puerto_rico_now/images/migration/Laurel.jpg)
 
 Nilsa, who moved thousands of miles away from the warm Island of Puerto Rico to the colder Pennsylvania, misses the empanadillas and waterfalls that were part of her childhood.
-
-![Nilsa's Memories](/puerto_rico_now/images/migration/Nilsa.jpg)
 
 For those not too far away, like Mariettani and Feo and Linda, who went to the Dominican Republic and Florida, where the physical distance is smaller than in Nilsa’s case, memories of the home they once knew are forever altered having seen the damage done to neighboring homes and schools.
 
