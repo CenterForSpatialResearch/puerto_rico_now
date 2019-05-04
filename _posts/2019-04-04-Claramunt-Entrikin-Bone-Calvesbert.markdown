@@ -1,13 +1,14 @@
 ---
 layout: post
 date:   2019-04-04
-image: "/puerto_rico_now/images/decision_model/pr_GIF.gif"
+image: "/puerto_rico_now/images/decision_model/pixel_gif.gif"
 title:  "Mapping Municipalities at Risk in Puerto Rico"
 author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesbert"
 ---
 
-<div style="background-color:rgb(0, 0, 0, 0)">
- </div>
+<div style="background-color:rgb(0, 0, 0)">
+</div>
+  
   
 >In September 20th in 2017 Hurricane María led to “the biggest failure of American disaster response since Hurricane Katrina struck New Orleans and the Gulf Coast in 2005.” -Daniel Farber (2018) 
   
@@ -17,7 +18,7 @@ The devastation produced by Hurricane María was unprecedented and revealed the 
 
 **By cross-referencing physical and social vulnerability the project highlights what are the areas at most risk in the event of another hurricane?**
 
->The volatile nature of economic and population activity generates the need to locate public policies decisions geographically even more relevant.
+>"The volatile nature of economic and population activity generates the need to locate public policies decisions geographically even more relevant."
 
 <div style="padding:56.25% 0 0 0;position:relative;">
   <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b4125860-6e0e-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe>
@@ -37,7 +38,7 @@ Municipalities are a Second layer governance, and are subjected to “state”, 
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/munis_maria.jpg)
 
->Disasters are sometimes considered external shocks, but disaster risk results from the complex interaction between development processes that generate conditions of exposure, vulnerability and hazard. Disaster risk is therefore considered as the combination of the severity and frequency of a hazard, the numbers of people and assets exposed to the hazard, and their vulnerability to damage (UNISDR, 2015a).
+>"Disasters are sometimes considered external shocks, but disaster risk results from the complex interaction between development processes that generate conditions of exposure, vulnerability and hazard. Disaster risk is therefore considered as the combination of the severity and frequency of a hazard, the numbers of people and assets exposed to the hazard, and their vulnerability to damage."(UNISDR, 2015a)
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/SOS_PR.jpg)
 Source: Local pres - Umacao, Las María. 2017
