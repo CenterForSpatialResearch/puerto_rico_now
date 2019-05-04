@@ -63,8 +63,6 @@ relevant because municipios are in charge of implementing and coordinating local
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/final_combined_gif.gif)
 
-According to the Social and Physical vulnerability analysis the combined layer decision model revealed that Yabucoa, Canóvanas, Comerio, Utuado, Juncos and Naguabo are consistenly high scored suggesting a significant condition of risk that necesitates furter analysis to prioritize resource allocation. 
-
 **Snapshots to municipalities that are at most risk in the event of another climate event**
 
 <p float="left">
@@ -80,3 +78,4 @@ Yabucoa 		 			Canóvanas					 Comerio
 </p>
 Utuado						Juncos 						  Naguabo 
 
+>The results of the analysis of Social and Physical vulnerability at a municipal level throughout a combined layer decision model revealed that the municipalities of Yabucoa, Canóvanas, Comerío, Utuado, Juncos and Naguabo are consistenly high scored. This findings suggest that significant condition of risk are in place which requires inmediate attention. 
