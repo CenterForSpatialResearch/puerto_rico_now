@@ -7,7 +7,7 @@ author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesber
 ---
 
 <div style="background-color:rgba(0, 0, 0, 0.0470588)">
-	<span style="background-color: #FFFFFF">
+ </div>	
 		
 ![Puerto Rico](/puerto_rico_now/images/decision_model/pixel_gif.gif)
 
@@ -50,5 +50,4 @@ The following proxies will be considered to measure social vulnerability and phy
   <img src="/puerto_rico_now/images/decision_model/Juncos.gif" width="200" /> 
   <img src="/puerto_rico_now/images/decision_model/Naguab0.gif" width="200" />
 </p>
-</span>
- </div>
+
