@@ -169,7 +169,7 @@ Above is a familiar map showing the income disparity in Puerto Rico at present, 
 ***If you would like to participate in deciding the future of Puerto Rico, visit our website:*
 *<https://yqjim111.github.io/>***
 
-<div style="padding:80% 0 0 0;position:relative;" class="fluid-width-video-wrapper">
+<div class="fluid-width-video-wrapper">
   <iframe src="https://yqjim111.github.io/" width="1300" height="900" frameborder="0" style="display:block; margin-left:-200;"  allowFullScreen></iframe>
 </div>
 
