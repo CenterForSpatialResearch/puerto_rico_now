@@ -15,10 +15,11 @@ author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesber
 
 The devastation produced by Hurricane María was unprecedented and revealed the deep crisis, not only economical but also the physical, social and spatial vulnerabilities that place Puerto Rico in constant climate risk. The whole archipelago of Puerto Rico suffered from a lack of effective and immediate response to the catastrophe, with shared responsibilities from the local government to the Federal Emergency Management Agency (FEMA). The islands experienced full black-out for months, the death toll product of the hurricanes passing extended to thousands, health administration has decreased, and lack of social services are continously threatening local capacity to respond from communities to institutions.
 
->The volatile nature of economic and population activity generates the need to locate public policies decisions geographically even more relevant.
-
 **What areas of Puerto Rico are at the most risk in the event of another hurricane?**
 
+![Puerto Rico](/puerto_rico_now/images/decision_model/munis_maria.jpg)
+
+>The volatile nature of economic and population activity generates the need to locate public policies decisions geographically even more relevant.
 
 <div style="padding:56.25% 0 0 0;position:relative;">
   <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=fab7ef1c-6e0b-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe>
