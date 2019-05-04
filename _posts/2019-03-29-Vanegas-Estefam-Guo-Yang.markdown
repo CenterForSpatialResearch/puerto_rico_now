@@ -112,7 +112,7 @@ Puerto Rico does not, by any means, have to follow this narrative. Consider that
 
 With this in mind, we again imagined ourselves in the position of elected Puerto Rican officials with the power and desire to distribute the combined sum of $36.1 Billion, but this time with the intention of providing resources to communities as will be later outlined. This time, a more egalitarian distribution that nonetheless favors municipalities identified as the most neglected and/or exploited by American venture capitalist operations was used. The distribution of aid among the top 10% of municipalities most likely to receive the greatest financial support is shown below.  
 
-![LandtrustBarchart](/puerto_rico_now/images/future_scenarios/LandtrustBarChart.png) 
+![LandtrustBarchart](/puerto_rico_now/images/future_scenarios/LandtrustBarChart.jpg) 
 
 <br/><br/> 
 
