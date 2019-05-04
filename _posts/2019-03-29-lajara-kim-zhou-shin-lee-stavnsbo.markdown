@@ -7,7 +7,7 @@ author: "Isabella Lajara, Isaac Kim, Chenyan Zhou, Sanggyu Shin, Jinsook Lee, Si
 ---
 #### **BACKGROUND: THE STORIES ALREADY TOLD**
 ![Opening Banner](/puerto_rico_now/images/migration/immigration_banner2-02.jpg)
-<br/>
+<br/><br/>
 The Puerto Rican diaspora refers to the massive wave of migration from Puerto Rico to the US mainland throughout the 20th and 21st centuries. While this movement from the island has been and is a constant fact of life for Puerto Ricans, Hurricane Maria in 2017 brought a new urgency to an already pressing migration crisis.
 
 Many Puerto Ricans migrated to the U.S. temporarily during and after the hurricane. Some settled more permanently while others chose to return to the island even if the conditions were not yet back to pre-hurricane standards.
