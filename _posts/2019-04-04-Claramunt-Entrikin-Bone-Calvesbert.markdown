@@ -6,6 +6,9 @@ title:  "Municipios at risk in Puerto Rico"
 author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesbert"
 ---
 
+<div style="background-color:rgba(0, 0, 0, 0.0470588)">
+	<span style="background-color: #FFFFFF">Marked text</span>
+ </div>
 ![Puerto Rico](/puerto_rico_now/images/decision_model/pixel_gif.gif)
 
 **RQ: What areas of Puerto Rico are at the most risk in the event of another hurricane?**
