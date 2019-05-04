@@ -6,7 +6,7 @@ title:  "Municipios at risk in Puerto Rico"
 author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesbert"
 ---
 
-<div style="background:rgba(0, 0, 0, .5)">
+<div style="background:rgba(0, 0, 0, 0.5)">
  </div>
 	
 >In September 20th in 2017 Hurricane María led to “the biggest failure of American disaster response since Hurricane Katrina struck New Orleans and the Gulf Coast in 2005.” -Daniel Farber (2018) 
@@ -15,9 +15,15 @@ author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesber
 
 The devastation produced by Hurricane María was unprecedented and revealed the deep crisis, not only economical but also the physical, social and spatial vulnerabilities that place Puerto Rico in constant climate risk. The whole archipelago of Puerto Rico suffered from a lack of effective and immediate response to the catastrophe, with shared responsibilities from the local government to the Federal Emergency Management Agency (FEMA). The islands experienced full black-out for months, the death toll product of the hurricanes passing extended to thousands, health administration has decreased, and lack of social services are continously threatening local capacity to respond from communities to institutions.
 
-**What areas of Puerto Rico are at the most risk in the event of another hurricane?**
+In order to have a better idea of the Island and to further understand the geography that we explored is important to highlight that Puerto Rico has Seventy-eight municipalities with various geographical conditions, from coastal to inland including Culebra and Vieques that are separate Islands. Therefore it is difficult to create a baseline for comparison since they vary not only in territory extension but also have diverse socio-economic conditions. 
+
+Yet, municipalities as localities, have become important arenas for decision-making, their role has had a pendulum effect during Puerto Rico's planning and management of the urban fabric marking their importance as a study unit. 
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/munis_maria.jpg)
+
+**What municipalities of Puerto Rico are at the most risk in the event of another hurricane?**
+
+Before the hurricane, Puerto Rico had acquired new layers of complexity considering that the island’s defaulted on their loans payments obligation, and instituted a ongoing and deep crisis. Now the territory is said to be responsible for the so called public debt that amounts $74B. Approximately $24 billion is issued by municipalities and public corporations and $50 billion on pension liabilities of the $74 billion debt.
 
 >The volatile nature of economic and population activity generates the need to locate public policies decisions geographically even more relevant.
 
