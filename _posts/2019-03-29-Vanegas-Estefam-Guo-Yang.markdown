@@ -93,8 +93,7 @@ Finally, we considered the debt of each municipality as reported by the Puerto R
 *Economics Index* 
 
 ![LegendTest](/puerto_rico_now/images/future_scenarios/economicsindexLegend.png) 
-
-<br/><br/> 
+  
 Together, these factors determined regions in which we expect to receive the most American investment. Lighter municipalities--largely located within the interior--will likely see further unemployment and lower incomes, prompting increased migration. Areas on the periphery may be gentrified or developed in other ways to meet the needs of coastal regions and urban centers where the vast majority of Puerto Rico’s wealth is now concentrated. Puerto Ricans who remain employed in these rich, swanky municipalities will largely be occupying jobs in the service sector, with a small population of local mid-level management and an even smaller class of local investors and profiteers.    
 
 Why invest in Puerto Rico? As long as the capital we use to develop originates in the United States--via a real-estate holding company, mutual fund, or typical venture capitalist development operation--we benefit from a triple tax break offered to US investors. Moreover, some 98% of the island is classified as an Opportunity Zone; allowing us to reinvest capital gains from our initial investment into an income tax-free Opportunity Fund. Together, these advantages may save investors up to 37.5% in federal taxes. 
@@ -123,11 +122,13 @@ In the present moment, numerous examples can be found of cooperative practices i
   
 ![Landtrust Layer Breakdown](/puerto_rico_now/images/future_scenarios/landtrust_breakdown.png)
 
-<span style="font-family:Helvetica; font-size:1.5em;">**<3>Necessary Conditions For The Success Of A Cooperative Scenario**</span>  
+<br/><br/> 
+
+<span style="font-family:Helvetica; font-size:2em;">**<3>Necessary Conditions For The Success Of A Cooperative Scenario**</span>  
   
 Though these isolated examples of collective organization are inspiring, many are also struggling. It will require the support of these bottom-up practices from a major funding source to help guarantee their long-term success in the early stages of establishment as well as encourage others to follow suit. As such, our scenario requires us to suppose three things when considering the spending of a promised $18.5 Billion of disaster relief aid:
 
-<span style="font-family:Helvetica; font-size:1.5em;">**3-1.Federal Aid Must Put to the Task of Providing, not of Restoring:**</span>
+<span style="font-family:Helvetica; font-size:1.5em;">**<3-1>Federal Aid Must Put to the Task of Providing, not of Restoring:**</span>
 
   - **The provision of basic goods and services--including health care and public education, the development of infrastructure in the poorest municipalities, and the recognition of human rights**
   
