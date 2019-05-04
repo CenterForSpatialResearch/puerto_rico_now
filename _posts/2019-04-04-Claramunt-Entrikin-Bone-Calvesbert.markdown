@@ -47,36 +47,36 @@ This project develops a decision model based in *social* and *physical* vulnerab
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/Risk_Muni.jpg)
 
-**Analyzing Social Vulnerability at a Municipal level**
+**Mapping Social Vulnerability at a Municipal level**
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/social_vulnerability_GIF.gif)
 The social vulnerability indicators will be based on demographic and socioeconomic factors, including the change in populations related to migration post Hurricanes. 
 
-**Analyzing Physical Vulnerability at a Municipal level**
+**Mapping Physical Vulnerability at a Municipal level**
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/unweighted_physical.jpg)
 
 The Physical vulnerability index will consider environmental conditions and impact in housing stock by using existent and new datasets. The analysis will consider “municipios” as a primary legal division of Puerto Rico. An existent social vulnerability index (SVI) for Puerto Rico developed in 2017 will be revised, but as it is based on census tracts is not transferable to our study. This difference is
 relevant because municipios are in charge of implementing and coordinating local government actions being a key player in the provision of services and resilience of communities. 
 
-**Municipalities that are at most risk in the event of another climate event**
+**Mapping Municipalities that are at most risk in the event of another climate event**
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/final_combined_gif.gif)
 
 According to the Social and Physical vulnerability analysis the combined layer decision model revealed that Yabucoa, Canóvanas, Comerio, Utuado, Juncos and Naguabo are consistenly high scored suggesting a significant condition of risk that necesitates furter analysis to prioritize resource allocation. 
 
-**Snapshoots to municipalities that are at most risk in the event of another climate event**
+**Snapshots to municipalities that are at most risk in the event of another climate event**
 
 <p float="left">
   <img src="/puerto_rico_now/images/decision_model/Yabucoa.gif" width="220" />
   <img src="/puerto_rico_now/images/decision_model/canovanas_gif.gif" width="220" /> 
   <img src="/puerto_rico_now/images/decision_model/Comeri0.gif" width="220" />
 </p>
-Yabucoa - Canóvanas- Comerio 
+Yabucoa 		 			Canóvanas					 Comerio 
 <p float="left">
   <img src="/puerto_rico_now/images/decision_model/Utuad0.gif" width="220" />
   <img src="/puerto_rico_now/images/decision_model/Juncos.gif" width="220" /> 
   <img src="/puerto_rico_now/images/decision_model/Naguab0.gif" width="220" />
 </p>
-Utuado- Juncos - Naguabo 
+Utuado						Juncos 						  Naguabo 
 
