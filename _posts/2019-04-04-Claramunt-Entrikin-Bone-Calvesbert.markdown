@@ -2,7 +2,7 @@
 layout: post
 date:   2019-04-04
 image: "/puerto_rico_now/images/decision_model/pr_GIF.gif"
-title:  "Municipios at risk in Puerto Rico"
+title:  "Mapping Municipalities at Risk in Puerto Rico"
 author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesbert"
 ---
 
@@ -26,7 +26,7 @@ The devastation produced by Hurricane María was unprecedented and revealed the 
 Before the hurricane, Puerto Rico had acquired new layers of complexity considering that the island’s defaulted on their loans payments obligation, and instituted a ongoing and deep crisis. Now the territory is said to be responsible for the so called public debt that amounts $74B. Approximately $24 billion is issued by municipalities and public corporations and $50 billion on pension liabilities of the $74 billion debt.
 
 <div style="padding:56.25% 0 0 0;position:relative;">
-  <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=fab7ef1c-6e0b-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe>
+  <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b4125860-6e0e-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe>
 </div>
 
 Given that Puerto Rico is under a tight scenario by having a Lack of economic development Financial debt, Unprecedented disaster recovery process, Fiscal reconstruction and Financial debt the project explore the same question but at the municipality level. In order to have a better idea of the Island and to further understand the geography that we explored is important to highlight that Puerto Rico has Seventy-eight municipalities with various geographical conditions, from coastal to inland including Culebra and Vieques that are separate Islands. Therefore it is difficult to create a baseline for comparison since they vary not only in territory extension but also have diverse socio-economic conditions. 
@@ -37,40 +37,46 @@ Municipalities are a Second layer governance, and are subjected to “state”, 
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/munis_maria.jpg)
 
-This project develops a decision model based in *social* and *physical* vulnerability metrics that are first mapped individually and secondly added into one final model to render a map showing higher risk for municipalities and possible impact in their capacity to recover in the event of another Hurricane.
+>Disasters are sometimes considered external shocks, but disaster risk results from the complex interaction between development processes that generate conditions of exposure, vulnerability and hazard. Disaster risk is therefore considered as the combination of the severity and frequency of a hazard, the numbers of people and assets exposed to the hazard, and their vulnerability to damage (UNISDR, 2015a).
+
+![Puerto Rico](/puerto_rico_now/images/decision_model/SOS_PR.jpg)
+
+**MAPPING MUNICIPALITIES AT RISK IN PUERTO RICO**
+
+This project develops a decision model based in *social* and *physical* vulnerability metrics that are first mapped individually and secondly added into one final model to render a map showing higher risk for municipalities and possible impact in their capacity to recover in the event of another Hurricane. Disaster risk is expressed as the likelihood of loss of life, injury or destruction and damage from a disaster in a given period of time (UNISDR, 2015.)
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/Risk_Muni.jpg)
 
-Disaster risk is expressed as the likelihood of loss of life, injury or destruction and damage from a disaster in a given period of time. UNISDR Global Assessment Report 2015
+**Analyzing Social Vulnerability at a Municipal level**
 
->Disasters are sometimes considered external shocks, but disaster risk results from the complex interaction between development processes that generate conditions of exposure, vulnerability and hazard. Disaster risk is therefore considered as the combination of the severity and frequency of a hazard, the numbers of people and assets exposed to the hazard, and their vulnerability to damage (UNISDR, 2015a).
-
-**Social Vulnerability Results**
 ![Puerto Rico](/puerto_rico_now/images/decision_model/social_vulnerability_GIF.gif)
 The social vulnerability indicators will be based on demographic and socioeconomic factors, including the change in populations related to migration post Hurricanes. 
 
-**Physical Vulnerability Results**
+**Analyzing Physical Vulnerability at a Municipal level**
+
 ![Puerto Rico](/puerto_rico_now/images/decision_model/unweighted_physical.jpg)
 
-**The Physical vulnerability index** will consider environmental conditions and impact in housing stock by using existent and new datasets. The analysis will consider “municipios” as a primary legal division of Puerto Rico. An existent **social vulnerability index (SVI)** for Puerto Rico developed in 2017 will be revised, but as it is based on census tracts is not transferable to our study. This difference is
+The Physical vulnerability index will consider environmental conditions and impact in housing stock by using existent and new datasets. The analysis will consider “municipios” as a primary legal division of Puerto Rico. An existent social vulnerability index (SVI) for Puerto Rico developed in 2017 will be revised, but as it is based on census tracts is not transferable to our study. This difference is
 relevant because municipios are in charge of implementing and coordinating local government actions being a key player in the provision of services and resilience of communities. 
 
-The following proxies will be considered to measure social vulnerability and physical vulnerability, generating a decision model to map the municipalities by scores in each index. 
-
-**Municipios at Risk**
+**Municipalities that are at most risk in the event of another climate event**
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/final_combined_gif.gif)
 
-**Zoom to Municipios at Risk**
+According to the Social and Physical vulnerability analysis the combined layer decision model revealed that Yabucoa, Canóvanas, Comerio, Utuado, Juncos and Naguabo are consistenly high scored suggesting a significant condition of risk that necesitates furter analysis to prioritize resource allocation. 
+
+**Snapshoots to municipalities that are at most risk in the event of another climate event**
 
 <p float="left">
   <img src="/puerto_rico_now/images/decision_model/Yabucoa.gif" width="220" />
   <img src="/puerto_rico_now/images/decision_model/canovanas_gif.gif" width="220" /> 
   <img src="/puerto_rico_now/images/decision_model/Comeri0.gif" width="220" />
 </p>
-
+Yabucoa - Canóvanas- Comerio 
 <p float="left">
   <img src="/puerto_rico_now/images/decision_model/Utuad0.gif" width="220" />
   <img src="/puerto_rico_now/images/decision_model/Juncos.gif" width="220" /> 
   <img src="/puerto_rico_now/images/decision_model/Naguab0.gif" width="220" />
 </p>
+Utuado- Juncos - Naguabo 
+
