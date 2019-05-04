@@ -119,7 +119,7 @@ The families of interviewees from urban areas have all returned to Puerto Rico, 
 ![Unemployment and Povery in Municipalities](/puerto_rico_now/images/migration/conflict urbanism_datadriven-04.jpg)
 
 <font size="1.75"><i><b>These images focus on the individual municipalities, arranged on a scale of rural to urban based on service and infrastructure availability. The interviewees from these municipalities are pictured below the corresponding municipality. The images show the placement and amount of schools, colleges and hospitals. Poverty rates are shown by neighborhood. This allows us to compare the municipalities to each other, using some key indicators of economic conditions and infrastructure. The images demonstrate how the more rural municipalities are also more poverty stricken, and the mountainous regions within the municipalities are more poverty stricken compared to other areas. Hospitals and schools are generally more available in urban municipalities and in the coastal areas of the individual municipalities.
-</i></b></font>
+</i></font>
 <br/><br/>
 
 All of the returning families have framed their decision as being “for the family”. Returning to Puerto Rico allows them to stay close to extended family. The families that are not returning also underlined their motivation as being “for the family”. In this case, a departure from Puerto Rico allows them to provide for their family in ways that they could not on the island after the hurricane. In fact, their departure allows them to provide in ways that they couldn’t have even before the hurricane. Especially regarding future opportunities for their children, which was often cited as being a main motivation for the migration.
