@@ -7,7 +7,7 @@ author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesber
 ---
 
 <div style="background:rgba(0, 0, 0, 0.5)">
-	</div>
+ </div>
 	
 >In September 20th in 2017 Hurricane María led to “the biggest failure of American disaster response since Hurricane Katrina struck New Orleans and the Gulf Coast in 2005.” -Daniel Farber (2018) 
 	
