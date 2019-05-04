@@ -43,9 +43,9 @@ In order to demonstrate potentially conflicting stakeholder values, which can co
 
 #### **The Stakeholders**
 ![Tyrene](/puerto_rico_now/images/recovery/Tyrene.png)
-Name: **Tyrene**
-Representative Group: **grassroots community local leader**
-Priorities: **long-term well-being of the community**
+Name: **Tyrene**</br>
+Representative Group: **grassroots community local leader**</br>
+Priorities: **long-term well-being of the community**</br>
   - Prioritize underserved communities
   - Long-term community resilience
   - Access to infrastructure services
@@ -71,9 +71,9 @@ Data Layers Mapped:
 ![Community Leader Decision Model](/puerto_rico_now/images/recovery/CommunityLeader_maps.jpg)
 
 ![María](/puerto_rico_now/images/recovery/Maria.png)
-Name: **María**
-Representative Group: **middle class from Puerto Rico; some have emigrated to the mainland but still have close ties to the island.**
-Priorities: **recovery and resilience**
+Name: **María**</br>
+Representative Group: **middle class from Puerto Rico; some have emigrated to the mainland but still have close ties to the island.**</br>
+Priorities: **recovery and resilience**</br>
   - Ensure the resilience of developed areas
   - Recover from Hurricane Maria damage 
   - Reduce risk from future threats (i.e. hurricanes, flood inundation, landslides, etc.)
@@ -96,9 +96,9 @@ Data Layers Mapped:
 ![Recovery & Resilience Decision Model](/puerto_rico_now/images/recovery/RecoveryResilience_maps.jpg)
 
 ![Bill](/puerto_rico_now/images/recovery/Bill.png)
-Name: **Bill**
-Representative Group: **real estate speculators, finance that funds them and 1% of Puerto Rican society that supports this development**
-Priorities: **attracting capital for the island and develop areas of the island in a more profitable way**
+Name: **Bill**</br>
+Representative Group: **real estate speculators, finance that funds them and 1% of Puerto Rican society that supports this development**</br>
+Priorities: **attracting capital for the island and develop areas of the island in a more profitable way**</br>
   - Improve areas with high economic growth potential
   - Provide resources to resort and leisure developments
   - Beautify tourist destination areas for profitability
