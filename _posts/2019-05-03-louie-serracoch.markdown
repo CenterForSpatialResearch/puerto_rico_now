@@ -45,7 +45,7 @@ In order to demonstrate potentially conflicting stakeholder values, which can co
 ![Tyrene](/puerto_rico_now/images/recovery/Tyrene.png)
 Name: **Tyrene**</br>
 Representative Group: **grassroots community local leader**</br>
-Priorities: **long-term well-being of the community**</br>
+Priorities: **long-term well-being of the community**
   - Prioritize underserved communities
   - Long-term community resilience
   - Access to infrastructure services
@@ -73,7 +73,7 @@ Data Layers Mapped:
 ![María](/puerto_rico_now/images/recovery/Maria.png)
 Name: **María**</br>
 Representative Group: **middle class from Puerto Rico; some have emigrated to the mainland but still have close ties to the island.**</br>
-Priorities: **recovery and resilience**</br>
+Priorities: **recovery and resilience**
   - Ensure the resilience of developed areas
   - Recover from Hurricane Maria damage 
   - Reduce risk from future threats (i.e. hurricanes, flood inundation, landslides, etc.)
@@ -98,7 +98,7 @@ Data Layers Mapped:
 ![Bill](/puerto_rico_now/images/recovery/Bill.png)
 Name: **Bill**</br>
 Representative Group: **real estate speculators, finance that funds them and 1% of Puerto Rican society that supports this development**</br>
-Priorities: **attracting capital for the island and develop areas of the island in a more profitable way**</br>
+Priorities: **attracting capital for the island and develop areas of the island in a more profitable way**
   - Improve areas with high economic growth potential
   - Provide resources to resort and leisure developments
   - Beautify tourist destination areas for profitability
