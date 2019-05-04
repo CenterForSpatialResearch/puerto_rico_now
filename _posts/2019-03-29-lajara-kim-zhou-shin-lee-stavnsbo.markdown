@@ -55,7 +55,6 @@ The economy was a theme throughout our case studies. In three of the case studie
 ![description of image](/puerto_rico_now/images/migration/Timeline_Nilsa.jpg)
 
 Nilsa, who gained her bachelors in culinary arts from the Interamerican University of Puerto Rico, was frustrated at the lack of jobs in the culinary field, a field she had dedicated four years to. She has migrated to Lancaster, Pennsylvania where she works as a saleswoman to financially support herself and her two children. She cited the lack of resources after the hurricane as a determining factor in her permanent migration to Lancaster. While Lancaster is very different from Villalba spatially, she felt it provided the best future for her career and for her two young children's education. She still misses the waterfalls in Villalba and the empanadillas she used to get from Collores, but she knows her decision to leave was her only option in achieving a higher quality of life.
-![Nilsa's Memories](/puerto_rico_now/images/migration/Nilsa.jpg)
 <br/><br/>
 
 #### FRANCHESKA
@@ -119,7 +118,7 @@ The families of interviewees from urban areas have all returned to Puerto Rico, 
 ![Schools and Hospitals in Municipalities](/puerto_rico_now/images/migration/conflict urbanism_datadriven-03.jpg)
 ![Unemployment and Povery in Municipalities](/puerto_rico_now/images/migration/conflict urbanism_datadriven-04.jpg)
 
-<font size="1.75"><i>**These images focus on the individual municipalities, arranged on a scale of rural to urban based on service and infrastructure availability. The interviewees from these municipalities are pictured below the corresponding municipality. The images show the placement and amount of schools, colleges and hospitals. Poverty rates are shown by neighborhood. This allows us to compare the municipalities to each other, using some key indicators of economic conditions and infrastructure. The images demonstrate how the more rural municipalities are also more poverty stricken, and the mountainous regions within the municipalities are more poverty stricken compared to other areas. Hospitals and schools are generally more available in urban municipalities and in the coastal areas of the individual municipalities.**
+<font size="1.75"><i><****>These images focus on the individual municipalities, arranged on a scale of rural to urban based on service and infrastructure availability. The interviewees from these municipalities are pictured below the corresponding municipality. The images show the placement and amount of schools, colleges and hospitals. Poverty rates are shown by neighborhood. This allows us to compare the municipalities to each other, using some key indicators of economic conditions and infrastructure. The images demonstrate how the more rural municipalities are also more poverty stricken, and the mountainous regions within the municipalities are more poverty stricken compared to other areas. Hospitals and schools are generally more available in urban municipalities and in the coastal areas of the individual municipalities.
 </i></font>
 <br/><br/>
 
@@ -144,6 +143,7 @@ Even those whose families returned to Puerto Rico miss places that previously he
 ![Laurel's Memories](/puerto_rico_now/images/migration/Laurel.jpg)
 
 Nilsa, who moved thousands of miles away from the warm Island of Puerto Rico to the colder Pennsylvania, misses the empanadillas and waterfalls that were part of her childhood.
+![Nilsa's Memories](/puerto_rico_now/images/migration/Nilsa.jpg)
 
 For those not too far away, like Mariettani and Feo and Linda, who went to the Dominican Republic and Florida, where the physical distance is smaller than in Nilsa’s case, memories of the home they once knew are forever altered having seen the damage done to neighboring homes and schools.
 
