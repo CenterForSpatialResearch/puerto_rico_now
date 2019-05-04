@@ -42,7 +42,7 @@ We pose the decision model methodology with the following objectives:
 In order to demonstrate potentially conflicting stakeholder values, which can conclude in different visions for the future of Puerto Rico, we’ve created three fictional characters based on the narratives of perspectives and experiences that Puerto Ricans can relate to. Although fictional and exaggerated, the characterization of stakeholders is useful to illustrate how differences in priorities affect the final decision output.
 
 #### **The Stakeholders**
-![Tyrene](/puerto_rico_now/images/recovery/Tyrene.png =250x)
+![Tyrene](/puerto_rico_now/images/recovery/Tyrene.png)
 Name: **Tyrene**
 Representative Group: **grassroots community local leader**
 Priorities: **long-term well-being of the community**
@@ -70,7 +70,7 @@ Data Layers Mapped:
 
 ![Community Leader Decision Model](/puerto_rico_now/images/recovery/CommunityLeader_maps.jpg)
 
-![María](/puerto_rico_now/images/recovery/Maria.png =250x)
+![María](/puerto_rico_now/images/recovery/Maria.png)
 Name: **María**
 Representative Group: **middle class from Puerto Rico; some have emigrated to the mainland but still have close ties to the island.**
 Priorities: **recovery and resilience**
@@ -95,7 +95,7 @@ Data Layers Mapped:
 
 ![Recovery & Resilience Decision Model](/puerto_rico_now/images/recovery/RecoveryResilience_maps.jpg)
 
-![Bill](/puerto_rico_now/images/recovery/Bill.png =250x)
+![Bill](/puerto_rico_now/images/recovery/Bill.png)
 Name: **Bill**
 Representative Group: **real estate speculators, finance that funds them and 1% of Puerto Rican society that supports this development**
 Priorities: **attracting capital for the island and develop areas of the island in a more profitable way**
