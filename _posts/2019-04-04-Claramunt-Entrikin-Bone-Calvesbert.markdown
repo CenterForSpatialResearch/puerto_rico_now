@@ -6,7 +6,7 @@ title:  "Municipios at risk in Puerto Rico"
 author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesbert"
 ---
 
-<div style="background:rgba(0, 0, 0, 0.5)">
+<div style="background:rgba(0, 0, 0, 1)">
  </div>
 	
 >In September 20th in 2017 Hurricane María led to “the biggest failure of American disaster response since Hurricane Katrina struck New Orleans and the Gulf Coast in 2005.” -Daniel Farber (2018) 
