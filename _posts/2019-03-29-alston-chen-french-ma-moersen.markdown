@@ -110,6 +110,8 @@ Although there were more lines/stations planned for the Tren Urbano (7 lines in 
 <br/><br/>
 <span style="font-family:Helvetica; font-size:1.8em;">**CRIME DENSITY**</span>
 
+The map shows the crime density and its spatial relation with the Tren Urbano route and stations. The blue line indicates the ground route. The underground route is mainly located at Río Piedras neighborhood, including station Río Piedras and Universidad. The crime density is higher at some large intersections. Most of the stations are located at the main intersections with open parking lots around, where the crime happens more frequent than neighbor area. The Río Piedras station has a higher crime density, which renders people to avoid taking the train from the station.
+
 <div style="padding:100% 0 0 0;position:relative;"><iframe src="https://al1616.github.io/TrenUrbanoCrimeMap/" style="position:absolute;top:3;left:-4;width:100%;height:100%;" frameborder="0"></iframe></div>
 
-The map shows the crime density and its spatial relation with the Tren Urbano route and stations. The blue line indicates the ground route. The underground route is mainly located at Río Piedras neighborhood, including station Río Piedras and Universidad. The crime density is higher at some large intersections. Most of the stations are located at the main intersections with open parking lots around, where the crime happens more frequent than neighbor area. The Río Piedras station has a higher crime density, which renders people to avoid taking the train from the station.
+
