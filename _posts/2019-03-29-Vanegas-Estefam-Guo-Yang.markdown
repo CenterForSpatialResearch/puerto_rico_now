@@ -170,7 +170,7 @@ Above is a familiar map showing the income disparity in Puerto Rico at present, 
 *<https://yqjim111.github.io/>***
 
 <div markdown="0">
-  <iframe src="https://yqjim111.github.io/" width="1400" height="800" frameborder="0" style="display:block; margin-left:-300;"  allowFullScreen></iframe>
+  <iframe src="https://yqjim111.github.io/" width="1350" height="800" frameborder="0" style="display:block; margin-left:-300;"  allowFullScreen></iframe>
 </div>
 
 
@@ -181,7 +181,7 @@ Above is a familiar map showing the income disparity in Puerto Rico at present, 
 **Reference:**
 1. Negrón-Muntaner, Frances. “Blackout: What darkness illuminated in Puerto Rico”. Politics/Letters. http://politicsslashletters.org/blackout-darkness-illuminated-puerto-rico/ (accessed May 2, 2019)
 
-2. Government of Puerto Rico. “Registration and Occupancy Report”. Puerto Rico Tourism Company. https://www.prtourism.com/dnn/Portals/0/PDF_Statistics/Reg_Ocuppancy/End%20of%20Year%202018.pdf?ver=2019-02-26-152653-087 (accessed May 2, 2019)
+2. Government of Puerto Rico. “Registration and Occupancy Report”. Puerto Rico Tourism Company. https://www.prtourism.com/dnn/Portals/0/PDF_Statis5tics/Reg_Ocuppancy/End%20of%20Year%202018.pdf?ver=2019-02-26-152653-087 (accessed May 2, 2019)
 
 3. Morales, Ed. “The Roots of Puerto Rico’s Debt Crisis—and Why Austerity Will Not Solve It“. The Nation. https://www.thenation.com/article/the-roots-of-puerto-ricos-debt-crisis-and-why-austerity-will-not-solve-it/ (accessed May 2, 2019)
 
