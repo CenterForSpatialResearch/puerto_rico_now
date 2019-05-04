@@ -147,7 +147,7 @@ Though these isolated examples of collective organization are inspiring, many ar
 
 <br/><br/>
 
-<span style="font-family:Helvetica; font-size:2em;">**The Case for a Freer Puerto Rico: What Needs to Happen to Ensure Long-Term Success**</span>
+<span style="font-family:Helvetica; font-size:2em;">**<4>The Case for a Freer Puerto Rico: What Needs to Happen to Ensure Long-Term Success**</span>
 
 The previous scenario was developed supposing that only disaster relief funds be used to provide goods and services that were already lacking in Puerto Rico while aiding local businesses, partnerships, and cooperatives to generate employment and begin a path out of poverty. Ambitious to say the least, such a scenario will be hard pressed to succeed in a short amount of time. For a longer-term solution to take effect, we will need some more ambitious conditions.
 
@@ -165,10 +165,10 @@ Above is a familiar map showing the income disparity in Puerto Rico at present, 
 
 <br/><br/>
 
-*If you would like to participate in deciding the future of Puerto Rico, visit the website:*
-*<https://yqjim111.github.io/>*
+***If you would like to participate in deciding the future of Puerto Rico, visit our website:*
+*<https://yqjim111.github.io/>***
 
-<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://yqjim111.github.io/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div style="padding:0% 0 0 0;position:relative;"><iframe src="https://yqjim111.github.io/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 <br/><br/>
 <br/><br/>
