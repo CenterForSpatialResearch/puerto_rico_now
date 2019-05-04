@@ -40,9 +40,9 @@ The following proxies will be considered to measure social vulnerability and phy
 **Zoom to Municipios at Risk**
 
 <p float="left">
-  <img src="/puerto_rico_now/images/decision_model/Yabucoa.gif" width="210" />
-  <img src="/puerto_rico_now/images/decision_model/canovanas_gif.gif" width="210" /> 
-  <img src="/puerto_rico_now/images/decision_model/Comeri0.gif" width="210" />
+  <img src="/puerto_rico_now/images/decision_model/Yabucoa.gif" width="220" />
+  <img src="/puerto_rico_now/images/decision_model/canovanas_gif.gif" width="220" /> 
+  <img src="/puerto_rico_now/images/decision_model/Comeri0.gif" width="220" />
 </p>
 
 <p float="left">
