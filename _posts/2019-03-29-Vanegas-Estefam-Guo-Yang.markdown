@@ -170,7 +170,7 @@ Above is a familiar map showing the income disparity in Puerto Rico at present, 
 *<https://yqjim111.github.io/>***
 
 <div markdown="0">
-  <iframe src="https://yqjim111.github.io/" width="560" height="315" frameborder="0" scrolling="no" style="display:block; margin: 0 auto;" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+  <iframe src="https://yqjim111.github.io/" width="1000" height="600" frameborder="0" style="display:block; margin: 0 auto;" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 
 
