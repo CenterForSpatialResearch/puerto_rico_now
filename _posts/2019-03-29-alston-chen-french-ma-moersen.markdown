@@ -110,4 +110,4 @@ Although there were more lines/stations planned for the Tren Urbano (7 lines in 
 <br/><br/>
 <span style="font-family:Helvetica; font-size:1.8em;">**CRIME DENSITY**</span>
 
-<div style="padding:65% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/al1616/cjv8d129i3wjd1ftazkl7tmr7.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYWwxNjE2IiwiYSI6ImNqc200ZXQ0YTBnOWE0NG54Ym45YnYybHgifQ.t9lM7oOjsxtKmQS_BGfbdg#12.2/18.407805/-66.090904/0" style="position:absolute;top:3;left:-4;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div style="padding:65% 0 0 0;position:relative;"><iframe src="https://al1616.github.io/TrenUrbanoCrimeMap/" style="position:absolute;top:3;left:-4;width:100%;height:100%;" frameborder="0"></iframe></div>
