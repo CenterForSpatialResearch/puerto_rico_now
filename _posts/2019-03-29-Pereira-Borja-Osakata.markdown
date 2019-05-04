@@ -9,8 +9,8 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 <image src="/puerto_rico_now/images/food_soverignty/Sancocho White.png">
 	<br><br><br>
 	<p>
-	Food is more than sustenance. The foods we eat and how they are made can speak volumes about the cultures and histories that brought them to life. <br><br>Sancocho, a traditional Puerto Rican stew, is lovingly prepared from commonly found ingredients that, when brought together, magically transform into a satisfying and nourishing meal that can feed a whole community. <br><br>Though sofrito serves as the seasoning base for the recipe, ingredients will vary from table to table adapting to what is readily available. But even then, the hearty stew will always have bits of carne (beef), zanahoria (carrot), plátano (plantain), yucca (cassava root) y maiz (corn) simmering away  in the caldero (pot). Together, each of these ingredients will fill homes with a delightful, and for many, a nostalgic aroma. </p><br><br>
-	<image src="/puerto_rico_now/images/food_soverignty/85 percent white.jpg"><br><br>
+	Food is more than sustenance. The foods we eat and how they are made can speak volumes about the cultures and histories that brought them to life. <br><br>Sancocho, a traditional Puerto Rican stew, is lovingly prepared from commonly found ingredients that, when brought together, magically transform into a satisfying and nourishing meal that can feed a whole community. <br><br>Though sofrito serves as the seasoning base for the recipe, ingredients will vary from table to table adapting to what is readily available. But even then, the hearty stew will always have bits of carne (beef), zanahoria (carrot), plátano (plantain), yucca (cassava root) y maiz (corn) simmering away  in the caldero (pot). Together, each of these ingredients will fill homes with a delightful, and for many, a nostalgic aroma. </p>
+	<image src="/puerto_rico_now/images/food_soverignty/85 percent white.jpg">
 	<p>However, our constant simmering of the pot of ingredients is no longer locally produced. Recent reports post-Hurricane Maria, declare that 85 percent of the island’s food is sourced outside the island, including agricultural goods that once grew abundantly on the island. Thus, grocery dollars spent continue to exit the country instead of circulating and strengthening its local economy. <br><br>While it is highly unlikely that Puerto Rico will ever be able to produce all of its own food, a multiplicity of non-government organizations (NGOS) are working hard to decrease dependence on foreign importation. Through the humble practice of making sancocho, we explore the current hegemonic structures that dominate Puerto Rico’s food production and aim to elevate non-government agencies that are seeking to change it through collective action and radical transparency.</p><br>
 	<image src="/puerto_rico_now/images/food_soverignty/Measuring plantains in Trujillo Alto WSJ .jpg"> <i>Plantains being weighed for distribution at Angelito's Place in Trujillo Alto, Wall Street Journal (2014)</i>
 		<br><br><br><br>
@@ -77,9 +77,9 @@ NGOs are focusing on agroecology principles to reverse damages that have been do
 
 <span style="font-family:'Open Sans', sans-serif; font-size:16pt;"><b>Ways to Support…</b></span><br><br>
 <br>
-1. Visit a local Farm on your next trip
-1. Look for these organizations on the Map and follow them on Facebook
-1. Vote on behalf of the Puerto Ricans on the island
+1. Visit a local Farm on your next trip<br>
+2. Look for these organizations on the Map and follow them on Facebook<br>
+3. Vote on behalf of the Puerto Ricans on the island
 
 
 
