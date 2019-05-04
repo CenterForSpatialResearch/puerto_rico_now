@@ -70,7 +70,7 @@ title:  "Municipios at risk in Puerto Rico"
 author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesbert"
 ---
 
-<div style="background:rgba(0, 0, 0, 0.5)">
+<div style="background:rgba(0, 0, 0, 0.01)">
 		
 ![Puerto Rico](/puerto_rico_now/images/decision_model/pixel_gif.gif)
 
