@@ -6,12 +6,12 @@ title:  "Municipios at risk in Puerto Rico"
 author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesbert"
 ---
 
-<div style="background-color:rgba(0, 0, 0)">
+<div style="background:rgba(0, 0, 0, 0.5)">
 	 </div>	
 		
 ![Puerto Rico](/puerto_rico_now/images/decision_model/pixel_gif.gif)
 
-**RQ: What areas of Puerto Rico are at the most risk in the event of another hurricane?**
+**What areas of Puerto Rico are at the most risk in the event of another hurricane?**
 
 This project develops a decision model based in *social* and *physical* vulnerability metrics that are first mapped individually and secondly added into one final model to render a map showing higher risk for municipalities and possible impact in their capacity to recover in the event of another Hurricane.
 
