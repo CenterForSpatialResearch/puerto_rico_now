@@ -7,14 +7,19 @@ author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesber
 ---
 
 <div style="background:rgba(0, 0, 0, 0.5)">
-</div>
-		
+	</div>
+	
+>In September 20th in 2017 Hurricane María led to “the biggest failure of American disaster response since Hurricane Katrina struck New Orleans and the Gulf Coast in 2005.” -Daniel Farber (2018) 
+	
 ![Puerto Rico](/puerto_rico_now/images/decision_model/pixel_gif.gif)
 
->In September 20th in 2017 Hurricane María led to “the biggest failure of American disaster response since Hurricane Katrina struck New Orleans and the Gulf Coast in 2005.” -Daniel Farber (2018) 
 
 **What areas of Puerto Rico are at the most risk in the event of another hurricane?**
 
+
+<div style="padding:56.25% 0 0 0;position:relative;">
+  <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=fab7ef1c-6e0b-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe>
+</div>
 
 <div style="padding:56.25% 0 0 0;position:relative;">
   <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=fab7ef1c-6e0b-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe>
