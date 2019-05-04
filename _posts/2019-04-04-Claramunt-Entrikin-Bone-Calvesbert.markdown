@@ -40,6 +40,7 @@ Municipalities are a Second layer governance, and are subjected to “state”, 
 >Disasters are sometimes considered external shocks, but disaster risk results from the complex interaction between development processes that generate conditions of exposure, vulnerability and hazard. Disaster risk is therefore considered as the combination of the severity and frequency of a hazard, the numbers of people and assets exposed to the hazard, and their vulnerability to damage (UNISDR, 2015a).
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/SOS_PR.jpg)
+Source: Local pres - Umacao, Las María. 2017
 
 **MAPPING MUNICIPALITIES AT RISK IN PUERTO RICO**
 
