@@ -6,13 +6,16 @@ title:  "Municipios at risk in Puerto Rico"
 author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesbert"
 ---
 
-<div style="background:rgba(0, 0, 0, 1)">
+<div style="background:rgba(0, 0, 0, .5)">
  </div>
 	
 >In September 20th in 2017 Hurricane María led to “the biggest failure of American disaster response since Hurricane Katrina struck New Orleans and the Gulf Coast in 2005.” -Daniel Farber (2018) 
 	
 ![Puerto Rico](/puerto_rico_now/images/decision_model/pixel_gif.gif)
 
+The devastation produced by Hurricane María was unprecedented and revealed the deep crisis, not only economical but also the physical, social and spatial vulnerabilities that place Puerto Rico in constant climate risk. The whole archipelago of Puerto Rico suffered from a lack of effective and immediate response to the catastrophe, with shared responsibilities from the local government to the Federal Emergency Management Agency (FEMA). The islands experienced full black-out for months, the death toll product of the hurricanes passing extended to thousands, health administration has decreased, and lack of social services are continously threatening local capacity to respond from communities to institutions.
+
+>The volatile nature of economic and population activity generates the need to locate public policies decisions geographically even more relevant.
 
 **What areas of Puerto Rico are at the most risk in the event of another hurricane?**
 
