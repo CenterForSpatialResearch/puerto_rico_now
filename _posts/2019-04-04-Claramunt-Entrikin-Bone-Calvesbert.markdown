@@ -7,11 +7,14 @@ author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesber
 ---
 
 <div style="background:rgba(0, 0, 0, 0.5)">
-	 </div>	
 		
 ![Puerto Rico](/puerto_rico_now/images/decision_model/pixel_gif.gif)
 
+>For September 20th marks claims “Hurricane María led to the biggest failure of American disaster response since Hurricane Katrina struck New Orleans and the Gulf Coast in 2005.” -Daniel Farber (2018) 
+
 **What areas of Puerto Rico are at the most risk in the event of another hurricane?**
+
+<iframe frameborder="0" class="juxtapose" width="100%" height="1299" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=fab7ef1c-6e0b-11e9-8106-0edaf8f81e27"></iframe>
 
 This project develops a decision model based in *social* and *physical* vulnerability metrics that are first mapped individually and secondly added into one final model to render a map showing higher risk for municipalities and possible impact in their capacity to recover in the event of another Hurricane.
 
