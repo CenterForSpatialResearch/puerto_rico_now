@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2019-04-12
+date:   2019-05-03
 image: "/puerto_rico_now/images/recovery/mapping-agency-thumbnail.png"
 title:  "Community Agency through Mapping:<br>Decision Making Tools for Puerto Ricans"
 author: "Ashley Louie & Gloria Serra Coch"
