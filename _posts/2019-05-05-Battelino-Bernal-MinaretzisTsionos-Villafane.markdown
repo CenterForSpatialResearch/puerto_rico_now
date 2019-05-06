@@ -23,8 +23,6 @@ small {
   </iframe>
 </div>
 
-
-
 **Investment Island: PUERTO RICO NOW**
 
 Key non-exhaustive list of incentives for American Investors in Puerto Rico. *It is our intention to demonstrate to Puerto Rico landowners the ease and reward of American Investment in Puerto Rico. It is imperative to note that the information provided on this webpage is to encourage landowners to understand the value of their land and therefore price it accordingly*    
