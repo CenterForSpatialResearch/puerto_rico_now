@@ -36,12 +36,14 @@ author: "Crystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 <img src="/puerto_rico_now/images/food_soverignty/03 Starches.png"><i>Starches Import Map</i><br><br>
 <p>A number of starchy fruits and vegetables fill the body of the sancocho and the bellies of millions. In fact, many people choose to forego any animal products and rely on the sweet and tender flavors of plátano, yucca, and carrot to fill them up. Just under 900 thousand kilograms of plantains valued at 1.3 million USD, over 2.2 million kilograms of yucca valued at over 1.5 million US dollars, and  3.6 million kilograms of carrots valued at just under 2.9 million US dollars were brought into Puerto Rico in 2016.   
 <br><br>However, crops, such as plantain, yucca, and carrot, were seen as unprofitable and were replaced by large-scale mechanized agriculture, many of which were monoculture plantations that are simply in the business of making profits. Many negative consequences arise with the practice of growing one crop on large plots of land:</p><br>
-- The land is concentrated and kept in the hands of few
-- Soil health is degraded and nutritionally deficient, decreasing production and increasing dependence on agro-chemicals that aid in growth and ward off diseases. 
-- Diseases that were not common on agriculturally diverse fertile lands were reintroduced.
-- Agro-chemicals damage the natural ecosystem, polluting water airways, suffocating fish, and in large quantities damaging the health of local residents. 
-- Genetically modified seeds need to be purchased for each growing season unlike natural pollination processes 
-- Conventional farming costs can add up, leaving the small farmer with little to no profit.
+
+- The land is concentrated and kept in the hands of few <br>
+- Soil health is degraded and nutritionally deficient, decreasing production and increasing dependence on agro-chemicals that aid in growth and ward off diseases. <br>
+- Diseases that were not common on agriculturally diverse fertile lands were reintroduced. <br>
+- Agro-chemicals damage the natural ecosystem, polluting water airways, suffocating fish, and in large quantities damaging the health of local residents. <br>
+- Genetically modified seeds need to be purchased for each growing season unlike natural pollination processes <br>
+- Conventional farming costs can add up, leaving the small farmer with little to no profit. <br>
+
 <br><p>Agro-ecology farming is an alternative model for industrial agriculture that is concerned with all aspects of food production. It is free of agro-chemicals and brings back traditional farming methods that enhance ecosystems. Not only is it concerned with how farming is done but with who farms. Inclusive farming focuses on knowledge and the sharing of that knowledge as well as the health of the societies it depends on. Agro-ecology, therefore, supports the connections between people and the environment making it an essential tool in achieving food sovereignty.</p><br>
 
 
