@@ -35,6 +35,9 @@ Key non-exhaustive list of incentives for American Investors in Puerto Rico. *It
 4. Setting up a business on the island allows you to escape the 40% tax rate faced in California or New York. In Puerto Rico, your tax rate is 4%. 
 5. Puerto Rico residents are not taxed in the United States on their Puerto Rico sourced income. 
 
+<link rel="stylesheet" href="ism/css/my-slider.css"/>
+<script src="ism/js/ism-2.2.min.js"></script>
+
 <div class="ism-slider" data-play_type="once" id="InvestmentOverview">
   <ol>
     <li>
