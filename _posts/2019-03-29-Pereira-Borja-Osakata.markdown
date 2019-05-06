@@ -20,12 +20,12 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 <br><br>
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>1. Season Pieces of Beef. Dredge and Sear. </i></span>
 <br><br>
-<img src="/puerto_rico_now/images/food_soverignty/01 Meat.png"><br><br>
+<img src="/puerto_rico_now/images/food_soverignty/01 Meat.png"><i>Meet Import Map</i><br><br>
 <p>Sancocho is commonly made with beef and pork proteins. In 2016, Puerto Rico imported approximately 890 million US dollars worth of cow and pig-based meats from fourteen different countries. While some of the beef is being imported from Central America, over 100 thousand kilograms travel from as far out as Australia. <br><br>Such large imports of meat came about with the industrialization of the island in the 1950s. Farmers in rural areas begin migrating to urban areas for new work. Food imports began arriving from the United States to compensate for the reduction in local agricultural production which lead to the creation of supermarkets and, ultimately a longstanding change in Puerto Ricans’ diet. Along with meat, there was now increasing access to processed foods and decreasing variation in produce. Not only did mass importation drastically change how and what Puerto Ricans ate, it also restricted where foods could be purchased. Approximately 43 percent of islanders receive food stamps from the government. Food Stamp purchases are confined to authorized supermarkets, markets with little or no stock of local produce. </p><br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>2. Add Sofrito, Onion, Garlic and Carrots. Cook until Onion is Translucent. </i></span>
 <br><br>
-<img src="/puerto_rico_now/images/food_soverignty/02 Sofrito.png"><br><br>
+<img src="/puerto_rico_now/images/food_soverignty/02 Sofrito.png"><i>Sofrito Import Map</i><br><br>
 <p>Sofrito is a Puerto Rican seasoning base made of garlic, cilantro, culantro, onions, and sweet peppers. The base can be found in almost every home refrigerator making it a central seasoning to Puerto Rican cuisine. Garlic, originally introduced by the Spanish is locally nonexistent. In 2016, 3.5 million kilograms  of garlic valued at 7.5 million US dollars was imported. Further, 16 million US dollars worth of onions and onion products were brought in from places as far as Canada, China, and Denmark. <br><br>The price spent on imported foods continues to be alarming. But, it’s important to note it as a byproduct of colonization capitalistic interest in land production. Decades before the industrialization of the island, the US provided sugar production incentives. This  lead to the overturn of agriculturally diverse lands into management of a single crop; the monocrop. Agriculture lands were shaped up to meet the demands of the global economy and therefore neglected the local food system.
 </p><br><br>
 
@@ -35,14 +35,14 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>4. Add Plátanos, Yucca. Maybe Yautía. Simmer. </i></span>
 <br><br>
-<img src="/puerto_rico_now/images/food_soverignty/03 Starches.png"><br><br>
+<img src="/puerto_rico_now/images/food_soverignty/03 Starches.png"><i>Starches Import Map</i><br><br>
 <p>Monoculture plantations are in the business of making profits. With the practice of growing one crop on large plots of land many negative consequences arise. Lands are concentrated and kept in the hands of few. Soil health is degraded and nutritionally deficient decreasing production. Dependence is thus spent on agro-chemicals for growth and to ward of diseases. Diseases which were not common on agriculturally diverse rich lands. Agro-chemicals damage the natural ecosystem, polluting water airways, suffocating fish, and in large quantities damaging the health of local residents. Genetically modified seeds need to be purchased for each growing season unlike natural pollination process, Conventional farming costs can add up leaving the small farmer with little to no profit. <br><br> Agroecology farming is an alternative model to industrial farming that is concerned with all aspects of food production. It is free of agro-chemicals and brings back traditional farming methods that enhances ecosystems. Not only is it concerned with how farming is done but with who farms. Inclusive farming focuses on knowledge and the sharing of that knowledge as well as the health of the societies it depends on. Agroecology therefore supports the connections between people and the environment making it an important tool in achieving food sovereignty. 
 </p><br>
 <img src="/puerto_rico_now/images/food_soverignty/Yucca being peeled.jpg"><i>Person preparing yucca for cooking, Eater Magazine (2018)</i><br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>5. Add Corn. Simmer</i></span>
 <br><br>
-<img src="/puerto_rico_now/images/food_soverignty/04 Corn.png"><br><br>
+<img src="/puerto_rico_now/images/food_soverignty/04 Corn.png"><i>Corn Import Map</i><br><br>
 <p>After beef, corn is the second-largest food import of the ingredients of sancocho. Over 154 million kilograms valued at 116 million USD is brought in a variety of forms including whole cobs, frozen kernels, canned nibs, oils, and flours. Ironically, Puerto Rico has the ideal climate for growing corn, giving it three seasons in one year for harvest.<br><br>Monsanto, a multinational biotechnological seed corporation scored big. The GMO seed producer and player in agrotechnological experimentation receives extensive governmental benefits for their branch in Puerto Rico. Monsanto along with other multinational seed corporation control 6,439 acres of the most fertile and arable lands in Puerto Rico; between Guayama and Juana Díaz. 44% of those lands are leased with the government agency. Lands are used mainly for testing and not for the growing of food. Between 2006 and 2015, transgenic seed and agrochemical industry received more than $526 million in subsidies and tax exemptions between 2006 and 2015. The government agency also refunds $2.72 per work hour paid by companies of unskilled laborers. Seed companies also get discounted rates on water sources from PREPA paying $2 per acre-feet while other customers pay from $163 and $325. All these benefits create a paradise for outside corporations to amass large amounts of wealth and damage local ecosystems. And there ability to extract wealth for Puerto Rico is made possible with their government alliances. Thus true agricultural revival and independence will not be achieved through governmental efforts.</p><br><br>
 <img src="/puerto_rico_now/images/food_soverignty/government white.jpg"><br><br>
 
@@ -54,7 +54,7 @@ author: "Chystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 
 <span style="font-family:'Open Sans', sans-serif; font-size:16pt;"><b>So, How many Countries does it take to make Sancocho?</b></span>
 <br><br>
-<img src="/puerto_rico_now/images/food_soverignty/Imports-GIF.gif"><br><br>
+<img src="/puerto_rico_now/images/food_soverignty/Imports-GIF.gif"><i>Sancocho Ingredients Import Map</i><br><br>
 <p>Data revealed that in 2016, about 22 countries were sourced for ingredients common in the making of sancocho. While these locations were found, aggregated data made it impossible to calculate number of miles traveled per food. Under the Jones Act of 1917, all imports are required to stop at a US port and goods are transferred to US cargo ships before arriving in Puerto Rico.  Other common food imports include cooking oils and dairy. Though we were able to find this collection of data, an extensive report outlining what the 85 % of food imports includes or excludes is not readily available. </p><br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:16pt;"><b>Can Food Sovereignty be achieved without Political Sovereignty?
