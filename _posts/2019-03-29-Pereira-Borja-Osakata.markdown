@@ -82,6 +82,8 @@ author: "Crystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 1. Visit a local Farm on your next trip<br>
 2. Look for these organizations on the Map and follow them on Facebook<br>
 3. Vote on behalf of the Puerto Ricans on the island
+<br><br>
+<img src="/puerto_rico_now/images/food_soverignty/response_puertorico.jpg"><i>Illustration of local agriculture and community support, K. Lynch (2018) </i>
 
 
 
