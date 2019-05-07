@@ -8,7 +8,12 @@ author: "Tim Daniel Battelino, Daniel Bernal, Aris Minaretzis Tsionos, Jean Pier
 ---
 *ISLA VERDE AS A LESSON; OCEAN PARK AS A COUNTER NARRATIVE* 
 
-Puerto Rico, the Island of Enchantment, became a bit more enchanting to American investors after Governor Ricardo Rosselló announced 98% of Puerto Rico as an Opportunity Zone. The announcement came after The US Treasury Department and IRS defined Puerto Rico as an opportunity zone based upon the [US Tax Cuts and Job Act of 2017](https://home.treasury.gov/news/press-releases/sm0341). Opportunity Zones are intended to foster investment in the *nation's* disadvantaged communities. Hurricane Maria's impact on the island fits the rhetoric of investment into low income communities, but whether they will substantialy aid needy communities is another question.
+The current state of vulnerability that Puerto Rico finds itself in provides ample opportunities for fast -paced foreign development without profound analysis of the social and urban transformation it might cause. We identify Ocean Park as one of the areas on the island that is in imminent danger of becoming another gentrified enclave, with foreign investment changing local economic and social structure to a degree for it becoming inaccessible to its current inhabitants. By conducting an analysis on another neighbourhood that already went through this radical transformation, Isla Verde, we believe a comparison could be made in order to project Ocean Park’s future, if action is not taken.
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://youtu.be/DaBFH623OH8" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+
+
+Puerto Rico became even more desirable to American investors after Governor Ricardo Rosselló announced 98% of Puerto Rico as an Opportunity Zone. The announcement came after The US Treasury Department and IRS defined Puerto Rico as an opportunity zone based upon the [US Tax Cuts and Job Act of 2017](https://home.treasury.gov/news/press-releases/sm0341). Opportunity Zones are intended to foster investment in the *nation’s* disadvantaged communities. Hurricane Maria’s impact on the island fits the rhetoric of investment into low income communities, but whether they will substantially aid needy communities is another question.
 
 <style>
 .embed-container {
@@ -22,6 +27,7 @@ small {
   <iframe width="940" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Opportunity Zones" src="https://opportunitydb.maps.arcgis.com/apps/webappviewer/index.html?id=6c94c8e9345d4614b247aac7cf314dc9">
   </iframe>
 </div>
+
 
 **Investment Island: PUERTO RICO NOW**
 
@@ -112,3 +118,4 @@ All you need to do to use one is replace the url that is between the two " ". He
 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/mapbox/satellite-v9.html?title=true&access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NDg1bDA1cjYzM280NHJ5NzlvNDMifQ.d6e-nNyBDtmQCVwVNivz7A#2/0/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+
