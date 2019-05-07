@@ -6,16 +6,12 @@ title:  "ISLA VERDE COMO LECCIÓN;
 OCEAN PARK COMO EVENTUAL OPOSICIÓN"
 author: "Tim Daniel Battelino, Daniel Bernal, Aris Minaretzis Tsionos, Jean Pierre Villafane"
 ---
+
 *ISLA VERDE AS A LESSON; OCEAN PARK AS A COUNTER NARRATIVE* 
 
 The current state of vulnerability that Puerto Rico finds itself in provides ample opportunities for fast-paced foreign development without profound analysis of the social and urban transformation it might cause. We identify Ocean Park as one of the areas on the island that is in imminent danger of becoming another gentrified enclave, with foreign investment changing local economic and social structure to a degree for it becoming inaccessible to its current inhabitants. By conducting an analysis on another neighbourhood that already went through this radical transformation, Isla Verde, we believe a comparison could be made in order to project Ocean Park’s future, if action is not taken.
 
-<html>
- <body>
-  <iframe src="https://youtu.be/embed/DaBFH623OH8"
-   width="560" height="315" frameborder="0" allowfullscreen></iframe>
- </body>
-</html>
+<iframe width="715" height="402" src="https://www.youtube.com/embed/DaBFH623OH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Puerto Rico became even more desirable to American investors after Governor Ricardo Rosselló announced 98% of Puerto Rico as an Opportunity Zone. The announcement came after The US Treasury Department and IRS defined Puerto Rico as an opportunity zone based upon the [US Tax Cuts and Job Act of 2017](https://home.treasury.gov/news/press-releases/sm0341). Opportunity Zones are intended to foster investment in the *nation’s* disadvantaged communities. Hurricane Maria’s impact on the island fits the rhetoric of investment into low income communities, but whether they will substantially aid needy communities is another question.
