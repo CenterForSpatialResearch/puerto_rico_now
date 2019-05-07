@@ -73,11 +73,11 @@ In the gentrified Isla Verde, with the exile of local business by imported globa
 <div class="ism-slider" data-transition_type="fade" id="my-slider">
   <ol>
     <li>
-      <img src="/puerto_rico_now/images/public_art//1557096217303_362953.jpg">
+      <img src="/puerto_rico_now/images/public_art/1557096217303_362953.jpg">
       <div class="ism-caption ism-caption-0">La Isla Verde Network</div>
     </li>
     <li>
-      <img src="/puerto_rico_now/images/public_art//1557096217241_141234.jpg">
+      <img src="/puerto_rico_now/images/public_art/1557096217241_141234.jpg">
       <div class="ism-caption ism-caption-0">Network of Hotels</div>
     </li>
     <li>
@@ -85,11 +85,11 @@ In the gentrified Isla Verde, with the exile of local business by imported globa
       <div class="ism-caption ism-caption-0">Network of Hotels + Condos</div>
     </li>
     <li>
-      <img src="/puerto_rico_now/images/public_art//1557096217216_472465.jpg">
+      <img src="/puerto_rico_now/images/public_art/1557096217216_472465.jpg">
       <div class="ism-caption ism-caption-0">Network of Hotels + Condos + Restaurants</div>
     </li>
     <li>
-      <img src="/puerto_rico_now/images/public_art//1557096217223_595196.jpg">
+      <img src="/puerto_rico_now/images/public_art/1557096217223_595196.jpg">
       <div class="ism-caption ism-caption-0">Network of Hotels + Condos + Restaurants + Bars</div>
     </li>
   </ol>
@@ -99,8 +99,8 @@ In the gentrified Isla Verde, with the exile of local business by imported globa
 
 Emerging from this test case, our main investigation is focused on the area of **Ocean Park**. Also located close to airport, the touristic areas of Miramar, Condado, Old San Juan, and Santurce, this neighborhood is geographically proximate and similar to Isla Verde. However, the area is not touristy as of the present day, and is in fact is a predominately Puerto Rican neighborhood with its own culture. Simultaneously, it is an area with a high number of abandoned lots and buildings. In the climate of the mediascapes of Puerto Rico advertising the imaginary of a resort destination to the American public, and tax incentives to any US mainland citizen investing in land in Puerto Rico, we believe that Ocean Park presents a fertile ground for what Appadurai calls a *deterritorialization*. The danger for Ocean Park to become another patch of gentrified territory os therefore alarmingly high.
 
-<link rel="stylesheet" href="/puerto_rico_now/images/public_art/my-slider.css"/>
-<script src="puerto_rico_now/images/public_art/ism-2.2.min.js"></script>
+<link rel="stylesheet" href="/puerto_rico_now/images/public_art/my-sliderOP.css"/>
+<script src="puerto_rico_now/images/public_art/ism-2.2.minOP.js"></script>
 <div class="ism-slider" data-transition_type="fade" id="my-slider">
   <ol>
     <li>
@@ -121,7 +121,7 @@ The analysis of plot availability within Ocean Park shows that, despite their re
 
 ![Lot Sizing Per Square Meter](/puerto_rico_now/images/public_art/tim export-01.jpg)
 
-
+<BR>
 
 
 ![Property Values Per Square Meter](/puerto_rico_now/images/public_art/dimenzije-01.jpg)
