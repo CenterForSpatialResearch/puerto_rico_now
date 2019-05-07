@@ -77,7 +77,7 @@ In the gentrified Isla Verde, with the exile of local business by imported globa
 
 <link rel="stylesheet" href="/puerto_rico_now/images/public_art/my-sliderIV.css"/>
 <script src="/puerto_rico_now/images/public_art/ism-2.2.minIV.js"></script>
-<div class="ism-slider" data-transition_type="fade" id="my-sliderIV">
+<div class="ism-slider" data-transition_type="fade" id="my-slider">
   <ol>
     <li>
       <img src="/puerto_rico_now/images/public_art/1557096217303_362953.jpg">
@@ -109,7 +109,7 @@ Emerging from this test case, our main investigation is focused on the area of *
 
 <link rel="stylesheet" href="/puerto_rico_now/images/public_art/my-sliderOP.css"/>
 <script src="/puerto_rico_now/images/public_art/ism-2.2.minOP.js"></script>
-<div class="ism-slider" data-transition_type="fade" id="my-sliderOP">
+<div class="ism-slider" data-transition_type="fade" id="my-slider">
   <ol>
     <li>
       <img src="/puerto_rico_now/images/public_art/1557103048326_242114.jpg">
