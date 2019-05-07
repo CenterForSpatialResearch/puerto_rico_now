@@ -13,27 +13,15 @@ author: "Tim Daniel Battelino, Daniel Bernal, Aris Minaretzis Tsionos, Jean Pier
 *ISLA VERDE AS A LESSON; OCEAN PARK AS A COUNTER NARRATIVE* 
 
 The current state of vulnerability that Puerto Rico finds itself in provides ample opportunities for fast-paced foreign development without profound analysis of the social and urban transformation it might cause. We identify Ocean Park as one of the areas on the island that is in imminent danger of becoming another gentrified enclave, with foreign investment changing local economic and social structure to a degree for it becoming inaccessible to its current inhabitants. By conducting an analysis on another neighbourhood that already went through this radical transformation, Isla Verde, we believe a comparison could be made in order to project Ocean Park’s future, if action is not taken.
-
 <br>
 <iframe width="715" height="402" src="https://www.youtube.com/embed/DaBFH623OH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <br>
-
 Puerto Rico became even more desirable to American investors after Governor Ricardo Rosselló announced 98% of Puerto Rico as an Opportunity Zone. The announcement came after The US Treasury Department and IRS defined Puerto Rico as an opportunity zone based upon the [US Tax Cuts and Job Act of 2017](https://home.treasury.gov/news/press-releases/sm0341). Opportunity Zones are intended to foster investment in the *nation’s* disadvantaged communities. Hurricane Maria’s impact on the island fits the rhetoric of investment into low income communities, but whether they will substantially aid needy communities is another question.
-
-<style>
-.embed-container {
-  position: relative; padding-bottom: 64%; height: 0; max-width: 100%; }
-.embed-container iframe, .embed-container object, .embed-container iframe {
-  position: absolute; top: 0; left: 0; width: 100%; height: 100%; } 
-small {
-  position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px; }
-</style>
-<div class="embed-container">
-  <iframe width="940" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Opportunity Zones" src="https://opportunitydb.maps.arcgis.com/apps/webappviewer/index.html?id=6c94c8e9345d4614b247aac7cf314dc9">
-  </iframe>
-</div>
-
-
+<br>
+![Investment in Contiguous US](/puerto_rico_now/images/publicart/1557199057586_547878.png)
+![Investment in PR](/puerto_rico_now/images/publicart/11557199091739_607447.png)
+![Investment Comparison](/puerto_rico_now/images/publicart/1557199097860_43394.png)
+<br>
 **Investment Island: PUERTO RICO NOW**
 
 Key non-exhaustive list of incentives for American Investors in Puerto Rico. *It is our intention to demonstrate to Puerto Rico landowners the ease and reward of American Investment in Puerto Rico. It is imperative to note that the information provided on this webpage is to encourage landowners to understand the value of their land and therefore price it accordingly*    
