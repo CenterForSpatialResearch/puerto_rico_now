@@ -8,9 +8,14 @@ author: "Tim Daniel Battelino, Daniel Bernal, Aris Minaretzis Tsionos, Jean Pier
 ---
 *ISLA VERDE AS A LESSON; OCEAN PARK AS A COUNTER NARRATIVE* 
 
-The current state of vulnerability that Puerto Rico finds itself in provides ample opportunities for fast -paced foreign development without profound analysis of the social and urban transformation it might cause. We identify Ocean Park as one of the areas on the island that is in imminent danger of becoming another gentrified enclave, with foreign investment changing local economic and social structure to a degree for it becoming inaccessible to its current inhabitants. By conducting an analysis on another neighbourhood that already went through this radical transformation, Isla Verde, we believe a comparison could be made in order to project Ocean Park’s future, if action is not taken.
+The current state of vulnerability that Puerto Rico finds itself in provides ample opportunities for fast-paced foreign development without profound analysis of the social and urban transformation it might cause. We identify Ocean Park as one of the areas on the island that is in imminent danger of becoming another gentrified enclave, with foreign investment changing local economic and social structure to a degree for it becoming inaccessible to its current inhabitants. By conducting an analysis on another neighbourhood that already went through this radical transformation, Isla Verde, we believe a comparison could be made in order to project Ocean Park’s future, if action is not taken.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://youtu.be/DaBFH623OH8" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<html>
+ <body>
+  <iframe src="https://youtu.be/embed/DaBFH623OH8"
+   width="560" height="315" frameborder="0" allowfullscreen></iframe>
+ </body>
+</html>
 
 
 Puerto Rico became even more desirable to American investors after Governor Ricardo Rosselló announced 98% of Puerto Rico as an Opportunity Zone. The announcement came after The US Treasury Department and IRS defined Puerto Rico as an opportunity zone based upon the [US Tax Cuts and Job Act of 2017](https://home.treasury.gov/news/press-releases/sm0341). Opportunity Zones are intended to foster investment in the *nation’s* disadvantaged communities. Hurricane Maria’s impact on the island fits the rhetoric of investment into low income communities, but whether they will substantially aid needy communities is another question.
