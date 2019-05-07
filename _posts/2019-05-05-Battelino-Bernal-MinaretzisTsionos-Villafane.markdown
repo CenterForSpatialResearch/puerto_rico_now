@@ -18,10 +18,7 @@ The current state of vulnerability that Puerto Rico finds itself in provides amp
 <br>
 Puerto Rico became even more desirable to American investors after Governor Ricardo Rosselló announced 98% of Puerto Rico as an Opportunity Zone. The announcement came after The US Treasury Department and IRS defined Puerto Rico as an opportunity zone based upon the [US Tax Cuts and Job Act of 2017](https://home.treasury.gov/news/press-releases/sm0341). Opportunity Zones are intended to foster investment in the *nation’s* disadvantaged communities. Hurricane Maria’s impact on the island fits the rhetoric of investment into low income communities, but whether they will substantially aid needy communities is another question.
 <br>
-![Investment in Contiguous US](/puerto_rico_now/images/publicart/1557199057586_547878.png)
-![Investment in PR](/puerto_rico_now/images/publicart/11557199091739_607447.png)
-![Investment Comparison](/puerto_rico_now/images/publicart/1557199097860_43394.png)
-<br>
+
 **Investment Island: PUERTO RICO NOW**
 
 Key non-exhaustive list of incentives for American Investors in Puerto Rico. *It is our intention to demonstrate to Puerto Rico landowners the ease and reward of American Investment in Puerto Rico. It is imperative to note that the information provided on this webpage is to encourage landowners to understand the value of their land and therefore price it accordingly*    
@@ -32,25 +29,10 @@ Key non-exhaustive list of incentives for American Investors in Puerto Rico. *It
 4. Setting up a business on the island allows you to escape the 40% tax rate faced in California or New York. In Puerto Rico, your tax rate is 4%. 
 5. Puerto Rico residents are not taxed in the United States on their Puerto Rico sourced income. 
 
-<div class="ism-slider" id="my-slider">
-  <ol>
-    <li>
-      <img src="ism/image/slides/_u/1557199057586_547878.png">
-      <div class="ism-caption ism-caption-0">Investment in contiguous US</div>
-    </li>
-    <li>
-      <img src="ism/image/slides/_u/1557199091739_607447.png">
-      <div class="ism-caption ism-caption-0">Investment in PR </div>
-    </li>
-    <li>
-      <img src="ism/image/slides/_u/1557199097860_43394.png">
-      <div class="ism-caption ism-caption-0">Investment comparison</div>
-    </li>
-  </ol>
-</div>
-<p class="ism-badge" id="my-slider-ism-badge"><a class="ism-link" href="http://imageslidermaker.com" rel="nofollow">generated with ISM</a></p>
-
-
+![Investment in Contiguous US](/puerto_rico_now/images/public_art/1557199057586_547878.png)
+![Investment in PR](/puerto_rico_now/images/public_art/11557199091739_607447.png)
+![Investment Comparison](/puerto_rico_now/images/public_art/1557199097860_43394.png)
+<br>
 
 
 
