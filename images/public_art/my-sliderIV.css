@@ -51,8 +51,8 @@
 .ism-slider .ism-img-frame {
   display: block;
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 50%;
+  height: 50%;
 }
 
 .ism-slider a.ism-image-link {
@@ -62,8 +62,8 @@
   display: block;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100%;
+  width: 50%;
+  height: 50%;
 }
 
 .ism-slider .ism-img {
