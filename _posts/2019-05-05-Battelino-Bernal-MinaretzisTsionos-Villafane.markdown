@@ -53,6 +53,28 @@ SLIDER WITH LA ISLA VERDE SLIDES (Isla Verde Slider)
 Emerging from this test case, our main investigation is focused on the area of **Ocean Park**. Also located close to airport, the touristic areas of Miramar, Condado, Old San Juan, and Santurce, this neighborhood is geographically proximate and similar to Isla Verde. However, the area is not touristy as of the present day, and is in fact is a predominately Puerto Rican neighborhood with its own culture. Simultaneously, it is an area with a high number of abandoned lots and buildings. In the climate of the mediascapes of Puerto Rico advertising the imaginary of a resort destination to the American public, and tax incentives to any US mainland citizen investing in land in Puerto Rico, we believe that Ocean Park presents a fertile ground for what Appadurai calls a *deterritorialization*. The danger for Ocean Park to become another patch of gentrified territory os therefore alarmingly high.
 
 SLIDER OCEAN PARK (Ocean Park Slider)
+<link rel="stylesheet" href="/puerto_rico_now/images/public_art/ism/css/my-slider.css"/>
+<script src="ism/js/ism-2.2.min.js"></script>
+
+<div class="ism-slider" id="my-slider">
+  <ol>
+    <li>
+      <img src="ism/image/slides/_u/1557199057586_547878.png">
+      <div class="ism-caption ism-caption-0">Investment in contiguous US</div>
+    </li>
+    <li>
+      <img src="ism/image/slides/_u/1557199091739_607447.png">
+      <div class="ism-caption ism-caption-0">Investment in PR </div>
+    </li>
+    <li>
+      <img src="ism/image/slides/_u/1557199097860_43394.png">
+      <div class="ism-caption ism-caption-0">Investment comparison</div>
+    </li>
+  </ol>
+</div>
+<p class="ism-badge" id="my-slider-ism-badge"><a class="ism-link" href="http://imageslidermaker.com" rel="nofollow">generated with ISM</a></p>
+
+
 
 The analysis of plot availability within Ocean Park shows that, despite their relatively small size, they are highly suitable for foreign investment due to their proximity and clustering between each other. Usually, if a foreign investor wants to make a move and buy property for hotel development, they would look for available plots and their adjacent sites to determine suitability. The higher the lot availability within the area, as well as already existing services, the higher is the chance for investment to happen. By knowing the potential price of ones land, this could be avoided.
 
