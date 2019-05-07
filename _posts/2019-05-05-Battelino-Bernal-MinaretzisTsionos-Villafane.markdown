@@ -45,8 +45,10 @@ small {
 3. If you move to Puerto Rico you pay zero tax on capital gaines after you become a resident. 
 4. Setting up a business on the island allows you to escape the 40% tax rate faced in California or New York. In Puerto Rico, your tax rate is 4%. 
 5. Puerto Rico residents are not taxed in the United States on their Puerto Rico sourced income. 
+
 <link rel="stylesheet" href="/puerto_rico_now/images/public_art/my-slider.css"/>
 <script src="/puerto_rico_now/images/public_art/ism-2.2.min.js"></script>
+
 <div class="ism-slider" id="my-slider">
   <ol>
     <li>
@@ -64,6 +66,7 @@ small {
   </ol>
 </div>
 <p class="ism-badge" id="my-slider-ism-badge"><a class="ism-link" href="http://imageslidermaker.com" rel="nofollow">generated with ISM</a></p>
+
 <br>
 
 Our investigation begins in Isla Verde, one of San Juan’s most tourism oriented neighborhoods. Adjacent to the San Juan airport, and full of US owned franchise hotels and businesses, this area most nearly fills the imaginary of a resortified Puerto Rico.  The Caribbean identity has given way to the monotonous copy-paste hotel architecture that can be found all around the world, just as minority of Puerto Rican businesses have been replaced by gated, palm tree lined branches of global hospitality giants. 
