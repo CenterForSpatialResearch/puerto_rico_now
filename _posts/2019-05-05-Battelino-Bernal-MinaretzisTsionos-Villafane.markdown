@@ -7,9 +7,6 @@ OCEAN PARK COMO EVENTUAL OPOSICIÓN"
 author: "Tim Daniel Battelino, Daniel Bernal, Aris Minaretzis Tsionos, Jean Pierre Villafane"
 ---
 
-<link rel="stylesheet" href="ism/css/my-slider.css"/>
-<script src="ism/js/ism-2.2.min.js"></script>
-
 *ISLA VERDE AS A LESSON; OCEAN PARK AS A COUNTER NARRATIVE* 
 
 The current state of vulnerability that Puerto Rico finds itself in provides ample opportunities for fast-paced foreign development without profound analysis of the social and urban transformation it might cause. We identify Ocean Park as one of the areas on the island that is in imminent danger of becoming another gentrified enclave, with foreign investment changing local economic and social structure to a degree for it becoming inaccessible to its current inhabitants. By conducting an analysis on another neighbourhood that already went through this radical transformation, Isla Verde, we believe a comparison could be made in order to project Ocean Park’s future, if action is not taken.
