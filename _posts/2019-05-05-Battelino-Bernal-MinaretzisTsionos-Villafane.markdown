@@ -39,9 +39,26 @@ small {
 4. Setting up a business on the island allows you to escape the 40% tax rate faced in California or New York. In Puerto Rico, your tax rate is 4%. 
 5. Puerto Rico residents are not taxed in the United States on their Puerto Rico sourced income. 
 
-<br>
+<link rel="stylesheet" href="ism/css/my-slider-FINANCE.css"/>
+<script src="ism/js/ism-2.2.min-FINANCE.js"></script>
 
-<br>
+<div class="ism-slider" id="FINANCE">
+  <ol>
+    <li>
+      <img src="/puerto_rico_now/images/public_art/1557096744074_171812.png">
+    </li>
+    <li>
+      <img src="/puerto_rico_now/images/public_art/1557096743999_599994.png">
+    </li>
+    <li>
+      <img src="/puerto_rico_now/images/public_art/1557096744156_517694.png">
+    </li>
+    <li>
+      <img src="/puerto_rico_now/images/public_art/1557096744056_87971.png">
+    </li>
+  </ol>
+</div>
+<p class="ism-badge" id="FINANCE-ism-badge"><a class="ism-link" href="http://imageslidermaker.com" rel="nofollow">generated with ISM</a></p>
 
 Our investigation begins in Isla Verde, one of San Juan’s most tourism oriented neighborhoods. Adjacent to the San Juan airport, and full of US owned franchise hotels and businesses, this area most nearly fills the imaginary of a resortified Puerto Rico.  The Caribbean identity has given way to the monotonous copy-paste hotel architecture that can be found all around the world, just as minority of Puerto Rican businesses have been replaced by gated, palm tree lined branches of global hospitality giants. 
 <br>
