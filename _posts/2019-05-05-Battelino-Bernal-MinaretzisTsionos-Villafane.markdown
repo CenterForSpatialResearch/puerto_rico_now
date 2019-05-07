@@ -6,8 +6,6 @@ title:  "ISLA VERDE COMO LECCIÓN;
 OCEAN PARK COMO EVENTUAL OPOSICIÓN"
 author: "Tim Daniel Battelino, Daniel Bernal, Aris Minaretzis Tsionos, Jean Pierre Villafane"
 ---
-<link rel="stylesheet" href="/puerto_rico_now/images/public_art/my-slider.css"/>
-<script src="/puerto_rico_now/images/public_art/ism-2.2.min.js"></script>
 
 *ISLA VERDE AS A LESSON; OCEAN PARK AS A COUNTER NARRATIVE* 
 
@@ -101,6 +99,7 @@ Emerging from this test case, our main investigation is focused on the area of *
 
 <link rel="stylesheet" href="/puerto_rico_now/images/public_art/my-sliderOP.css"/>
 <script src="puerto_rico_now/images/public_art/ism-2.2.minOP.js"></script>
+
 <div class="ism-slider" data-transition_type="fade" id="my-slider">
   <ol>
     <li>
