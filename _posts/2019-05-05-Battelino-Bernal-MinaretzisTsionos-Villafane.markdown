@@ -39,8 +39,8 @@ small {
 4. Setting up a business on the island allows you to escape the 40% tax rate faced in California or New York. In Puerto Rico, your tax rate is 4%. 
 5. Puerto Rico residents are not taxed in the United States on their Puerto Rico sourced income. 
 
-<link rel="stylesheet" href="ism/css/my-slider-FINANCE.css"/>
-<script src="ism/js/ism-2.2.min-FINANCE.js"></script>
+<link rel="stylesheet" href="/puerto_rico_now/images/public_art/my-slider-FINANCE.css"/>
+<script src="/puerto_rico_now/images/public_art/ism-2.2.min-FINANCE.js"></script>
 
 <div class="ism-slider" id="FINANCE">
   <ol>
