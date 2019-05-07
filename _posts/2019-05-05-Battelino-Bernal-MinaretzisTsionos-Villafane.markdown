@@ -27,7 +27,7 @@ Key non-exhaustive list of incentives for American Investors in Puerto Rico. *It
 5. Puerto Rico residents are not taxed in the United States on their Puerto Rico sourced income. 
 
 ![Investment in Contiguous US](/puerto_rico_now/images/public_art/1557199057586_547878.png)
-![Investment in PR](/puerto_rico_now/images/public_art/11557199091739_607447.png)
+![Investment in PR](/puerto_rico_now/images/public_art/1557199091739_607447.png)
 ![Investment Comparison](/puerto_rico_now/images/public_art/1557199097860_43394.png)
 <br>
 
