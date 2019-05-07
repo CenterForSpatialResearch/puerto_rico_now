@@ -81,6 +81,23 @@ In the gentrified Isla Verde, with the exile of local business by imported globa
 
 Emerging from this test case, our main investigation is focused on the area of **Ocean Park**. Also located close to airport, the touristic areas of Miramar, Condado, Old San Juan, and Santurce, this neighborhood is geographically proximate and similar to Isla Verde. However, the area is not touristy as of the present day, and is in fact is a predominately Puerto Rican neighborhood with its own culture. Simultaneously, it is an area with a high number of abandoned lots and buildings. In the climate of the mediascapes of Puerto Rico advertising the imaginary of a resort destination to the American public, and tax incentives to any US mainland citizen investing in land in Puerto Rico, we believe that Ocean Park presents a fertile ground for what Appadurai calls a *deterritorialization*. The danger for Ocean Park to become another patch of gentrified territory os therefore alarmingly high.
 
+<link rel="stylesheet" href="/puerto_rico_now/images/public_art/my-slider.css"/>
+<script src="/puerto_rico_now/images/public_art/ism-2.2.min.js"></script>
+
+<div class="ism-slider" id="OCEANPARK">
+  <ol>
+    <li>
+      <img src="/puerto_rico_now/images/public_art/1557248853250_579280.jpg">
+    </li>
+    <li>
+      <img src="/puerto_rico_now/images/public_art/1557248860985_403992.jpg">
+    </li>
+    <li>
+      <img src="/puerto_rico_now/images/public_art/1557248869583_536833.jpg">
+    </li>
+  </ol>
+</div>
+<p class="ism-badge" id="OCEANPARK-ism-badge"><a class="ism-link" href="http://imageslidermaker.com" rel="nofollow">generated with ISM</a></p>
 
 
 The analysis of plot availability within Ocean Park shows that, despite their relatively small size, they are highly suitable for foreign investment due to their proximity and clustering between each other. Usually, if a foreign investor wants to make a move and buy property for hotel development, they would look for available plots and their adjacent sites to determine suitability. The higher the lot availability within the area, as well as already existing services, the higher is the chance for investment to happen. By knowing the potential price of ones land, this could be avoided.
