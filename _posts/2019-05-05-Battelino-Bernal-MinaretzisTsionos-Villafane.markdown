@@ -6,6 +6,14 @@ title:  "ISLA VERDE COMO LECCIÓN;
 OCEAN PARK COMO EVENTUAL OPOSICIÓN"
 author: "Tim Daniel Battelino, Daniel Bernal, Aris Minaretzis Tsionos, Jean Pierre Villafane"
 ---
+<link rel="stylesheet" href="ism/css/my-slider.css"/>
+<script src="ism/js/ism-2.2.min.js"></script>
+
+<link rel="stylesheet" href="ism/css/my-sliderOP.css"/>
+<script src="ism/js/ism-2.2.minOP.js"></script>
+
+<link rel="stylesheet" href="ism/css/my-sliderIV.css"/>
+<script src="ism/js/ism-2.2.minIV.js"></script>
 
 *ISLA VERDE AS A LESSON; OCEAN PARK AS A COUNTER NARRATIVE* 
 
