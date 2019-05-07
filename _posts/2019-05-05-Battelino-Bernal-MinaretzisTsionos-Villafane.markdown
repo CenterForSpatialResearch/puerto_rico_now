@@ -10,9 +10,6 @@ author: "Tim Daniel Battelino, Daniel Bernal, Aris Minaretzis Tsionos, Jean Pier
 <link rel="stylesheet" href="/puerto_rico_now/images/public_art/my-slider.css"/>
 <script src="/puerto_rico_now/images/public_art/ism-2.2.min.js"></script>
 
-<link rel="stylesheet" href="/puerto_rico_now/images/public_art/my-slider.css"/>
-<script src="/puerto_rico_now/images/public_art/ism-2.2.min.js"></script>
-
 *ISLA VERDE AS A LESSON; OCEAN PARK AS A COUNTER NARRATIVE* 
 
 The current state of vulnerability that Puerto Rico finds itself in provides ample opportunities for fast-paced foreign development without profound analysis of the social and urban transformation it might cause. We identify Ocean Park as one of the areas on the island that is in imminent danger of becoming another gentrified enclave, with foreign investment changing local economic and social structure to a degree for it becoming inaccessible to its current inhabitants. By conducting an analysis on another neighbourhood that already went through this radical transformation, Isla Verde, we believe a comparison could be made in order to project Ocean Park’s future, if action is not taken.
@@ -76,8 +73,6 @@ In the gentrified Isla Verde, with the exile of local business by imported globa
   </ol>
 </div>
 <p class="ism-badge" id="ISLAVERDE-ism-badge"><a class="ism-link" href="http://imageslidermaker.com" rel="nofollow">generated with ISM</a></p>
-
-
 
 Emerging from this test case, our main investigation is focused on the area of **Ocean Park**. Also located close to airport, the touristic areas of Miramar, Condado, Old San Juan, and Santurce, this neighborhood is geographically proximate and similar to Isla Verde. However, the area is not touristy as of the present day, and is in fact is a predominately Puerto Rican neighborhood with its own culture. Simultaneously, it is an area with a high number of abandoned lots and buildings. In the climate of the mediascapes of Puerto Rico advertising the imaginary of a resort destination to the American public, and tax incentives to any US mainland citizen investing in land in Puerto Rico, we believe that Ocean Park presents a fertile ground for what Appadurai calls a *deterritorialization*. The danger for Ocean Park to become another patch of gentrified territory os therefore alarmingly high.
 
