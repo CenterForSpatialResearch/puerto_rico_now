@@ -40,21 +40,6 @@ small {
 4. Setting up a business on the island allows you to escape the 40% tax rate faced in California or New York. In Puerto Rico, your tax rate is 4%. 
 5. Puerto Rico residents are not taxed in the United States on their Puerto Rico sourced income. 
 
-![Investment in Contiguous US](/puerto_rico_now/images/public_art/1557199057586_547878.png)
-![Investment in PR](/puerto_rico_now/images/public_art/1557199091739_607447.png)
-![Investment Comparison](/puerto_rico_now/images/public_art/1557199097860_43394.png)
-<br>
-
-Our investigation begins in Isla Verde, one of San Juan’s most tourism oriented neighborhoods. Adjacent to the San Juan airport, and full of US owned franchise hotels and businesses, this area most nearly fills the imaginary of a resortified Puerto Rico.  The Caribbean identity has given way to the monotonous copy-paste hotel architecture that can be found all around the world, just as minority of Puerto Rican businesses have been replaced by gated, palm tree lined branches of global hospitality giants. 
-<br>
-
-In the gentrified Isla Verde, with the exile of local business by imported globalized enterprise, we begin to see a shift in what Arjun Appadurai terms ethnoscapes and mediascapes in the area. The ethnoscape, as per Appadurai’s book Modernity at Large: Cultural Dimensions of Globalization consists of “the landscape of persons who constitute the shifting world in which we live: tourists, immigrants, refugees, exiles, guest workers, and other moving groups and individuals constitute an essential feature of the world and appear to affect the politics of (and between) nations to a hitherto unprecedented degree” (Appadurai 33). In this case, we consider the US corporations – from the Hilton group to Walgreens (both present in Isla Verde) – and the tourists that provide a motive for such developments, ‘moving groups’ with delocalized interests in Puerto Rico. The presence of this moving group is not beneficial to the local inhabitants of San Juan, and profoundly affects the identity of the neighborhood. This shift in identity is grounds for social injustice, as it precludes the displacement of Puerto Rican people, business, and culture from the area.
-
-SLIDER WITH LA ISLA VERDE SLIDES (Isla Verde Slider)
-
-Emerging from this test case, our main investigation is focused on the area of **Ocean Park**. Also located close to airport, the touristic areas of Miramar, Condado, Old San Juan, and Santurce, this neighborhood is geographically proximate and similar to Isla Verde. However, the area is not touristy as of the present day, and is in fact is a predominately Puerto Rican neighborhood with its own culture. Simultaneously, it is an area with a high number of abandoned lots and buildings. In the climate of the mediascapes of Puerto Rico advertising the imaginary of a resort destination to the American public, and tax incentives to any US mainland citizen investing in land in Puerto Rico, we believe that Ocean Park presents a fertile ground for what Appadurai calls a *deterritorialization*. The danger for Ocean Park to become another patch of gentrified territory os therefore alarmingly high.
-
-SLIDER OCEAN PARK (Ocean Park Slider)
 <link rel="stylesheet" href="/puerto_rico_now/images/public_art/my-slider.css"/>
 <script src="puerto_rico_now/images/public_art/ism-2.2.min.js"></script>
 
@@ -75,12 +60,23 @@ SLIDER OCEAN PARK (Ocean Park Slider)
   </ol>
 </div>
 <p class="ism-badge" id="my-slider-ism-badge"><a class="ism-link" href="http://imageslidermaker.com" rel="nofollow">generated with ISM</a></p>
+<br>
 
+Our investigation begins in Isla Verde, one of San Juan’s most tourism oriented neighborhoods. Adjacent to the San Juan airport, and full of US owned franchise hotels and businesses, this area most nearly fills the imaginary of a resortified Puerto Rico.  The Caribbean identity has given way to the monotonous copy-paste hotel architecture that can be found all around the world, just as minority of Puerto Rican businesses have been replaced by gated, palm tree lined branches of global hospitality giants. 
+<br>
 
+In the gentrified Isla Verde, with the exile of local business by imported globalized enterprise, we begin to see a shift in what Arjun Appadurai terms ethnoscapes and mediascapes in the area. The ethnoscape, as per Appadurai’s book Modernity at Large: Cultural Dimensions of Globalization consists of “the landscape of persons who constitute the shifting world in which we live: tourists, immigrants, refugees, exiles, guest workers, and other moving groups and individuals constitute an essential feature of the world and appear to affect the politics of (and between) nations to a hitherto unprecedented degree” (Appadurai 33). In this case, we consider the US corporations – from the Hilton group to Walgreens (both present in Isla Verde) – and the tourists that provide a motive for such developments, ‘moving groups’ with delocalized interests in Puerto Rico. The presence of this moving group is not beneficial to the local inhabitants of San Juan, and profoundly affects the identity of the neighborhood. This shift in identity is grounds for social injustice, as it precludes the displacement of Puerto Rican people, business, and culture from the area.
+
+SLIDER WITH LA ISLA VERDE SLIDES (Isla Verde Slider)
+
+Emerging from this test case, our main investigation is focused on the area of **Ocean Park**. Also located close to airport, the touristic areas of Miramar, Condado, Old San Juan, and Santurce, this neighborhood is geographically proximate and similar to Isla Verde. However, the area is not touristy as of the present day, and is in fact is a predominately Puerto Rican neighborhood with its own culture. Simultaneously, it is an area with a high number of abandoned lots and buildings. In the climate of the mediascapes of Puerto Rico advertising the imaginary of a resort destination to the American public, and tax incentives to any US mainland citizen investing in land in Puerto Rico, we believe that Ocean Park presents a fertile ground for what Appadurai calls a *deterritorialization*. The danger for Ocean Park to become another patch of gentrified territory os therefore alarmingly high.
+
+SLIDER OCEAN PARK (Ocean Park Slider)
 
 The analysis of plot availability within Ocean Park shows that, despite their relatively small size, they are highly suitable for foreign investment due to their proximity and clustering between each other. Usually, if a foreign investor wants to make a move and buy property for hotel development, they would look for available plots and their adjacent sites to determine suitability. The higher the lot availability within the area, as well as already existing services, the higher is the chance for investment to happen. By knowing the potential price of ones land, this could be avoided.
 
 ![Lot Sizing Per Square Meter](/puerto_rico_now/images/public_art/tim export-01.jpg)
+<br>
 ![Property Values Per Square Meter](/puerto_rico_now/images/public_art/dimenzije-01.jpg)
 
 
