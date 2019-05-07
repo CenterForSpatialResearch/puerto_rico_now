@@ -7,6 +7,9 @@ OCEAN PARK COMO EVENTUAL OPOSICIÓN"
 author: "Tim Daniel Battelino, Daniel Bernal, Aris Minaretzis Tsionos, Jean Pierre Villafane"
 ---
 
+<link rel="stylesheet" href="ism/css/my-slider.css"/>
+<script src="ism/js/ism-2.2.min.js"></script>
+
 *ISLA VERDE AS A LESSON; OCEAN PARK AS A COUNTER NARRATIVE* 
 
 The current state of vulnerability that Puerto Rico finds itself in provides ample opportunities for fast-paced foreign development without profound analysis of the social and urban transformation it might cause. We identify Ocean Park as one of the areas on the island that is in imminent danger of becoming another gentrified enclave, with foreign investment changing local economic and social structure to a degree for it becoming inaccessible to its current inhabitants. By conducting an analysis on another neighbourhood that already went through this radical transformation, Isla Verde, we believe a comparison could be made in order to project Ocean Park’s future, if action is not taken.
@@ -41,31 +44,23 @@ Key non-exhaustive list of incentives for American Investors in Puerto Rico. *It
 4. Setting up a business on the island allows you to escape the 40% tax rate faced in California or New York. In Puerto Rico, your tax rate is 4%. 
 5. Puerto Rico residents are not taxed in the United States on their Puerto Rico sourced income. 
 
-<link rel="stylesheet" href="ism/css/my-slider.css"/>
-<script src="ism/js/ism-2.2.min.js"></script>
-
-<div class="ism-slider" data-play_type="once" id="InvestmentOverview">
+<div class="ism-slider" id="my-slider">
   <ol>
     <li>
-      <img src="ism/image/slides/_u/1557096744074_171812.png">
-      <div class="ism-caption ism-caption-0">Investment in Contiguous United States</div>
+      <img src="ism/image/slides/_u/1557199057586_547878.png">
+      <div class="ism-caption ism-caption-0">Investment in contiguous US</div>
     </li>
     <li>
-      <img src="ism/image/slides/_u/1557096743999_599994.png">
-      <div class="ism-caption ism-caption-0">Investment in Puerto Rico</div>
+      <img src="ism/image/slides/_u/1557199091739_607447.png">
+      <div class="ism-caption ism-caption-0">Investment in PR </div>
     </li>
     <li>
-      <img src="ism/image/slides/_u/1557096744156_517694.png">
-      <div class="ism-caption ism-caption-0">Savings US vs PR </div>
-    </li>
-    <li>
-      <img src="ism/image/slides/_u/1557096744056_87971.png">
-      <div class="ism-caption ism-caption-0">Earnings in PR compared to Contiguous United States</div>
+      <img src="ism/image/slides/_u/1557199097860_43394.png">
+      <div class="ism-caption ism-caption-0">Investment comparison</div>
     </li>
   </ol>
 </div>
-<p class="ism-badge" id="InvestmentOverview-ism-badge"><a class="ism-link" href="http://imageslidermaker.com" rel="nofollow">generated with ISM</a></p>
-
+<p class="ism-badge" id="my-slider-ism-badge"><a class="ism-link" href="http://imageslidermaker.com" rel="nofollow">generated with ISM</a></p>
 
 
 
