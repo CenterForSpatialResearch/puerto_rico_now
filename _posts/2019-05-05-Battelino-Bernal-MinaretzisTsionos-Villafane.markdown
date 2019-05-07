@@ -59,15 +59,15 @@ SLIDER OCEAN PARK (Ocean Park Slider)
 <div class="ism-slider" id="my-slider">
   <ol>
     <li>
-      <img src="ism/image/slides/_u/1557199057586_547878.png">
+      <img src="/puerto_rico_now/images/public_art/1557199057586_547878.png">
       <div class="ism-caption ism-caption-0">Investment in contiguous US</div>
     </li>
     <li>
-      <img src="ism/image/slides/_u/1557199091739_607447.png">
+      <img src="/puerto_rico_now/images/public_art/1557199091739_607447.png">
       <div class="ism-caption ism-caption-0">Investment in PR </div>
     </li>
     <li>
-      <img src="ism/image/slides/_u/1557199097860_43394.png">
+      <img src="/puerto_rico_now/images/public_art/1557199097860_43394.png">
       <div class="ism-caption ism-caption-0">Investment comparison</div>
     </li>
   </ol>
