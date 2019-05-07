@@ -90,7 +90,10 @@ Emerging from this test case, our main investigation is focused on the area of *
 The analysis of plot availability within Ocean Park shows that, despite their relatively small size, they are highly suitable for foreign investment due to their proximity and clustering between each other. Usually, if a foreign investor wants to make a move and buy property for hotel development, they would look for available plots and their adjacent sites to determine suitability. The higher the lot availability within the area, as well as already existing services, the higher is the chance for investment to happen. By knowing the potential price of ones land, this could be avoided.
 
 ![Lot Sizing Per Square Meter](/puerto_rico_now/images/public_art/tim export-01.jpg)
-<br>
+
+
+
+
 ![Property Values Per Square Meter](/puerto_rico_now/images/public_art/dimenzije-01.jpg)
 
 
