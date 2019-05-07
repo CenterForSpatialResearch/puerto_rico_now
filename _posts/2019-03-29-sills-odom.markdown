@@ -10,22 +10,22 @@ While Hurricane Maria was undoubtedly powerful, making landfall in Puerto Rico w
 
 A well-known demonstration of this infrastructural failure during recovery was created using NASA’s Black Marble data by a team at the Goddard Space Flight Center. A series of images displays Puerto Rico’s night sky as a factor of luminosity; first, a baseline, then, immediately following Hurricane Maria, then through the following months during the island’s slow restoration of power. The published data was last collected March 20, 2018. On this day, The Department of Energy reported that 92% of its customers had been restored power; The Federal Communications Commission reported that 95% of cell sites were operable; and PREPA reported that 99% of peak load on the island, 95% of customers, and 100% of municipalities had been restored power. These numbers imply that infrastructural, and even consumer, energy consumption was near equivalent to consumption levels pre-Hurricane Maria. If this were the case, the latest visualization from NASA’s project should appear near-identical to the island’s baseline visualization - but it does not.  
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=15643cfe-7112-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=15643cfe-7112-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:250%;" frameborder="0"></iframe></div>
 *Source: NASA Goddard Space Flight Center*  
   
 
 We conducted a pixel-level color delta analysis to visualize a new metric: change in infrastructural energy consumption pre- and post-Hurricane Maria. This analysis reveals not only areas with or without power, but highlights the regions which were disproportionately placed back onto PREPA’s grid, the last 0-8% yet attended to by national agencies.  
 
-Expecting these to be primarily rural, southern, or mountainous, we were surprised to learn that the four highlighted regions were all urban, across different geographical conditions, and only one on the southern half of the main island: Bayamón, Caguas, Carolina, and Ponce.  
+Expecting these to be primarily rural, southern, or mountainous, we were surprised to learn that the four highlighted regions were all urban, across different geographical conditions, and only one on the southern half of the main island: Bayamón, Caguas, Carolina, and Ponce.
 
-![Change in Infrastructural Energy Consumption](/puerto_rico_now/images/infra_power/8%20-%20Urban_Legend.jpg)  
+![Change in Infrastructural Energy Consumption](/puerto_rico_now/images/infra_power/8%20-%20Urban_Legend.jpg)
   
 
 Why were these urban, populated municipalities those most neglected during infrastructural recovery? By what other metrics is this disproportionate aid made visible or explained?  
 
-Further inquiry into these questions revealed a second, in some ways more surprising, discovery. While it follows that these municipalities were those which have seen some of the most significant drops in property values between 2016-2018 (a timespan which brackets, and near-isolates effects to Hurricane Maria and its fallout), between $6,000 and $22,000 on average; three municipalities showed astronomical increases in property values within the same two years, from $65,000 to $80,000 on average. These being the islands of Vieques and Culebra, and the mainland municipality of Dorado.  
+Further inquiry into these questions revealed a second, in some ways more surprising, discovery. While it follows that these municipalities were those which have seen some of the most significant drops in property values between 2016-2018 (a timespan which brackets, and near-isolates effects to Hurricane Maria and its fallout), between $6,000 and $22,000 on average; three municipalities showed astronomical increases in property values within the same two years, from $65,000 to $80,000 on average. These being the islands of Vieques and Culebra, and the mainland municipality of Dorado.
 
-![Change in Infrastructural Energy Consumption and Change in Property Value, 2016-2018](/puerto_rico_now/images/infra_power/11%20-%20Value%20Increase.jpg)  
+![Change in Infrastructural Energy Consumption and Change in Property Value, 2016-2018](/puerto_rico_now/images/infra_power/11%20-%20Value%20Increase.jpg)
   
 
 We then faced the opposite questions: Why were these municipalities, largely rural, none of which directly supported by PREPA’s main distribution lines, financially benefiting so greatly in the recovery following Hurricane Maria? How are they different from Bayamón, Caguas, Carolina, or Ponce?  
