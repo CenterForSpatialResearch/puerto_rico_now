@@ -71,7 +71,21 @@ SLIDER WITH LA ISLA VERDE SLIDES (Isla Verde Slider)
 
 Emerging from this test case, our main investigation is focused on the area of **Ocean Park**. Also located close to airport, the touristic areas of Miramar, Condado, Old San Juan, and Santurce, this neighborhood is geographically proximate and similar to Isla Verde. However, the area is not touristy as of the present day, and is in fact is a predominately Puerto Rican neighborhood with its own culture. Simultaneously, it is an area with a high number of abandoned lots and buildings. In the climate of the mediascapes of Puerto Rico advertising the imaginary of a resort destination to the American public, and tax incentives to any US mainland citizen investing in land in Puerto Rico, we believe that Ocean Park presents a fertile ground for what Appadurai calls a *deterritorialization*. The danger for Ocean Park to become another patch of gentrified territory os therefore alarmingly high.
 
-SLIDER OCEAN PARK (Ocean Park Slider)
+<div class="ism-slider" data-transition_type="fade" id="my-slider">
+  <ol>
+    <li>
+      <img src="/puerto_rico_now/images/public_art/1557103048326_242114.jpg">
+      <div class="ism-caption ism-caption-0"></div>
+    </li>
+    <li>
+      <img src="ism/image/slides/_u/1557103048359_628593.jpg">
+    </li>
+    <li>
+      <img src="ism/image/slides/_u/1557103048384_438373.jpg">
+    </li>
+  </ol>
+</div>
+<p class="ism-badge" id="my-slider-ism-badge"><a class="ism-link" href="http://imageslidermaker.com" rel="nofollow">generated with ISM</a></p>
 
 The analysis of plot availability within Ocean Park shows that, despite their relatively small size, they are highly suitable for foreign investment due to their proximity and clustering between each other. Usually, if a foreign investor wants to make a move and buy property for hotel development, they would look for available plots and their adjacent sites to determine suitability. The higher the lot availability within the area, as well as already existing services, the higher is the chance for investment to happen. By knowing the potential price of ones land, this could be avoided.
 
