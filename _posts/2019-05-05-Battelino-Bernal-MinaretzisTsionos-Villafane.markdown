@@ -67,10 +67,40 @@ Our investigation begins in Isla Verde, one of San Juan’s most tourism oriente
 
 In the gentrified Isla Verde, with the exile of local business by imported globalized enterprise, we begin to see a shift in what Arjun Appadurai terms ethnoscapes and mediascapes in the area. The ethnoscape, as per Appadurai’s book Modernity at Large: Cultural Dimensions of Globalization consists of “the landscape of persons who constitute the shifting world in which we live: tourists, immigrants, refugees, exiles, guest workers, and other moving groups and individuals constitute an essential feature of the world and appear to affect the politics of (and between) nations to a hitherto unprecedented degree” (Appadurai 33). In this case, we consider the US corporations – from the Hilton group to Walgreens (both present in Isla Verde) – and the tourists that provide a motive for such developments, ‘moving groups’ with delocalized interests in Puerto Rico. The presence of this moving group is not beneficial to the local inhabitants of San Juan, and profoundly affects the identity of the neighborhood. This shift in identity is grounds for social injustice, as it precludes the displacement of Puerto Rican people, business, and culture from the area.
 
-SLIDER WITH LA ISLA VERDE SLIDES (Isla Verde Slider)
+<link rel="stylesheet" href="/puerto_rico_now/images/public_art/my-slider.css"/>
+<script src="puerto_rico_now/images/public_art/ism-2.2.min.js"></script>
+
+<div class="ism-slider" data-transition_type="fade" id="my-slider">
+  <ol>
+    <li>
+      <img src="/puerto_rico_now/images/public_art//1557096217303_362953.jpg">
+      <div class="ism-caption ism-caption-0">La Isla Verde Network</div>
+    </li>
+    <li>
+      <img src="/puerto_rico_now/images/public_art//1557096217241_141234.jpg">
+      <div class="ism-caption ism-caption-0">Network of Hotels</div>
+    </li>
+    <li>
+      <img src="/puerto_rico_now/images/public_art/1557096217313_947238.jpg">
+      <div class="ism-caption ism-caption-0">Network of Hotels + Condos</div>
+    </li>
+    <li>
+      <img src="/puerto_rico_now/images/public_art//1557096217216_472465.jpg">
+      <div class="ism-caption ism-caption-0">Network of Hotels + Condos + Restaurants</div>
+    </li>
+    <li>
+      <img src="/puerto_rico_now/images/public_art//1557096217223_595196.jpg">
+      <div class="ism-caption ism-caption-0">Network of Hotels + Condos + Restaurants + Bars</div>
+    </li>
+  </ol>
+</div>
+<p class="ism-badge" id="my-slider-ism-badge"><a class="ism-link" href="http://imageslidermaker.com" rel="nofollow">generated with ISM</a></p>
+
 
 Emerging from this test case, our main investigation is focused on the area of **Ocean Park**. Also located close to airport, the touristic areas of Miramar, Condado, Old San Juan, and Santurce, this neighborhood is geographically proximate and similar to Isla Verde. However, the area is not touristy as of the present day, and is in fact is a predominately Puerto Rican neighborhood with its own culture. Simultaneously, it is an area with a high number of abandoned lots and buildings. In the climate of the mediascapes of Puerto Rico advertising the imaginary of a resort destination to the American public, and tax incentives to any US mainland citizen investing in land in Puerto Rico, we believe that Ocean Park presents a fertile ground for what Appadurai calls a *deterritorialization*. The danger for Ocean Park to become another patch of gentrified territory os therefore alarmingly high.
 
+<link rel="stylesheet" href="/puerto_rico_now/images/public_art/my-slider.css"/>
+<script src="puerto_rico_now/images/public_art/ism-2.2.min.js"></script>
 <div class="ism-slider" data-transition_type="fade" id="my-slider">
   <ol>
     <li>
@@ -78,10 +108,10 @@ Emerging from this test case, our main investigation is focused on the area of *
       <div class="ism-caption ism-caption-0"></div>
     </li>
     <li>
-      <img src="ism/image/slides/_u/1557103048359_628593.jpg">
+      <img src="/puerto_rico_now/images/public_art/1557103048359_628593.jpg">
     </li>
     <li>
-      <img src="ism/image/slides/_u/1557103048384_438373.jpg">
+      <img src="/puerto_rico_now/images/public_art/1557103048384_438373.jpg">
     </li>
   </ol>
 </div>
