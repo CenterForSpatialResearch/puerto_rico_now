@@ -54,7 +54,7 @@ Emerging from this test case, our main investigation is focused on the area of *
 
 SLIDER OCEAN PARK (Ocean Park Slider)
 <link rel="stylesheet" href="/puerto_rico_now/images/public_art/my-slider.css"/>
-<script src="ism/js/ism-2.2.min.js"></script>
+<script src="puerto_rico_now/images/public_art/ism-2.2.min.js"></script>
 
 <div class="ism-slider" id="my-slider">
   <ol>
