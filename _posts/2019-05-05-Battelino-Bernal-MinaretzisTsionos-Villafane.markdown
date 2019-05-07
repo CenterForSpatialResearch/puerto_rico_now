@@ -53,7 +53,7 @@ SLIDER WITH LA ISLA VERDE SLIDES (Isla Verde Slider)
 Emerging from this test case, our main investigation is focused on the area of **Ocean Park**. Also located close to airport, the touristic areas of Miramar, Condado, Old San Juan, and Santurce, this neighborhood is geographically proximate and similar to Isla Verde. However, the area is not touristy as of the present day, and is in fact is a predominately Puerto Rican neighborhood with its own culture. Simultaneously, it is an area with a high number of abandoned lots and buildings. In the climate of the mediascapes of Puerto Rico advertising the imaginary of a resort destination to the American public, and tax incentives to any US mainland citizen investing in land in Puerto Rico, we believe that Ocean Park presents a fertile ground for what Appadurai calls a *deterritorialization*. The danger for Ocean Park to become another patch of gentrified territory os therefore alarmingly high.
 
 SLIDER OCEAN PARK (Ocean Park Slider)
-<link rel="stylesheet" href="/puerto_rico_now/images/public_art/ism/css/my-slider.css"/>
+<link rel="stylesheet" href="/puerto_rico_now/images/public_art/my-slider.css"/>
 <script src="ism/js/ism-2.2.min.js"></script>
 
 <div class="ism-slider" id="my-slider">
