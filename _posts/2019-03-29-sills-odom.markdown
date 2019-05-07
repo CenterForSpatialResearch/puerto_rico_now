@@ -12,16 +12,16 @@ A well-known demonstration of this infrastructural failure during recovery was c
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=15643cfe-7112-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe></div>
 	
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+&nbsp; 
+
+&nbsp; 
+
+&nbsp; 
+
+&nbsp; 
+
+&nbsp; 
+
 *Source: NASA Goddard Space Flight Center*  
   
 We conducted a pixel-level color delta analysis to visualize a new metric: change in infrastructural energy consumption pre- and post-Hurricane Maria. This analysis reveals not only areas with or without power, but highlights the regions which were disproportionately placed back onto PREPA’s grid, the last 0-8% yet attended to by national agencies.
@@ -51,6 +51,8 @@ Dorado, by contrast, is a northern, coastal municipality. It is also serviced by
 
 Geographically and environmentally, the two municipalities are drastically different. Caguas, situated within a mountain valley near the island’s rainforest, experiences elevation changes over 800 meters within its 153 square kilometers, These factors make it particularly susceptible to flooding, soil inundation, and landslides - all of which were recorded during and after Hurricane Maria in devastating magnitude. Caguas received the most rainfall across the island during the storm, a staggering 37.9 inches recorded at one National Weather Service site, and landslides were observed throughout more than half of the municipality. However, Dorado had zero observed landslides, and was one of the regions with the least amount of recorded rainfall.  
 
+![Caguas and Dorado, Environmental Contrasts: Topography, Landslides and Rainfall due to Hurricane Maria](/puerto_rico_now/images/infra_power/section%20line2-01.jpg)
+
 ![Caguas and Dorado, Environmental Contrasts: Topography, Landslides and Rainfall due to Hurricane Maria](/puerto_rico_now/images/infra_power/landsliderainfall.jpg)  
 &nbsp;
 
@@ -68,7 +70,9 @@ After these case studies, the disproportionate results of Hurricane Maria’s re
 
 Whatever the grounds, it is clear that infrastructural changes post-Hurricane Maria do not correlate to geography, disaster vulnerability, or population trends within the municipalities studied. This disproportionate investment is directly affecting a large population of residents in interior Caguas negatively and may participate in the spread of social inequality across Puerto Rico as recovery continues to unfold.  
 &nbsp;
+
 &nbsp;
+
 &nbsp;
 &nbsp;
 &nbsp;
