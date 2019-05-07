@@ -9,7 +9,7 @@ author: "Tim Daniel Battelino, Daniel Bernal, Aris Minaretzis Tsionos, Jean Pier
 
 *ISLA VERDE AS A LESSON; OCEAN PARK AS A COUNTER NARRATIVE* 
 
-The current state of vulnerability that Puerto Rico finds itself in provides ample opportunities for fast-paced foreign development without profound analysis of the social and urban transformation it might cause. We identify Ocean Park as one of the areas on the island that is in imminent danger of becoming another gentrified enclave, with foreign investment changing local economic and social structure to a degree for it becoming inaccessible to its current inhabitants. By conducting an analysis on another neighbourhood that already went through this radical transformation, Isla Verde, we believe a comparison could be made in order to project Ocean Park’s future, if action is not taken.---
+The current state of vulnerability that Puerto Rico finds itself in provides ample opportunities for fast-paced foreign development without profound analysis of the social and urban transformation it might cause. We identify Ocean Park as one of the areas on the island that is in imminent danger of becoming another gentrified enclave, with foreign investment changing local economic and social structure to a degree for it becoming inaccessible to its current inhabitants. By conducting an analysis on another neighbourhood that already went through this radical transformation, Isla Verde, we believe a comparison could be made in order to project Ocean Park’s future, if action is not taken.-
 
 
 <iframe width="715" height="402" src="https://www.youtube.com/embed/DaBFH623OH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
