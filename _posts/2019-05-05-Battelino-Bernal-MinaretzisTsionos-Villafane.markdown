@@ -9,6 +9,9 @@ author: "Tim Daniel Battelino, Daniel Bernal, Aris Minaretzis Tsionos, Jean Pier
 <link rel="stylesheet" href="/puerto_rico_now/images/public_art/my-slider.css"/>
 <script src="/puerto_rico_now/images/public_art/ism-2.2.min.js"></script>
 
+<link rel="stylesheet" href="/puerto_rico_now/images/public_art/my-slider.css"/>
+<script src="/puerto_rico_now/images/public_art/ism-2.2.min.js"></script>
+
 *ISLA VERDE AS A LESSON; OCEAN PARK AS A COUNTER NARRATIVE* 
 
 The current state of vulnerability that Puerto Rico finds itself in provides ample opportunities for fast-paced foreign development without profound analysis of the social and urban transformation it might cause. We identify Ocean Park as one of the areas on the island that is in imminent danger of becoming another gentrified enclave, with foreign investment changing local economic and social structure to a degree for it becoming inaccessible to its current inhabitants. By conducting an analysis on another neighbourhood that already went through this radical transformation, Isla Verde, we believe a comparison could be made in order to project Ocean Park’s future, if action is not taken.
@@ -74,19 +77,19 @@ In the gentrified Isla Verde, with the exile of local business by imported globa
 <div class="ism-slider" id="ISLAVERDE">
   <ol>
     <li>
-      <img src="puerto_rico_now/images/public_art/1557247363724_904062.jpg">
+      <img src="/puerto_rico_now/images/public_art/1557247363724_904062.jpg">
     </li>
     <li>
-      <img src="puerto_rico_now/images/public_art/1557247388956_55160.jpg">
+      <img src="/puerto_rico_now/images/public_art/1557247388956_55160.jpg">
     </li>
     <li>
-      <img src="puerto_rico_now/images/public_art/1557247291175_381781.jpg">
+      <img src="/puerto_rico_now/images/public_art/1557247291175_381781.jpg">
     </li>
     <li>
-      <img src="puerto_rico_now/images/public_art/1557247304348_217045.jpg">
+      <img src="/puerto_rico_now/images/public_art/1557247304348_217045.jpg">
     </li>
     <li>
-      <img src="puerto_rico_now/images/public_art/1557247375587_318895.jpg">
+      <img src="/puerto_rico_now/images/public_art/1557247375587_318895.jpg">
     </li>
   </ol>
 </div>
