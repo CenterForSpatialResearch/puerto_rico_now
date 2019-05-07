@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2019-03-29
-image: "/puerto_rico_now/images/groupname/91893982.jpg"
+image: "/puerto_rico_now/images/public_art/91893982.jpg"
 title:  "ISLA VERDE COMO LECCIÓN; 
 OCEAN PARK COMO EVENTUAL OPOSICIÓN"
 author: "Tim Daniel Battelino, Daniel Bernal, Aris Minaretzis Tsionos, Jean Pierre Villafane"
