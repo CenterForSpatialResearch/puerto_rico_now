@@ -18,10 +18,6 @@ A well-known demonstration of this infrastructural failure during recovery was c
 
 &nbsp; 
 
-&nbsp; 
-
-&nbsp; 
-
 *Source: NASA Goddard Space Flight Center*  
   
 We conducted a pixel-level color delta analysis to visualize a new metric: change in infrastructural energy consumption pre- and post-Hurricane Maria. This analysis reveals not only areas with or without power, but highlights the regions which were disproportionately placed back onto PREPA’s grid, the last 0-8% yet attended to by national agencies.
@@ -63,18 +59,13 @@ This data implies that Hurricane Maria caused more damage in Caguas, which might
 
 Fueling further dubiety on the property value split is historical population and vacancy data, which suggests Dorado was more keenly experiencing the housing and debt crises than Caguas and the whole of Puerto Rico. In 2016, prior to Hurricane Maria, 15% of Dorado’s housing lay vacant. And, while its population trends have largely reflected the entire island’s, in 2012 the rate of Dorado’s population decrease took a sharp turn, surpassing Caguas’, and still rapidly decreasing today. This data is particularly confounding; as only a correlation it cannot signal if Dorado’s population fled on account of rising property values.  However, it adds mystery to the question of why a municipality in such crisis would experience an additional $66,300 average increase in property value after Hurricane Maria, while the more residentially stable Caguas is experiencing property value decreases, and suffering from a substantial neglect of infrastructural recovery.  
 
-![Caguas and Dorado and Puerto Rico, Population Data](/puerto_rico_now/images/infra_power/Charts-01_Edited-02.jpg)  
-&nbsp;
+![Caguas and Dorado and Puerto Rico, Population Data](/puerto_rico_now/images/infra_power/Charts-01_Edited-02.jpg)
 
 After these case studies, the disproportionate results of Hurricane Maria’s recovery - being change in both property value and infrastructural energy consumption - are even more surprising than initial analysis suggested. Why is the coastal, infrastructurally vulnerable, crisis-struck municipality being substantially invested in after such a devastating storm; while the inland municipality with a much higher population (which sustained less damage during Hurricane Maria) and more stable residential market failing to be restored to PREPA’s grid? What other metrics are those in power looking to in order to determine future planning and investment on Puerto Rico’s mainland? Does the key lie in Section 936 and Dorado’s corporate boom? Is an agricultural history more easily forgotten? Or is it simply the existence of beachfront property which makes Dorado seem more palatable to disaster capitalists, suggesting a future in tourist resorts and spas for the municipality - or even further, for Puerto Rico itself?  
 
 Whatever the grounds, it is clear that infrastructural changes post-Hurricane Maria do not correlate to geography, disaster vulnerability, or population trends within the municipalities studied. This disproportionate investment is directly affecting a large population of residents in interior Caguas negatively and may participate in the spread of social inequality across Puerto Rico as recovery continues to unfold.  
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-&nbsp;
 &nbsp;
 
 #### References
