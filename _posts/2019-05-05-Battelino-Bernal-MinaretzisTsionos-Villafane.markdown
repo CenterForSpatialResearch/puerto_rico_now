@@ -140,5 +140,3 @@ The zoom-in of an area in Ocean Park with road infrastructure locating itself le
 
 Utilizing what we’ve learned from the current situation of Isla Verde; we can speculate a near future for Ocean park where empty lots deemed big enough for hospitality infrastructure become the central nodes of investment influence.
 
-
-
