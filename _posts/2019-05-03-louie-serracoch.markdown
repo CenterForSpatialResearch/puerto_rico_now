@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2019-05-03
+date:   2019-04-12
 image: "/puerto_rico_now/images/recovery/mapping-agency-thumbnail.png"
 title:  "Community Agency through Mapping: Decision Making Tools for Puerto Ricans"
 author: "Ashley Louie & Gloria Serra Coch"
@@ -43,6 +43,7 @@ In order to demonstrate potentially conflicting stakeholder values, which can co
 
 #### **The Stakeholders**
 ![Tyrene](/puerto_rico_now/images/recovery/Tyrene.png)
+<img src="/puerto_rico_now/images/recovery/Tyrene.png" width="200">
 Name: **Tyrene**</br>
 Representative Group: **grassroots community local leader**</br>
 Priorities: **long-term well-being of the community**
