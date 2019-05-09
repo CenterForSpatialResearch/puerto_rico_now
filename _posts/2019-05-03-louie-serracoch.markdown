@@ -1,11 +1,11 @@
 ---
 layout: post
 date:   2019-05-03
-image: "/puerto_rico_now/images/recovery/mapping-agency-thumbnail.gif"
+image: "/puerto_rico_now/images/recovery/mapping-agency-thumbnail.png"
 title:  "Community Agency through Mapping: Decision Making Tools for Puerto Ricans"
 author: "Ashley Louie & Gloria Serra Coch"
 ---
-![Agency Through Mapping](/puerto_rico_now/images/recovery/agency_through_mapping.png)
+![Agency Through Mapping](/puerto_rico_now/images/recovery/agency_through_mapping.gif)
 
 #### **Puerto Rico Today**
 **Debt and Disaster**
@@ -131,10 +131,32 @@ Data Layers Mapped:
 
 ![Puerto Rico Decision Model Combined Outcome](/puerto_rico_now/images/recovery/DecisionMap.gif)
 
-#### **Why are we doing it?**
-Our final aim is broadening the discussion on expertise and agency by sharing bringing knowledge and methodologies originally connected with “professionals” and “experts” to the community. The idea is to share the methodology instead of the final product to allow for replication, challenging of the underlying decision rules and better understanding how future scenarios depend on the priorities set up by different stakeholders.
+#### **Discussion**
+All the maps show a range of shades, from lighter to darker. Darker shades mean higher values, which also mean that those areas should be prioritized when deciding how to allocate resources in puerto Rico. 
 
-*Give a man a fish and you feed him for a day, teach a man to fish and you feed him for a lifetime.*
+In Tyrene’s map, we can see how the distribution is very spread out throughout the island, which indicates that all the Island is in need of more resources. In the case of Maria’s map, we can detect higher values on the North East coast of the Island. In this case, this area is prioritized because it was the most damaged by the hurricane, according to FEMA data, while also having higher density of population potentially affected by it. In the case of Bill, we can see how his map highly prioritizes coastal areas and urban centres. This is a result of being tourist locations and also areas with more potential for development. This map also shows a more unequal distribution, with the mentioned concentrated areas valued very high and the rest of the island valued very low. 
+
+If Tyrene, Maria and Bill were on a meeting with all of them advocating for their own priorities, different results could be met. In the case of the three of them having the same type of agency and agreeing to balance their values, coastal and urban areas would still be prioritized, specially places like San Juan or El Ponce. However, certain central municipalities would still be given high values, such as the northern area of Utuado, Ciales or south of Coamo. In general, the maps also show how the municipality division are not a good spatial unit to distribute the resources, as their boundaries hardly match the different shades of prioritization. 
+
+If Maria and Tyrene, the two puerto ricans, would align and impose their values, they would be able to press for more attention in the central areas of the Island, especially on the East side, arguing that they were more damaged by the hurricane and need more recovery funds. In addition, they could also argue for more access to services for the population, in municipalities like Villalba and Jayuya. 
+
+On the other side, if Maria decided to partner with Bill in order to focus on building a more competitive economy on the Island, rural areas would be more neglected, with the resources allocated in the coastal regions and the urban centers of population. San Juan, Ponce and Mumacao would receive the higher investment in that case.
+
+
+#### **Potential for Conflict Resolution**
+**What is the impact?**
+Breaking down the mapped decision model allows us to relate to the values of each character in the fictional advocacy scenario in order to collectively visualize the possible futures of Puerto Rico.
+
+#### **Data Sources**
+1. Annual Population Estimates for Puerto Rico by Municipality. [shapefile] . Planning board. April 2018
+2. Buildings. [shapefile] HotOSM via Humanitarian Data Exchange. 2018
+3. Points of Interest. [shapefile] HotOSM via Humanitarian Data Exchange. 2018
+4. Puerto Rico Planning Board Flood Maps
+5. Damage Assessment. [shapefile] FEMA. 2017
+6. Hotels. Google places [shapefile] scraped from website. 2019
+7. Sites of Interest. Discover Puerto Rico - Tourism website [shapefiles] scraped from website on 2019
+8. Map of soil classification under the Land Use Plan (2015). [shapefile] Planning Board, Office of the Governor, Commonwealth of Puerto Rico. Oct 2017
+
 
 #### **References**
 1. “Hurricane Maria.” FEMA, U.S. Department of Homeland Security. March 14, 2019. <https://www.fema.gov/hurricane-maria>.
