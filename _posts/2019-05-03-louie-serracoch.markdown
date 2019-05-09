@@ -129,7 +129,7 @@ Data Layers Mapped:
 
 ![Puerto Rico Decision Model Weights](/puerto_rico_now/images/recovery/DecisionModel_weights.jpg)
 
-![Puerto Rico Decision Model Combined Outcome](/puerto_rico_now/images/recovery/DecisionModel_outcome.jpg)
+![Puerto Rico Decision Model Combined Outcome](/puerto_rico_now/images/recovery/DecisionMap.gif)
 
 #### **Why are we doing it?**
 Our final aim is broadening the discussion on expertise and agency by sharing bringing knowledge and methodologies originally connected with “professionals” and “experts” to the community. The idea is to share the methodology instead of the final product to allow for replication, challenging of the underlying decision rules and better understanding how future scenarios depend on the priorities set up by different stakeholders.
