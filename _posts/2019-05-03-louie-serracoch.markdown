@@ -42,7 +42,7 @@ We pose the decision model methodology with the following objectives:
 In order to demonstrate potentially conflicting stakeholder values, which can conclude in different visions for the future of Puerto Rico, we’ve created three fictional characters based on the narratives of perspectives and experiences that Puerto Ricans can relate to. Although fictional and exaggerated, the characterization of stakeholders is useful to illustrate how differences in priorities affect the final decision output.
 
 #### **The Stakeholders**
-<img src="/puerto_rico_now/images/recovery/Tyrene.png" alt="Maria" width="300" align="middle">
+<img src="/puerto_rico_now/images/recovery/Tyrene.png" alt="Maria" width="300" align="center">
 
 Name: **Tyrene**
 
@@ -63,8 +63,7 @@ Testimonials:
 “Tania Ginés was fighting for 10 months to avoid the closure of her daughter’s public school. In the end, she lost the battle. Now, the children need to go to a further school, where there are more than 40 students per class, rats in the cafeteria, no therapists for special education children” ”
 Tania: “It is like I say, I mean, I didn’t borrow, my children did not borrow!”* [9]
 
-![Community Leader Data Layers Mapped](/puerto_rico_now/images/recovery/CommunityLeader_layers.jpg)
-
+<img src="/puerto_rico_now/images/CommunityLeader_layers.jpg" alt="Community Leader Data Layers Mapped" width="200" float="left">
 Data Layers Mapped:
   - Population density
   - Community services
@@ -73,7 +72,7 @@ Data Layers Mapped:
 
 ![Community Leader Decision Model](/puerto_rico_now/images/recovery/CommunityLeader_maps.jpg)
 
-<img src="/puerto_rico_now/images/recovery/Maria.png" alt="María" width="300" align="middle">
+<img src="/puerto_rico_now/images/recovery/Maria.png" alt="María" width="300" align="center">
 
 Name: **María**
 
@@ -101,7 +100,7 @@ Data Layers Mapped:
 
 ![Recovery & Resilience Decision Model](/puerto_rico_now/images/recovery/RecoveryResilience_maps.jpg)
 
-<img src="/puerto_rico_now/images/recovery/Bill.png" alt="Bill" width="300" align="middle">
+<img src="/puerto_rico_now/images/recovery/Bill.png" alt="Bill" width="300" align="center">
 
 Name: **Bill**
 
