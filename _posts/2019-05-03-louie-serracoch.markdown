@@ -42,8 +42,7 @@ We pose the decision model methodology with the following objectives:
 In order to demonstrate potentially conflicting stakeholder values, which can conclude in different visions for the future of Puerto Rico, we’ve created three fictional characters based on the narratives of perspectives and experiences that Puerto Ricans can relate to. Although fictional and exaggerated, the characterization of stakeholders is useful to illustrate how differences in priorities affect the final decision output.
 
 #### **The Stakeholders**
-![Tyrene](/puerto_rico_now/images/recovery/Tyrene.png "Maria")
-<img src="/puerto_rico_now/images/recovery/Tyrene.png" width="200">
+<img src="/puerto_rico_now/images/recovery/Tyrene.png" alt="Maria" width="300" align="middle">
 
 Name: **Tyrene**
 
@@ -74,9 +73,12 @@ Data Layers Mapped:
 
 ![Community Leader Decision Model](/puerto_rico_now/images/recovery/CommunityLeader_maps.jpg)
 
-![María](/puerto_rico_now/images/recovery/Maria.png)
-Name: **María**</br>
-Representative Group: **middle class from Puerto Rico; some have emigrated to the mainland but still have close ties to the island.**</br>
+<img src="/puerto_rico_now/images/recovery/Maria.png" alt="María" width="300" align="middle">
+
+Name: **María**
+
+Representative Group: **middle class from Puerto Rico; some have emigrated to the mainland but still have close ties to the island.**
+
 Priorities: **recovery and resilience**
   - Ensure the resilience of developed areas
   - Recover from Hurricane Maria damage 
@@ -99,9 +101,12 @@ Data Layers Mapped:
 
 ![Recovery & Resilience Decision Model](/puerto_rico_now/images/recovery/RecoveryResilience_maps.jpg)
 
-![Bill](/puerto_rico_now/images/recovery/Bill.png)
-Name: **Bill**</br>
-Representative Group: **real estate speculators, finance that funds them and 1% of Puerto Rican society that supports this development**</br>
+<img src="/puerto_rico_now/images/recovery/Bill.png" alt="Bill" width="300" align="middle">
+
+Name: **Bill**
+
+Representative Group: **real estate speculators, finance that funds them and 1% of Puerto Rican society that supports this development**
+
 Priorities: **attracting capital for the island and develop areas of the island in a more profitable way**
   - Improve areas with high economic growth potential
   - Provide resources to resort and leisure developments
