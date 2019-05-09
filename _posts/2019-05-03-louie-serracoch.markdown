@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2019-04-12
+date:   2019-05-03
 image: "/puerto_rico_now/images/recovery/mapping-agency-thumbnail.png"
 title:  "Community Agency through Mapping: Decision Making Tools for Puerto Ricans"
 author: "Ashley Louie & Gloria Serra Coch"
@@ -42,10 +42,13 @@ We pose the decision model methodology with the following objectives:
 In order to demonstrate potentially conflicting stakeholder values, which can conclude in different visions for the future of Puerto Rico, we’ve created three fictional characters based on the narratives of perspectives and experiences that Puerto Ricans can relate to. Although fictional and exaggerated, the characterization of stakeholders is useful to illustrate how differences in priorities affect the final decision output.
 
 #### **The Stakeholders**
-![Tyrene](/puerto_rico_now/images/recovery/Tyrene.png)
+![Tyrene](/puerto_rico_now/images/recovery/Tyrene.png "Maria")
 <img src="/puerto_rico_now/images/recovery/Tyrene.png" width="200">
-Name: **Tyrene**</br>
-Representative Group: **grassroots community local leader**</br>
+
+Name: **Tyrene**
+
+Representative Group: **grassroots community local leader**
+
 Priorities: **long-term well-being of the community**
   - Prioritize underserved communities
   - Long-term community resilience
