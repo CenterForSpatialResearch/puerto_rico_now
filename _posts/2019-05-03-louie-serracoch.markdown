@@ -57,13 +57,14 @@ Priorities: **long-term well-being of the community**
 Tyrene used to teach at José Meléndez Ayala school, in Boquillas, but after its closure, she had to relocate. However, she feels lucky because she still has a job, not like most of her former colleagues. Her daughter, Tania, and her have to wake up very early every morning because the new school is much further. The classes are overcrowded and there are rats in the cafe but they are lucky because Tania is still able to go to school and they have a salary to support them. Tyrene spends the day working at the school and the night in community meetings, where she works with other people in the village to find ways to provide what the government won’t and the community still needs. Her days are long and she often things about quitting, the badly paid job at the school or the fight, but she knows that both the kids, her extended family and the community need her.
 
 Testimonials:
-*“This is a moment of opportunity, even if we are the most hurt by the hurricane we can use this to change long term issues that have been affecting Puerto Rico before this” 
-“We want to ensure access to underserved priorities”
-“Our concerns are longer term than the hurricane, we want to address the debt crisis and how it has affected the public services for the community”
-“Tania Ginés was fighting for 10 months to avoid the closure of her daughter’s public school. In the end, she lost the battle. Now, the children need to go to a further school, where there are more than 40 students per class, rats in the cafeteria, no therapists for special education children” ”
-Tania: “It is like I say, I mean, I didn’t borrow, my children did not borrow!”* [9]
+- *“This is a moment of opportunity, even if we are the most hurt by the hurricane we can use this to change long term issues that have been affecting Puerto Rico before this” 
+- “We want to ensure access to underserved priorities”
+- “Our concerns are longer term than the hurricane, we want to address the debt crisis and how it has affected the public services for the community”
+- “Tania Ginés was fighting for 10 months to avoid the closure of her daughter’s public school. In the end, she lost the battle. Now, the children need to go to a further school, where there are more than 40 students per class, rats in the cafeteria, no therapists for special education children” ”
+- Tania: “It is like I say, I mean, I didn’t borrow, my children did not borrow!”* [9]
 
-<img src="/puerto_rico_now/images/CommunityLeader_layers.jpg" alt="Community Leader Data Layers Mapped" width="200" float="left">
+<img src="/puerto_rico_now/images/recovery/CommunityLeader_layers.jpg" alt="Community Leader Data Layers Mapped" width="200" float="left">
+
 Data Layers Mapped:
   - Population density
   - Community services
@@ -86,11 +87,11 @@ Priorities: **recovery and resilience**
 María used to teach at Universidad de Puerto Rico in Mayaguez, but she got nominated for research as marine biologist? and was offered a position in UCLA that a young academic like her could not turn down. Although she spends most of her time in Los Angeles  her closest friends are still in Puerto Rico and she travels there very often. The news of the hurricane highly strook her and losing contact of her loved ones made her realized how precious they were for her. In a similar way, seeing the island destroyed awakened nostalgic feelings of her life there, driving her to get more involved in its recovery.
 
 Testimonials:
-*“This was a terrible catastrophe for the island, we want to ensure that a disaster like that never happens again”
-“We want to participate in rebuilding the island after the hurricane”
-“It was the 70’s. Teresa was a young mother with two children an a house in the suburbs. She was a pharmaceutical chemist. The family had two sources of income: hers and her husband’s. They were the typical Puerto Rican middle class family.”* [10]
+- *“This was a terrible catastrophe for the island, we want to ensure that a disaster like that never happens again”
+- “We want to participate in rebuilding the island after the hurricane”
+- “It was the 70’s. Teresa was a young mother with two children an a house in the suburbs. She was a pharmaceutical chemist. The family had two sources of income: hers and her husband’s. They were the typical Puerto Rican middle class family.”* [10]
 
-![Recovery & Resilience Data Layers Mapped](/puerto_rico_now/images/recovery/RecoveryResilience_layers.jpg)
+<img src="/puerto_rico_now/images/recovery/RecoveryResilience_layers.jpg" alt="Recovery & Resilience Data Layers Mapped" width="200" float="left">
 
 Data Layers Mapped:
   - Population density
@@ -113,7 +114,7 @@ Priorities: **attracting capital for the island and develop areas of the island 
 
 Bill runs a real estate company, like his father, Bill Sr., did before him. He considers himself a true New Yorker and loves to stare at the lights of the city that never sleeps from the back of the car after a long work day downtown. His father could not understand the drive of the city but Bill keeps imagining how he could change his mind by showing him the views from his office. He has been thinking about him lately due to a big investment that his firm is in the process of making. His father always told him that disasters are profitable for those who know how to make profit and that’s what he is going to do in Puerto Rico. The hurricane has not only clear extensions of land for development but also attracted the attention of investors that see it as an opportunity to redraw the profile of the place for a more profitable scenario: tourism. Bill knew that they had to move fast to secure their share of the cake but, after partnering with a local business leaders, he know he has more than the foot on the door.
 
-![External Investor Data Layers Mapped](/puerto_rico_now/images/recovery/ExternalInvestor_layers.jpg)
+<img src="/puerto_rico_now/images/recovery/ExternalInvestor_layers.jpg" alt="External Investor Data Layers Mapped" width="200" float="left">
 
 Data Layers Mapped:
   - Hotels
