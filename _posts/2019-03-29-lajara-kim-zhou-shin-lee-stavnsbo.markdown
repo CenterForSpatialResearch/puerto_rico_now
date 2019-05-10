@@ -149,4 +149,8 @@ For those not too far away, like Mariettani and Feo and Linda, who went to the D
 <br/><br/>
 #### **REFERENCES**
 
-To be added
+US Centers for Disease Control. 2018. “Social Vulnerability Index." Last Updated 09/12/18. https://svi.cdc.gov/.
+
+Gurney, Kyra. 2018. "Hundreds of Puerto Rican Schools Closed After Maria. Special Needs Kids Got Left Behind." Miami Herald, October 2018. https://www.miamiherald.com/news/nation-world/national/article218228870.html. 
+
+Gurney, Kyra, 2017. "Sick and Desperate After the Storm, Puerto Rican Teacher Ends Her Odyssey in Miami Classroom." Miami Herald, December 01, 2017. https://www.miamiherald.com/news/local/education/article187409178.html. 
