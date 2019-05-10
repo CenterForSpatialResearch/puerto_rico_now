@@ -149,8 +149,13 @@ For those not too far away, like Mariettani and Feo and Linda, who went to the D
 <br/><br/>
 #### **REFERENCES**
 
-US Centers for Disease Control. 2018. “Social Vulnerability Index." Last Updated 09/12/18. https://svi.cdc.gov/.
+01. Department of Homeland Security. 2018. "Colleges and Universities." Last Updated 04/14/18. https://hifld-geoplatform.opendata.arcgis.com/datasets/31c83276a1ea495c9e8a384d90b7ad39_0?geometry=-68.599%2C17.751%2C-66.014%2C18.664.
 
-Gurney, Kyra. 2018. "Hundreds of Puerto Rican Schools Closed After Maria. Special Needs Kids Got Left Behind." Miami Herald, October 2018. https://www.miamiherald.com/news/nation-world/national/article218228870.html. 
+02. Department of Homeland Security. 2018. "Hospitals." Last Updated 05/29/18. https://hifld-geoplatform.opendata.arcgis.com/datasets/a2817bf9632a43f5ad1c6b0c153b0fab_0?geometry=-68.34%2C17.125%2C-63.171%2C18.953.
 
-Gurney, Kyra, 2017. "Sick and Desperate After the Storm, Puerto Rican Teacher Ends Her Odyssey in Miami Classroom." Miami Herald, December 01, 2017. https://www.miamiherald.com/news/local/education/article187409178.html. 
+03. Gurney, Kyra. 2018. "Hundreds of Puerto Rican Schools Closed After Maria. Special Needs Kids Got Left Behind." Miami Herald, October 2018. https://www.miamiherald.com/news/nation-world/national/article218228870.html. 
+
+04. Gurney, Kyra, 2017. "Sick and Desperate After the Storm, Puerto Rican Teacher Ends Her Odyssey in Miami Classroom." Miami Herald, December 01, 2017. https://www.miamiherald.com/news/local/education/article187409178.html. 
+
+05. US Centers for Disease Control. 2018. “Social Vulnerability Index." Last Updated 09/12/18. https://svi.cdc.gov/.
+
