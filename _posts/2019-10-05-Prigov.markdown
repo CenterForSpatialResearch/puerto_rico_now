@@ -4,6 +4,7 @@ date:   2019-05-10
 image: "/puerto_rico_now/images/groupname/csr_thumbnail.png"
 title:  "Template: Title of Your Final Project"
 author: "Andrey Prigov"
+---
 
 In the wake of Hurricane Maria, policymakers, teachers, and parents have accused the Puerto Rican government of using the devastation as an excuse to push through measures closing schools and privatizing the education system. **More than 250 schools have already been permanently closed**  and it is expected that at least 14 charter schools will open by the end of next year.  While ***Julia Keleher***, the Puerto Rico Secretary of Education, and her supporters insist these rapid changes are necessary for building an optimized education system, school closings and charterization have been enacted largely without the consultation of local stakeholders, particularly those living in low-income, underserved communities. See the rest of the project [here.](https://github.com/CenterForSpatialResearch/conflict_urbanism_puerto_rico_now)
 
@@ -11,10 +12,6 @@ In the wake of Hurricane Maria, policymakers, teachers, and parents have accused
 
 <iframe src="https://giphy.com/embed/dBOR861WKHjRGAtSzP" width="480" height="336" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dBOR861WKHjRGAtSzP">via GIPHY</a></p>
 
-
-
-
----
 This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
 To present and turn in your final projects for Conflict Urbanism: Puerto Rico Now you will be editing this template. You will include all of the text of your paper here, along with any and all images, maps, videos, or other materials that you produce.  
