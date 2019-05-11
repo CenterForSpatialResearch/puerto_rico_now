@@ -6,13 +6,21 @@ title:  "Template: Title of Your Final Project"
 author: "Andrey Prigov"
 ---
 
-In the wake of Hurricane Maria, policymakers, teachers, and parents have accused the Puerto Rican government of using the devastation as an excuse to push through measures closing schools and privatizing the education system. **More than 250 schools have already been permanently closed**  and it is expected that at least 14 charter schools will open by the end of next year.  While ***Julia Keleher***, the Puerto Rico Secretary of Education, and her supporters insist these rapid changes are necessary for building an optimized education system, school closings and charterization have been enacted largely without the consultation of local stakeholders, particularly those living in low-income, underserved communities. See the rest of the project [here.](https://github.com/CenterForSpatialResearch/conflict_urbanism_puerto_rico_now)
+<div class ="item"><a href="#" class="title"> Students and parents fight to reopen neighborhood school in Yabucoa, Puerto Rico</a><iframe src="https://www.youtube.com/embed/7V8k8bau7KA"></iframe>
+
+In the wake of Hurricane Maria, policymakers, teachers, and parents have accused the Puerto Rican government of using the devastation as an excuse to push through measures closing schools and privatizing the education system. **More than 250 schools have already been permanently closed**  and it is expected that at least 14 charter schools will open by the end of next year.  While ***Julia Keleher***, the Puerto Rico Secretary of Education, and her supporters insist these rapid changes are necessary for building an optimized education system, school closings and charterization have been enacted largely without the consultation of local stakeholders, particularly those living in low-income, underserved communities. 
+
+![School Closures](/puerto_rico_now/images/andrey/school_closures.jpg)<br>
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://andreyprigov.github.io/pr_school_closures/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div><br>
 
-<div id="comslider_in_point_1830347"></div><script type="text/javascript">var oCOMScript1830347=document.createElement('script');oCOMScript1830347.src="https://commondatastorage.googleapis.com/comslider/target/users/1557552219x22b362a9b325ed4a4e6e563497823c73/comslider.js?timestamp=1557556191&ct="+Date.now();oCOMScript1830347.type='text/javascript';document.getElementsByTagName("head").item(0).appendChild(oCOMScript1830347);</script>
+<div id="comslider_in_point_1830347"></div><script type="text/javascript">var oCOMScript1830347=document.createElement('script');oCOMScript1830347.src="https://commondatastorage.googleapis.com/comslider/target/users/1557552219x22b362a9b325ed4a4e6e563497823c73/comslider.js?timestamp=1557557462&ct="+Date.now();oCOMScript1830347.type='text/javascript';document.getElementsByTagName("head").item(0).appendChild(oCOMScript1830347);</script>
 
-![Initial Vulnerability Assessment](/puerto_rico_now/images/andrey/combined-vul.jpg)<br>
+<div id="comslider_in_point_1830370"></div><script type="text/javascript">var oCOMScript1830370=document.createElement('script');oCOMScript1830370.src="https://commondatastorage.googleapis.com/comslider/target/users/1557557500xb447930f5c0a549c8cf51cc1570282bb/comslider.js?timestamp=1557557610&ct="+Date.now();oCOMScript1830370.type='text/javascript';document.getElementsByTagName("head").item(0).appendChild(oCOMScript1830370);</script>
+
+![Final Vulnerability Assessment](/puerto_rico_now/images/andrey/combined-vul.jpg)<br>
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://andreyprigov.github.io/PR_Education/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div><br>
 
 
 This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
