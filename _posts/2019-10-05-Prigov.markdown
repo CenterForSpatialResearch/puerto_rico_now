@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2019-05-10
-image: "/puerto_rico_now/images/groupname/csr_thumbnail.png"
+image: "/puerto_rico_now/images/andrey/school_closures.gif"
 title:  "Template: Title of Your Final Project"
 author: "Andrey Prigov"
 ---
@@ -16,11 +16,10 @@ In the wake of Hurricane Maria, community leaders, teachers, and parents have ac
 
 Keeping this in mind, this project will dig beneath the government narrative to (A) identify the physical and social inequalities of school closure impact and to (B) compile a database that brings to light the concealed and resistance stories of those affected by the school closures. Most of the time such stories are presented, they are buried inside articles or journals and presented alongside the government's positivist rhetoric. As such, the database will serve as a highly political tool that reasserts the voices of parents and teachers in the education space. Rather than allow government and private interests to insist that school closure are for the common good, the database will reclaim the agency of families and communities to tell their own understanding of what this common good should be. 
 
-![School Closures](/puerto_rico_now/images/andrey/school_closures.gif)<br>
-
- Puerto Rico's prolonged debt crisis had already triggered multiple waves of school closures since 2010, but the aftermath of Hurricane Maria inspired new, zealous efforts to reform the island's school system. Just this year, 265 schools have been shut down, pushing the overwhelmingly low-income school system into greater uncertainty and preacarity. While the government insists that these closures are necessary to account for deteriorating infrastructure, shrinking enrollment, and budget shortfalls, each school closure represents a painful loss for its surrounding community. Parents rely on neighborhood schools to educate their kids close to home in an environment that is familiar to them. Teachers rely on parents—who they know well—to bolster learning at home. Students rely on an interconnected network of educators and family members for critical academic and social support. Each red dot on the maps above and below is, therefore, not an island, but a symbol of a community of parents, teachers, and students severed. 
-
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://andreyprigov.github.io/pr_school_closures/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div><br>
+
+Puerto Rico's prolonged debt crisis had already triggered multiple waves of school closures since 2010, but the aftermath of Hurricane Maria inspired new, zealous efforts to reform the island's school system. Just this year, 265 schools have been shut down, pushing the overwhelmingly low-income school system into greater uncertainty and preacarity. While the government insists that these closures are necessary to account for deteriorating infrastructure, shrinking enrollment, and budget shortfalls, each school closure represents a painful loss for its surrounding community. Parents rely on neighborhood schools to educate their kids close to home in an environment that is familiar to them. Teachers rely on parents—who they know well—to bolster learning at home. Students rely on an interconnected network of educators and family members for critical academic and social support. Each red dot on the maps above is, therefore, not just a school closure, but a symbol of a community of parents, teachers, and students severed. 
+
 
 <div id="comslider_in_point_1830347"></div><script type="text/javascript">var oCOMScript1830347=document.createElement('script');oCOMScript1830347.src="https://commondatastorage.googleapis.com/comslider/target/users/1557552219x22b362a9b325ed4a4e6e563497823c73/comslider.js?timestamp=1557557462&ct="+Date.now();oCOMScript1830347.type='text/javascript';document.getElementsByTagName("head").item(0).appendChild(oCOMScript1830347);</script>
 
