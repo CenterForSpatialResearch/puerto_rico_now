@@ -6,10 +6,11 @@ title:  "Template: Title of Your Final Project"
 author: "Andrey Prigov"
 ---
 
-<div class="item" id="listing-0">
-            <a href="#" class="title"> School Closure Intro! </a>
-            <iframe src="https://www.youtube.com/embed/K0t4kTXZ89M"></iframe>
-        </div>
+<blockquote>
+  <p>“The world ended for us [when our neighborhood school closed]…this school brought together the core of the community. It was the only thing here to unite the community. The only thing.” - Felipe Velázquez, parent from Yabucoa</p>
+</blockquote>
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/7V8k8bau7KA" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
 
 In the wake of Hurricane Maria, policymakers, teachers, and parents have accused the Puerto Rican government of using the devastation as an excuse to push through measures closing schools and privatizing the education system. **More than 250 schools have already been permanently closed**  and it is expected that at least 14 charter schools will open by the end of next year.  While ***Julia Keleher***, the Puerto Rico Secretary of Education, and her supporters insist these rapid changes are necessary for building an optimized education system, school closings and charterization have been enacted largely without the consultation of local stakeholders, particularly those living in low-income, underserved communities. 
 
