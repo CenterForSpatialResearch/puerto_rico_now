@@ -10,10 +10,7 @@ In the wake of Hurricane Maria, policymakers, teachers, and parents have accused
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://andreyprigov.github.io/pr_school_closures/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div><br>
 
-<script type="text/javascript">
-var bannersnack_embed = {"hash":"bc9edsl5t","width":904,"height":777,"t":1557554982,"userId":39174395,"type":"html5"};
-</script>
-<script type="text/javascript" src="//cdn.bannersnack.com/iframe/embed.js"></script>
+<iframe src="//cdn.bannersnack.com/banners/bc9edsl5t/embed/index.html?userId=39174395&t=1557554982" width="100%" height="100%" scrolling="no" frameborder="0" allowtransparency="true" allow="autoplay" allowfullscreen="true"></iframe>
 
 
 ![Initial Vulnerability Assessment](/puerto_rico_now/images/andrey/combined-vul.jpg)<br>
