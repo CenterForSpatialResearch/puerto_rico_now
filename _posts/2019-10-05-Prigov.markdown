@@ -8,8 +8,6 @@ author: "Andrey Prigov"
 
 In the wake of Hurricane Maria, policymakers, teachers, and parents have accused the Puerto Rican government of using the devastation as an excuse to push through measures closing schools and privatizing the education system. **More than 250 schools have already been permanently closed**  and it is expected that at least 14 charter schools will open by the end of next year.  While ***Julia Keleher***, the Puerto Rico Secretary of Education, and her supporters insist these rapid changes are necessary for building an optimized education system, school closings and charterization have been enacted largely without the consultation of local stakeholders, particularly those living in low-income, underserved communities. See the rest of the project [here.](https://github.com/CenterForSpatialResearch/conflict_urbanism_puerto_rico_now)
 
-![School closures](/puerto_rico_now/images/andrey/school_closures.gif)<br>
-
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://andreyprigov.github.io/pr_school_closures/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div><br>
 
 <link rel="stylesheet" href="ism/css/my-slider.css"/>
@@ -23,7 +21,7 @@ In the wake of Hurricane Maria, policymakers, teachers, and parents have accused
 <div class="ism-slider" data-play_type="loop" id="my-slider">
   <ol>
     <li>
-      <img src="ism/image/slides/_u/1457477379433_674613.jpg">
+      <img src="/puerto_rico_now/images/andrey/school_closures.gif">
     </li>
     <li>
       <img src="ism/image/slides/_u/1457477489014_350367.jpg">
