@@ -36,7 +36,7 @@ Estimates from the ACS Community Survey place municipal children's disabilities 
 
 <h4 id="the-individual-narrative-of-migration"><strong>PHYSICAL FACTORS</strong></h4>
 
-<div id="comslider_in_point_1830370"></div><script type="text/javascript">var oCOMScript1830370=document.createElement('script');oCOMScript1830370.src="https://commondatastorage.googleapis.com/comslider/target/users/1557557500xb447930f5c0a549c8cf51cc1570282bb/comslider.js?timestamp=1557594326&ct="+Date.now();oCOMScript1830370.type='text/javascript';document.getElementsByTagName("head").item(0).appendChild(oCOMScript1830370);</script> <i> *Top 5 most at-risk muncipalities and San Juan were chosen for each map. Data from the 2013-17 ACS Community Survey. </i>
+<div id="comslider_in_point_1830370"></div><script type="text/javascript">var oCOMScript1830370=document.createElement('script');oCOMScript1830370.src="https://commondatastorage.googleapis.com/comslider/target/users/1557557500xb447930f5c0a549c8cf51cc1570282bb/comslider.js?timestamp=1557604126&ct="+Date.now();oCOMScript1830370.type='text/javascript';document.getElementsByTagName("head").item(0).appendChild(oCOMScript1830370);</script> <i> *Top 5 most at-risk muncipalities and San Juan were chosen for each map. Data from the 2013-17 ACS Community Survey. </i>
 
 Similarly to social factors, there are local trends present in physical factors that are worth exploring in greater detail. For average daily commute time, it is clear that the parents most at-risk to school closures are those in San Jose's suburbs who have long commute times. While receiving schools might be nearby (as they are in Bayamón), parents or other caregivers will on average have to spend even more time on the road before and after work. In Caguas, for instance, new receiving schools may be 3-4 kilometers away. As promised school buses have yet to be implemented across the island, parents without cars are scrambling to find ways to get their children to school. In Loíza, where average distances to receiving schools is the highest in the country, more than 20% of families do not have a car, putting in jeopardy their children's ability to attend school. <br>
 
@@ -48,5 +48,21 @@ Combining the three social factors, three physical factors, population loss, and
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://andreyprigov.github.io/PR_Education/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div><br> 
 
-By listening to these concealed and resistance stories, the Puerto Rico Department of Education can better mitigate the trauma of the school closure crisis. While decisions regarding education are never easy to take, the government cannot continue implementing policy changes without consulting all stakeholders. Moreover, for teachers, parents, and students, voicing their stories is not only important for constructing broader counter-narratives, but for strengthening their group wholeness—what can be described as the emotional, spiritual, and relational resources that marginalized peoples draw on in their struggles against repression.  While positivist data appears to tell a clear picture, it relies on proving or disproving certain experiences, which detaches them from the weight these experiences hold in the lives of individuals or small groups. The experiences of school-affected families cannot be disproven with the experiences of others or with population statistics from the Department of Education—they exist either way and it is, therefore, critical to acknowledge and account for them.
+By listening to these concealed and resistance stories, the Puerto Rico Department of Education can better mitigate the trauma of the school closure crisis. While decisions regarding education are never easy to take, the government cannot continue implementing policy changes without consulting all stakeholders. Moreover, for teachers, parents, and students, voicing their stories is not only important for constructing broader counter-narratives, but for strengthening their group wholeness—what can be described as the emotional, spiritual, and relational resources that marginalized peoples draw on in their struggles against repression.  While positivist data appears to tell a clear picture, it relies on proving or disproving certain experiences, which detaches them from the weight these experiences hold in the lives of individuals or small groups. The experiences of school-affected families cannot be disproven with the experiences of others or with population statistics from the Department of Education—they exist either way and it is, therefore, critical to acknowledge and account for them. <br> 
+
+<h4 id="the-individual-narrative-of-migration"><strong>REFERENCES</strong></h4><br>
+
+* ACS Community Survey 5 Year Estimate, 2013-2017
+
+* Arduengo, Ricardo, Monique Dols, Monique Dols, Monique Dols, Henry A. Giroux, Gillian Russom, Amanda Marcotte, and AFP / Getty Images. "Standing Against Privatization: Puerto Rico's Teachers Strike." Truthout. 
+
+* Campbell, Alexia Fernández, and Rebecca Kiger. "About a Quarter of Puerto Rico's Schools Are Shutting Down. Here's a Look inside One." Vox. June 15, 2018. 
+
+* Gurney, Kyra. "Hurricane Maria Took Everything but Their Neighborhood School. Now, Even That Is Gone." Miamiherald. November 29, 2018.
+
+* Kirk, Mimi, Mimi Kirk, and CityLab. "Puerto Rico's Struggling Schools Face Privatization." CityLab. March 01, 2018. Accessed May 12, 2019. 
+
+* Mazzei, Patricia. "Puerto Rico's Schools Are in Tumult, and Not Just Because of Hurricane Maria." The New York Times. June 01, 2018. 
+
+* Ujifusa, Andrew. "How Puerto Rico's Educators See Their Schools a Year After Hurricane Maria." Education Week. 
 
