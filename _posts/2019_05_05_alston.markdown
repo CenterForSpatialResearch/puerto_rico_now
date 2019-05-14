@@ -53,8 +53,8 @@ All you need to do to use one is replace the url that is between the two " ". He
 This project focuses on the study of how predatory lending practices and failing infrastructure have caused the quality of living in Puerto Rico to decline especially within geriatric communities on the island. By targeting individuals with finite incomes, companies were able to sell reverse mortgage loans to elderly Puerto Rican home owners aged **62 and older.** This loans contained information and stipulations that were unclear to the people who signed them and have been correlated with the increase in the foreclosure and delinquency rate in Post-Maria Puerto Rico. 
 While researching the quality of life amongst Puerto Rico's elderly, it became apparent that enumerating the stressors on the quality of life may be beneficial. They are as follows: 
 
-1. Failures of Infrastructure- transportation, public health, electricity, and clean water
-1. Uncertainty Around Reverse Mortgages- unsafe housing situations, misunderstanding requirements of the loan, need to relocate
-1. Higher Occurence of Deaths- higher likelihood to die during hurricanes, fight to have deaths correctly classified
+1. *Failures of Infrastructure-* transportation, public health, electricity, and clean water
+1. *Uncertainty Around Reverse Mortgages-* unsafe housing situations, misunderstanding requirements of the loan, need to relocate
+1. *Higher Occurence of Deaths-* higher likelihood to die during hurricanes, fight to have deaths correctly classified
 
 In the end, I came up with a few suggestions for various groups involved with the aid of some visuals. I also provided an animated story to offer a simple demonstration of the issue at hand. 
