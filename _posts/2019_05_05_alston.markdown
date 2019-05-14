@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2019-05-13
-image: "/puerto_rico_now/images/alston/alamesa.jpg"
+image: "/puerto_rico_now/images/alston/alamesa.jpg/"
 title:  "ja3318"
 author: "Jaala"
 --- 
