@@ -15,5 +15,5 @@ While researching the quality of life amongst Puerto Rico's elderly, it became a
 
 In the end, I came up with a few suggestions for various groups involved with the aid of some visuals. I also provided an animated story to offer a simple demonstration of the issue at hand.
 
-! [description of image](/puerto_rico_now/images/alston/Slide1.png)
-! [description of image](/puerto_rico_now/images/alston/Slide2.png) 
+![description of image](/puerto_rico_now/images/alston/Slide1.png)
+![description of image](/puerto_rico_now/images/alston/Slide2.png) 
