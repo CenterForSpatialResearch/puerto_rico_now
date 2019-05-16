@@ -2,7 +2,7 @@
 layout: post
 date:   2019-05-13
 image: "/puerto_rico_now/images/alston/cover1.png"
-title:  "ja3318"
+title:  "A La Mesa: Ensuring Equality in the Loan Market"
 author: "Jaala"
 --- 
 
