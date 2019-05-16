@@ -32,7 +32,7 @@ One difficulty, admittedly, in the research of this topic is that most of the re
 
 Below there is an animated story of Pepe the Cat, who becomes homeless in the wake of a hurricane. It was produced as a simple way to demonstrate (on an extreme level) the effects of natural disasters. Hopefully, if you present it at community events, it can be a starting point for what things could have been different so that Pepe's story is a bit happier. Maybe Luis would not have died, or Camila could have kept the house? We may never know, but in thinking about how to assist Pepe, we ponder ways to help an entire island of vulnerable people. 
 
-![description of image](/puerto_rico_now/images/alston/Pepe's Story.pdf)
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://github.com/CenterForSpatialResearch/puerto_rico_now/blob/master/images/alston/Pepe's%20Story.pdf" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
 ![description of image](/puerto_rico_now/images/alston/whatcanido.png)
 
 Citations
