@@ -48,6 +48,12 @@ img {
   max-width: 100%;
   vertical-align: middle; }
 
+#qi modify
+img[src$="#full"] {
+  width: 100vw;
+  max-width: none;
+}
+
 /**
  * Figures
  */
