@@ -8,6 +8,15 @@ author: "Aline Faiwichow Estefam, Esteban Vanegas Jr, Ge Guo, Qi Yang"
 
 <br/><br/>
 
+
+<img src="/puerto_rico_now/images/future_scenarios/concept_image.png" align=right width=90>
+Markdown presentation writer, powered by Electron.
+Markdown presentation writer, powered by Electron.
+Markdown presentation writer, powered by Electron.
+Markdown presentation writer, powered by Electron.
+Markdown presentation writer, powered by Electron. 
+
+
 <img style="float: right;" src="/puerto_rico_now/images/future_scenarios/concept_photo.png">
 Some text or what so ever
 
