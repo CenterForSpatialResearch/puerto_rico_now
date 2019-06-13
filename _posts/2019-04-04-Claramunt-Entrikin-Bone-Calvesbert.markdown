@@ -24,7 +24,7 @@ The devastation produced by Hurricane María was unprecedented and revealed the 
   <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b4125860-6e0e-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe>
 </div>
 
-Before the hurricane, Puerto Rico had acquired new layers of complexity considering that the island’s defaulted on their loans payments obligation, and instituted a ongoing and deep crisis. Now the territory is said to be responsible for the so called public debt that amounts $74B. Approximately $24 billion is issued by municipalities and public corporations and $50 billion on pension liabilities of the $74 billion debt.
+Before the hurricane, Puerto Rico had acquired new layers of complexity considering that the islands defaulted on their loans payments obligation, and instituted an ongoing and deep crisis. Now the territory is said to be responsible for the so-called public debt that amounts $74B. Approximately $24 billion is issued by municipalities and public corporations and $50 billion on pension liabilities of the $74 billion debt.
 
 <div style="padding:56.25% 0 0 0;position:relative;">
   <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=fab7ef1c-6e0b-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe>
