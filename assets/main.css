@@ -51,7 +51,7 @@ img {
 /* qi modify */
 img[src$="#full"] {
   width: 100vw;
-  max-width: 800px;
+  max-width: none;
 }
 
 /**
