@@ -21,13 +21,13 @@ The devastation produced by Hurricane María was unprecedented and revealed the 
 >"The volatile nature of economic and population activity generates the need to locate public policies decisions geographically even more relevant."
 
 <div style="padding:56.25% 0 0 0;position:relative;">
-  <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b4125860-6e0e-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe>
+  <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=9e7be2dc-9212-11e9-b9b8-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe>
 </div>
 
 Before the hurricane, Puerto Rico had acquired new layers of complexity considering that the islands defaulted on their loans payments obligation, and instituted an ongoing and deep crisis. Now the territory is said to be responsible for the so-called public debt that amounts $74B. Approximately $24 billion is issued by municipalities and public corporations and $50 billion on pension liabilities of the $74 billion debt.
 
 <div style="padding:56.25% 0 0 0;position:relative;">
-  <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=fab7ef1c-6e0b-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe>
+  <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=bbabcf06-9213-11e9-b9b8-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe>
 </div>
 
 Given that Puerto Rico is under a tight scenario by having a Lack of economic development Financial debt, Unprecedented disaster recovery process, Fiscal reconstruction and Financial debt the project explore the same question but at the municipality level. In order to have a better idea of the Island and to further understand the geography that we explored is important to highlight that Puerto Rico has Seventy-eight municipalities with various geographical conditions, from coastal to inland including Culebra and Vieques that are separate Islands. Therefore it is difficult to create a baseline for comparison since they vary not only in territory extension but also have diverse socio-economic conditions. 
