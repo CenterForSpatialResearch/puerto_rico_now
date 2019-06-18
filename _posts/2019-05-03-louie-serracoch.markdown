@@ -5,8 +5,7 @@ image: "/puerto_rico_now/images/recovery/conflict-resolution-thumbnail.png"
 title:  "Conflict Resolution through Mapping"
 author: "Ashley Louie & Gloria Serra Coch"
 ---
-<!-- ![Agency Through Mapping](/puerto_rico_now/images/recovery/agency_through_mapping.png) -->
-<img src="/puerto_rico_now/images/recovery/decision-model-diagram.png" alt="Agency Through Mapping" class="full-img">
+![Agency Through Mapping](/puerto_rico_now/images/recovery/decision-model-diagram.png)
 
 #### **Puerto Rico Today**
 **Debt and Disaster**
@@ -73,7 +72,7 @@ Valeria used to teach at José Meléndez Ayala school, in Boquillas, but after i
   <li>Education services</li>
 </ul>
 
-<img src="/puerto_rico_now/images/recovery/CommunityLeader_maps.jpg" alt="Community Leader Decision Model" clear="both">
+<img src="/puerto_rico_now/images/recovery/CommunityLeader_maps.jpg" alt="Community Leader Decision Model" class="full-img">
 
 #### **Recovery & Resilience**
 
@@ -103,7 +102,7 @@ María used to teach at Universidad de Puerto Rico in Mayaguez, but she got nomi
   <li>Hurricane Maria damage</li>
 </ul>
 
-![Recovery & Resilience Decision Model](/puerto_rico_now/images/recovery/RecoveryResilience_maps.jpg)
+<img src="/puerto_rico_now/images/recovery/RecoveryResilience_maps.jpg" alt="Recovery & Resilience Decision Model" class="full-img">
 
 #### **External Investors**
 
@@ -129,7 +128,7 @@ Bill runs a real estate company, like his father, Bill Sr., did before him. He c
   <li>Development areas</li>
 </ul>
 
-![External Investor Decision Model](/puerto_rico_now/images/recovery/ExternalInvestor_maps.jpg)
+<img src="/puerto_rico_now/images/recovery/ExternalInvestor_maps.jpg" alt="External Investor Decision Model" class="full-img">
 
 #### **Weighing Stakeholder Values**
 ![Puerto Rico Decision Model](/puerto_rico_now/images/recovery/DecisionModel2.jpg)
