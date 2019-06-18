@@ -48,6 +48,24 @@ img {
   max-width: 100%;
   vertical-align: middle; }
 
+img[src$="#full"] {
+  width: 100vw;
+  max-width: none;}
+
+.img-full {
+  width = "100vw";
+  max-width: none;
+  margin: 0 auto;
+  display: block;
+}
+
+img.float-left {
+   display:inline; 
+   float:left; 
+   margin:5px 15px 5px 0;
+   max-width: 47%;
+}
+
 /**
  * Figures
  */
@@ -108,20 +126,22 @@ blockquote {
 .wrapper {
   max-width: -webkit-calc(800px - (30px * 2));
   max-width: calc(800px - (30px * 2));
+  width:100%;
+/*   max-width:45em; */
   margin-right: auto;
   margin-left: auto;
-  padding-right: 30px;
+  padding-right: 0px;
   padding-top: 30px;
-  padding-left: 30px;
-  }
+
+
   @media screen and (max-width: 800px) {
     .wrapper {
       max-width: -webkit-calc(800px - (30px));
       max-width: calc(800px - (30px));
-      padding-right: 15px;
-      padding-left: 15px; }
-    }
-  }
+      padding-right: 0px;
+      padding-left: 0px; } }
+
+}
 
 /**
  * Clearfix
@@ -130,6 +150,141 @@ blockquote {
   content: "";
   display: table;
   clear: both; }
+
+/* Qi Added */
+
+/* #markdown {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center
+}
+
+#style-guide #markdown,
+.post-layout #markdown {
+    font-family: Lora, serif
+}
+
+#markdown>* {
+    min-width: 100%
+}
+
+#markdown>:first-child {
+    margin-top: 0
+}
+
+#markdown>:last-child {
+    margin-bottom: 0
+}
+
+#markdown h1,
+#markdown h2,
+#markdown h3,
+#markdown h4,
+#markdown h5,
+#markdown h6 {
+    margin-bottom: .5rem;
+    font-family: Roboto, sans-serif
+}
+
+#markdown h1 {
+    font-size: 2.25em;
+    line-height: 1.2
+}
+
+#markdown h2 {
+    font-size: 2em;
+    line-height: 1.2
+}
+
+#markdown h3 {
+    font-size: 1.75em;
+    line-height: 1.3
+}
+
+#markdown h4 {
+    font-size: 1.5em;
+    line-height: 1.3
+}
+
+#markdown h5 {
+    font-size: 1.25em;
+    line-height: 1.4
+}
+
+#markdown h6 {
+    font-size: 1.1em
+}
+
+#style-guide #markdown h6+hr {
+    margin-top: 1rem
+}
+
+#markdown p {
+    margin-bottom: 1.5rem;
+    font-size: 1.1em
+}
+
+@media (min-width:32em) {
+    #markdown p {
+        font-size: 1.25em
+    }
+}
+
+#markdown p img {
+    margin-bottom: 0
+}
+
+#markdown blockquote p {
+    margin-bottom: 0
+}
+
+#markdown a {
+    color: #000;
+    border-bottom: 2px solid #bbb;
+    -webkit-box-shadow: inset 0 -3px 0 #bbb;
+    box-shadow: inset 0 -3px 0 #bbb
+}
+
+#markdown hr {
+    height: 1px;
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    border: 0;
+    background-color: rgba(0, 0, 0, .1)
+}
+
+#markdown br {
+    display: none
+}
+
+#markdown img {
+    display: block;
+    margin-bottom: 1.5rem
+}
+
+#markdown img[src$="#full"] {
+    width: 100vw;
+    max-width: none
+}
+
+#markdown .flex-vid {
+    margin-bottom: 1.5rem
+}
+
+#markdown .flex-vid iframe {
+    display: block
+} */
+
+
+/* Qi Added End */
 
 /**
  * Icons
@@ -236,7 +391,6 @@ table {
         margin-left: 20px; }
         .site-nav .page-link:not(:last-child) {
           margin-right: 0; } }
-    }
 
 /**
  * Site footer
@@ -296,7 +450,7 @@ table {
  * Page content
  */
 .page-content {
-  padding: 30px 0;
+  padding: 0px 0;
   flex: 1; }
 
 .page-heading {
@@ -318,7 +472,7 @@ table {
 .post-link {
   display: block;
   padding-top: .5em;
-  font-size: 14px;
+  font-size: 18px;
  text-decoration: none}
 
 /**
@@ -335,26 +489,40 @@ table {
     .post-title {
       font-size: 24px; } }
 
-.post-content {
+#post-content {
+  margin-bottom: 30px;
+/*   Qi added */
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: column;
   flex-direction: column;
-  align-items: center;
-  margin-bottom: 30px; }
-  .post-content h2 {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;}
+
+/* Qi added ends */
+
+  #post-content h2 {
     font-size: 32px; }
+
+
     @media screen and (max-width: 800px) {
-      .post-content h2 {
+      #post-content h2 {
         font-size: 28px; } }
-  .post-content h3 {
+  #post-content h3 {
     font-size: 26px; }
     @media screen and (max-width: 800px) {
-      .post-content h3 {
+      #post-content h3 {
         font-size: 22px; } }
-  .post-content h4 {
+  #post-content h4 {
     font-size: 20px; }
     @media screen and (max-width: 800px) {
-      .post-content h4 {
-        font-size: 18px; } }
+      #post-content h4 {
+        font-size: 18px; } 
+
 
 .post-meta{
   color: #111111
@@ -528,7 +696,6 @@ table {
     #t6{color:#e08e2b}
   .p-name{display:none;}
   .footer-heading{display:none;} */
-
 
 
 .post__img {
