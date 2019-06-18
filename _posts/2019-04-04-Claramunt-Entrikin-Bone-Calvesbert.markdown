@@ -11,29 +11,35 @@ author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesber
   
 ![Puerto Rico](/puerto_rico_now/images/decision_model/pixel_gif.gif)
 
+<p>
 The devastation produced by Hurricane María was unprecedented and revealed the deep crisis, not only economical but also the physical, social and spatial vulnerabilities that place Puerto Rico in constant climate risk. The whole archipelago of Puerto Rico suffered from a lack of effective and immediate response to the catastrophe, with shared responsibilities from the local government to the Federal Emergency Management Agency (FEMA). The islands experienced full black-out for months, the death toll product of the hurricanes passing extended to thousands, health administration has decreased, and lack of social services are consistently threatening local capacity to respond from communities to institutions.
+</p>
 
 **By cross-referencing physical and social vulnerability the project highlights what are the areas at most risk in the event of another hurricane?**
 
 >"The volatile nature of economic and population activity generates the need to locate public policies decisions geographically even more relevant."
 
 <div style="padding:56.25% 0 0 0;position:relative;">
-  <iframe frameborder="0" class="juxtapose" width="2550" height="1299" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=9e7be2dc-9212-11e9-b9b8-0edaf8f81e27"
-   style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0">></iframe>
+  <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=9e7be2dc-9212-11e9-b9b8-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe>
 </div>
 
+<p>
 Before the hurricane, Puerto Rico had acquired new layers of complexity considering that the islands defaulted on their loans payments obligation, and instituted an ongoing and deep crisis. Now the territory is said to be responsible for the so-called public debt that amounts $74B. Approximately $24 billion is issued by municipalities and public corporations and $50 billion on pension liabilities of the $74 billion debt.
+</p>
 
 <div style="padding:56.25% 0 0 0;position:relative;">
   <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=bbabcf06-9213-11e9-b9b8-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe>
 </div>
 
-
+<p>
 Given that Puerto Rico is under a tight scenario by having a Lack of economic development Financial debt, Unprecedented disaster recovery process, Fiscal reconstruction and Financial debt the project explore the same question but at the municipality level. In order to have a better idea of the Island and to further understand the geography that we explored is important to highlight that Puerto Rico has Seventy-eight municipalities with various geographical conditions, from coastal to inland including Culebra and Vieques that are separate Islands. Therefore it is difficult to create a baseline for comparison since they vary not only in territory extension but also have diverse socio-economic conditions. 
+</p>
 
 **What municipalities in Puerto Rico are at most risk in the event of another hurricane?**
 
-Municipalities are a Second layer governance, and are subjected to “state”, and Federal laws of United States. In order to have a better idea of the Island and to further understand the geography that we explored is important to highlight that Puerto Rico has Seventy-eight municipalities with various geographical conditions, from coastal to inland including Culebra and Vieques that are separate Islands. Therefore it is difficult to create a baseline for comparison since they vary not only in territory extension but also have diverse socio-economic conditions. Yet, municipalities as localities, have become important arenas for decision-making, their role has had a pendulum effect during Puerto Rico's planning and management of the urban fabric marking their importance as a study unit. 
+<p>
+Municipalities are a Second layer governance, and are subjected to “state”, and Federal laws of United States. In order to have a better idea of the Island and to further understand the geography that we explored is important to highlight that Puerto Rico has Seventy-eight municipalities with various geographical conditions, from coastal to inland including Culebra and Vieques that are separate Islands. Therefore it is difficult to create a baseline for comparison since they vary not only in territory extension but also have diverse socio-economic conditions. Yet, municipalities as localities, have become important arenas for decision-making, their role has had a pendulum effect during Puerto Rico's planning and management of the urban fabric marking their importance as a study unit.
+</p>
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/munis_maria.jpg)
 
