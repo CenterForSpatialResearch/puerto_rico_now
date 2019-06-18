@@ -113,7 +113,6 @@ blockquote {
   padding-right: 30px;
   padding-top: 30px;
   padding-left: 30px;
-  align-content: center;
   }
   @media screen and (max-width: 800px) {
     .wrapper {
@@ -122,24 +121,7 @@ blockquote {
       padding-right: 15px;
       padding-left: 15px; }
     }
-    .img-left {
-      max-width: 100%;
-    }
-    .text-right {
-      max-width: 100%;
-      margin: auto auto 12 0;
-    }
-    .list-right {
-      max-width: 100%;
-      margin: auto auto 12 30;
-    }
   }
-
-.content-column {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
 
 /**
  * Clearfix
