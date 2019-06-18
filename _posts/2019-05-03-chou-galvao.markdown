@@ -11,8 +11,9 @@ author: "Richard Chou & Lorena Galvao"
 On September 17 of 2017, hurricane Maria struck the island of Puerto Rico, leaving everyone - rich and poor, and everywhere, urban and rural - on the island without electricity. Two months later, a vast part of the island was still left in the dark.
 Regardless of income, everyone suffered from system failure equally. Priority to restore power was given to urban centers, despite the fact that smaller rural villages were closer geographically to power plants. In total, it took up to 11 months for the island to fully recover its energy infrastructure.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=0988f550-6de3-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe></div>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=0988f550-6de3-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 *Source: Nasa Night Light July 2017 / November 2017*
+&nbsp;
 
 Those who could leave took refuge away from the island. About 6% of the population fled the island in face of Hurricane Maria. However, those who stayed experienced the impact of extended periods of outage. 
 
@@ -20,7 +21,6 @@ Those who could leave took refuge away from the island. About 6% of the populati
 *Source: VOZ*
 
 &nbsp;
-
 &nbsp;
 &nbsp;
 #### **The Push Towards Solar Energy** 
@@ -37,7 +37,6 @@ While a solar system has significant benefits, reducing high prices from importe
 
 &nbsp;
 &nbsp;
-
 &nbsp;
 #### **Identifying a Future Pattern of Access to Solar Electricity - Method** 
 
@@ -68,7 +67,7 @@ Using a method of ***Bivariate Choropleth Maps***, we study the relationship bet
 
 ![Bivariant Diagram 03](/puerto_rico_now/images/outage/method_matrix-02.png)
 
-1. *Threshold of system feasibility and affordability* 
+2. *Threshold of system feasibility and affordability* 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://rchou81.github.io/CU_Bivariance_Map/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
@@ -76,7 +75,6 @@ Using a method of ***Bivariate Choropleth Maps***, we study the relationship bet
 
 &nbsp;
 &nbsp;
-
 &nbsp;
 #### **Identifying a Future Pattern of Access to Solar Electricity - Conclusion** 
 
@@ -87,7 +85,7 @@ Using a method of ***Bivariate Choropleth Maps***, we study the relationship bet
 
 &nbsp;
 &nbsp;
-
+&nbsp;
 #### **A NEW SOLAR ENERGY LANDSCAPE**
 
 Access to solar energy is conditional to both affordability and sun incidence, with access varying widely between adjacent neighborhoods. As one zoom's in the capital San Juan, it is easy to notice these conditions.
@@ -98,7 +96,7 @@ Access to solar energy is conditional to both affordability and sun incidence, w
 
 ![MilladeOro_Zoom](/puerto_rico_now/images/outage/Zoom_SanJuan_MartinPena2-01.jpg)
 
-1. *Milla de Oro, affluent business district of San Juan does not have enough sun capacity (DNI) to install a solar system, while Caño Martin Peña with considerable less income levels have limited access to a micro-grid.*
+2. *Milla de Oro, affluent business district of San Juan does not have enough sun capacity (DNI) to install a solar system, while Caño Martin Peña with considerable less income levels have limited access to a micro-grid.*
 
 
 While many see solar as the future of Puerto Rico, over **64%** of households cannot afford these micro-grids, while **34%** will have limited access needing to invest around ⅓ of their household income into solar. A very few **1.6%** of the island will configure the new landscape of those who will likely have access to immediate electricity in face future power outages.
@@ -107,11 +105,14 @@ While many see solar as the future of Puerto Rico, over **64%** of households ca
 
 With this latent scenario in which solar energy micro-grids are claimed to be the future of Puerto Rico, it is important to develop a well round implementation plan, that build on both government policies and community organization. If only dependent on current policies and international private companies, solar will not be the answer to Puerto Rico’s energy crises, but it will, in fact, further spacial and social inequality. 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=84d80374-6d5a-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe></div>
+
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=84d80374-6d5a-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+1. Predicted Night Lights After Future Hurricanes
+
 
 &nbsp;
 &nbsp;
-
 &nbsp;
 #### **Call for Action**
 
