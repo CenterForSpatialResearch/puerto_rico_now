@@ -11,7 +11,7 @@ author: "Richard Chou & Lorena Galvao"
 On September 17 of 2017, hurricane Maria struck the island of Puerto Rico, leaving everyone - rich and poor, and everywhere, urban and rural - on the island without electricity. Two months later, a vast part of the island was still left in the dark.
 Regardless of income, everyone suffered from system failure equally. Priority to restore power was given to urban centers, despite the fact that smaller rural villages were closer geographically to power plants. In total, it took up to 11 months for the island to fully recover its energy infrastructure.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=0988f550-6de3-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div style="padding:0% 0 0 0;position:relative;"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=0988f550-6de3-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 *Source: Nasa Night Light July 2017 / November 2017*
 &nbsp;
 
@@ -107,7 +107,7 @@ With this latent scenario in which solar energy micro-grids are claimed to be th
 
 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=84d80374-6d5a-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div style="padding:0% 0 0 0;position:relative;"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=84d80374-6d5a-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 1. Predicted Night Lights After Future Hurricanes
 
 
@@ -126,7 +126,10 @@ It is imperative that both government and communities build on strategies to imp
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://rchou81.github.io/CU_Final_Slider_Map/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
-References:
+&nbsp;
+&nbsp;
+&nbsp;
+#### **References:**
 1. Demand for Solar-Storage Systems Explodes in Puerto Rico - https://spectrum.ieee.org/energywise/energy/renewables/demand-for-solarstorage-systems-explodes-in-puerto-rico
 
 1. 0BBC News, “Why Hurricane Maria hit Puerto Rico so hard”, BBC, 26, September 2017. 
