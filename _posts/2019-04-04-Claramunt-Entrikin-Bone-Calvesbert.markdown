@@ -20,7 +20,7 @@ The devastation produced by Hurricane María was unprecedented and revealed the 
 >"The volatile nature of economic and population activity generates the need to locate public policies decisions geographically even more relevant."
 
 <div style="padding:56.25% 0 0 0;position:relative;">
-  <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=9e7be2dc-9212-11e9-b9b8-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe>
+  <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=9e7be2dc-9212-11e9-b9b8-0edaf8f81e27"        style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe>
 </div>
 
 <p>
