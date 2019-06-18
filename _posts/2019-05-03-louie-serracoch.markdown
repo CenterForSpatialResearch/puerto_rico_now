@@ -1,11 +1,12 @@
 ---
 layout: post
 date:   2019-05-03
-image: "/puerto_rico_now/images/recovery/mapping-agency-thumbnail.gif"
-title:  "Community Agency through Mapping: Decision Making Tools for Puerto Ricans"
+image: "/puerto_rico_now/images/recovery/conflict-resolution-thumbnail.png"
+title:  "Conflict Resolution through Mapping"
 author: "Ashley Louie & Gloria Serra Coch"
 ---
-![Agency Through Mapping](/puerto_rico_now/images/recovery/agency_through_mapping.png)
+<!-- ![Agency Through Mapping](/puerto_rico_now/images/recovery/agency_through_mapping.png) -->
+<img src="/puerto_rico_now/images/recovery/decision-model-diagram.png" alt="Agency Through Mapping" class="full-img">
 
 #### **Puerto Rico Today**
 **Debt and Disaster**
@@ -20,20 +21,20 @@ In typical planning methodologies, decision models or Multicriteria Decision Ana
 
 The use and implementation of decision models tend to have underlying assumptions, such as their capacity of ensuring consistency and fairness in a process where  “all stakeholders and values weight in toward making the best decisions, and applying them to the right places” and the idea that “the best decisions are based on solid, scientific data rather than emotions or politics.” Because this methodology relies on mathematics, it implies that the process and data are “all we need for objectivity and objectivity may be all we need for fairness” (Meisterlin and Newman).
 
-However, this poses the question:
-**The best decisions for whom?**
+<p class="text">However, this poses the question:
+**The best decisions for whom?**</p>
 
 Despite the logical method, data is biased and weighted priorities can favor different outcomes. Decision models should not be understood as objective stand-alone tools, but as a system to weigh the priorities of stakeholders. The potential to represent different values can assist collaborative negotiation and consensus building processes, “where multiple communities with differing priorities must negotiate political (planning) processes for public decision making, data-driven decision support tools have been used to help visualize and describe alternative scenarios and outcomes.” (Meisterlin)
 
-![Decision Model](/puerto_rico_now/images/recovery/DecisionModel.jpg)
+<!-- ![Decision Model](/puerto_rico_now/images/recovery/DecisionModel.jpg) -->
 
 If we can teach community leaders how to read into the assumptions of maps created through MCDA and use the tool to promote their own values, we can equip them with the knowledge and tools to defend their own priorities. Our goal is to empower communities to use the decision model as a participatory tool for advocacy and negotiation.
 
 **Decision Mapping for Puerto Ricans**
 This project is an empowering data and mapping literacy initiative to offer a new tool to a community that is ready to use it to push for their own needs with two main objectives. Firstly, decision based maps can be used to *document community values* by spatially recording information about Puerto Rican priorities in a map to imagine a future for the island. Secondly, these maps can be used as an *advocacy tool for local leaders to communicate the needs of their communities* within the language of planning ‘experts’ to rationally stake a claim for areas that should be prioritized for improvements.
 
-**Balancing Values**
-We pose the decision model methodology with the following objectives:
+<p class="text">**Balancing Values**</p>
+<p class="text">We pose the decision model methodology with the following objectives:</p>
   1. All Puerto Ricans have the right to live in a community with access to adequate resources and basic services.
   2. All communities should be restored and resilient to future disaster risks.
   3. Recovery investment should be allocated to provide resources to strengthen the economy.
@@ -41,86 +42,92 @@ We pose the decision model methodology with the following objectives:
 #### **Conflicting Interests**
 In order to demonstrate potentially conflicting stakeholder values, which can conclude in different visions for the future of Puerto Rico, we’ve created three fictional characters based on the narratives of perspectives and experiences that Puerto Ricans can relate to. Although fictional and exaggerated, the characterization of stakeholders is useful to illustrate how differences in priorities affect the final decision output.
 
-#### **The Stakeholders**
-<img src="/puerto_rico_now/images/recovery/Valeria.png" alt="Valeria" width="300" align="center">
+#### **Local Residents**
 
-Name: **Valeria**
+<p class="text">Representative Group: **grassroots community local leader**</p>
 
-Representative Group: **grassroots community local leader**
-
-Priorities: **long-term well-being of the community**
-  - Prioritize underserved communities
-  - Long-term community resilience
-  - Access to infrastructure services
-  - Build robust economy
+<p class="text">Priorities: **long-term well-being of the community**</p>
+<ul class="list">
+  <li>Prioritize underserved communities</li>
+  <li>Long-term community resilience</li>
+  <li>Access to infrastructure services</li>
+  <li>Build robust economy</li>
+</ul>
 
 Valeria used to teach at José Meléndez Ayala school, in Boquillas, but after its closure, she had to relocate. However, she feels lucky because she still has a job, not like most of her former colleagues. Her daughter, Tania, and her have to wake up very early every morning because the new school is much further. The classes are overcrowded and there are rats in the cafe but they are lucky because Tania is still able to go to school and they have a salary to support them. Valeria spends the day working at the school and the night in community meetings, where she works with other people in the village to find ways to provide what the government won’t and the community still needs. Her days are long and she often things about quitting, the badly paid job at the school or the fight, but she knows that both the kids, her extended family and the community need her.
 
-Testimonials:
+<p class="text">Testimonials:</p>
 - *“This is a moment of opportunity, even if we are the most hurt by the hurricane we can use this to change long term issues that have been affecting Puerto Rico before this” 
 - “We want to ensure access to underserved priorities”
 - “Our concerns are longer term than the hurricane, we want to address the debt crisis and how it has affected the public services for the community”
 - “Tania Ginés was fighting for 10 months to avoid the closure of her daughter’s public school. In the end, she lost the battle. Now, the children need to go to a further school, where there are more than 40 students per class, rats in the cafeteria, no therapists for special education children” ”
 - Tania: “It is like I say, I mean, I didn’t borrow, my children did not borrow!”* [9]
 
-<img src="/puerto_rico_now/images/recovery/CommunityLeader_layers.jpg" alt="Community Leader Data Layers Mapped" width="300" float="right">
+<p class="img-left"><img src="/puerto_rico_now/images/recovery/CommunityLeader_layers.jpg" alt="Community Leader Data Layers Mapped"></p>
 
-Data Layers Mapped:
-  - Population density
-  - Community services
-  - Health services
-  - Education services
+<p class="text-right">Data Layers Mapped:</p>
+<ul class="list-right">
+  <li>Population density</li>
+  <li>Community services</li>
+  <li>Health services</li>
+  <li>Education services</li>
+</ul>
 
-![Community Leader Decision Model](/puerto_rico_now/images/recovery/CommunityLeader_maps.jpg)
+<img src="/puerto_rico_now/images/recovery/CommunityLeader_maps.jpg" alt="Community Leader Decision Model" clear="both">
 
-<img src="/puerto_rico_now/images/recovery/Maria.png" alt="María" width="300" align="center">
+#### **Recovery & Resilience**
 
-Name: **María**
+<p class="text">Representative Group: **middle class from Puerto Rico; some have emigrated to the mainland but still have close ties to the island.**</p>
 
-Representative Group: **middle class from Puerto Rico; some have emigrated to the mainland but still have close ties to the island.**
-
-Priorities: **recovery and resilience**
-  - Ensure the resilience of developed areas
-  - Recover from Hurricane Maria damage 
-  - Reduce risk from future threats (i.e. hurricanes, flood inundation, landslides, etc.)
+<p class="text">Priorities: **recovery and resilience**</p>
+<ul class="list">
+  <li>Ensure the resilience of developed areas</li>
+  <li>Recover from Hurricane Maria damage</li>
+  <li>Reduce risk from future threats (i.e. hurricanes, flood inundation, landslides, etc.)</li>
+</ul>
 
 María used to teach at Universidad de Puerto Rico in Mayaguez, but she got nominated for research as marine biologist? and was offered a position in UCLA that a young academic like her could not turn down. Although she spends most of her time in Los Angeles  her closest friends are still in Puerto Rico and she travels there very often. The news of the hurricane highly strook her and losing contact of her loved ones made her realized how precious they were for her. In a similar way, seeing the island destroyed awakened nostalgic feelings of her life there, driving her to get more involved in its recovery.
 
-Testimonials:
+<p class="text">Testimonials:</p>
 - *“This was a terrible catastrophe for the island, we want to ensure that a disaster like that never happens again”
 - “We want to participate in rebuilding the island after the hurricane”
 - “It was the 70’s. Teresa was a young mother with two children an a house in the suburbs. She was a pharmaceutical chemist. The family had two sources of income: hers and her husband’s. They were the typical Puerto Rican middle class family.”* [10]
 
-<img src="/puerto_rico_now/images/recovery/RecoveryResilience_layers.jpg" alt="Recovery & Resilience Data Layers Mapped" width="300" float="right">
+<p class="img-left"><img src="/puerto_rico_now/images/recovery/RecoveryResilience_layers.jpg" alt="Recovery & Resilience Data Layers Mapped" width="300" float="right"></p>
 
-Data Layers Mapped:
-  - Population density
-  - Days without power
-  - Flood risk zones
-  - Hurricane Maria damage
+<p class="text-right">Data Layers Mapped:</p>
+<ul class="list-right">
+  <li>Population density</li>
+  <li>Days without power</li>
+  <li>Flood risk zones</li>
+  <li>Hurricane Maria damage</li>
+</ul>
 
 ![Recovery & Resilience Decision Model](/puerto_rico_now/images/recovery/RecoveryResilience_maps.jpg)
 
-<img src="/puerto_rico_now/images/recovery/Bill.png" alt="Bill" width="300" align="center">
+#### **External Investors**
 
-Name: **Bill**
+<p class="text">Representative Group: **real estate speculators, finance that funds them and 1% of Puerto Rican society that supports this development**</p>
 
-Representative Group: **real estate speculators, finance that funds them and 1% of Puerto Rican society that supports this development**
+<p class="text">Priorities: **attracting capital for the island and develop areas of the island in a more profitable way**</p>
+<ul class="list">
+  <li>Improve areas with high economic growth potential</li>
+  <li>Provide resources to resort and leisure developments</li>
+  <li>Beautify tourist destination areas for profitability</li>
 
-Priorities: **attracting capital for the island and develop areas of the island in a more profitable way**
-  - Improve areas with high economic growth potential
-  - Provide resources to resort and leisure developments
-  - Beautify tourist destination areas for profitability
+</ul>
 
 Bill runs a real estate company, like his father, Bill Sr., did before him. He considers himself a true New Yorker and loves to stare at the lights of the city that never sleeps from the back of the car after a long work day downtown. His father could not understand the drive of the city but Bill keeps imagining how he could change his mind by showing him the views from his office. He has been thinking about him lately due to a big investment that his firm is in the process of making. His father always told him that disasters are profitable for those who know how to make profit and that’s what he is going to do in Puerto Rico. The hurricane has not only clear extensions of land for development but also attracted the attention of investors that see it as an opportunity to redraw the profile of the place for a more profitable scenario: tourism. Bill knew that they had to move fast to secure their share of the cake but, after partnering with a local business leaders, he know he has more than the foot on the door.
 
-<img src="/puerto_rico_now/images/recovery/ExternalInvestor_layers.jpg" alt="External Investor Data Layers Mapped" width="300" float="right">
+<p class="img-left"><img src="/puerto_rico_now/images/recovery/ExternalInvestor_layers.jpg" alt="External Investor Data Layers Mapped" width="300" float="right"></p>
 
-Data Layers Mapped:
-  - Hotels
-  - Outdoor leisure
-  - Urban and historic tourist destinations
-  - Development areas
+<p class="text-right">Data Layers Mapped:</p>
+<ul class="list-right">
+  <li>Hotels</li>
+  <li>Outdoor leisure</li>
+  <li>Urban and historic tourist destinations</li>
+  <li>Development areas</li>
+</ul>
 
 ![External Investor Decision Model](/puerto_rico_now/images/recovery/ExternalInvestor_maps.jpg)
 
@@ -149,7 +156,7 @@ Breaking down the mapped decision model allows us to relate to the values of eac
 
 --
 
-**Data Sources**
+<p class="text">**Data Sources**</p>
 
 1. Annual Population Estimates for Puerto Rico by Municipality. [shapefile] . Planning board. April 2018
 2. Buildings. [shapefile] HotOSM via Humanitarian Data Exchange. 2018
@@ -161,7 +168,7 @@ Breaking down the mapped decision model allows us to relate to the values of eac
 8. Map of soil classification under the Land Use Plan (2015). [shapefile] Planning Board, Office of the Governor, Commonwealth of Puerto Rico. Oct 2017
 
 
-**References**
+<p class="text">**References**</p>
 
 1. “Hurricane Maria.” FEMA, U.S. Department of Homeland Security. March 14, 2019. <https://www.fema.gov/hurricane-maria>.
 2. Bannan, Natasha L. Puerto Rico’s Odious Debt: The Economic Crisis of Colonialism, 19 CUNY L. Rev. 287 (2016). <https://academicworks.cuny.edu/clr/vol19/iss2/5/>.
