@@ -14,7 +14,7 @@ Regardless of income, everyone suffered from system failure equally. Priority to
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=0988f550-6de3-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 *Source: Nasa Night Light July 2017 / November 2017*
 &nbsp;
-
+&nbsp;
 Those who could leave took refuge away from the island. About 6% of the population fled the island in face of Hurricane Maria. However, those who stayed experienced the impact of extended periods of outage. 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/334064707?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>  
@@ -51,10 +51,12 @@ While income level plays a role in determining who can afford a solar micro-grid
 ![Income Map](/puerto_rico_now/images/outage/income_map.png)
 Data Source: US Census 2010
 &nbsp;
+&nbsp;
+
 **Solar Potential - Direct Normal Irradiance (DNI) Map** 
 ![DNI Map](/puerto_rico_now/images/outage/dni_map.png)
 Data Source: National Solar Radiation Database 
-
+&nbsp;
 &nbsp;
 Using a method of ***Bivariate Choropleth Maps***, we study the relationship between **Median Household Income** (in the past 12 months) and the **Solar Potential** measured by the **Direct Normal Irradiance** (DNI) data to determine who will, most likely, have access to electricity in face of future storms  
 
