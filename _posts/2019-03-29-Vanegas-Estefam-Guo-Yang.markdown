@@ -8,20 +8,6 @@ author: "Aline Faiwichow Estefam, Esteban Vanegas Jr, Ge Guo, Qi Yang"
 
 <br/><br/>
 
-
-<img src="/puerto_rico_now/images/future_scenarios/concept_image.png" align=right width=90>
-
-Markdown presentation writer, powered by Electron.
-Markdown presentation writer, powered by Electron.
-Markdown presentation writer, powered by Electron.
-Markdown presentation writer, powered by Electron.
-Markdown presentation writer, powered by Electron. 
-
-
-<img style="float: right;" src="/puerto_rico_now/images/future_scenarios/concept_photo.png">
-Some text or what so ever
-
-
 <img align="left" src="/puerto_rico_now/images/future_scenarios/concept_photo.png">
 
 ![concept_image](/puerto_rico_now/images/future_scenarios/concept_photo.png#full)    
@@ -62,9 +48,15 @@ With a focus on development and investment into the different municipalities of 
 
   
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo99aj902l51fmbd2lxl2mp.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+
+![LegendDecision](/puerto_rico_now/images/future_scenarios/Fundingpriority.png) 
+
 *Tourism Scenario Decision Making Map*
   
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo8ys5p066h1fpln1cxlrw6.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+
+![LegendDecision](/puerto_rico_now/images/future_scenarios/Fundingpriority.png) 
+
 *Lantrust Scenario Decision Making Map*
   
 <br/><br/>  
@@ -88,6 +80,9 @@ Puerto Rico has long been a source for wealth extraction under colonial powers, 
 Our first scenario imagines a future in which such figures have developed Puerto Rico into a lucrative operation that operates with few local employees and is exempt from significant municipal, territorial, and federal taxes. Tourism--already a major part of Puerto Rico’s economy--has grown in scale to become the dominant industry on the island, providing luxury as well as discount services to tourists of all classes. Tax-sheltered business developments employ a small percentage of Puerto Ricans with sufficient education and wealth to make a relatively easy transition into the tech and finance sectors, while the majority of the population are employed in the service sector. Were such a scenario to be realized, we predict the greatest developments and their immediate consequences would most likely occur in the municipalities shown in dark red in the decision map below.
 
 <div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo99aj902l51fmbd2lxl2mp.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+
+![LegendDecision](/puerto_rico_now/images/future_scenarios/Fundingpriority.png) 
+
 *Tourism Scenario Decision Making Map*
   
 For this scenario, we distributed the $18.5 Billion relief aid package appropriated by Congress for the recovery of Puerto Rico, putting ourselves in the position of elected officials of the government of Puerto Rico who favor the interests of developers. Using the above decision map, the aid was distributed according to what are predicted to be the most lucrative municipalities for American developers. Puerto Rico has the third-largest income inequality worldwide, and in keeping with its current distribution of income, the most profitable 10% of municipalities received 75% of the aid. These funds, it is predicted, could be used not merely to rebuild but to encourage stakeholders in large-scale Puerto Rican tourism and business operations to expand and improve upon their developments. The distribution of this aid among the top 10% of municipalities identified as profitable for continued development is shown below.
