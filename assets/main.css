@@ -112,13 +112,34 @@ blockquote {
   margin-left: auto;
   padding-right: 30px;
   padding-top: 30px;
-  padding-left: 30px; }
+  padding-left: 30px;
+  align-content: center;
+  }
   @media screen and (max-width: 800px) {
     .wrapper {
       max-width: -webkit-calc(800px - (30px));
       max-width: calc(800px - (30px));
       padding-right: 15px;
-      padding-left: 15px; } }
+      padding-left: 15px; }
+    }
+    .img-left {
+      max-width: 100%;
+    }
+    .text-right {
+      max-width: 100%;
+      margin: auto auto 12 0;
+    }
+    .list-right {
+      max-width: 100%;
+      margin: auto auto 12 30;
+    }
+  }
+
+.content-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
 /**
  * Clearfix
@@ -233,6 +254,7 @@ table {
         margin-left: 20px; }
         .site-nav .page-link:not(:last-child) {
           margin-right: 0; } }
+    }
 
 /**
  * Site footer
@@ -314,7 +336,7 @@ table {
 .post-link {
   display: block;
   padding-top: .5em;
-  font-size: 18px;
+  font-size: 14px;
  text-decoration: none}
 
 /**
@@ -332,6 +354,9 @@ table {
       font-size: 24px; } }
 
 .post-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   margin-bottom: 30px; }
   .post-content h2 {
     font-size: 32px; }
@@ -348,6 +373,13 @@ table {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
+
+.post-content > p:not(p) > .full-image, .post-content > h4, .post-content > p > strong, .post-content > p.text, .post-content > p.img-left, .post-content > p:not(p) > p.text-right {
+ margin: auto auto 12 0;
+}
+.post-content > ul:not(ul) > .list-right, .post-content > ul.list {
+  margin: auto auto 12 30;
+}
 
 .post-meta{
   color: #111111
@@ -538,6 +570,66 @@ table {
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%)
+}
+
+.full-img {
+  max-width:none;
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100vw;
+}
+
+.img-left {
+  max-width: 50%;
+  position: relative;
+  display: block;
+}
+
+.text-right {
+  max-width: 50%;
+  position: relative;
+  display: block;
+  margin: -200 auto 12 0;
+  left: 50%;
+}
+
+.list-right {
+  max-width: 50%;
+  position: relative;
+  display: block;
+  margin: auto auto 112 30;
+  left: 50%;
+}
+
+img.float-left {
+  display:inline;
+  float:left;
+  margin: 5 15 5 0;
+  max-width: 47%;
+}
+
+@media screen and (max-width: 800px) {
+  .img-left {
+    max-width: 100%;
+  }
+  .text-right {
+    max-width: 100%;
+    margin: auto auto 12 0;
+    left: 0px;
+  }
+  .list-right {
+    max-width: 100%;
+    margin: auto auto 12 30;
+    left: 0px;
+  }
+}
+
+.iframe-column {
+  padding:60% 0 0 0;
+  position:relative;
+  width:100%;
 }
 
 /* Qi added */
