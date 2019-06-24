@@ -539,3 +539,11 @@ table {
     left: 50%;
     transform: translateX(-50%) translateY(-50%)
 }
+
+/* Qi added */
+
+.iframe-full {
+  padding: 60% 0 0 0;
+  position: relative;
+  width: 100vw;
+}
