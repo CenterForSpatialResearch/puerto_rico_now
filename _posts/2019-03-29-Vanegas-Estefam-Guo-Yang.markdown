@@ -84,6 +84,8 @@ Our first scenario imagines a future in which such figures have developed Puerto
 ![LegendDecision](/puerto_rico_now/images/future_scenarios/Fundingpriority.png) 
 
 *Tourism Scenario Decision Making Map*
+
+<br/><br/>
   
 For this scenario, we distributed the $18.5 Billion relief aid package appropriated by Congress for the recovery of Puerto Rico, putting ourselves in the position of elected officials of the government of Puerto Rico who favor the interests of developers. Using the above decision map, the aid was distributed according to what are predicted to be the most lucrative municipalities for American developers. Puerto Rico has the third-largest income inequality worldwide, and in keeping with its current distribution of income, the most profitable 10% of municipalities received 75% of the aid. These funds, it is predicted, could be used not merely to rebuild but to encourage stakeholders in large-scale Puerto Rican tourism and business operations to expand and improve upon their developments. The distribution of this aid among the top 10% of municipalities identified as profitable for continued development is shown below.
   
