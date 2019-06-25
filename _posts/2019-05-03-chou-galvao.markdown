@@ -11,13 +11,13 @@ author: "Richard Chou & Lorena Galvao"
 On September 17 of 2017, hurricane Maria struck the island of Puerto Rico, leaving everyone - rich and poor, and everywhere, urban and rural - on the island without electricity. Two months later, a vast part of the island was still left in the dark.
 Regardless of income, everyone suffered from system failure equally. Priority to restore power was given to urban centers, despite the fact that smaller rural villages were closer geographically to power plants. In total, it took up to 11 months for the island to fully recover its energy infrastructure.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=0988f550-6de3-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" class="iframe-column"></iframe></div>
+<div class="iframe-column"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=0988f550-6de3-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" ></iframe></div>
 *Source: Nasa Night Light July 2017 / November 2017*
 &nbsp;
 &nbsp;
 Those who could leave took refuge away from the island. About 6% of the population fled the island in face of Hurricane Maria. However, those who stayed experienced the impact of extended periods of outage. 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/334064707?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" class="iframe-column"></iframe></div>  
+<div class="iframe-column"><iframe src="https://player.vimeo.com/video/334064707?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" ></iframe></div>  
 *Source: VOZ*
 
 &nbsp;
@@ -31,7 +31,7 @@ The complete failure of the energy infrastructure combined with the lack of gove
 
 While a solar system has significant benefits, reducing high prices from imported fossil fuels, as well as building on resilience from extreme weather and vulnerable transmission infrastructure, the solar system technology is still out of the reach of the majority of Puerto Ricans. The current prices to install a household solar system range around **20.000 - 30.000 USD** (quotes from for 3 to 5 kilowatts of photovoltaic (PV) capacity, with around 10 kilowatt-hours of usable storage¹), as foreign private companies such as *Tesla* and *Sunnova* invade Puerto Rican territory. 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/334064869?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" class="iframe-column"></iframe></div>  
+<div class="iframe-column"><iframe src="https://player.vimeo.com/video/334064869?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" ></iframe></div>  
 *Source: QUARTZ
 
 
@@ -71,7 +71,7 @@ Using a method of ***Bivariate Choropleth Maps***, we study the relationship bet
 
 2. *Threshold of system feasibility and affordability* 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://rchou81.github.io/CU_Bivariance_Map/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" class="iframe-full"></iframe></div>
+<div class="iframe-full"><iframe src="https://rchou81.github.io/CU_Bivariance_Map/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" ></iframe></div>
 
 ![Matrix_Percentage](/puerto_rico_now/images/outage/matrix_percentage.png)
 
@@ -109,7 +109,7 @@ With this latent scenario in which solar energy micro-grids are claimed to be th
 
 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=84d80374-6d5a-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" class="iframe-column"></iframe></div>
+<div class="iframe-column"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=84d80374-6d5a-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" ></iframe></div>
 1. Predicted Night Lights After Future Hurricanes
 
 
@@ -126,7 +126,7 @@ Our call for action builds on a two-fold strategy.
 
 It is imperative that both government and communities build on strategies to implement Solar energy in a distributed and equitable way ensuring a resilient energy landscape for Puerto Rico.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://rchou81.github.io/CU_Final_Slider_Map/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" class="iframe-full"></iframe></div>
+<div class="iframe-full"><iframe src="https://rchou81.github.io/CU_Final_Slider_Map/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0""></iframe></div>
 
 &nbsp;
 &nbsp;
