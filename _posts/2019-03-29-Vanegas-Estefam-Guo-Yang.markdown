@@ -47,13 +47,13 @@ We understand, of course, that these are two extremes on a broad spectrum that i
 With a focus on development and investment into the different municipalities of Puerto Rico, we attempted to uncover which municipalities will receive the greatest investment under two different scenarios that predict the island’s future under vastly different conditions. For our first scenario, we considered which municipalities are likely to receive the greatest dollar amount of development if current trends that enable predatory enterprises to flourish grows unchecked. Our second scenario considers those which have seen the greatest negative impact from such destructive developments, and visualizes a future in which these municipalities receive the greatest funding to restructure their economies, provide basic goods and services, and promote a sustainable quality of life for residents. The resulting maps showing both of these areas are visualized below.
 
   
-<div class="iframe-full"><iframe src="https://yqjim111.github.io/CU_tourismdecision/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div class="iframe-column"><iframe src="https://yqjim111.github.io/CU_tourismdecision/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 ![LegendDecision](/puerto_rico_now/images/future_scenarios/Fundingpriority.png) 
 
 *Tourism Scenario Decision Making Map*
   
-<div class="iframe-full"><iframe src="https://yqjim111.github.io/CU_landtrustdecision/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div class="iframe-column"><iframe src="https://yqjim111.github.io/CU_landtrustdecision/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 ![LegendDecision](/puerto_rico_now/images/future_scenarios/Fundingpriority.png) 
 
@@ -79,7 +79,7 @@ Puerto Rico has long been a source for wealth extraction under colonial powers, 
 
 Our first scenario imagines a future in which such figures have developed Puerto Rico into a lucrative operation that operates with few local employees and is exempt from significant municipal, territorial, and federal taxes. Tourism--already a major part of Puerto Rico’s economy--has grown in scale to become the dominant industry on the island, providing luxury as well as discount services to tourists of all classes. Tax-sheltered business developments employ a small percentage of Puerto Ricans with sufficient education and wealth to make a relatively easy transition into the tech and finance sectors, while the majority of the population are employed in the service sector. Were such a scenario to be realized, we predict the greatest developments and their immediate consequences would most likely occur in the municipalities shown in dark red in the decision map below.
 
-<div class="iframe-column"><iframe src="https://yqjim111.github.io/CU_tourismdecision/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div class="iframe-full"><iframe src="https://yqjim111.github.io/CU_tourismdecision/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 ![LegendDecision](/puerto_rico_now/images/future_scenarios/Fundingpriority.png) 
 
@@ -116,7 +116,7 @@ Why invest in Puerto Rico? As long as the capital we use to develop originates i
 
 Puerto Rico does not, by any means, have to follow this narrative. Consider that Congress has appropriated $18.5 billion in hurricane relief aid, (a previous $1.5 billion was approved for spending back in February, and so is not included in our analysis). Additionally, some 23.8% of Puerto Rican debt has recently been argued to be unconstitutional. Combining potential disaster relief aid and forgiven debt leaves the government of Puerto Rico in a significantly better financial position to provide for its residents in reconstruction efforts. Our second scenario imagines that these funds are invested in the municipalities which have seen the greatest negative impact from the predatory enterprises outlined in the previous scenario, with the goal of restructuring their economies, providing basic goods and services, and promoting a sustainable quality of life for residents. Should this scenario be realized, the municipalities which we predict would see the greatest aid invested to meet these needs are shown in dark red in the decision map below. 
   
-<div class="iframe-column"><iframe src="https://yqjim111.github.io/CU_landtrustdecision/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div class="iframe-full"><iframe src="https://yqjim111.github.io/CU_landtrustdecision/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 ![LegendDecision](/puerto_rico_now/images/future_scenarios/Fundingpriority.png) 
 
