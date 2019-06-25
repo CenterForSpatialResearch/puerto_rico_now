@@ -48,13 +48,13 @@ While income level plays a role in determining who can afford a solar micro-grid
 
 
 **Income Map**
-![Income Map](/puerto_rico_now/images/outage/income_map.png)
+<img src="/puerto_rico_now/images/outage/income_map.png" alt="Income Map" class="full-img">
 Data Source: US Census 2010
 &nbsp;
 &nbsp;
 
 **Solar Potential - Direct Normal Irradiance (DNI) Map** 
-![DNI Map](/puerto_rico_now/images/outage/dni_map.png)
+<img src="/puerto_rico_now/images/outage/dni_map.png" alt="Solar Potential Map" class="full-img">
 Data Source: National Solar Radiation Database 
 &nbsp;
 &nbsp;
@@ -126,7 +126,7 @@ Our call for action builds on a two-fold strategy.
 
 It is imperative that both government and communities build on strategies to implement Solar energy in a distributed and equitable way ensuring a resilient energy landscape for Puerto Rico.
 
-<div class="iframe-full"><iframe src="https://rchou81.github.io/CU_Final_Slider_Map/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0""></iframe></div>
+<div class="iframe-full"><iframe src="https://rchou81.github.io/CU_Final_Slider_Map/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 &nbsp;
 &nbsp;
