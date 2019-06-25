@@ -127,7 +127,7 @@ Bill runs a real estate company, like his father, Bill Sr., did before him. He c
   <li>Development areas</li>
 </ul>
 
-<div class="iframe=full"<iframe src="https://ashsicle.github.io/conflict_resolution/external_investors.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div class="iframe-full"><iframe src="https://ashsicle.github.io/conflict_resolution/external_investors.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 #### **Weighing Stakeholder Values**
 ![Puerto Rico Decision Model](/puerto_rico_now/images/recovery/DecisionModel2.jpg)
