@@ -48,17 +48,22 @@ While income level plays a role in determining who can afford a solar micro-grid
 
 
 **Income Map**
+&nbsp;
 <img src="/puerto_rico_now/images/outage/income_map.png" alt="Income Map" class="full-img">
+&nbsp;
 Data Source: US Census 2010
 &nbsp;
 &nbsp;
 
 **Solar Potential - Direct Normal Irradiance (DNI) Map** 
+&nbsp;
 <img src="/puerto_rico_now/images/outage/dni_map.png" alt="Solar Potential Map" class="full-img">
+&nbsp;
 Data Source: National Solar Radiation Database 
 &nbsp;
 &nbsp;
-Using a method of ***Bivariate Choropleth Maps***, we study the relationship between **Median Household Income** (in the past 12 months) and the **Solar Potential** measured by the **Direct Normal Irradiance** (DNI) data to determine who will, most likely, have access to electricity in face of future storms  
+
+ Using a method of ***Bivariate Choropleth Maps***, we study the relationship between **Median Household Income** (in the past 12 months) and the **Solar Potential** measured by the **Direct Normal Irradiance** (DNI) data to determine who will, most likely, have access to electricity in face of future storms  
 
 ![Bivariant Diagram 02](/puerto_rico_now/images/outage/method_matrix-01.png)
 
