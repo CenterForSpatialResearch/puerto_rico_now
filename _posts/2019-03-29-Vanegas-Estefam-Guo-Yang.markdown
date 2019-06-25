@@ -95,6 +95,8 @@ We began our investigation by imagining ourselves in the role of someone who pos
 
 ![Tourism Layer Breakdown](/puerto_rico_now/images/future_scenarios/tourism_breakdown.png)  
 
+<br/><br/>
+
 Most entrepreneurs, investors, and developers wish to see the greatest return on an investment with as little risk as possible, and look to examples of lucrative operations already turning a profit. Tourism should immediately come to mind. In spite of the destruction of Hurricanes Maria and Irma, the number of tourists lodging in hotels across the island was up to a  record-breaking 1,766,578 guests in 2018. This makes building a hotel, resort, spa, or attraction in an expensive area frequented by high-end visitors a good location for a profitable venture. Below are shown the locations of existing hotels, ranked by price, where we expect to see proportional future development. 
   
 <div class="iframe-column"><iframe src="https://yqjim111.github.io/CU_hotelprice/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
