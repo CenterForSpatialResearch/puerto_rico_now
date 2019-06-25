@@ -128,7 +128,8 @@ Bill runs a real estate company, like his father, Bill Sr., did before him. He c
   <li>Development areas</li>
 </ul>
 
-<img src="/puerto_rico_now/images/recovery/ExternalInvestor_maps.jpg" alt="External Investor Decision Model" class="full-img">
+<iframe src="https://ashsicle.github.io/conflict_resolution/external_investors.html" class="iframe-full" frameborder="0"></iframe>
+\\<img src="/puerto_rico_now/images/recovery/ExternalInvestor_maps.jpg" alt="External Investor Decision Model" class="full-img">
 
 #### **Weighing Stakeholder Values**
 ![Puerto Rico Decision Model](/puerto_rico_now/images/recovery/DecisionModel2.jpg)
