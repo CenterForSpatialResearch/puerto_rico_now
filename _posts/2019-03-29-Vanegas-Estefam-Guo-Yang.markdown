@@ -11,6 +11,7 @@ author: "Aline Faiwichow Estefam, Esteban Vanegas Jr, Ge Guo, Qi Yang"
 <img src="/puerto_rico_now/images/future_scenarios/concept_photo.png" alt="concept_photo" class="full-img"> 
 <br/><br/>
 <br/><br/>
+
 <span style="font-family:Helvetica; font-size:2em;">**<1>Reconstruction is Underway**</span>
 
 Puerto Rico is in a state of serious change. Over a year since the devastation of Hurricanes Maria and Irma, federal disaster aid continues to be withheld by Congress, forcing recovery efforts to continue unaided by the federal government. Yet in many ways, the destruction caused by this storms served as a red herring for many American media outlets during the brief period when the disaster was covered. The storms were framed as events that decimated the island, but prior to their making landfall in November 2017, residents had already been feeling the effects of rising unemployment, crippling debt, and exploitative development practices for several decades. In addition to the loss of over 3,000 lives, the destruction left in the wake of these storms pushed much of the island’s infrastructure and resources past capacity. For many, this disaster has been the final motivator to leave Puerto Rico. Those who remain will be the first to bear witness to dramatic changes as reconstruction properly begins.
