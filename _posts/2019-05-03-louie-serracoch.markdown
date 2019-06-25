@@ -113,7 +113,6 @@ María used to teach at Universidad de Puerto Rico in Mayaguez, but she got nomi
   <li>Improve areas with high economic growth potential</li>
   <li>Provide resources to resort and leisure developments</li>
   <li>Beautify tourist destination areas for profitability</li>
-
 </ul>
 
 Bill runs a real estate company, like his father, Bill Sr., did before him. He considers himself a true New Yorker and loves to stare at the lights of the city that never sleeps from the back of the car after a long work day downtown. His father could not understand the drive of the city but Bill keeps imagining how he could change his mind by showing him the views from his office. He has been thinking about him lately due to a big investment that his firm is in the process of making. His father always told him that disasters are profitable for those who know how to make profit and that’s what he is going to do in Puerto Rico. The hurricane has not only clear extensions of land for development but also attracted the attention of investors that see it as an opportunity to redraw the profile of the place for a more profitable scenario: tourism. Bill knew that they had to move fast to secure their share of the cake but, after partnering with a local business leaders, he know he has more than the foot on the door.
@@ -128,8 +127,7 @@ Bill runs a real estate company, like his father, Bill Sr., did before him. He c
   <li>Development areas</li>
 </ul>
 
-<iframe src="https://ashsicle.github.io/conflict_resolution/external_investors.html" class="iframe-full" frameborder="0"></iframe>
-\\<img src="/puerto_rico_now/images/recovery/ExternalInvestor_maps.jpg" alt="External Investor Decision Model" class="full-img">
+<div class="iframe=full"<iframe src="https://ashsicle.github.io/conflict_resolution/external_investors.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 #### **Weighing Stakeholder Values**
 ![Puerto Rico Decision Model](/puerto_rico_now/images/recovery/DecisionModel2.jpg)
