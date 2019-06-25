@@ -9,6 +9,7 @@ author: "Aline Faiwichow Estefam, Esteban Vanegas Jr, Ge Guo, Qi Yang"
 <br/><br/>
 
 <img src="/puerto_rico_now/images/future_scenarios/concept_photo.png" alt="concept_photo" class="full-img"> 
+
 <br/><br/>
 <br/><br/>
 
