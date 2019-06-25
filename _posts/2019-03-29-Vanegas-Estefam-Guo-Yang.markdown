@@ -47,7 +47,7 @@ We understand, of course, that these are two extremes on a broad spectrum that i
 With a focus on development and investment into the different municipalities of Puerto Rico, we attempted to uncover which municipalities will receive the greatest investment under two different scenarios that predict the island’s future under vastly different conditions. For our first scenario, we considered which municipalities are likely to receive the greatest dollar amount of development if current trends that enable predatory enterprises to flourish grows unchecked. Our second scenario considers those which have seen the greatest negative impact from such destructive developments, and visualizes a future in which these municipalities receive the greatest funding to restructure their economies, provide basic goods and services, and promote a sustainable quality of life for residents. The resulting maps showing both of these areas are visualized below.
 
   
-<div class="iframe-full"><iframe src="https://yqjim111.github.io/CU_tourismdecision/" frameborder="0"></iframe></div>
+<div class="iframe-full"><iframe src="https://yqjim111.github.io/CU_tourismdecision/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 ![LegendDecision](/puerto_rico_now/images/future_scenarios/Fundingpriority.png) 
 
