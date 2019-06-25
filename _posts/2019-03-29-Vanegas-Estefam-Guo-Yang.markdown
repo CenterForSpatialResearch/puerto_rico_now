@@ -102,9 +102,10 @@ Most entrepreneurs, investors, and developers wish to see the greatest return on
 Finally, we considered the debt of each municipality as reported by the Puerto Rican Bureau of Statistics in determining which areas will likely see the greatest investment in the near future. Areas with less debt received a higher ranking within an economic index, and marked as the most attractive for developers in the map below. White municipalities were left out of the government study that provided this economic data, and therefore were not considered.
 
 <div class="iframe-column"><iframe src="https://yqjim111.github.io/CU_EconomicIndex/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
-*Economics Index* 
 
 ![LegendTest](/puerto_rico_now/images/future_scenarios/economicsindexLegend.png) 
+
+*Economics Index* 
   
 Together, these factors determined regions in which we expect to receive the most American investment. Lighter municipalities--largely located within the interior--will likely see further unemployment and lower incomes, prompting increased migration. Areas on the periphery may be gentrified or developed in other ways to meet the needs of coastal regions and urban centers where the vast majority of Puerto Rico’s wealth is now concentrated. Puerto Ricans who remain employed in these rich, swanky municipalities will largely be occupying jobs in the service sector, with a small population of local mid-level management and an even smaller class of local investors and profiteers.    
 
