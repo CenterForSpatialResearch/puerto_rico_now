@@ -8,7 +8,7 @@ author: "Aline Faiwichow Estefam, Esteban Vanegas Jr, Ge Guo, Qi Yang"
 
 <br/><br/>
 
-![concept_image](/puerto_rico_now/images/future_scenarios/concept_photo.png#full)    
+<img src="/puerto_rico_now/images/future_scenarios/concept_photo.png" alt="concept_photo" class="full-img"> 
 <br/><br/>
 <br/><br/>
 <span style="font-family:Helvetica; font-size:2em;">**<1>Reconstruction is Underway**</span>
@@ -77,7 +77,7 @@ Puerto Rico has long been a source for wealth extraction under colonial powers, 
 
 Our first scenario imagines a future in which such figures have developed Puerto Rico into a lucrative operation that operates with few local employees and is exempt from significant municipal, territorial, and federal taxes. Tourism--already a major part of Puerto Rico’s economy--has grown in scale to become the dominant industry on the island, providing luxury as well as discount services to tourists of all classes. Tax-sheltered business developments employ a small percentage of Puerto Ricans with sufficient education and wealth to make a relatively easy transition into the tech and finance sectors, while the majority of the population are employed in the service sector. Were such a scenario to be realized, we predict the greatest developments and their immediate consequences would most likely occur in the municipalities shown in dark red in the decision map below.
 
-<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo99aj902l51fmbd2lxl2mp.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo99aj902l51fmbd2lxl2mp.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 ![LegendDecision](/puerto_rico_now/images/future_scenarios/Fundingpriority.png) 
 
@@ -93,13 +93,13 @@ We began our investigation by imagining ourselves in the role of someone who pos
 
 Most entrepreneurs, investors, and developers wish to see the greatest return on an investment with as little risk as possible, and look to examples of lucrative operations already turning a profit. Tourism should immediately come to mind. In spite of the destruction of Hurricanes Maria and Irma, the number of tourists lodging in hotels across the island was up to a  record-breaking 1,766,578 guests in 2018. This makes building a hotel, resort, spa, or attraction in an expensive area frequented by high-end visitors a good location for a profitable venture. Below are shown the locations of existing hotels, ranked by price, where we expect to see proportional future development. 
   
-<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuoazzbsbe001fn0v71i4psi.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuoazzbsbe001fn0v71i4psi.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 *Tourism Density - Hotel Density and Price* 
 <br/><br/>  
 
 Finally, we considered the debt of each municipality as reported by the Puerto Rican Bureau of Statistics in determining which areas will likely see the greatest investment in the near future. Areas with less debt received a higher ranking within an economic index, and marked as the most attractive for developers in the map below. White municipalities were left out of the government study that provided this economic data, and therefore were not considered.
 
-<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo9rawabonc1flpiitc01fg.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo9rawabonc1flpiitc01fg.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 *Economics Index* 
 
 ![LegendTest](/puerto_rico_now/images/future_scenarios/economicsindexLegend.png) 
@@ -114,7 +114,7 @@ Why invest in Puerto Rico? As long as the capital we use to develop originates i
 
 Puerto Rico does not, by any means, have to follow this narrative. Consider that Congress has appropriated $18.5 billion in hurricane relief aid, (a previous $1.5 billion was approved for spending back in February, and so is not included in our analysis). Additionally, some 23.8% of Puerto Rican debt has recently been argued to be unconstitutional. Combining potential disaster relief aid and forgiven debt leaves the government of Puerto Rico in a significantly better financial position to provide for its residents in reconstruction efforts. Our second scenario imagines that these funds are invested in the municipalities which have seen the greatest negative impact from the predatory enterprises outlined in the previous scenario, with the goal of restructuring their economies, providing basic goods and services, and promoting a sustainable quality of life for residents. Should this scenario be realized, the municipalities which we predict would see the greatest aid invested to meet these needs are shown in dark red in the decision map below. 
   
-<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo8ys5p066h1fpln1cxlrw6.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuo8ys5p066h1fpln1cxlrw6.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 *Lantrust Scenario Decision Making Map*
 
 <br/><br/> 
@@ -148,11 +148,11 @@ Though these isolated examples of collective organization are inspiring, many ar
 
 <br/><br/> 
 
-<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuocajn03y3n1fnoms0w4aia.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuocajn03y3n1fnoms0w4aia.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 *Average Weekly Income*
 ![Average Weekly Income Legend](/puerto_rico_now/images/future_scenarios/averageweeklysalaryLegend.png)
 
-<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuocaor501v71gnsqsdyb9qi.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div class="iframe-column"><iframe src="https://api.mapbox.com/styles/v1/yqjim111/cjuocaor501v71gnsqsdyb9qi.html?fresh=true&title=true&access_token=pk.eyJ1IjoieXFqaW0xMTEiLCJhIjoiY2psb2k5ZGZkMXR1czNxdDV3dW55b3hyaiJ9.ihJM3eJ8hNrDmr7EYKjo7w#7.5/18.241454/-66.318462/0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 *Employment Quantity*
 ![Average Annual Employment Legend](/puerto_rico_now/images/future_scenarios/averageannualemploymentLegend.png)
 
@@ -168,7 +168,7 @@ The previous scenario was developed supposing that only disaster relief funds be
   - **The Jones Act of 1917 must be repealed to allow Puerto Rico to engage in commerce with global actors independent of the restrictions of the US Merchant Marine**
 
 <br/><br/>
-<div style="padding:60% 0 0 0;position:relative;"><iframe src="https://yqjim111.github.io/conflicturbanism/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div class="iframe-column"><iframe src="https://yqjim111.github.io/conflicturbanism/" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 *Future Scenario-Weekly Wage*
 ![Future Average Annual Employment Legend](/puerto_rico_now/images/future_scenarios/futureaverageweeklysalaryLegend.png)
   
