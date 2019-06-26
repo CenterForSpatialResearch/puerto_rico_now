@@ -102,7 +102,7 @@ María used to teach at Universidad de Puerto Rico in Mayaguez, but she got nomi
   <li>Hurricane Maria damage</li>
 </ul>
 
-<img src="/puerto_rico_now/images/recovery/RecoveryResilience_maps.jpg" alt="Recovery & Resilience Decision Model" class="full-img">
+<div class="iframe-full"><iframe src="https://ashsicle.github.io/conflict_resolution/recovery_resilience.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 #### **External Investors**
 
