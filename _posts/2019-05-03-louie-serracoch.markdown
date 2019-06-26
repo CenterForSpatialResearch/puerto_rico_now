@@ -74,6 +74,14 @@ Valeria used to teach at José Meléndez Ayala school, in Boquillas, but after i
 
 <img src="/puerto_rico_now/images/recovery/CommunityLeader_maps.jpg" alt="Community Leader Decision Model" class="full-img">
 
+<p class="text">**Data Sources**</p>
+
+<ol class="text-ref">
+  <li>US Census Bureau. "Annual Population Estimates for Puerto Rico and its municipalities," <a href="https://indicadores.pr/dataset/estimados-anuales-poblacionales">[vector]</a>. April 2018.</li>
+  <li>Humanitarian Data Exchange via OpenStreetMap. "HOTOSM Puerto Rico Buildings," <a href="https://data.humdata.org/dataset/hotosm_pri_buildings">[vector]</a>. Nov 2018.</li>
+  <li>Humanitarian Data Exchange via OpenStreetMap. "HOTOSM Puerto Rico Points of Interest," <a href="https://data.humdata.org/dataset/hotosm_pri_points_of_interest">[vector]</a>. Nov 2018.</li>
+</ol>
+
 #### **Recovery & Resilience**
 
 <p class="img-left"><img src="/puerto_rico_now/images/recovery/RecoveryResilience_layers.jpg" alt="Recovery & Resilience Data Layers Mapped" width="300" float="right"></p>
@@ -104,6 +112,16 @@ María used to teach at Universidad de Puerto Rico in Mayaguez, but she got nomi
 
 <div class="iframe-full"><iframe src="https://ashsicle.github.io/conflict_resolution/recovery_resilience.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
+<p class="text">**Data Sources**</p>
+
+<ol class="text-ref">
+  <li>US Census Bureau. "Annual Population Estimates for Puerto Rico and its municipalities," <a href="https://indicadores.pr/dataset/estimados-anuales-poblacionales">[vector]</a>. April 2018.</li>
+  <li>Humanitarian Data Exchange via OpenStreetMap. "HOTOSM Puerto Rico Buildings," <a href="https://data.humdata.org/dataset/hotosm_pri_buildings">[vector]</a>. Nov 2018.</li>
+  <li>NASA. "Days Without Power," <a href="https://earthobservatory.nasa.gov/images/144371/night-lights-show-slow-recovery-from-maria">[raster]</a>. 2018.</li>
+  <li>FEMA, Puerto Rico Planning Board. "HECRAS Modesl for the PR Advisory Maps," <a href="http://cedd.pr.gov/fema/index.php/download/">[vector]</a>. Feb 2018.</li>
+  <li>FEMA. "National Disasters: Hurricane Maria Damage Assessments," <a href="https://data.femadata.com/NationalDisasters/HurricaneMaria/Data/DamageAssessments/Visual/">[vector]</a>. Oct 2017. 2017</li>
+</ol>
+
 #### **External Investors**
 
 <p class="img-left"><img src="/puerto_rico_now/images/recovery/ExternalInvestor_layers.jpg" alt="External Investor Data Layers Mapped" width="300" float="right"></p>
@@ -129,12 +147,18 @@ Bill runs a real estate company, like his father, Bill Sr., did before him. He c
 
 <div class="iframe-full"><iframe src="https://ashsicle.github.io/conflict_resolution/external_investors.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
+<p class="text">**Data Sources**</p>
+
+<ol class="text-ref">
+  <li>Google Maps. "Hotels in Puerto Rico," <a href="https://drive.google.com/open?id=13vnteK5XRlKUHMGOp9TRLT4U_Ei3AZeg&usp=sharing">[vector]</a>. Accessed Apr 2019.</li>
+  <li>Discover Puerto Rico. "Activities and Experiences: Beaches & Water Sports, Casinos, Culture, Golf, Luxury, Museums, Nightlife, Outdoors, Shopping," <a href="https://www.discoverpuertorico.com/">[vector]</a> Accessed Apr 2019.</li>
+  <li>Planning Board, Office of the Governor, Commonwealth of Puerto Rico. "Map of land classification under the Land Use Plan" <a href="https://data.pr.gov/en/Abierto/Mapa-de-la-clasificaci-n-de-suelo-bajo-el-Plan-de-/h2v8-utwk">[vector]</a> Dec 2015, updated Oct 2017.</li>
+</ol>
+
 #### **Weighing Stakeholder Values**
 ![Puerto Rico Decision Model](/puerto_rico_now/images/recovery/DecisionModel2.jpg)
 
 ![Puerto Rico Decision Model Weights](/puerto_rico_now/images/recovery/DecisionModel_weights.jpg)
-
-![Puerto Rico Decision Model Combined Outcome](/puerto_rico_now/images/recovery/DecisionMap.gif)
 
 #### **Discussion**
 All the maps show a range of shades, from lighter to darker. Darker shades mean higher values, which also mean that those areas should be prioritized when deciding how to allocate resources in puerto Rico. 
@@ -147,24 +171,13 @@ If Maria and Valeria, the two puerto ricans, would align and impose their values
 
 On the other side, if Maria decided to partner with Bill in order to focus on building a more competitive economy on the Island, rural areas would be more neglected, with the resources allocated in the coastal regions and the urban centers of population. San Juan, Ponce and Mumacao would receive the higher investment in that case.
 
+![Puerto Rico Decision Model Combined Outcome](/puerto_rico_now/images/recovery/DecisionMap.gif)
 
 #### **Potential for Conflict Resolution**
 **What is the impact?**
 Breaking down the mapped decision model allows us to relate to the values of each character in the fictional advocacy scenario in order to collectively visualize the possible futures of Puerto Rico.
 
 --
-
-<p class="text">**Data Sources**</p>
-
-1. Annual Population Estimates for Puerto Rico by Municipality. [shapefile] . Planning board. April 2018
-2. Buildings. [shapefile] HotOSM via Humanitarian Data Exchange. 2018
-3. Points of Interest. [shapefile] HotOSM via Humanitarian Data Exchange. 2018
-4. Puerto Rico Planning Board Flood Maps
-5. Damage Assessment. [shapefile] FEMA. 2017
-6. Hotels. Google places [shapefile] scraped from website. 2019
-7. Sites of Interest. Discover Puerto Rico - Tourism website [shapefiles] scraped from website on 2019
-8. Map of soil classification under the Land Use Plan (2015). [shapefile] Planning Board, Office of the Governor, Commonwealth of Puerto Rico. Oct 2017
-
 
 <p class="text">**References**</p>
 
