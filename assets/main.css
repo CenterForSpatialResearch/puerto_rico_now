@@ -626,6 +626,10 @@ img.float-left {
   }
 }
 
+.text-ref {
+  font-size: 10px;
+}
+
 .iframe-column {
   padding: 60% 0 0 0;
   position: relative;
