@@ -180,15 +180,15 @@ Breaking down the mapped decision model allows us to relate to the values of eac
 
 <p class="text">**References**</p>
 
-1. “Hurricane Maria.” FEMA, U.S. Department of Homeland Security. March 14, 2019. <https://www.fema.gov/hurricane-maria>.
-2. Bannan, Natasha L. Puerto Rico’s Odious Debt: The Economic Crisis of Colonialism, 19 CUNY L. Rev. 287 (2016). <https://academicworks.cuny.edu/clr/vol19/iss2/5/>.
-3. Bannan, Natasha L.
-4. “Hurricane Maria.”
-5. Wiscovitch, Jeniffer. “HUD’s Inspector General is Auditing Part of the Disaster Funds for Puerto Rico.” Centro de Periodismo Investigativo. March 28, 2019. <http://periodismoinvestigativo.com/2019/03/huds-inspector-general-is-auditing-part-of-the-disaster-funds-for-puerto-rico/>.
-6. Florido, Adrian. “Puerto Ricans Want Their Government To Be More Transparent.” National Public Radio, Inc. November 19, 2018. <https://www.npr.org/2018/11/19/669145225/post-maria-puerto-ricans-want-their-government-to-be-more-transparent>.
-7. Laughland, Oliver. “‘I’m not fatalistic’: Naomi Klein on Puerto Rico, austerity and the left.” The Guardian. Aug 8, 2018. <https://www.theguardian.com/world/2018/aug/08/naomi-klein-interview-puerto-rico-the-battle-for-paradise>.
-8. Meisterlin, Leah. "Multicriteria Decision Analysis." Geographic Information Systems, PLANA4577, Columbia University Graduate School of Architecture, Planning and Preservation. Lecture 2017.
-9. Transcripción: Deuda. Postcast: Radio Ambulante. Luis Trelles. 2016
-http://radioambulante.org/transcripcion/transcripcion-deuda
-10. Transcripción: Deuda. Postcast: Radio Ambulante. Luis Trelles. 2016
-http://radioambulante.org/transcripcion/transcripcion-deuda
+<ol class="text-ref">
+  <li>“Hurricane Maria.” FEMA, U.S. Department of Homeland Security. March 14, 2019. <https://www.fema.gov/hurricane-maria>.</li>
+  <li>Bannan, Natasha L. Puerto Rico’s Odious Debt: The Economic Crisis of Colonialism, 19 CUNY L. Rev. 287 (2016). <https://academicworks.cuny.edu/clr/vol19/iss2/5/>.</li>
+  <li>Bannan, Natasha L.</li>
+  <li>“Hurricane Maria.”</li>
+  <li>Wiscovitch, Jeniffer. “HUD’s Inspector General is Auditing Part of the Disaster Funds for Puerto Rico.” Centro de Periodismo Investigativo. March 28, 2019. <http://periodismoinvestigativo.com/2019/03/huds-inspector-general-is-auditing-part-of-the-disaster-funds-for-puerto-rico/>.</li>
+  <li>Florido, Adrian. “Puerto Ricans Want Their Government To Be More Transparent.” National Public Radio, Inc. November 19, 2018. <https://www.npr.org/2018/11/19/669145225/post-maria-puerto-ricans-want-their-government-to-be-more-transparent>.</li>
+  <li>Laughland, Oliver. “‘I’m not fatalistic’: Naomi Klein on Puerto Rico, austerity and the left.” The Guardian. Aug 8, 2018. <https://www.theguardian.com/world/2018/aug/08/naomi-klein-interview-puerto-rico-the-battle-for-paradise>.</li>
+  <li>Meisterlin, Leah. "Multicriteria Decision Analysis." Geographic Information Systems, PLANA4577, Columbia University Graduate School of Architecture, Planning and Preservation. Lecture 2017.</li>
+  <li>Transcripción: Deuda. Postcast: Radio Ambulante. Luis Trelles. 2016 http://radioambulante.org/transcripcion/transcripcion-deuda</li>
+  <li>Transcripción: Deuda. Postcast: Radio Ambulante. Luis Trelles. 2016 http://radioambulante.org/transcripcion/transcripcion-deuda</li>
+</ol>
