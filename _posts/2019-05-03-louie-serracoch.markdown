@@ -155,7 +155,7 @@ Bill runs a real estate company, like his father, Bill Sr., did before him. He c
   <li>Planning Board, Office of the Governor, Commonwealth of Puerto Rico. "Map of land classification under the Land Use Plan" <a href="https://data.pr.gov/en/Abierto/Mapa-de-la-clasificaci-n-de-suelo-bajo-el-Plan-de-/h2v8-utwk">[vector]</a> Dec 2015, updated Oct 2017.</li>
 </ol>
 
-#### **Weighing Stakeholder Values**
+#### **Weighting Stakeholder Values**
 ![Puerto Rico Decision Model](/puerto_rico_now/images/recovery/DecisionModel2.jpg)
 
 ![Puerto Rico Decision Model Weights](/puerto_rico_now/images/recovery/DecisionModel_weights.jpg)
