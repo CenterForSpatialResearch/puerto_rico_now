@@ -31,9 +31,11 @@ The devastation produced by Hurricane María was unprecedented and revealed the 
 Before the hurricane, Puerto Rico had acquired new layers of complexity considering that the islands defaulted on their loans payments obligation, and instituted an ongoing and deep crisis. Now the territory is said to be responsible for the so-called public debt that amounts $74B. Approximately $24 billion is issued by municipalities and public corporations and $50 billion on pension liabilities of the $74 billion debt.
 </p>
 
-<div style="padding:100% 0 0 0;position:relative;">
-  <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=9e7be2dc-9212-11e9-b9b8-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe>
+<div class="iframe-column">
+  <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=9e7be2dc-9212-11e9-b9b8-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe>
 </div>
+<p><em>Source:XXXXXXX </em>
+
 
 <p>
 Given that Puerto Rico is under a tight scenario by having a Lack of economic development Financial debt, Unprecedented disaster recovery process, Fiscal reconstruction and Financial debt the project explore the same question but at the municipality level. In order to have a better idea of the Island and to further understand the geography that we explored is important to highlight that Puerto Rico has Seventy-eight municipalities with various geographical conditions, from coastal to inland including Culebra and Vieques that are separate Islands. Therefore it is difficult to create a baseline for comparison since they vary not only in territory extension but also have diverse socio-economic conditions. 
@@ -50,7 +52,7 @@ Municipalities are a Second layer governance, and are subjected to “state”, 
 >"Disasters are sometimes considered external shocks, but disaster risk results from the complex interaction between development processes that generate conditions of exposure, vulnerability and hazard. Disaster risk is therefore considered as the combination of the severity and frequency of a hazard, the numbers of people and assets exposed to the hazard, and their vulnerability to damage."(UNISDR, 2015a)
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/SOS_PR.jpg)
-Source: Local pres - Umacao, Las María. 2017
+Source: Local pres - Humacao, Las María. 2017
 
 **MAPPING MUNICIPALITIES AT RISK IN PUERTO RICO & MEASURING VULNERABILITY AT THE MUNICIPAL LEVEL**
 
