@@ -72,7 +72,7 @@ Valeria used to teach at José Meléndez Ayala school, in Boquillas, but after i
 - “Tania Ginés was fighting for 10 months to avoid the closure of her daughter’s public school. In the end, she lost the battle. Now, the children need to go to a further school, where there are more than 40 students per class, rats in the cafeteria, no therapists for special education children” ”
 - Tania: “It is like I say, I mean, I didn’t borrow, my children did not borrow!”* [9]
 
-<img src="/puerto_rico_now/images/recovery/CommunityLeader_maps.jpg" alt="Community Leader Decision Model" class="full-img">
+<div class="iframe-full"><iframe src="https://ashsicle.github.io/conflict_resolution/local_residents.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 <p class="text">**Data Sources**</p>
 
