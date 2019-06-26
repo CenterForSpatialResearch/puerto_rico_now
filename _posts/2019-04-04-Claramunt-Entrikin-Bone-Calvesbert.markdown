@@ -24,10 +24,6 @@ The devastation produced by Hurricane María was unprecedented and revealed the 
 </div>
 <p><em>Source:Banco de Municipio 2017 </em>
 
-
-
-
-<p>
 Before the hurricane, Puerto Rico had acquired new layers of complexity considering that the islands defaulted on their loans payments obligation, and instituted an ongoing and deep crisis. Now the territory is said to be responsible for the so-called public debt that amounts $74B. Approximately $24 billion is issued by municipalities and public corporations and $50 billion on pension liabilities of the $74 billion debt.
 </p>
 
