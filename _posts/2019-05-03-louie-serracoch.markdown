@@ -160,7 +160,6 @@ Bill runs a real estate company, like his father, Bill Sr., did before him. He c
 
 ![Puerto Rico Decision Model Weights](/puerto_rico_now/images/recovery/DecisionModel_weights.jpg)
 
-#### **Discussion**
 All the maps show a range of shades, from lighter to darker. Darker shades mean higher values, which also mean that those areas should be prioritized when deciding how to allocate resources in puerto Rico. 
 
 In Valeria’s map, we can see how the distribution is very spread out throughout the island, which indicates that all the Island is in need of more resources. In the case of Maria’s map, we can detect higher values on the North East coast of the Island. In this case, this area is prioritized because it was the most damaged by the hurricane, according to FEMA data, while also having higher density of population potentially affected by it. In the case of Bill, we can see how his map highly prioritizes coastal areas and urban centres. This is a result of being tourist locations and also areas with more potential for development. This map also shows a more unequal distribution, with the mentioned concentrated areas valued very high and the rest of the island valued very low. 
@@ -171,7 +170,7 @@ If Maria and Valeria, the two puerto ricans, would align and impose their values
 
 On the other side, if Maria decided to partner with Bill in order to focus on building a more competitive economy on the Island, rural areas would be more neglected, with the resources allocated in the coastal regions and the urban centers of population. San Juan, Ponce and Mumacao would receive the higher investment in that case.
 
-![Puerto Rico Decision Model Combined Outcome](/puerto_rico_now/images/recovery/DecisionMap.gif)
+<div class="iframe-full"><iframe src="https://ashsicle.github.io/conflict_resolution/weighting_stakeholder_values.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 #### **Potential for Conflict Resolution**
 **What is the impact?**
