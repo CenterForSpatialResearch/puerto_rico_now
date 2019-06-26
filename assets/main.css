@@ -377,7 +377,7 @@ table {
 .post-content > p:not(p) > .full-image, .post-content > h4, .post-content > p > strong, .post-content > p.text, .post-content > p.img-left, .post-content > p:not(p) > p.text-right {
  margin: auto auto 12 0;
 }
-.post-content > ul:not(ul) > .list-right, .post-content > ul.list {
+.post-content > ul:not(ul) > .list-right, .post-content > ul.list, .post-content > ol:not(ol) > .list-right, .post-content > ol.text-ref {
   margin: auto auto 12 30;
 }
 
