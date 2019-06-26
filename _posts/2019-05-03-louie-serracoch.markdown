@@ -43,6 +43,16 @@ In order to demonstrate potentially conflicting stakeholder values, which can co
 
 #### **Local Residents**
 
+<p class="img-left"><img src="/puerto_rico_now/images/recovery/CommunityLeader_layers.jpg" alt="Community Leader Data Layers Mapped"></p>
+
+<p class="text-right">Data Layers Mapped:</p>
+<ul class="list-right">
+  <li>Population density</li>
+  <li>Community services</li>
+  <li>Health services</li>
+  <li>Education services</li>
+</ul>
+
 <p class="text">Representative Group: **grassroots community local leader**</p>
 
 <p class="text">Priorities: **long-term well-being of the community**</p>
@@ -62,19 +72,19 @@ Valeria used to teach at José Meléndez Ayala school, in Boquillas, but after i
 - “Tania Ginés was fighting for 10 months to avoid the closure of her daughter’s public school. In the end, she lost the battle. Now, the children need to go to a further school, where there are more than 40 students per class, rats in the cafeteria, no therapists for special education children” ”
 - Tania: “It is like I say, I mean, I didn’t borrow, my children did not borrow!”* [9]
 
-<p class="img-left"><img src="/puerto_rico_now/images/recovery/CommunityLeader_layers.jpg" alt="Community Leader Data Layers Mapped"></p>
+<img src="/puerto_rico_now/images/recovery/CommunityLeader_maps.jpg" alt="Community Leader Decision Model" class="full-img">
+
+#### **Recovery & Resilience**
+
+<p class="img-left"><img src="/puerto_rico_now/images/recovery/RecoveryResilience_layers.jpg" alt="Recovery & Resilience Data Layers Mapped" width="300" float="right"></p>
 
 <p class="text-right">Data Layers Mapped:</p>
 <ul class="list-right">
   <li>Population density</li>
-  <li>Community services</li>
-  <li>Health services</li>
-  <li>Education services</li>
+  <li>Days without power</li>
+  <li>Flood risk zones</li>
+  <li>Hurricane Maria damage</li>
 </ul>
-
-<img src="/puerto_rico_now/images/recovery/CommunityLeader_maps.jpg" alt="Community Leader Decision Model" class="full-img">
-
-#### **Recovery & Resilience**
 
 <p class="text">Representative Group: **middle class from Puerto Rico; some have emigrated to the mainland but still have close ties to the island.**</p>
 
@@ -92,19 +102,19 @@ María used to teach at Universidad de Puerto Rico in Mayaguez, but she got nomi
 - “We want to participate in rebuilding the island after the hurricane”
 - “It was the 70’s. Teresa was a young mother with two children an a house in the suburbs. She was a pharmaceutical chemist. The family had two sources of income: hers and her husband’s. They were the typical Puerto Rican middle class family.”* [10]
 
-<p class="img-left"><img src="/puerto_rico_now/images/recovery/RecoveryResilience_layers.jpg" alt="Recovery & Resilience Data Layers Mapped" width="300" float="right"></p>
-
-<p class="text-right">Data Layers Mapped:</p>
-<ul class="list-right">
-  <li>Population density</li>
-  <li>Days without power</li>
-  <li>Flood risk zones</li>
-  <li>Hurricane Maria damage</li>
-</ul>
-
 <div class="iframe-full"><iframe src="https://ashsicle.github.io/conflict_resolution/recovery_resilience.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 #### **External Investors**
+
+<p class="img-left"><img src="/puerto_rico_now/images/recovery/ExternalInvestor_layers.jpg" alt="External Investor Data Layers Mapped" width="300" float="right"></p>
+
+<p class="text-right">Data Layers Mapped:</p>
+<ul class="list-right">
+  <li>Hotels</li>
+  <li>Outdoor leisure</li>
+  <li>Urban and historic tourist destinations</li>
+  <li>Development areas</li>
+</ul>
 
 <p class="text">Representative Group: **real estate speculators, finance that funds them and 1% of Puerto Rican society that supports this development**</p>
 
@@ -116,16 +126,6 @@ María used to teach at Universidad de Puerto Rico in Mayaguez, but she got nomi
 </ul>
 
 Bill runs a real estate company, like his father, Bill Sr., did before him. He considers himself a true New Yorker and loves to stare at the lights of the city that never sleeps from the back of the car after a long work day downtown. His father could not understand the drive of the city but Bill keeps imagining how he could change his mind by showing him the views from his office. He has been thinking about him lately due to a big investment that his firm is in the process of making. His father always told him that disasters are profitable for those who know how to make profit and that’s what he is going to do in Puerto Rico. The hurricane has not only clear extensions of land for development but also attracted the attention of investors that see it as an opportunity to redraw the profile of the place for a more profitable scenario: tourism. Bill knew that they had to move fast to secure their share of the cake but, after partnering with a local business leaders, he know he has more than the foot on the door.
-
-<p class="img-left"><img src="/puerto_rico_now/images/recovery/ExternalInvestor_layers.jpg" alt="External Investor Data Layers Mapped" width="300" float="right"></p>
-
-<p class="text-right">Data Layers Mapped:</p>
-<ul class="list-right">
-  <li>Hotels</li>
-  <li>Outdoor leisure</li>
-  <li>Urban and historic tourist destinations</li>
-  <li>Development areas</li>
-</ul>
 
 <div class="iframe-full"><iframe src="https://ashsicle.github.io/conflict_resolution/external_investors.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
