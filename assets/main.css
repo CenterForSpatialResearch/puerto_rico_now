@@ -591,7 +591,7 @@ table {
   max-width: 50%;
   position: relative;
   display: block;
-  margin: -200 auto 12 0;
+  margin: -250 auto 12 0;
   left: 50%;
 }
 
@@ -599,7 +599,7 @@ table {
   max-width: 50%;
   position: relative;
   display: block;
-  margin: auto auto 82 30;
+  margin: auto auto 122 30;
   left: 50%;
 }
 
