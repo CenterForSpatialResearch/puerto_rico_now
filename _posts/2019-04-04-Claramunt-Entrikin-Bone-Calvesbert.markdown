@@ -74,12 +74,21 @@ relevant because municipios are in charge of implementing and coordinating local
 
 **Snapshots to municipalities that are at most risk in the event of another climate event**
 
+Yabucoa
+<p float="left">
+  <img src="/puerto_rico_now/images/decision_model/Yabucoa.gif" width="420" />
+  <img src="/puerto_rico_now/images/decision_model/canovanas_gif.gif" width="220" /> 
+</p>
+
+
 <p float="left">
   <img src="/puerto_rico_now/images/decision_model/Yabucoa.gif" width="220" />
   <img src="/puerto_rico_now/images/decision_model/canovanas_gif.gif" width="220" /> 
   <img src="/puerto_rico_now/images/decision_model/Comeri0.gif" width="220" />
 </p>
 Yabucoa           Canóvanas          Comerio 
+
+
 <p float="left">
   <img src="/puerto_rico_now/images/decision_model/Utuad0.gif" width="220" />
   <img src="/puerto_rico_now/images/decision_model/Juncos.gif" width="220" /> 
