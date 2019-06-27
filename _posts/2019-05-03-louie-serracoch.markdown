@@ -42,11 +42,15 @@ This project is an empowering data and mapping literacy initiative to offer a ne
 In order to demonstrate potentially conflicting stakeholder values, which can conclude in different visions for the future of Puerto Rico, we’ve created three fictional characters based on the narratives of perspectives and experiences that Puerto Ricans can relate to. Although fictional and exaggerated, the characterization of stakeholders is useful to illustrate how differences in priorities affect the final decision output.
 
 #### **Local Residents**
-<p class="text">Representative Group: **grassroots community local leader**</p>
+<p class="text">Representative Group: **local community leader**</p>
+
+It is common for the average Puerto Rican to put their family first, and often times these families are led by a female householder. Women are involved in heading almost 80% of households in Puerto Rico, [8] as well as being active leaders within their communities. With female-led family values extending into nurturing their neighborhoods, these local community activists may place greater priorities on equitably providing access to resources.
+
+Prior to Hurricane Maria, the Puerto Rican government had already been struggling with an overwhelming amount of debt, and had already begun reducing its expenses by cutting back on public services. Because Puerto Rico has a high poverty rate, with an estimated 59% of households generated an income of less than $25,000 in 2017, [9] many of these services are a necessity for an adequate quality of life. After Hurricane Maria struck, Puerto Rican communities have seen the closure of many public schools and continue to receive inadequate funding for services as the government continues to deal with the debt crisis.
 
 <p class="text">Priorities: **long-term well-being of the community**</p>
 <ul class="list">
-  <li>Prioritize underserved communities</li>
+  <li>Provide equitable resources for underserved communities</li>
   <li>Long-term community resilience</li>
   <li>Access to infrastructure services</li>
   <li>Build robust economy</li>
@@ -62,16 +66,16 @@ In order to demonstrate potentially conflicting stakeholder values, which can co
   <li>Education services</li>
 </ul>
 
-Valeria used to teach at José Meléndez Ayala school, in Boquillas, but after its closure, she had to relocate. However, she feels lucky because she still has a job, not like most of her former colleagues. Her daughter, Tania, and her have to wake up very early every morning because the new school is much further. The classes are overcrowded and there are rats in the cafe but they are lucky because Tania is still able to go to school and they have a salary to support them. Valeria spends the day working at the school and the night in community meetings, where she works with other people in the village to find ways to provide what the government won’t and the community still needs. Her days are long and she often things about quitting, the badly paid job at the school or the fight, but she knows that both the kids, her extended family and the community need her.
-
 <p class="text">Testimonials:</p>
 - *“This is a moment of opportunity, even if we are the most hurt by the hurricane we can use this to change long term issues that have been affecting Puerto Rico before this” 
-- “We want to ensure access to underserved priorities”
-- “Our concerns are longer term than the hurricane, we want to address the debt crisis and how it has affected the public services for the community”
-- “Tania Ginés was fighting for 10 months to avoid the closure of her daughter’s public school. In the end, she lost the battle. Now, the children need to go to a further school, where there are more than 40 students per class, rats in the cafeteria, no therapists for special education children” ”
-- Tania: “It is like I say, I mean, I didn’t borrow, my children did not borrow!”* [9]
+- “We want to ensure access to underserved priorities”*
+- *“Our concerns are longer term than the hurricane, we want to address the debt crisis and how it has affected the public services for the community”*
+- *“Tania Ginés was fighting for 10 months to avoid the closure of her daughter’s public school. In the end, she lost the battle. Now, the children need to go to a further school, where there are more than 40 students per class, rats in the cafeteria, no therapists for special education children” ”*
+- *Tania: “It is like I say, I mean, I didn’t borrow, my children did not borrow!”* [10]
 
 #### **Local Residents Decision Model**
+To the active leaders in local Puerto Rican communities, recovery funding for Hurricane Maria presents an opportunity to invest in services to strengthen the social resilience network that was already lacking prior to Hurricane Maria. The priorities of local residents are visualized by considering the density of community populations are considered relative to areas with longer distances to reach community, health, and education services.
+
 <div class="iframe-full"><iframe src="https://ashsicle.github.io/conflict_resolution/local_residents.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 <p class="text">**Data Sources**</p>
@@ -107,7 +111,7 @@ María used to teach at Universidad de Puerto Rico in Mayaguez, but she got nomi
 <p class="text">Testimonials:</p>
 - *“This was a terrible catastrophe for the island, we want to ensure that a disaster like that never happens again”
 - “We want to participate in rebuilding the island after the hurricane”
-- “It was the 70’s. Teresa was a young mother with two children an a house in the suburbs. She was a pharmaceutical chemist. The family had two sources of income: hers and her husband’s. They were the typical Puerto Rican middle class family.”* [10]
+- “It was the 70’s. Teresa was a young mother with two children an a house in the suburbs. She was a pharmaceutical chemist. The family had two sources of income: hers and her husband’s. They were the typical Puerto Rican middle class family.”* [11]
 
 #### **Recovery & Resilience Decision Model**
 <div class="iframe-full"><iframe src="https://ashsicle.github.io/conflict_resolution/recovery_resilience.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
