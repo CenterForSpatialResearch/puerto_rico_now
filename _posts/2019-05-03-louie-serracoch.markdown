@@ -42,11 +42,11 @@ This project is an empowering data and mapping literacy initiative to offer a ne
 In order to demonstrate potentially conflicting stakeholder values, which can conclude in different visions for the future of Puerto Rico, we’ve created three fictional characters based on the narratives of perspectives and experiences that Puerto Ricans can relate to. Although fictional and exaggerated, the characterization of stakeholders is useful to illustrate how differences in priorities affect the final decision output.
 
 #### **Local Residents**
-<p class="text">Representative Group: **local community leader**</p>
+<p class="text">Representative Group: **local community leaders; Puerto Rican residents**</p>
 
-It is common for the average Puerto Rican to put their family first, and often times these families are led by a female householder. Women are involved in heading almost 80% of households in Puerto Rico, [8] as well as being active leaders within their communities. With female-led family values extending into nurturing their neighborhoods, these local community activists may place greater priorities on equitably providing access to resources.
+It is common for the average Puerto Rican to put their family first, and often times these families are led by a female householder. Women are involved in heading almost 80% of households in Puerto Rico,[8] as well as being active leaders within their communities. With female-led family values extending into nurturing their neighborhoods, these local community activists may place greater priorities on equitably providing access to resources.
 
-Prior to Hurricane Maria, the Puerto Rican government had already been struggling with an overwhelming amount of debt, and had already begun reducing its expenses by cutting back on public services. Because Puerto Rico has a high poverty rate, with an estimated 59% of households generated an income of less than $25,000 in 2017, [9] many of these services are a necessity for an adequate quality of life. After Hurricane Maria struck, Puerto Rican communities have seen the closure of many public schools and continue to receive inadequate funding for services as the government continues to deal with the debt crisis.
+Prior to Hurricane Maria, the Puerto Rican government had already been struggling with an overwhelming amount of debt, and had already begun reducing its expenses by cutting back on public services. Because Puerto Rico has a high poverty rate, with an estimated 59% of households generated an income of less than $25,000 in 2017,[9] many of these services are a necessity for an adequate quality of life. After Hurricane Maria struck, Puerto Rican communities have seen the closure of many public schools and continue to receive inadequate funding for services as the government continues to deal with the debt crisis.
 
 <p class="text">Priorities: **long-term well-being of the community**</p>
 <ul class="list">
@@ -67,11 +67,11 @@ Prior to Hurricane Maria, the Puerto Rican government had already been strugglin
 </ul>
 
 <p class="text">Testimonials:</p>
-- *“This is a moment of opportunity, even if we are the most hurt by the hurricane we can use this to change long term issues that have been affecting Puerto Rico before this” 
-- “We want to ensure access to underserved priorities”*
+- *“This is a moment of opportunity, even if we are the most hurt by the hurricane we can use this to change long term issues that have been affecting Puerto Rico before this”*
+- *“We want to ensure access to underserved priorities”*
 - *“Our concerns are longer term than the hurricane, we want to address the debt crisis and how it has affected the public services for the community”*
 - *“Tania Ginés was fighting for 10 months to avoid the closure of her daughter’s public school. In the end, she lost the battle. Now, the children need to go to a further school, where there are more than 40 students per class, rats in the cafeteria, no therapists for special education children” ”*
-- *Tania: “It is like I say, I mean, I didn’t borrow, my children did not borrow!”* [10]
+- *Tania: “It is like I say, I mean, I didn’t borrow, my children did not borrow!”*[10]
 
 #### **Local Residents Decision Model**
 To the active leaders in local Puerto Rican communities, recovery funding for Hurricane Maria presents an opportunity to invest in services to strengthen the social resilience network that was already lacking prior to Hurricane Maria. The priorities of local residents are visualized by considering the density of community populations are considered relative to areas with longer distances to reach community, health, and education services.
@@ -87,7 +87,7 @@ To the active leaders in local Puerto Rican communities, recovery funding for Hu
 </ol>
 
 #### **Recovery & Resilience**
-<p class="text">Representative Group: **middle class from Puerto Rico; some have emigrated to the mainland but still have close ties to the island.**</p>
+<p class="text">Representative Group: **Puerto Rican middle class; mainland emigrants who retain close ties to the island; **</p>
 
 <p class="text">Priorities: **recovery and resilience**</p>
 <ul class="list">
