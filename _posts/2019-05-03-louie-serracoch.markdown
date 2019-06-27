@@ -169,7 +169,7 @@ If Maria and Valeria, the two puerto ricans, would align and impose their values
 On the other side, if Maria decided to partner with Bill in order to focus on building a more competitive economy on the Island, rural areas would be more neglected, with the resources allocated in the coastal regions and the urban centers of population. San Juan, Ponce and Mumacao would receive the higher investment in that case.
 
 #### **Weighted Decision Model**
-<div class="iframe-full"><iframe src="https://ashsicle.github.io/conflict_resolution/weighting_stakeholder_values.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+<div class="iframe-full"><iframe src="https://ashsicle.github.io/conflict_resolution/weighted_decision_model.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 #### **Potential for Conflict Resolution**
 **What is the impact?**
