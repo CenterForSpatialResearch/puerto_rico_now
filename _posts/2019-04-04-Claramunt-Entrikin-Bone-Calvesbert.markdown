@@ -75,25 +75,49 @@ relevant because municipios are in charge of implementing and coordinating local
 **Snapshots to municipalities that are at most risk in the event of another climate event**
 
 Yabucoa
+Area: 55.21 sq mi
+Total Population 2017 : 33,629 people
+Population Loss 2010-2017: 8%
+Municipal Debt 2017:  18,033,300 US
+
 <p float="left">
   <img src="/puerto_rico_now/images/decision_model/Yabucoa.gif" width="420" />
-  <img src="/puerto_rico_now/images/decision_model/canovanas_gif.gif" width="220" /> 
+  <img src="/puerto_rico_now/images/decision_model/Yabucoa.gif" width="220" /> 
+  
+September 20. 6:15 a.m. It is the official time in which hurricane Maria, category 4 on the Saffir-Simpson scale, enters through Yabucoa. This is a southeastern town with ten barrios: Aguacate, Calabaza, Camino Nuevo, Guayabota, Jácana, Juan Marín, Limones, Playa, Pueblo, and Tejas. This area is known for its farmers and agricultural lands-- mostly produces plantains all heavily affected by the storm(3,000 to 4,000 acres of plantains were destroyed.)
+
+Read more about Yabucoa after María:
+https://www.usatoday.com/story/news/2018/03/11/yabucoa-puerto-rico-ground-zero-hurricane-maria-long-road-ahead-recovery/393118002/ 
 </p>
 
-
+  Canóvanas 
 <p float="left">
-  <img src="/puerto_rico_now/images/decision_model/Yabucoa.gif" width="220" />
-  <img src="/puerto_rico_now/images/decision_model/canovanas_gif.gif" width="220" /> 
+  <img src="/puerto_rico_now/images/decision_model/canovanas_gif.gif" width="420" /> 
+  <img src="/puerto_rico_now/images/decision_model/canovanas_gif.gif" width="220" />
+</p>
+
+Comerio
+<p float="left">
+  <img src="/puerto_rico_now/images/decision_model/Comeri0.gif" width="420" /> 
   <img src="/puerto_rico_now/images/decision_model/Comeri0.gif" width="220" />
-</p>
-Yabucoa           Canóvanas          Comerio 
+</p> 
 
-
+Utuado 
 <p float="left">
+  <img src="/puerto_rico_now/images/decision_model/Utuad0.gif" width="420" />
   <img src="/puerto_rico_now/images/decision_model/Utuad0.gif" width="220" />
+</p>
+                       
+Juncos  
+<p float="left">
+  <img src="/puerto_rico_now/images/decision_model/Juncos.gif" width="420" />
   <img src="/puerto_rico_now/images/decision_model/Juncos.gif" width="220" /> 
+</p>
+
+Naguabo 
+<p float="left">
+  <img src="/puerto_rico_now/images/decision_model/Naguab0.gif" width="420" /> 
   <img src="/puerto_rico_now/images/decision_model/Naguab0.gif" width="220" />
 </p>
-Utuado            Juncos              Naguabo 
 
 >The results of the analysis of Social and Physical vulnerability at a municipal level throughout a combined layer decision model revealed that the municipalities of Yabucoa, Canóvanas, Comerío, Utuado, Juncos and Naguabo are consistenly high scored. This findings suggest that significant condition of risk are in place which requires inmediate attention. 
