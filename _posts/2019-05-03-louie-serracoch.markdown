@@ -87,7 +87,11 @@ To the active leaders in local Puerto Rican communities, recovery funding for Hu
 </ol>
 
 #### **Recovery & Resilience**
-<p class="text">Representative Group: **Puerto Rican middle class; mainland emigrants who retain close ties to the island; **</p>
+<p class="text">Representative Group: **Puerto Rican middle class; mainland emigrants who retain close ties to the island; disaster relief aides**</p>
+
+After Hurricane Maria struck Puerto Rico, many residents were faced with repairing damaged homes and blocked roads and had limited access to basic services like electricity, potable water, and cellular service. The serverity of this natural disaster evoked a sense of urgency for local Puerto Ricans, emigrated Puerto Ricans, and the witnessing nation to send support for recovery through donations, volunteers, and FEMA disaster relief.
+
+Within the greater context of climate change, natural disasters have become more intense and frequent within the last 15 years. Hurricane Maria's destruction revealed that Puerto Rico's power grid, water supply, and communities are highly vulnerable and lacked the ability to recovery quickly from the disaster.
 
 <p class="text">Priorities: **recovery and resilience**</p>
 <ul class="list">
@@ -106,14 +110,14 @@ To the active leaders in local Puerto Rican communities, recovery funding for Hu
   <li>Hurricane Maria damage</li>
 </ul>
 
-María used to teach at Universidad de Puerto Rico in Mayaguez, but she got nominated for research as marine biologist? and was offered a position in UCLA that a young academic like her could not turn down. Although she spends most of her time in Los Angeles  her closest friends are still in Puerto Rico and she travels there very often. The news of the hurricane highly strook her and losing contact of her loved ones made her realized how precious they were for her. In a similar way, seeing the island destroyed awakened nostalgic feelings of her life there, driving her to get more involved in its recovery.
-
 <p class="text">Testimonials:</p>
 - *“This was a terrible catastrophe for the island, we want to ensure that a disaster like that never happens again”
 - “We want to participate in rebuilding the island after the hurricane”
 - “It was the 70’s. Teresa was a young mother with two children an a house in the suburbs. She was a pharmaceutical chemist. The family had two sources of income: hers and her husband’s. They were the typical Puerto Rican middle class family.”* [11]
 
 #### **Recovery & Resilience Decision Model**
+Many people involved in Hurricane Maria disaster recovery efforts may prioritize imagining a more resilient Puerto Rico. Resiliency focuses on reducing vulnerability of city-wide systems and reinforcing social connections and resources within a network. To address recovery and resilience interests in Puerto Rico, areas with longer days without power, vulnerable to future flooding, and affected by Hurricane Maria are assessed relative to the population density of communities affected.
+
 <div class="iframe-full"><iframe src="https://ashsicle.github.io/conflict_resolution/recovery_resilience.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
 
 <p class="text">**Data Sources**</p>
