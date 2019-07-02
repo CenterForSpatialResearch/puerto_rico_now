@@ -23,7 +23,7 @@ The use and implementation of decision models tend to have underlying assumption
 <p class="text">However, this poses the question:
 **The best decisions for whom?**</p>
 
-Despite the logical method, data is biased and weighted priorities can favor different outcomes. Decision models should not be understood as objective stand-alone tools, but as a system to weigh the priorities of stakeholders. The potential to represent different values can assist collaborative negotiation and consensus building processes, “where multiple communities with differing priorities must negotiate political (planning) processes for public decision making, data-driven decision support tools have been used to help visualize and describe alternative scenarios and outcomes.” (Meisterlin)
+Despite the logical method, data is biased and weighted priorities can favor different outcomes. Decision models should not be understood as objective stand-alone tools, but as a system to weigh the priorities of stakeholders. The potential to represent different values can assist collaborative negotiation and consensus building processes, “where multiple communities with differing priorities must negotiate political (planning) processes for public decision making, data-driven decision support tools have been used to help visualize and describe alternative scenarios and outcomes.”[9]
 
 <!-- ![Decision Model](/puerto_rico_now/images/recovery/DecisionModel.jpg) -->
 
@@ -44,9 +44,9 @@ In order to demonstrate potentially conflicting stakeholder values, which can co
 #### **Local Residents**
 <p class="text">Representative Group: **local community leaders; Puerto Rican residents**</p>
 
-It is common for the average Puerto Rican to put their family first, and often times these families are led by a female householder. Women are involved in heading almost 80% of households in Puerto Rico,[8] as well as being active leaders within their communities. With female-led family values extending into nurturing their neighborhoods, these local community activists may place greater priorities on equitably providing access to resources.
+It is common for the average Puerto Rican to put their family first, and often times these families are led by a female householder. Women are involved in heading almost 80% of households in Puerto Rico,[10] as well as being active leaders within their communities. With female-led family values extending into nurturing their neighborhoods, these local community activists may place greater priorities on equitably providing access to resources.
 
-Prior to Hurricane Maria, the Puerto Rican government had already been struggling with an overwhelming amount of debt, and had already begun reducing its expenses by cutting back on public services. Because Puerto Rico has a high poverty rate, with an estimated 59% of households generated an income of less than $25,000 in 2017,[9] many of these services are a necessity for an adequate quality of life. After Hurricane Maria struck, Puerto Rican communities have seen the closure of many public schools and continue to receive inadequate funding for services as the government continues to deal with the debt crisis.
+Prior to Hurricane Maria, the Puerto Rican government had already been struggling with an overwhelming amount of debt, and had already begun reducing its expenses by cutting back on public services. Because Puerto Rico has a high poverty rate, with an estimated 59% of households generated an income of less than $25,000 in 2017,[11] many of these services are a necessity for an adequate quality of life. After Hurricane Maria struck, Puerto Rican communities have seen the closure of many public schools and continue to receive inadequate funding for services as the government continues to deal with the debt crisis.
 
 <p class="text">Priorities: **long-term well-being of the community**</p>
 <ul class="list">
@@ -71,7 +71,7 @@ Prior to Hurricane Maria, the Puerto Rican government had already been strugglin
 - *“We want to ensure access to underserved priorities”*
 - *“Our concerns are longer term than the hurricane, we want to address the debt crisis and how it has affected the public services for the community”*
 - *“Tania Ginés was fighting for 10 months to avoid the closure of her daughter’s public school. In the end, she lost the battle. Now, the children need to go to a further school, where there are more than 40 students per class, rats in the cafeteria, no therapists for special education children” ”*
-- *Tania: “It is like I say, I mean, I didn’t borrow, my children did not borrow!”*[10]
+- *Tania: “It is like I say, I mean, I didn’t borrow, my children did not borrow!”*[12]
 
 #### **Local Residents Decision Model**
 To the active leaders in local Puerto Rican communities, recovery funding for Hurricane Maria presents an opportunity to invest in services to strengthen the social resilience network that was already lacking prior to Hurricane Maria. The priorities of local residents are visualized by considering the density of community populations are considered relative to areas with longer distances to reach community, health, and education services.
@@ -100,7 +100,7 @@ Within the greater context of climate change, natural disasters have become more
   <li>Reduce risk from future threats (i.e. hurricanes, flood inundation, landslides, etc.)</li>
 </ul>
 
-<p class="img-left"><img src="/puerto_rico_now/images/recovery/RecoveryResilience_layers.jpg" alt="Recovery & Resilience Data Layers Mapped" width="300" float="right"></p>
+<p class="img-left"><img src="/puerto_rico_now/images/recovery/RecoveryResilience_layers.jpg" alt="Recovery & Resilience Data Layers Mapped"></p>
 
 <p class="text-right">Data Layers Mapped:</p>
 <ul class="list-right">
@@ -111,9 +111,9 @@ Within the greater context of climate change, natural disasters have become more
 </ul>
 
 <p class="text">Testimonials:</p>
-- *“This was a terrible catastrophe for the island, we want to ensure that a disaster like that never happens again”
-- “We want to participate in rebuilding the island after the hurricane”
-- “It was the 70’s. Teresa was a young mother with two children an a house in the suburbs. She was a pharmaceutical chemist. The family had two sources of income: hers and her husband’s. They were the typical Puerto Rican middle class family.”* [11]
+- *“This was a terrible catastrophe for the island, we want to ensure that a disaster like that never happens again”*
+- *“We want to participate in rebuilding the island after the hurricane”*
+- *“It was the 70’s. Teresa was a young mother with two children an a house in the suburbs. She was a pharmaceutical chemist. The family had two sources of income: hers and her husband’s. They were the typical Puerto Rican middle class family”*[13]
 
 #### **Recovery & Resilience Decision Model**
 Many people involved in Hurricane Maria disaster recovery efforts may prioritize imagining a more resilient Puerto Rico. Resiliency focuses on reducing vulnerability of city-wide systems and reinforcing social connections and resources within a network. To address recovery and resilience interests in Puerto Rico, areas with longer days without power, vulnerable to future flooding, and affected by Hurricane Maria are assessed relative to the population density of communities affected.
@@ -131,7 +131,9 @@ Many people involved in Hurricane Maria disaster recovery efforts may prioritize
 </ol>
 
 #### **External Investors**
-<p class="text">Representative Group: **real estate speculators, finance that funds them and 1% of Puerto Rican society that supports this development**</p>
+<p class="text">Representative Group: **real estate speculators, financial investors, and the top 1% of Puerto Ricans that support development**</p>
+
+In the event of a disaster, like Hurricane Maria, there's a lot of optimism that Puerto Rico will rebuild its islands to be better than its pre-disaster condition. Many external investors see Puerto Rico's recovery as an opportunity to rebuild its infrastructure and a potential for future growth.[13] With the advantage 
 
 <p class="text">Priorities: **attracting capital for the island and develop areas of the island in a more profitable way**</p>
 <ul class="list">
@@ -140,7 +142,7 @@ Many people involved in Hurricane Maria disaster recovery efforts may prioritize
   <li>Beautify tourist destination areas for profitability</li>
 </ul>
 
-<p class="img-left"><img src="/puerto_rico_now/images/recovery/ExternalInvestor_layers.jpg" alt="External Investor Data Layers Mapped" width="300" float="right"></p>
+<p class="img-left"><img src="/puerto_rico_now/images/recovery/ExternalInvestor_layers.jpg" alt="External Investor Data Layers Mapped"></p>
 
 <p class="text-right">Data Layers Mapped:</p>
 <ul class="list-right">
@@ -198,4 +200,5 @@ Breaking down the mapped decision model allows us to relate to the values of eac
   <li>Meisterlin, Leah. "Multicriteria Decision Analysis." Geographic Information Systems, PLANA4577, Columbia University Graduate School of Architecture, Planning and Preservation. Lecture 2017.</li>
   <li>Transcripción: Deuda. Postcast: Radio Ambulante. Luis Trelles. 2016 http://radioambulante.org/transcripcion/transcripcion-deuda</li>
   <li>Transcripción: Deuda. Postcast: Radio Ambulante. Luis Trelles. 2016 http://radioambulante.org/transcripcion/transcripcion-deuda</li>
+  <li>"Why now is the perfect time to invest in Puerto Rico." lifeafar Investments. 2019 <https://www.lifeafarinvestments.com/now-perfect-time-invest-puerto-rico/></li>
 </ol>
