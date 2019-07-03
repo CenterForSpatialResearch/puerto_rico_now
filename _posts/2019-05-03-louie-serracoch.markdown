@@ -18,9 +18,7 @@ As disaster funds for Puerto Rico are allocated, how and where funds are distrib
 **What are Decision Models?**
 In typical planning methodologies, decision models or Multicriteria Decision Analysis (MCDA) are “tools to augment, enable, or automate the decision-making process... where decision making is complex and/or requires several forms of input information.”[8] In a situation like Puerto Rico, with serious infrastructural damage to infrastructure from Hurricane Maria and many services cut due to austerity, a variety of factors will contribute to a decision making process on where to allocate recovery funds.
 
-When place-based decisions are the focus of the analysis, a decision model can illustrate spatial relationships between multiple layers of information can be weighted, and can help us envision a strategy for prioritizing improvements for the future of Puerto Rico. Because decision models rely on a rational mathematic process, it is assumed that "good data may be all we need for objectivity and objectivity may be all we need for fairness."[9] consistency will provide fair outcomes, but
-
-The use and implementation of decision models tend to have underlying assumptions, such as their capacity of ensuring consistency and fairness in a process where  “all stakeholders and values weight in toward making the best decisions, and applying them to the right places” and the idea that “the best decisions are based on solid, scientific data rather than emotions or politics.” Because this methodology relies on mathematics, it implies that the process and data are “all we need for objectivity and objectivity may be all we need for fairness” (Meisterlin and Newman).
+When place-based decisions are the focus of the analysis, a decision model can illustrate spatial relationships between multiple layers of information can be weighted, and can help us envision a strategy for prioritizing improvements for the future of Puerto Rico. Because decision models rely on a rational mathematic process, it is assumed that "good data may be all we need for objectivity and objectivity may be all we need for fairness."[9] 
 
 <p class="text">However, this poses the question:
 **The best decisions for whom?**</p>
@@ -202,7 +200,7 @@ Breaking down the mapped decision model allows us to relate to the values of eac
   <li>Florido, Adrian. “Puerto Ricans Want Their Government To Be More Transparent.” National Public Radio, Inc. November 19, 2018. <https://www.npr.org/2018/11/19/669145225/post-maria-puerto-ricans-want-their-government-to-be-more-transparent>.</li>
   <li>Laughland, Oliver. “‘I’m not fatalistic’: Naomi Klein on Puerto Rico, austerity and the left.” The Guardian. Aug 8, 2018. <https://www.theguardian.com/world/2018/aug/08/naomi-klein-interview-puerto-rico-the-battle-for-paradise>.</li>
   <li>Meisterlin, Leah. "Multicriteria Decision Analysis." Geographic Information Systems, PLANA4577, Columbia University Graduate School of Architecture, Planning and Preservation. Lecture 2017.</li>
-  <li>Meisterlin, Leah. "Multicriteria Decision Analysis." Geographic Information Systems, PLANA4577, Columbia University Graduate School of Architecture, Planning and Preservation. Lecture 2017.</li>
+  <li>Meisterlin, Leah and Claire Newman. “New New Orleans vN.x: An Attempt at Rational Planning.” The Question of New Orleans. L Hawkinson, et al, Eds. Columbia University GSAPP. New York: The Trustees of Columbia University in the City of New York, 2006. 22-23.</li>
   <li>Transcripción: Deuda. Postcast: Radio Ambulante. Luis Trelles. 2016 http://radioambulante.org/transcripcion/transcripcion-deuda</li>
   <li>Transcripción: Deuda. Postcast: Radio Ambulante. Luis Trelles. 2016 http://radioambulante.org/transcripcion/transcripcion-deuda</li>
   <li>"Why now is the perfect time to invest in Puerto Rico." lifeafar Investments. 2019 <https://www.lifeafarinvestments.com/now-perfect-time-invest-puerto-rico/></li>
