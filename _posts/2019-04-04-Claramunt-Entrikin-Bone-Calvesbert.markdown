@@ -103,7 +103,7 @@ Municipal Debt 2017:  18,033,300 US
 
 <p float="left">
   <img src="/puerto_rico_now/images/decision_model/Yabucoa.gif" width="420" />
-  <img src="/puerto_rico_now/images/decision_model/Yabucoa.gif" width="220" /> 
+  <img src="/puerto_rico_now/images/decision_model/Yabucoa.gif" width="320" /> 
   
 September 20. 6:15 a.m. It is the official time in which hurricane Maria, category 4 on the Saffir-Simpson scale, enters through Yabucoa. This is a southeastern town with ten barrios: Aguacate, Calabaza, Camino Nuevo, Guayabota, Jácana, Juan Marín, Limones, Playa, Pueblo, and Tejas. This area is known for its farmers and agricultural lands-- mostly produces plantains all heavily affected by the storm(3,000 to 4,000 acres of plantains were destroyed.)
 
@@ -114,7 +114,7 @@ https://www.usatoday.com/story/news/2018/03/11/yabucoa-puerto-rico-ground-zero-h
   Canóvanas 
 <p float="left">
   <img src="/puerto_rico_now/images/decision_model/canovanas_gif.gif" width="420" /> 
-  <img src="/puerto_rico_now/images/decision_model/Canovanas.jpg" width="220" />
+  <img src="/puerto_rico_now/images/decision_model/Canovanas.jpg" width="300" />
 </p>
 
 Comerio
