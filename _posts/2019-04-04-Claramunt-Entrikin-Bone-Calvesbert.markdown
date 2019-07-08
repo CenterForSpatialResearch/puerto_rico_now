@@ -33,12 +33,11 @@ Before the hurricane, Puerto Rico had acquired new layers of complexity consider
 <div class="iframe-column">
   <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=bbabcf06-9213-11e9-b9b8-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe>
 </div>
-&nbsp;
 <p><em>Source:XXXXXXX </em>
 &nbsp;
+  
 Given that Puerto Rico is under a tight scenario by having a Lack of economic development Financial debt, Unprecedented disaster recovery process, Fiscal reconstruction and Financial debt the project explore the same question but at the municipality level. In order to have a better idea of the Island and to further understand the geography that we explored is important to highlight that Puerto Rico has Seventy-eight municipalities with various geographical conditions, from coastal to inland including Culebra and Vieques that are separate Islands. Therefore it is difficult to create a baseline for comparison since they vary not only in territory extension but also have diverse socio-economic conditions. 
 </p>
-&nbsp;
 
 **What municipalities in Puerto Rico are at most risk in the event of another hurricane?**
 &nbsp;
