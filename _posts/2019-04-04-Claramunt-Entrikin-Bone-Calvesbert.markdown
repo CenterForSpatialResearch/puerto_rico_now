@@ -8,7 +8,7 @@ author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesber
 
   
 >In September 20th in 2017 Hurricane María led to “the biggest failure of American disaster response since Hurricane Katrina struck New Orleans and the Gulf Coast in 2005.” -Daniel Farber (2018) 
-  
+
 ![Puerto Rico](/puerto_rico_now/images/decision_model/pixel_gif.gif)
 
 <p>
@@ -43,6 +43,8 @@ Given that Puerto Rico is under a tight scenario by having a Lack of economic de
 Municipalities are a Second layer governance, and are subjected to “state”, and Federal laws of United States. In order to have a better idea of the Island and to further understand the geography that we explored is important to highlight that Puerto Rico has Seventy-eight municipalities with various geographical conditions, from coastal to inland including Culebra and Vieques that are separate Islands. Therefore it is difficult to create a baseline for comparison since they vary not only in territory extension but also have diverse socio-economic conditions. Yet, municipalities as localities, have become important arenas for decision-making, their role has had a pendulum effect during Puerto Rico's planning and management of the urban fabric marking their importance as a study unit.
 </p>
 
+<div class="iframe-full"><iframe src="https://ashsicle.github.io/conflict_resolution/local_residents.html" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe></div>
+
 ![Puerto Rico](/puerto_rico_now/images/decision_model/munis_maria.jpg)
 
 >"Disasters are sometimes considered external shocks, but disaster risk results from the complex interaction between development processes that generate conditions of exposure, vulnerability and hazard. Disaster risk is therefore considered as the combination of the severity and frequency of a hazard, the numbers of people and assets exposed to the hazard, and their vulnerability to damage."(UNISDR, 2015a)
@@ -57,6 +59,13 @@ This project develops a decision model based in *social* and *physical* vulnerab
 ![Puerto Rico](/puerto_rico_now/images/decision_model/Risk_Muni_v3.jpg)
 
 **Mapping Social Vulnerability at a Municipal level**
+
+&nbsp;
+<img src="/puerto_rico_now/images/decision_model/social_vulnerability_GIF.gif" class="full-img">
+&nbsp;
+Data Source: US Census 2017
+&nbsp;
+&nbsp;
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/social_vulnerability_GIF.gif)
 The social vulnerability indicators will be based on demographic and socioeconomic factors, including the change in populations related to migration post Hurricanes. 
