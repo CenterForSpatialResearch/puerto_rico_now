@@ -114,7 +114,7 @@ https://www.usatoday.com/story/news/2018/03/11/yabucoa-puerto-rico-ground-zero-h
   Canóvanas 
 <p float="left">
   <img src="/puerto_rico_now/images/decision_model/canovanas_gif.gif" width="420" /> 
-  <img src="/puerto_rico_now/images/decision_model/canovanas.jpg" width="220" />
+  <img src="/puerto_rico_now/images/decision_model/Canovanas.jpg" width="220" />
 </p>
 
 Comerio
