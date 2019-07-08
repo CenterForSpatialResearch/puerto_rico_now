@@ -114,31 +114,31 @@ https://www.usatoday.com/story/news/2018/03/11/yabucoa-puerto-rico-ground-zero-h
   Canóvanas 
 <p float="left">
   <img src="/puerto_rico_now/images/decision_model/canovanas_gif.gif" width="420" /> 
-  <img src="/puerto_rico_now/images/decision_model/canovanas_gif.gif" width="220" />
+  <img src="/puerto_rico_now/images/decision_model/canovanas.jpg" width="220" />
 </p>
 
 Comerio
 <p float="left">
   <img src="/puerto_rico_now/images/decision_model/Comeri0.gif" width="420" /> 
-  <img src="/puerto_rico_now/images/decision_model/Comeri0.gif" width="220" />
+  <img src="/puerto_rico_now/images/decision_model/Comerio.jpg" width="220" />
 </p> 
 
 Utuado 
 <p float="left">
   <img src="/puerto_rico_now/images/decision_model/Utuad0.gif" width="420" />
-  <img src="/puerto_rico_now/images/decision_model/Utuad0.gif" width="220" />
+  <img src="/puerto_rico_now/images/decision_model/Utuado.jpg" width="220" />
 </p>
                        
 Juncos  
 <p float="left">
   <img src="/puerto_rico_now/images/decision_model/Juncos.gif" width="420" />
-  <img src="/puerto_rico_now/images/decision_model/Juncos.gif" width="220" /> 
+  <img src="/puerto_rico_now/images/decision_model/Juncos.jpg" width="220" /> 
 </p>
 
 Naguabo 
 <p float="left">
   <img src="/puerto_rico_now/images/decision_model/Naguab0.gif" width="420" /> 
-  <img src="/puerto_rico_now/images/decision_model/Naguab0.gif" width="220" />
+  <img src="/puerto_rico_now/images/decision_model/Naguabo.jpg" width="220" />
 </p>
 
 >The results of the analysis of Social and Physical vulnerability at a municipal level throughout a combined layer decision model revealed that the municipalities of Yabucoa, Canóvanas, Comerío, Utuado, Juncos and Naguabo are consistenly high scored. This findings suggest that significant condition of risk are in place which requires inmediate attention. 
