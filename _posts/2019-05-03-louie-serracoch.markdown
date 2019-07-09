@@ -133,7 +133,7 @@ Many people involved in Hurricane Maria disaster recovery efforts may prioritize
 #### **External Investors**
 <p class="text">Representative Group: **real estate speculators, financial investors, and the top 1% of Puerto Ricans that support development**</p>
 
-In the event of a disaster, like Hurricane Maria, there's a lot of optimism that Puerto Rico will rebuild its islands to be better than its pre-disaster condition. Many external investors see Puerto Rico's recovery as an opportunity to rebuild its infrastructure and a potential for future growth. With Puerto Rico as a U.S. territory, American citizens can travel to and from Puerto Rico without a visa or passport. Additionally, Puerto Rican legislation from 2012 includes a number of tax loopholes, which entice prospective businesses and investors with significantly lower tax rates that only requires residency for 183 days per year.[13]
+In the event of a disaster, like Hurricane Maria, there's a lot of optimism that Puerto Rico will rebuild its islands to be better than its pre-disaster condition. Many external investors see Puerto Rico's recovery as an opportunity to rebuild its infrastructure and a potential for future growth. With Puerto Rico as a U.S. territory, American citizens can travel to and from Puerto Rico without a visa or passport. Additionally, Puerto Rican legislation from 2012 includes a number of tax loopholes, which entice prospective businesses and investors with significantly lower tax rates that only requires residency for 183 days per year.[14]
 
 With the lure of being an easily accessible island destination to U.S. citizens and the attraction of its tropical temperature and beautiful beaches, Puerto Rico is a desirable location for investors to play a role in the recovery process of the island, while gaining profit for themselves.
 
@@ -201,6 +201,8 @@ Breaking down the mapped decision model allows us to relate to the values of eac
   <li>Laughland, Oliver. “‘I’m not fatalistic’: Naomi Klein on Puerto Rico, austerity and the left.” The Guardian. Aug 8, 2018. <https://www.theguardian.com/world/2018/aug/08/naomi-klein-interview-puerto-rico-the-battle-for-paradise>.</li>
   <li>Meisterlin, Leah. "Multicriteria Decision Analysis." Geographic Information Systems, PLANA4577, Columbia University Graduate School of Architecture, Planning and Preservation. Lecture 2017.</li>
   <li>Meisterlin, Leah and Claire Newman. “New New Orleans vN.x: An Attempt at Rational Planning.” The Question of New Orleans. L Hawkinson, et al, Eds. Columbia University GSAPP. New York: The Trustees of Columbia University in the City of New York, 2006. 22-23.</li>
+  <li>United States Census Bureau. "ACS 2017 (5-Year Estimates)," Social Explorer. Sep 2016. <https://www.socialexplorer.com/></li>
+  <li>United States Census Bureau. "ACS 2017 (5-Year Estimates)," Social Explorer. Sep 2016. <https://www.socialexplorer.com/></li>
   <li>Transcripción: Deuda. Postcast: Radio Ambulante. Luis Trelles. 2016 http://radioambulante.org/transcripcion/transcripcion-deuda</li>
   <li>Transcripción: Deuda. Postcast: Radio Ambulante. Luis Trelles. 2016 http://radioambulante.org/transcripcion/transcripcion-deuda</li>
   <li>"Why now is the perfect time to invest in Puerto Rico." lifeafar Investments. 2019 <https://www.lifeafarinvestments.com/now-perfect-time-invest-puerto-rico/></li>
