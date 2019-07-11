@@ -2,7 +2,7 @@
 layout: post
 date:   2019-04-04
 image: "/puerto_rico_now/images/decision_model/pixel_gif.gif"
-title:  "What municipalities in Puerto Rico are at most risk in the event of another hurricane? | Mapping Municipalities at Risk in Puerto Rico"
+title:  "Mapping Municipalities at Risk in Puerto Rico"
 author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesbert"
 ---
 
@@ -199,11 +199,10 @@ Based on local news the most affected sectors of Juncos were; La Placita, La Cor
   <img src="/puerto_rico_now/images/decision_model/Naguab0.gif" width="420" /> 
   <img src="/puerto_rico_now/images/decision_model/Naguabo.jpg" width="220" />
 </p>
-
-<p align="left">
+<p>
 Naguabo is located in the southeast region of Puerto Rico.Since 2004, and based on law 1-2001,  9 barrios in  Naguabo were designated as Special Communities  (Comunidades especiales) in Puerto Rico to address high levels of poverty and lack of resources and opportunities; Relámpago, Río barrio, Santiago y Lima barrio, Daguao barrio, La Florida, Casco Urbano in barrio-pueblo, Húcares, Maizales, and Río Blanco. This town is known for it closesness  to the tropical forest El Yunque to the extent that the town known as “El Pueblo de los Enchumbaos” in eglish “The Town of the Drenched Ones”  given the amount of rivers and streams it contains, in addition to the amount of rain it receives constantly.
 </p>
-<p align="left">
+<p style='text-align: left;'>
 [Read more about Naguabo after María](https://www.washingtonpost.com/graphics/2018/national/a-year-after-hurricane-maria-a-puerto-rican-town-is-still-in-upheaval/?utm_term=.52c1f4084354) 
 </p>
 &nbsp;
