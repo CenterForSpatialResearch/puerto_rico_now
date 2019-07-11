@@ -18,8 +18,6 @@ Last September on 2017, Puerto Rico was hit by a category 4 hurricane leaving un
 </p>
 
 **By cross-referencing physical and social vulnerability the project highlights what are the areas at most risk in the event of another hurricane?**
-
-
 <div class="iframe-column">
   <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=bbabcf06-9213-11e9-b9b8-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe>
 </div>
@@ -31,7 +29,7 @@ Hurricane María also resurfaced an economic crisis and population loss that has
 <div class="iframe-column">
   <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=9e7be2dc-9212-11e9-b9b8-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe>
 </div>
-<p><em>Source:Banco de Municipio 2017 </em>
+<p><em>Source:US Census 2017</em>
 &nbsp;
   
 Given that Puerto Rico is under a tight scenario by having a Lack of economic development Financial debt, Unprecedented disaster recovery process, Fiscal reconstruction and Financial debt the project explore the same question but at the municipality level. In order to have a better idea of the Island and to further understand the geography that we explored is important to highlight that Puerto Rico has Seventy-eight municipalities with various geographical conditions, from coastal to inland including Culebra and Vieques that are separate Islands. Therefore it is difficult to create a baseline for comparison since they vary not only in territory extension but also have diverse socio-economic conditions. 
@@ -205,28 +203,29 @@ Based on local news the most affected sectors of Juncos were; La Placita, La Cor
 </p>
 
 <p align="left">
-Naguabo is located in the southeast region of Puerto Rico.Since 2004, and based on law 1-2001,  9 barrios in  Naguabo were designated as Special Communities  (Comunidades especiales) in Puerto Rico to address high levels of poverty and lack of resources and opportunities; Relámpago, Río barrio, Santiago y Lima barrio, Daguao barrio, La Florida, Casco Urbano in barrio-pueblo, Húcares, Maizales, and Río Blanco. This town is known for it closesness  to the tropical forest El Yunque to the extent that the town known as “El Pueblo de los Enchumbaos” in eglish “The Town of the Drenched Ones”  given the amount of rivers and streams it contains, in addition to the amount of rain it receives constantly
+Naguabo is located in the southeast region of Puerto Rico.Since 2004, and based on law 1-2001,  9 barrios in  Naguabo were designated as Special Communities  (Comunidades especiales) in Puerto Rico to address high levels of poverty and lack of resources and opportunities; Relámpago, Río barrio, Santiago y Lima barrio, Daguao barrio, La Florida, Casco Urbano in barrio-pueblo, Húcares, Maizales, and Río Blanco. This town is known for it closesness  to the tropical forest El Yunque to the extent that the town known as “El Pueblo de los Enchumbaos” in eglish “The Town of the Drenched Ones”  given the amount of rivers and streams it contains, in addition to the amount of rain it receives constantly.
+</p>
 &nbsp;
+<p>
 [Read more about Naguabo after María](https://www.washingtonpost.com/graphics/2018/national/a-year-after-hurricane-maria-a-puerto-rican-town-is-still-in-upheaval/?utm_term=.52c1f4084354) 
 </p>
 
 >The results of the analysis of Social and Physical vulnerability at a municipal level throughout a combined layer decision model marks that the municipalities of Yabucoa, Canóvanas, Comerío, Utuado, Juncos, and Naguabo are consistently high scored. These findings suggest that significant condition of risk are in place which requires immediate attention.
 
-**References**
-<p>
-El Nuevo Día (2016, September 21) Colapso total del sistema de la AEE en Puerto Rico. Accessed September 22, 2016.
+#### **References**
 
+1. El Nuevo Día (2016, September 21) Colapso total del sistema de la AEE en Puerto Rico. Accessed September 22, 2016.
 https://www.nesdis.noaa.gov/content/noaa-satellite-imagery-hurricane-jose-and-maria
 
-Farber, D. A. (2018). Response and Recovery after Maria: Lessons for Disaster Law and Policy.
+2. Farber, D. A. (2018). Response and Recovery after Maria: Lessons for Disaster Law and Policy.
 Retrieved from https://papers.ssrn.com/abstract=3174466
 
-Acevedo, N. (2018, September 18). A year after Hurricane Maria, Puerto Ricans rebuild amid setbacks. A Year after Hurricane Maria, Puerto RIcans Rebuild amid Setbacks. Retrieved from https://www.nbcnews.com/storyline/puerto-rico-crisis/year-after-hurricane-maria-puerto-ricans-rebuild-amid-setbacks-n907086
+3. Acevedo, N. (2018, September 18). A year after Hurricane Maria, Puerto Ricans rebuild amid setbacks. A Year after Hurricane Maria, Puerto RIcans Rebuild amid Setbacks. Retrieved from https://www.nbcnews.com/storyline/puerto-rico-crisis/year-after-hurricane-maria-puerto-ricans-rebuild-amid-setbacks-n907086
 
-Alvarado León, G. (2019, June 2). Los municipios actualizan sus planes de mitigación. El Nuevo Dia. Retrieved from https://www.elnuevodia.com/noticias/locales/nota/losmunicipiosactualizansusplanesdemitigacion-2497113/
+4. Alvarado León, G. (2019, June 2). Los municipios actualizan sus planes de mitigación. El Nuevo Dia. Retrieved from https://www.elnuevodia.com/noticias/locales/nota/losmunicipiosactualizansusplanesdemitigacion-2497113/
 
-Bauzá, N. (2017, September 28). La comunidad en Punta Santiago sobrevive unida. El Nuevo Dia. Retrieved from https://www.elnuevodia.com/noticias/locales/nota/lacomunidadenpuntasantiagosobreviveunida-2361115/
+5. Bauzá, N. (2017, September 28). La comunidad en Punta Santiago sobrevive unida. El Nuevo Dia. Retrieved from https://www.elnuevodia.com/noticias/locales/nota/lacomunidadenpuntasantiagosobreviveunida-2361115/
 
-Instituto de Estadísticas crea sección para facilitar datos sobre huracán María. (2017, October 5). Retrieved June 27, 2019, from Mi Puerto Rico Verde website: https://www.miprv.com/instituto-de-estadisticas-crea-seccion-para-facilitar-datos-sobre-huracan-maria/
-</p>
+6. Instituto de Estadísticas crea sección para facilitar datos sobre huracán María. (2017, October 5). Retrieved June 27, 2019, from Mi Puerto Rico Verde website: https://www.miprv.com/instituto-de-estadisticas-crea-seccion-para-facilitar-datos-sobre-huracan-maria/
+
 
