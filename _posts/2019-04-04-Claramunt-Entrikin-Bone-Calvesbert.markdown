@@ -6,7 +6,8 @@ title:  "Mapping Municipalities at Risk in Puerto Rico"
 author: "Pauline Claramunt, Madeline Entrikin, Catlin Bone, and Tyrene Calvesbert"
 ---
 
-  
+**What municipalities in Puerto Rico are at most risk in the event of another hurricane?**
+
 >In September 20th in 2017 Hurricane María led to “the biggest failure of American disaster response since Hurricane Katrina struck New Orleans and the Gulf Coast in 2005.” -Daniel Farber (2018) 
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/pixel_gif.gif)
@@ -205,12 +206,17 @@ Based on local news the most affected sectors of Juncos were; La Placita, La Cor
 <p align="left">
 Naguabo is located in the southeast region of Puerto Rico.Since 2004, and based on law 1-2001,  9 barrios in  Naguabo were designated as Special Communities  (Comunidades especiales) in Puerto Rico to address high levels of poverty and lack of resources and opportunities; Relámpago, Río barrio, Santiago y Lima barrio, Daguao barrio, La Florida, Casco Urbano in barrio-pueblo, Húcares, Maizales, and Río Blanco. This town is known for it closesness  to the tropical forest El Yunque to the extent that the town known as “El Pueblo de los Enchumbaos” in eglish “The Town of the Drenched Ones”  given the amount of rivers and streams it contains, in addition to the amount of rain it receives constantly.
 </p>
-&nbsp;
-<p>
+<p align="left">
 [Read more about Naguabo after María](https://www.washingtonpost.com/graphics/2018/national/a-year-after-hurricane-maria-a-puerto-rican-town-is-still-in-upheaval/?utm_term=.52c1f4084354) 
 </p>
-
+&nbsp;
+&nbsp;
+&nbsp;
 >The results of the analysis of Social and Physical vulnerability at a municipal level throughout a combined layer decision model marks that the municipalities of Yabucoa, Canóvanas, Comerío, Utuado, Juncos, and Naguabo are consistently high scored. These findings suggest that significant condition of risk are in place which requires immediate attention.
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 #### **References**
 
