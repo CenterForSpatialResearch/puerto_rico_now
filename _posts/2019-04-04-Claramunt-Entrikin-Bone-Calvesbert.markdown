@@ -205,9 +205,12 @@ Rosalía, Sector El Mangó. Juncos was declared a disaster area by the passage o
 
 Based on local news the most affected sectors of Juncos were; La Placita, La Coroza, Mamey, Jacaranda, Mango (sectors Campo Alegre and Rosalia), Valenciano Arriba and Valenciano Abajo, as well as highways PR-198, PR-183, PR-185 and PR-919.
 
+
 [Read more about Juncos after María](https://www.primerahora.com/noticias/gobierno-politica/nota/porjuncostambienpasoelhuracan-1251637/) 
 
+
 [and more](https://www.washingtonpost.com/national/hot-isolated-and-running-out-of-supplies-parts-of-puerto-rico-near-desperation/2017/09/24/7f3bcc78-a139-11e7-b14f-f41773cd5a14_story.html?utm_term=.4a4befd8694c) 
+
 
 [and more](https://huracanmaria.elnuevodia.com/2017/municipio/juncos/) 
 </p>
