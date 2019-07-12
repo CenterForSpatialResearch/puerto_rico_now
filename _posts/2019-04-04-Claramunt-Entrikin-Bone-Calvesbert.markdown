@@ -139,7 +139,7 @@ In general Hurricane Maria revealed that the mitigation plans against hazards in
 <p>
 September 20. 6:15 a.m. It is the official time in which hurricane Maria, category 4 on the Saffir-Simpson scale, enters through Yabucoa. This is a southeastern town with ten barrios: Aguacate, Calabaza, Camino Nuevo, Guayabota, Jácana, Juan Marín, Limones, Playa, Pueblo, and Tejas. This area is known for its farmers and agricultural lands-- mostly produces plantains all heavily affected by the storm(3,000 to 4,000 acres of plantains were destroyed.)
 
-[Read more about Yabucoa after María](https://www.usatoday.com/story/news/2018/03/11/yabucoa-puerto-rico-ground-zero-hurricane-maria-long-road-ahead-recovery/393118002/) 
+-[Read more about Yabucoa after María](https://www.usatoday.com/story/news/2018/03/11/yabucoa-puerto-rico-ground-zero-hurricane-maria-long-road-ahead-recovery/393118002/) 
 </p>
 
 &nbsp;
@@ -155,9 +155,8 @@ Canóvanas barrio-pueblo, Cubuy, Hato Puerco, Lomas, and Torrecilla Alta. Since 
 
 According to local news and FEMA Canóvanas has the third-worst housing damages on the island, And yet, it is one of the towns with the largest number of housing units with unattended needs, according to municipal documents.
 
-[Read more about Canóvanas after María](https://www.nbcnews.com/storyline/puerto-rico-crisis/year-after-hurricane-maria-puerto-ricans-rebuild-amid-setbacks-n907086) 
-
-[and more](http://www.cdbg-dr.pr.gov/wp-content/uploads/ponencias/2018-03-13_Ponencia_Mun.%20Canovanas-Enmendada.pdf) 
+-[Read more about Canóvanas after María](https://www.nbcnews.com/storyline/puerto-rico-crisis/year-after-hurricane-maria-puerto-ricans-rebuild-amid-setbacks-n907086) 
+-[and more](http://www.cdbg-dr.pr.gov/wp-content/uploads/ponencias/2018-03-13_Ponencia_Mun.%20Canovanas-Enmendada.pdf) 
 </p>
 
 <p float="left">
@@ -169,13 +168,10 @@ According to local news and FEMA Canóvanas has the third-worst housing damages 
 <p>
 Comerío is located in the center-eastern region of the island and know for it closeness to the Río La Plata and by it mountainous region bot condition became a natural hazard since the river swelled by more than 60 feet causing inundation and landslides.
 
-[Read more about Comerío after María](https://www.eenews.net/special_reports/in_the_dark/stories/1060078077) 
-
-[and more](https://www.washingtonpost.com/national/exodus-from-puerto-rico-grows-as-island-struggles-to-rebound-from-hurricane-maria/2018/03/06/b2fcb996-16c3-11e8-92c9-376b4fe57ff7_story.html?noredirect=on&utm_term=.8681bea87ae3) 
-
-[and more](https://www.nytimes.com/2018/03/20/opinion/hurricane-maria-puerto-rico.html) 
-
-[VIDEO](https://www.youtube.com/watch?v=bHiPniuNFmw) 
+-[Read more about Comerío after María](https://www.eenews.net/special_reports/in_the_dark/stories/1060078077) 
+-[and more](https://www.washingtonpost.com/national/exodus-from-puerto-rico-grows-as-island-struggles-to-rebound-from-hurricane-maria/2018/03/06/b2fcb996-16c3-11e8-92c9-376b4fe57ff7_story.html?noredirect=on&utm_term=.8681bea87ae3) 
+-[and more](https://www.nytimes.com/2018/03/20/opinion/hurricane-maria-puerto-rico.html) 
+-[VIDEO](https://www.youtube.com/watch?v=bHiPniuNFmw) 
 </p> 
 
 <p float="left">
@@ -185,11 +181,9 @@ Comerío is located in the center-eastern region of the island and know for it c
 <p align="left">
 Utuado is located in the central mountainous region of the island known as La Cordillera Central provoking massive landslides and downed trees that blocked the accessibility for the whole town for weeks. Utuado is also under a critical situation not only by nature but also because man made hazards as the  unmaintained the reservoirs of Dos Bocas has not been cleaned in decades hindering it capacity to retain water. Almost everything got washed out or covered with dirt when the combination of storm rain, full reservoir and destruction went out of control for the rural communities.
 
-[Read more about Utuado after María- VIDEO-](https://www.youtube.com/watch?v=6f4fkAzTNTg) 
-
-[VIDEO 1](https://www.youtube.com/watch?v=QorYhlj_oaA) 
-
-[VIDEO 2](https://www.youtube.com/watch?v=sXAio4AcoYU) 
+-[Read more about Utuado after María- VIDEO-](https://www.youtube.com/watch?v=6f4fkAzTNTg) 
+-[VIDEO 1](https://www.youtube.com/watch?v=QorYhlj_oaA) 
+-[VIDEO 2](https://www.youtube.com/watch?v=sXAio4AcoYU) 
 </p>
                        
 <p float="left">
@@ -205,14 +199,9 @@ Rosalía, Sector El Mangó. Juncos was declared a disaster area by the passage o
 
 Based on local news the most affected sectors of Juncos were; La Placita, La Coroza, Mamey, Jacaranda, Mango (sectors Campo Alegre and Rosalia), Valenciano Arriba and Valenciano Abajo, as well as highways PR-198, PR-183, PR-185 and PR-919.
 
-
-[Read more about Juncos after María](https://www.primerahora.com/noticias/gobierno-politica/nota/porjuncostambienpasoelhuracan-1251637/) 
-
-
-[and more](https://www.washingtonpost.com/national/hot-isolated-and-running-out-of-supplies-parts-of-puerto-rico-near-desperation/2017/09/24/7f3bcc78-a139-11e7-b14f-f41773cd5a14_story.html?utm_term=.4a4befd8694c) 
-
-
-[and more](https://huracanmaria.elnuevodia.com/2017/municipio/juncos/) 
+-[Read more about Juncos after María](https://www.primerahora.com/noticias/gobierno-politica/nota/porjuncostambienpasoelhuracan-1251637/) 
+-[and more](https://www.washingtonpost.com/national/hot-isolated-and-running-out-of-supplies-parts-of-puerto-rico-near-desperation/2017/09/24/7f3bcc78-a139-11e7-b14f-f41773cd5a14_story.html?utm_term=.4a4befd8694c) 
+-[and more](https://huracanmaria.elnuevodia.com/2017/municipio/juncos/) 
 </p>
 
 <p float="left">
@@ -244,6 +233,6 @@ Retrieved from https://papers.ssrn.com/abstract=3174466
 
 5. Bauzá, N. (2017, September 28). La comunidad en Punta Santiago sobrevive unida. El Nuevo Dia. Retrieved from https://www.elnuevodia.com/noticias/locales/nota/lacomunidadenpuntasantiagosobreviveunida-2361115/
 
-6. Instituto de Estadísticas crea sección para facilitar datos sobre huracán María. (2017, October 5). Retrieved June 27, 2019, from Mi Puerto Rico Verde website: https://www.miprv.com/instituto-de-estadisticas-crea-seccion-para-facilitar-datos-sobre-huracan-maria/
+6. Instituto de Estadísticas crea sección para facilitar datos sobre huracán María. (2017, October 5). Retrieved June 27, 2019, from Mi Puerto Rico Verde website: <https://www.miprv.com/instituto-de-estadisticas-crea-seccion-para-facilitar-datos-sobre-huracan-maria/>
 
 
