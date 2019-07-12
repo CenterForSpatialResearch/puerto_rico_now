@@ -13,26 +13,26 @@ Data Source: Aerial Image ESRI 2017
 &nbsp;
 
 <p>
-Last September on 2017, Puerto Rico was hit by a category 4 hurricane leaving unprecedented devastation, revealing a deeper crisis, not only economical but highlighting a combination of factors from the physical, social and spatial vulnerabilities that place Puerto Ricans in constant climate risk.The island of Puerto Rico measures 100 x 35 miles approximately with a population that rounds to 3.3 million in 2017 all which experienced a full black-out for months due to wiping out of the central infrastructure be it electrical, water, telecommunications or transportation. Also, the death toll product after the hurricane extended to thousands, public schools have closed, health administration has decreased, and the lack of emergency preparedness and limited resources are constantly threatening local capacity from communities to institutions to respond swiftly. Moreover, Puerto Rico suffered from a lack of effective and immediate response to this catastrophe, with shared responsibilities from the Central Puerto Rican government to the Federal government along with the disparate deployment of the Federal Emergency Management Agency (FEMA) when compared with past events.  This catastrophe starts shifting from a natural one to a human-made disaster marking the pertinence of investigating and mapping municipalities at risk.
+Last September on 2017, Puerto Rico was hit by a category 4 hurricane leaving unprecedented devastation, revealing a deeper crisis, not only economical but highlighting a combination of factors from the physical, social and spatial vulnerabilities that place Puerto Ricans in constant climate risk.The island of Puerto Rico measures 100 x 35 miles approximately with a population that rounds to 3.3 million in 2017 all which experienced a full black-out for months due to wiping out of the central infrastructure be it electrical, water, telecommunications or transportation. Also, the death toll product after the hurricane extended to thousands, public schools have closed, health administration has decreased, and the lack of emergency preparedness and limited resources are constantly threatening local capacity from communities to institutions to respond swiftly.
+  
+Moreover, Puerto Rico suffered from a lack of effective and immediate response to this catastrophe, with shared responsibilities from the Central Puerto Rican government to the Federal government along with the disparate deployment of the Federal Emergency Management Agency (FEMA) when compared with past events.  This catastrophe starts shifting from a natural one to a human-made disaster marking the pertinence of investigating and mapping municipalities at risk.
 </p>
 
 **By cross-referencing physical and social vulnerability the project highlights what are the areas at most risk in the event of another hurricane?**
 <div class="iframe-column">
   <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=bbabcf06-9213-11e9-b9b8-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe>
 </div>
-<left>
 <p><em>Source:Banco de Municipio 2017 </em>
 </p>
-</left>  
+ 
 <p>
 Hurricane María also resurfaced an economic crisis and population loss that has been building up since 2006 as seen in the line-graphs.Before the hurricane,  Puerto Rico was experiencing decades of economic constraints at multiple levels that lead the island default multiple times creating  a debt load of $74 billion dollars-- systematically crunchy livelihood opportunities. Now the crippling territory is forced to deal simultaneously with the so-called public debt and the reconstruction of the country.   
 </p>
 
 <div class="iframe-column">
   <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=9e7be2dc-9212-11e9-b9b8-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe>
+Source:US Census 2017
 </div>
-<p><em>Source:US Census 2017 </em>
-</p>
 <p>
 In addition to the financial troubles , Puerto Rico has experienced a consistent loss in population, which has been  exacerbated  after the catastrophes and the unbearable living conditions for some. These two conditions when overlapped with other events in a timeline start to inform that the past eleven years Puerto Rico has been under socio economic distress while adjusting under an unbalanced realities like decrease in labor force and job opportunities, increase in the prices of products and services, contractions in social programs and accessibility for any special aid. 
 </p>
@@ -211,9 +211,8 @@ Based on local news the most affected sectors of Juncos were; La Placita, La Cor
   <img src="/puerto_rico_now/images/decision_model/Naguabo.jpg" width="220" />
 </p>
 <p>
-Naguabo is located in the southeast region of Puerto Rico.Since 2004, and based on law 1-2001,  9 barrios in  Naguabo were designated as Special Communities  (Comunidades especiales) in Puerto Rico to address high levels of poverty and lack of resources and opportunities; Relámpago, Río barrio, Santiago y Lima barrio, Daguao barrio, La Florida, Casco Urbano in barrio-pueblo, Húcares, Maizales, and Río Blanco. This town is known for it closesness  to the tropical forest El Yunque to the extent that the town known as “El Pueblo de los Enchumbaos” in eglish “The Town of the Drenched Ones”  given the amount of rivers and streams it contains, in addition to the amount of rain it receives constantly.
-</p>
-<p style='text-align: left;'>
+Naguabo is located in the southeast region of Puerto Rico.Since 2004, and based on law 1-2001,  9 barrios in  Naguabo were designated as Special Communities  (Comunidades especiales) in Puerto Rico to address high levels of poverty and lack of resources and opportunities; Relámpago, Río barrio, Santiago y Lima barrio, Daguao barrio, La Florida, Casco Urbano in barrio-pueblo, Húcares, Maizales, and Río Blanco. This town is known for it closesness  to the tropical forest El Yunque to the extent that the town known as “El Pueblo de los Enchumbaos” in eglish “The Town of the Drenched Ones”  given the amount of rivers and streams it contains, in addition to the amount of rain it receives constantly. 
+  
 [Read more about Naguabo after María](https://www.washingtonpost.com/graphics/2018/national/a-year-after-hurricane-maria-a-puerto-rican-town-is-still-in-upheaval/?utm_term=.52c1f4084354) 
 </p>
 &nbsp;
