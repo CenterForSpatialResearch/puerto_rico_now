@@ -156,7 +156,7 @@ Canóvanas barrio-pueblo, Cubuy, Hato Puerco, Lomas, and Torrecilla Alta. Since 
 According to local news and FEMA Canóvanas has the third-worst housing damages on the island, And yet, it is one of the towns with the largest number of housing units with unattended needs, according to municipal documents.
 
 -[Read more about Canóvanas after María](https://www.nbcnews.com/storyline/puerto-rico-crisis/year-after-hurricane-maria-puerto-ricans-rebuild-amid-setbacks-n907086) 
--[and more](http://www.cdbg-dr.pr.gov/wp-content/uploads/ponencias/2018-03-13_Ponencia_Mun.%20Canovanas-Enmendada.pdf) 
+-[link 2](http://www.cdbg-dr.pr.gov/wp-content/uploads/ponencias/2018-03-13_Ponencia_Mun.%20Canovanas-Enmendada.pdf) 
 </p>
 
 <p float="left">
@@ -169,8 +169,8 @@ According to local news and FEMA Canóvanas has the third-worst housing damages 
 Comerío is located in the center-eastern region of the island and know for it closeness to the Río La Plata and by it mountainous region bot condition became a natural hazard since the river swelled by more than 60 feet causing inundation and landslides.
 
 -[Read more about Comerío after María](https://www.eenews.net/special_reports/in_the_dark/stories/1060078077) 
--[and more](https://www.washingtonpost.com/national/exodus-from-puerto-rico-grows-as-island-struggles-to-rebound-from-hurricane-maria/2018/03/06/b2fcb996-16c3-11e8-92c9-376b4fe57ff7_story.html?noredirect=on&utm_term=.8681bea87ae3) 
--[and more](https://www.nytimes.com/2018/03/20/opinion/hurricane-maria-puerto-rico.html) 
+-[link 2](https://www.washingtonpost.com/national/exodus-from-puerto-rico-grows-as-island-struggles-to-rebound-from-hurricane-maria/2018/03/06/b2fcb996-16c3-11e8-92c9-376b4fe57ff7_story.html?noredirect=on&utm_term=.8681bea87ae3) 
+-[link 3](https://www.nytimes.com/2018/03/20/opinion/hurricane-maria-puerto-rico.html) 
 -[VIDEO](https://www.youtube.com/watch?v=bHiPniuNFmw) 
 </p> 
 
@@ -181,9 +181,9 @@ Comerío is located in the center-eastern region of the island and know for it c
 <p align="left">
 Utuado is located in the central mountainous region of the island known as La Cordillera Central provoking massive landslides and downed trees that blocked the accessibility for the whole town for weeks. Utuado is also under a critical situation not only by nature but also because man made hazards as the  unmaintained the reservoirs of Dos Bocas has not been cleaned in decades hindering it capacity to retain water. Almost everything got washed out or covered with dirt when the combination of storm rain, full reservoir and destruction went out of control for the rural communities.
 
--[Read more about Utuado after María- VIDEO-](https://www.youtube.com/watch?v=6f4fkAzTNTg) 
--[VIDEO 1](https://www.youtube.com/watch?v=QorYhlj_oaA) 
--[VIDEO 2](https://www.youtube.com/watch?v=sXAio4AcoYU) 
+-[Watch these videos about Utuado after María- VIDEO 1](https://www.youtube.com/watch?v=6f4fkAzTNTg) 
+-[VIDEO 2](https://www.youtube.com/watch?v=QorYhlj_oaA) 
+-[VIDEO 3](https://www.youtube.com/watch?v=sXAio4AcoYU) 
 </p>
                        
 <p float="left">
@@ -195,16 +195,16 @@ Utuado is located in the central mountainous region of the island known as La Co
 Juncos is located in the eastern central region of the island, including ten barrios: Caimito,
 Ceiba Norte, Ceiba Sur, Gurabo Abajo, Gurabo Arriba, Juncos barrio-pueblo, Lirios, Mamey
 Valenciano Abajo, and Valenciano Arriba. Since 2004, and based on law 1-2001,  8 communities in Juncos were designated as Special Communities  (Comunidades especiales) in Puerto Rico to address high levels of poverty and lack of resources and opportunities; Flores, Santana 1 in Ceiba Norte, Canta Gallo, El Caracol, La Cuesta, Sector El Mangó, La Hormiga, Lirios Dorados, Hoyo Hondo
-Rosalía, Sector El Mangó. Juncos was declared a disaster area by the passage of Irma and María aggravated the situation to worst conditions since it  triggered numerous landslides. Juncos reported more than 1,000 people without roofs. At the same time this town reported problems of access to drinking water, gasoline, diesel and electricity, affected by landslides, floods and the fall of a large part of the power line that keeps almost 50 percent of its residents without electricity.
+Rosalía, Sector El Mangó. 
+
+Juncos was declared a disaster area by the passage of Irma and María aggravated the situation to worst conditions since it  triggered numerous landslides. Juncos reported more than 1,000 people without roofs. At the same time this town reported problems of access to drinking water, gasoline, diesel and electricity, affected by landslides, floods and the fall of a large part of the power line that keeps almost 50 percent of its residents without electricity.
 
 Based on local news the most affected sectors of Juncos were; La Placita, La Coroza, Mamey, Jacaranda, Mango (sectors Campo Alegre and Rosalia), Valenciano Arriba and Valenciano Abajo, as well as highways PR-198, PR-183, PR-185 and PR-919.
 
 
 -[Read more about Juncos after María](https://www.primerahora.com/noticias/gobierno-politica/nota/porjuncostambienpasoelhuracan-1251637/) 
-
--[and more](https://www.washingtonpost.com/national/hot-isolated-and-running-out-of-supplies-parts-of-puerto-rico-near-desperation/2017/09/24/7f3bcc78-a139-11e7-b14f-f41773cd5a14_story.html?utm_term=.4a4befd8694c) 
-
--[and more](https://huracanmaria.elnuevodia.com/2017/municipio/juncos/) 
+-[link 2](https://www.washingtonpost.com/national/hot-isolated-and-running-out-of-supplies-parts-of-puerto-rico-near-desperation/2017/09/24/7f3bcc78-a139-11e7-b14f-f41773cd5a14_story.html?utm_term=.4a4befd8694c) 
+-[link 3](https://huracanmaria.elnuevodia.com/2017/municipio/juncos/) 
 </p>
 
 <p float="left">
@@ -224,8 +224,7 @@ Naguabo is located in the southeast region of Puerto Rico.Since 2004, and based 
 
 #### **References**
 
-1. El Nuevo Día (2016, September 21) Colapso total del sistema de la AEE en Puerto Rico. Accessed September 22, 2016.
-<https://www.nesdis.noaa.gov/content/noaa-satellite-imagery-hurricane-jose-and-maria>
+1. El Nuevo Día (2016, September 21) Colapso total del sistema de la AEE en Puerto Rico. Accessed September 22, 2016. <https://www.nesdis.noaa.gov/content/noaa-satellite-imagery-hurricane-jose-and-maria>
 
 2. Farber, D. A. (2018). Response and Recovery after Maria: Lessons for Disaster Law and Policy.
 Retrieved from <https://papers.ssrn.com/abstract=3174466>
