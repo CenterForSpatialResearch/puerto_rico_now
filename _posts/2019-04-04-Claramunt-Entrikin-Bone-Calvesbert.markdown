@@ -22,8 +22,6 @@ Last September on 2017, Puerto Rico was hit by a category 4 hurricane leaving un
 </div>
 <p><em>Source:Banco de Municipio 2017 </em>
 </p>
-&nbsp;
-
 <p>
 Hurricane María also resurfaced an economic crisis and population loss that has been building up since 2006 as seen in the line-graphs.Before the hurricane,  Puerto Rico was experiencing decades of economic constraints at multiple levels that lead the island default multiple times creating  a debt load of $74 billion dollars-- systematically crunchy livelihood opportunities. Now the crippling territory is forced to deal simultaneously with the so-called public debt and the reconstruction of the country.   
 </p>
@@ -33,13 +31,13 @@ Hurricane María also resurfaced an economic crisis and population loss that has
 </div>
 <p><em>Source:US Census 2017 </em>
 </p>
-&nbsp;
 <p>
 In addition to the financial troubles , Puerto Rico has experienced a consistent loss in population, which has been  exacerbated  after the catastrophes and the unbearable living conditions for some. These two conditions when overlapped with other events in a timeline start to inform that the past eleven years Puerto Rico has been under socio economic distress while adjusting under an unbalanced realities like decrease in labor force and job opportunities, increase in the prices of products and services, contractions in social programs and accessibility for any special aid. 
 </p>
 <p>
 Yet, there are many socio-economic consequences related to the shrinkage of population and financial turmoil conditions nonetheless these are not equally distributed throughout the island given that Puerto Rico has seventy-eight municipalities (mapped below) suggesting that localized action has to be a core strategy and a closer look to these municipal boundaries is relevant. 
 </p>
+&nbsp;
 
 #### **What municipalities in Puerto Rico are at most risk in the event of another hurricane?**
 ![Puerto Rico](/puerto_rico_now/images/decision_model/PRMAP_path.jpg)
@@ -52,11 +50,10 @@ For instance it is noticeable by re-plotting the path of the hurricane that fith
 <p>
 In order to have a better idea of the Island and to further understand the geography and its municipalities is important to highlight that the seventy-eight municipalities have various geographical conditions, from coastal to inland and from rural to urban areas in addition to having  two separate municipal-islands Culebra and Vieques. Therefore using municipalities as a unit of study has constraints and difficult the creation of a baseline for comparing all municipalities at once since they vary not only in territory extension but also have diverse socio-economic conditions. However, acknowledging that municipalities are the second layer of governance (reflecting to an extent the central one) and at the same time are subjected to the “State” and Federal laws of the United States also marks a reason to study them. Furthermore, municipalities as localities, have become important arenas for decision-making, their role has had a pendulum effect during Puerto Rico's planning and management of the urban fabric indicating their importance as a departing point to look at.
 </p>
-
 &nbsp;
 
 #### **Mapping Municipalities at risk in Puerto Rico**
-
+&nbsp;
 >"Disasters are sometimes considered external shocks, but disaster risk results from the complex interaction between development processes that generate conditions of exposure, vulnerability and hazard. Disaster risk is therefore considered as the combination of the severity and frequency of a hazard, the numbers of people and assets exposed to the hazard, and their vulnerability to damage."(UNISDR, 2015a)
 &nbsp;
 
@@ -67,6 +64,7 @@ Source: Local pres - Humacao, Las María. 2017
 <p>
 Due to the identified importance of municipalities to the ability of communities to survive disasters, the project cross-reference physical and social vulnerability highlighting Municipalities at most risk in the event of another hurricane. This project develops a decision model utilizing social and physical vulnerability metrics that are first mapped individually and afterwards added into one final model to render a digital map showing a higher risk for municipalities together with other possible impact in their capacity to recover in the event of another hurricane. By acknowledging the definition of disaster risk , which is expressed as the likelihood of loss of life, injury or destruction and damage from a disaster in a given period of time (UNISDR, 2015.) This project incorporates social vulnerability aspects including sensitivity and adaptive capacity of communities, along with physical vulnerability including exposure to hazards as landslides and flooding, some which are still an ongoing impact of Hurricane María.
 </p>
+&nbsp;
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/Risk_Muni_v3.jpg)
 &nbsp;
@@ -78,7 +76,9 @@ Diagram: Methodology and metrics applied in the decision model
 &nbsp;
 <img src="/puerto_rico_now/images/decision_model/social_vulnerability_GIF.gif" class="full-img">
 &nbsp;
+<p>
 Data Source: Banco de Municipio, 2017 and US Census 2017.
+</p>
 &nbsp;
 &nbsp;
 <p>
@@ -97,8 +97,7 @@ Data Source: FEMA 2017
 The Physical vulnerability considers environmental conditions and registered impacts on the housing stock retrieved by using FEMA’s Individual assistance information and existing datasets from the build environment. The analysis considers “municipios” as a primary unit given the recopilated information is quantified at this level of governance. An existent social vulnerability index (SVI) for Puerto Rico developed in 2017 was revised, but as it is based on census tracts is not transferable to our study. This difference between census tracts and municipios is relevant because municipios are in charge until this moment of implementing and coordinating local acton plans also marking the as key players in the provision of services and resilience efforts for the communities. 
 </p>
 
-#### **Identifying municipalities that are at most risk in the event of another climate event**
-
+#### **Building a Decision Model: Social Vulnerability + Physical Vulnerability**
 &nbsp;
 <img src="/puerto_rico_now/images/decision_model/final_combined_gif.gif" class="full-img">
 &nbsp;
@@ -106,30 +105,30 @@ Data Source: Data Source: Banco de Municipio, 2017,  US Census 2017, FEMA 2017.
 &nbsp;
 &nbsp;
 
-
 <p>
 After identifying and mapping physical and social vulnerability indicators that further inform the current status of municipalities in Puerto Rico, the project performs a decision model that combines these two approaches by visualizing municipalities that are at most risk and vulnerable in the case of another climate event. The decision model shows three alternatives to identify municipalities at risk, first prioritizing social vulnerability, second prioritizing physical vulnerability and finally an unweighted map in which both physical and social indicators have the same weight. 
 </p>
 &nbsp;
 
+#### **Identifying municipalities that are at most risk in the event of another climate event**
 &nbsp;
-![Puerto Rico](/puerto_rico_now/images/decision_model/PRMAP.jpg)
-Source: Decision model results
+<img src="/puerto_rico_now/images/decision_model/PRMAP.jpg" class="full-img">
+&nbsp;
+Decision Model Results
+&nbsp;
 &nbsp;
 
 <p>
 The results of the analysis of Social and Physical vulnerability at a municipal level throughout a combined layer decision model marks that the municipalities of Yabucoa, Canóvanas, Comerío, Utuado, Juncos, and Naguabo are consistently ranking high scores. The scores suggest that significant conditions of vulnerability are in place signaling their risk to be able to recover at the moment and in future climate events. These identified municipalities could serve as case studies for further research and a starting point for any program or effort that offers extra aid or support that will come in the future. By identifying these five municipalities it can be argued that all the geographic conditions found in Puerto Rico are at stake since these five municipalities are from either the inner central mountainous region, coastal part or at the urban denser peripheries.
 </p> 
-&nbsp;
 <p> 
 In general Hurricane Maria revealed that the mitigation plans against hazards in Puerto Rico are not uniform, which makes it difficult for some of the municipalities to request and receive funds to finance the projects that could place them in a better position in regard of managing future emergencies. The mitigation plan is a document generated by the municipal government of Puerto Rico. Out of the five municipalities three (Utuado, Yabucoa and Comerío) have already been chosen by Puerto Rico’s Planning Board to provide support in reviewing and updating their mitigation plans (Alvarado,2019).
 </p>
 
 >The results of the analysis of Social and Physical vulnerability at a municipal level throughout a combined layer decision model marks that the municipalities of Yabucoa, Canóvanas, Comerío, Utuado, Juncos, and Naguabo are consistently high scored. These findings suggest that significant condition of risk are in place which requires immediate attention.
-
+&nbsp;
 
 #### **Snapshots to municipalities**
-&nbsp;
 
 <p float="left">
   <img src="/puerto_rico_now/images/decision_model/Yabucoa.gif" width="420" />
@@ -141,9 +140,9 @@ September 20. 6:15 a.m. It is the official time in which hurricane Maria, catego
 </p>
 &nbsp;
 &nbsp;
-<p>
+<left>
 [Read more about Yabucoa after María](https://www.usatoday.com/story/news/2018/03/11/yabucoa-puerto-rico-ground-zero-hurricane-maria-long-road-ahead-recovery/393118002/) 
-</p>
+</left>
 
 &nbsp;
 <p float="left">
