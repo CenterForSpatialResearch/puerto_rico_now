@@ -62,23 +62,20 @@ Source: Local pres - Humacao, Las María. 2017
 &nbsp;
 
 <p>
-Due to the identified importance of municipalities to the ability of communities to survive disasters, the project cross-reference physical and social vulnerability highlighting Municipalities at most risk in the event of another hurricane. This project develops a decision model utilizing social and physical vulnerability metrics that are first mapped individually and afterwards added into one final model to render a digital map showing a higher risk for municipalities together with other possible impact in their capacity to recover in the event of another hurricane. By acknowledging the definition of disaster risk , which is expressed as the likelihood of loss of life, injury or destruction and damage from a disaster in a given period of time (UNISDR, 2015.) This project incorporates social vulnerability aspects including sensitivity and adaptive capacity of communities, along with physical vulnerability including exposure to hazards as landslides and flooding, some which are still an ongoing impact of Hurricane María.
+Due to the identified importance of municipalities to the ability of communities to survive disasters, the project cross-reference physical and social vulnerability highlighting Municipalities at most risk in the event of another hurricane. This project develops a decision model utilizing social and physical vulnerability metrics that are first mapped individually and afterwards added into one final model to render a digital map showing a higher risk for municipalities together with other possible impact in their capacity to recover in the event of another hurricane. By acknowledging the definition of disaster risk , which is expressed as the likelihood of loss of life, injury or destruction and damage from a disaster in a given period of time (UNISDR, 2015.) This project incorporates social vulnerability aspects including sensitivity and adaptive capacity of communities, along with physical vulnerability including exposure to hazards as landslides and flooding, and housing individual assistance related to the ongoing impact of Hurricane María. The following diagram illustrates the metrics considered in a decision model to determine municipalities at risk.
 </p>
 &nbsp;
 
 ![Puerto Rico](/puerto_rico_now/images/decision_model/Risk_Muni_v3.jpg)
 &nbsp;
-Diagram: Methodology and metrics applied in the decision model
-&nbsp;
+
 
 #### **Mapping Social Vulnerability at a Municipal level**
 
 &nbsp;
 <img src="/puerto_rico_now/images/decision_model/social_vulnerability_GIF.gif" class="full-img">
 &nbsp;
-<p>
 Data Source: Banco de Municipio, 2017 and US Census 2017.
-</p>
 &nbsp;
 &nbsp;
 <p>
@@ -96,6 +93,7 @@ Data Source: FEMA 2017
 <p>
 The Physical vulnerability considers environmental conditions and registered impacts on the housing stock retrieved by using FEMA’s Individual assistance information and existing datasets from the build environment. The analysis considers “municipios” as a primary unit given the recopilated information is quantified at this level of governance. An existent social vulnerability index (SVI) for Puerto Rico developed in 2017 was revised, but as it is based on census tracts is not transferable to our study. This difference between census tracts and municipios is relevant because municipios are in charge until this moment of implementing and coordinating local acton plans also marking the as key players in the provision of services and resilience efforts for the communities. 
 </p>
+&nbsp;
 
 #### **Building a Decision Model: Social Vulnerability + Physical Vulnerability**
 &nbsp;
@@ -138,9 +136,8 @@ In general Hurricane Maria revealed that the mitigation plans against hazards in
 <p align="left">
 September 20. 6:15 a.m. It is the official time in which hurricane Maria, category 4 on the Saffir-Simpson scale, enters through Yabucoa. This is a southeastern town with ten barrios: Aguacate, Calabaza, Camino Nuevo, Guayabota, Jácana, Juan Marín, Limones, Playa, Pueblo, and Tejas. This area is known for its farmers and agricultural lands-- mostly produces plantains all heavily affected by the storm(3,000 to 4,000 acres of plantains were destroyed.)
 </p>
-&nbsp;
-&nbsp;
 <left>
+
 [Read more about Yabucoa after María](https://www.usatoday.com/story/news/2018/03/11/yabucoa-puerto-rico-ground-zero-hurricane-maria-long-road-ahead-recovery/393118002/) 
 </left>
 
