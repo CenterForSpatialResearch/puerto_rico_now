@@ -199,8 +199,11 @@ Rosalía, Sector El Mangó. Juncos was declared a disaster area by the passage o
 
 Based on local news the most affected sectors of Juncos were; La Placita, La Coroza, Mamey, Jacaranda, Mango (sectors Campo Alegre and Rosalia), Valenciano Arriba and Valenciano Abajo, as well as highways PR-198, PR-183, PR-185 and PR-919.
 
+
 -[Read more about Juncos after María](https://www.primerahora.com/noticias/gobierno-politica/nota/porjuncostambienpasoelhuracan-1251637/) 
+
 -[and more](https://www.washingtonpost.com/national/hot-isolated-and-running-out-of-supplies-parts-of-puerto-rico-near-desperation/2017/09/24/7f3bcc78-a139-11e7-b14f-f41773cd5a14_story.html?utm_term=.4a4befd8694c) 
+
 -[and more](https://huracanmaria.elnuevodia.com/2017/municipio/juncos/) 
 </p>
 
@@ -222,16 +225,16 @@ Naguabo is located in the southeast region of Puerto Rico.Since 2004, and based 
 #### **References**
 
 1. El Nuevo Día (2016, September 21) Colapso total del sistema de la AEE en Puerto Rico. Accessed September 22, 2016.
-https://www.nesdis.noaa.gov/content/noaa-satellite-imagery-hurricane-jose-and-maria
+<https://www.nesdis.noaa.gov/content/noaa-satellite-imagery-hurricane-jose-and-maria>
 
 2. Farber, D. A. (2018). Response and Recovery after Maria: Lessons for Disaster Law and Policy.
-Retrieved from https://papers.ssrn.com/abstract=3174466
+Retrieved from <https://papers.ssrn.com/abstract=3174466>
 
-3. Acevedo, N. (2018, September 18). A year after Hurricane Maria, Puerto Ricans rebuild amid setbacks. A Year after Hurricane Maria, Puerto RIcans Rebuild amid Setbacks. Retrieved from https://www.nbcnews.com/storyline/puerto-rico-crisis/year-after-hurricane-maria-puerto-ricans-rebuild-amid-setbacks-n907086
+3. Acevedo, N. (2018, September 18). A year after Hurricane Maria, Puerto Ricans rebuild amid setbacks. A Year after Hurricane Maria, Puerto RIcans Rebuild amid Setbacks. Retrieved from <https://www.nbcnews.com/storyline/puerto-rico-crisis/year-after-hurricane-maria-puerto-ricans-rebuild-amid-setbacks-n907086>
 
-4. Alvarado León, G. (2019, June 2). Los municipios actualizan sus planes de mitigación. El Nuevo Dia. Retrieved from https://www.elnuevodia.com/noticias/locales/nota/losmunicipiosactualizansusplanesdemitigacion-2497113/
+4. Alvarado León, G. (2019, June 2). Los municipios actualizan sus planes de mitigación. El Nuevo Dia. Retrieved from <https://www.elnuevodia.com/noticias/locales/nota/losmunicipiosactualizansusplanesdemitigacion-2497113/>
 
-5. Bauzá, N. (2017, September 28). La comunidad en Punta Santiago sobrevive unida. El Nuevo Dia. Retrieved from https://www.elnuevodia.com/noticias/locales/nota/lacomunidadenpuntasantiagosobreviveunida-2361115/
+5. Bauzá, N. (2017, September 28). La comunidad en Punta Santiago sobrevive unida. El Nuevo Dia. Retrieved from <https://www.elnuevodia.com/noticias/locales/nota/lacomunidadenpuntasantiagosobreviveunida-2361115/>
 
 6. Instituto de Estadísticas crea sección para facilitar datos sobre huracán María. (2017, October 5). Retrieved June 27, 2019, from Mi Puerto Rico Verde website: <https://www.miprv.com/instituto-de-estadisticas-crea-seccion-para-facilitar-datos-sobre-huracan-maria/>
 
