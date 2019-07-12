@@ -20,8 +20,10 @@ Last September on 2017, Puerto Rico was hit by a category 4 hurricane leaving un
 <div class="iframe-column">
   <iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=bbabcf06-9213-11e9-b9b8-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0"></iframe>
 </div>
+<left>
 <p><em>Source:Banco de Municipio 2017 </em>
 </p>
+</left>  
 <p>
 Hurricane María also resurfaced an economic crisis and population loss that has been building up since 2006 as seen in the line-graphs.Before the hurricane,  Puerto Rico was experiencing decades of economic constraints at multiple levels that lead the island default multiple times creating  a debt load of $74 billion dollars-- systematically crunchy livelihood opportunities. Now the crippling territory is forced to deal simultaneously with the so-called public debt and the reconstruction of the country.   
 </p>
@@ -133,13 +135,14 @@ In general Hurricane Maria revealed that the mitigation plans against hazards in
   <img src="/puerto_rico_now/images/decision_model/Yabucoa.jpg" width="220" /> 
 </p> 
 
-<p align="left">
+<left>
+<p>
 September 20. 6:15 a.m. It is the official time in which hurricane Maria, category 4 on the Saffir-Simpson scale, enters through Yabucoa. This is a southeastern town with ten barrios: Aguacate, Calabaza, Camino Nuevo, Guayabota, Jácana, Juan Marín, Limones, Playa, Pueblo, and Tejas. This area is known for its farmers and agricultural lands-- mostly produces plantains all heavily affected by the storm(3,000 to 4,000 acres of plantains were destroyed.)
 </p>
-<left>
-
-[Read more about Yabucoa after María](https://www.usatoday.com/story/news/2018/03/11/yabucoa-puerto-rico-ground-zero-hurricane-maria-long-road-ahead-recovery/393118002/) 
+Read more about Yabucoa after María
 </left>
+[LINK](https://www.usatoday.com/story/news/2018/03/11/yabucoa-puerto-rico-ground-zero-hurricane-maria-long-road-ahead-recovery/393118002/) 
+
 
 &nbsp;
 <p float="left">
