@@ -128,19 +128,18 @@ In general Hurricane Maria revealed that the mitigation plans against hazards in
 >The results of the analysis of Social and Physical vulnerability at a municipal level throughout a combined layer decision model marks that the municipalities of Yabucoa, Canóvanas, Comerío, Utuado, Juncos, and Naguabo are consistently high scored. These findings suggest that significant condition of risk are in place which requires immediate attention.
 &nbsp;
 
-#### **Snapshots to municipalities**
+#### **Snapshots to Municipalities**
 
 <p float="left">
   <img src="/puerto_rico_now/images/decision_model/Yabucoa.gif" width="420" />
   <img src="/puerto_rico_now/images/decision_model/Yabucoa.jpg" width="220" /> 
 </p> 
 
-<left>
 <p>
 September 20. 6:15 a.m. It is the official time in which hurricane Maria, category 4 on the Saffir-Simpson scale, enters through Yabucoa. This is a southeastern town with ten barrios: Aguacate, Calabaza, Camino Nuevo, Guayabota, Jácana, Juan Marín, Limones, Playa, Pueblo, and Tejas. This area is known for its farmers and agricultural lands-- mostly produces plantains all heavily affected by the storm(3,000 to 4,000 acres of plantains were destroyed.)
 </p>
 Read more about Yabucoa after María
-</left>
+
 [LINK](https://www.usatoday.com/story/news/2018/03/11/yabucoa-puerto-rico-ground-zero-hurricane-maria-long-road-ahead-recovery/393118002/) 
 
 
@@ -151,7 +150,7 @@ Read more about Yabucoa after María
 &nbsp;
 </p>
 
-<p align="left">
+<p>
 Canóvanas is located in the northeastern region including six barrios; Canóvanas
 Canóvanas barrio-pueblo, Cubuy, Hato Puerco, Lomas, and Torrecilla Alta. Since 2004, and based on law 1-2001,  19 communities in Canóvanaswere designated as Special Communities  (Comunidades especiales) in Puerto Rico to address high levels of poverty and lack of resources and opportunities.Floods are typical during the storm season, between June and November. Most flat areas are subject to occasional flooding and flood-prone alluvial valley of the Río Grande de Loíza and its main tributaries, the Río Canóvanas and Río Canovanillas.
 &nbsp;
@@ -167,7 +166,7 @@ According to local news and FEMA Canóvanas has the third-worst housing damages 
 &nbsp;
 </p>
 
-<p align="left">
+<p>
 Comerío is located in the center-eastern region of the island and know for it closeness to the Río La Plata and by it mountainous region bot condition became a natural hazard since the river swelled by more than 60 feet causing inundation and landslides.
 &nbsp;
 [Read more about Comerío after María](https://www.eenews.net/special_reports/in_the_dark/stories/1060078077) 
@@ -193,7 +192,7 @@ Utuado is located in the central mountainous region of the island known as La Co
   <img src="/puerto_rico_now/images/decision_model/Juncos.jpg" width="220" /> 
 </p>
 
-<p align="left">
+<p>
 Juncos is located in the eastern central region of the island, including ten barrios: Caimito,
 Ceiba Norte, Ceiba Sur, Gurabo Abajo, Gurabo Arriba, Juncos barrio-pueblo, Lirios, Mamey
 Valenciano Abajo, and Valenciano Arriba. Since 2004, and based on law 1-2001,  8 communities in Juncos were designated as Special Communities  (Comunidades especiales) in Puerto Rico to address high levels of poverty and lack of resources and opportunities; Flores, Santana 1 in Ceiba Norte, Canta Gallo, El Caracol, La Cuesta, Sector El Mangó, La Hormiga, Lirios Dorados, Hoyo Hondo
@@ -214,7 +213,7 @@ Based on local news the most affected sectors of Juncos were; La Placita, La Cor
 <p>
 Naguabo is located in the southeast region of Puerto Rico.Since 2004, and based on law 1-2001,  9 barrios in  Naguabo were designated as Special Communities  (Comunidades especiales) in Puerto Rico to address high levels of poverty and lack of resources and opportunities; Relámpago, Río barrio, Santiago y Lima barrio, Daguao barrio, La Florida, Casco Urbano in barrio-pueblo, Húcares, Maizales, and Río Blanco. This town is known for it closesness  to the tropical forest El Yunque to the extent that the town known as “El Pueblo de los Enchumbaos” in eglish “The Town of the Drenched Ones”  given the amount of rivers and streams it contains, in addition to the amount of rain it receives constantly.
 </p>
-<p style='text-align: left'>
+<p style='text-align: left;'>
 [Read more about Naguabo after María](https://www.washingtonpost.com/graphics/2018/national/a-year-after-hurricane-maria-a-puerto-rican-town-is-still-in-upheaval/?utm_term=.52c1f4084354) 
 </p>
 &nbsp;
