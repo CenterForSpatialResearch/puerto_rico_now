@@ -1,29 +1,29 @@
 ---
 layout: post
 date:   2019-03-29
-image: "/puerto_rico_now/images/food_soverignty/Sancocho Title Image.png"
+image: "/images/food_soverignty/Sancocho Title Image.png"
 title:  "A Recipe for Food Justice"
 author: "Crystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 ---
 <br>
-<image src="/puerto_rico_now/images/food_soverignty/Sancocho White.png">
+<image src="/images/food_soverignty/Sancocho White.png">
 	<br><br><br>
 	<p>
 	Food is more than sustenance. The foods we eat and how they are made can speak volumes about the cultures and histories that brought them to life. <br><br>Sancocho, a traditional Puerto Rican stew, is lovingly prepared from commonly found ingredients that, when brought together, magically transform into a satisfying and nourishing meal that can feed a whole community.<br><br>
 	Though sofrito serves as the seasoning base for the recipe, ingredients will vary from table to table adapting to what is readily available. But even then, the hearty stew will always have bits of carne (beef), plátano (plantain), yucca (cassava root) y maiz (corn) simmering away  in the caldero (pot). Together, each of these ingredients will fill homes with a delightful, and for many, a nostalgic aroma. </p>
-	<image src="/puerto_rico_now/images/food_soverignty/85 percent white.jpg">
+	<image src="/images/food_soverignty/85 percent white.jpg">
 	<p>However, our constantly simmering pot of ingredients is no longer locally produced. Colonialism has always centered on the exploitation and destruction of food systems through forced or cheap labor. As the oldest colony in the world, it is intelligible that 85 percent of the island’s food is sourced outside Puerto Rico, including agricultural goods that once grew abundantly on the island. Thus, grocery dollars spent continue to exit the country instead of circulating and strengthening its local economy.  <br><br>While it is highly unlikely that Puerto Rico will ever be able to produce all of its own food, a multiplicity of non-government organizations (NGOs) are working hard to decrease dependence on foreign importation and strengthen agroecological farming practices. Through the humble practice of making sancocho, we trace back the places where ingredients have traveled from and explore the current hegemonic structures that dominate Puerto Rico’s food production. Further, we aim to elevate non-government agencies that are seeking to change it through collective action and radical transparency. </p><br>
-	<image src="/puerto_rico_now/images/food_soverignty/Measuring plantains in Trujillo Alto WSJ .jpg"> <i>Plantains being weighed for distribution at Angelito's Place in Trujillo Alto, Wall Street Journal (2014)</i>
+	<image src="/images/food_soverignty/Measuring plantains in Trujillo Alto WSJ .jpg"> <i>Plantains being weighed for distribution at Angelito's Place in Trujillo Alto, Wall Street Journal (2014)</i>
 		<br><br><br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>1. Season pieces of beef. Dredge in flour and sear.
 </i></span><br><br>
-<img src="/puerto_rico_now/images/food_soverignty/01 Meat.png"><i>Meat Import Map</i><br><br>
+<img src="/images/food_soverignty/01 Meat.png"><i>Meat Import Map</i><br><br>
 <p>Sancocho is commonly made with beef and pork proteins. In 2016, Puerto Rico imported approximately 890 million US dollars worth of cow and pig-based meats from fourteen different countries. While some of the beef is being imported from Central America, a surprising 100 thousand kilograms of it travels from the distant land of Australia.<br><br>Such massive imports of meat came about with the industrialization of the island in the 1950s. Not only did mass importation drastically change how and what Puerto Ricans ate, but it also restricted where food could be purchased. Farmers in rural areas begin migrating to urban areas for new work. Food imports began arriving from the United States to compensate for the reduction in local agricultural labor and production. This lead to the introduction of supermarkets that touted mainland American goods, and ultimately, implemented a longstanding change in Puerto Ricans’ diets. <br><br>Historic accounts of food in Puerto Rico rarely mentioned the consumption of meat. However, the implementation of supermarkets all across the island increased ease of access to meats, processed foods, and indiscriminately decreased the variation in produce. Today, we see that approximately 43 percent of islanders receive food stamps from the government and are required to shop at authorized supermarkets that have limited variety of food and with little or no stock of local produce.</p><br><br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>2. Add sofrito, onion, garlic, and sweet peppers. Cook until onion is translucent.</i></span>
 <br><br>
-<img src="/puerto_rico_now/images/food_soverignty/02 Sofrito.png"><i>Sofrito Import Map</i><br><br>
+<img src="/images/food_soverignty/02 Sofrito.png"><i>Sofrito Import Map</i><br><br>
 <p>Sofrito is a Puerto Rican seasoning base made of garlic, cilantro, culantro, onions, and sweet peppers. This can be found in almost every home refrigerator making it a seasoning that exists at the epicenter of Puerto Rican cuisine. Garlic, originally introduced by the Spanish, does not appear to be grown locally. In 2016, 3.5 million kilograms of garlic valued at 7.5 million US dollars was imported to make up for this dearth. Additionally, 16 million US dollars worth of onions and onion products were brought in from places as far as Canada, China, and Denmark.<br><br>The compounding price spent on imported foods continues to be alarming. But, it’s important to note it as a byproduct of colonization capitalistic interest in land production. Decades before the industrialization of the island, the US provided sugar production incentives to industrial farmers who would be growing their crops in Puerto Rico. This lead to the overturn of agriculturally diverse lands into desolate areas meant for the management of a single crop; the monosolatecrop. Agriculture lands were shaped up to meet the demands of the global economy as opposed to the local food system.</p><br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>3. Add broth and bring to a boil. Simmer to reduce.</i></span>
@@ -32,7 +32,7 @@ author: "Crystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>4. Add Plátanos, yucca, carrots, and any other starchy or root vegetables you have on hand.  Simmer until tender and thickened.</i></span>
 <br><br>
-<img src="/puerto_rico_now/images/food_soverignty/03 Starches.png"><i>Starches Import Map</i><br><br>
+<img src="/images/food_soverignty/03 Starches.png"><i>Starches Import Map</i><br><br>
 <p>A number of starchy fruits and vegetables fill the body of the sancocho and the bellies of millions. In fact, many people choose to forego any animal products and rely on the sweet and tender flavors of plátano, yucca, and carrot to fill them up. Just under 900 thousand kilograms of plantains valued at 1.3 million USD, over 2.2 million kilograms of yucca valued at over 1.5 million US dollars, and  3.6 million kilograms of carrots valued at just under 2.9 million US dollars were brought into Puerto Rico in 2016.   
 <br><br>However, crops, such as plantain, yucca, and carrot, were seen as unprofitable and were replaced by large-scale mechanized agriculture, many of which were monoculture plantations that are simply in the business of making profits. Many negative consequences arise with the practice of growing one crop on large plots of land:</p><br>
 
@@ -48,13 +48,13 @@ author: "Crystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 <br><p>Agro-ecology farming is an alternative model for industrial agriculture that is concerned with all aspects of food production. It is free of agro-chemicals and brings back traditional farming methods that enhance ecosystems. Not only is it concerned with how farming is done but with who farms. Inclusive farming focuses on knowledge and the sharing of that knowledge as well as the health of the societies it depends on. Agro-ecology, therefore, supports the connections between people and the environment making it an essential tool in achieving food sovereignty.</p><br>
 
 
-<img src="/puerto_rico_now/images/food_soverignty/Yucca being peeled.jpg"><i>Person preparing yucca for cooking, Eater Magazine (2018)</i><br><br><br>
+<img src="/images/food_soverignty/Yucca being peeled.jpg"><i>Person preparing yucca for cooking, Eater Magazine (2018)</i><br><br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>5. Add Corn. Simmer until all the vegetables are soft.</i></span>
 <br><br>
-<img src="/puerto_rico_now/images/food_soverignty/04 Corn.png"><i>Corn Import Map</i><br><br>
+<img src="/images/food_soverignty/04 Corn.png"><i>Corn Import Map</i><br><br>
 <p>After beef, corn is the second-largest food import of the ingredients of sancocho. Over 154 million kilograms of corn valued at 116 million USD are brought in a variety of forms including whole cobs, frozen kernels, canned nibs, oils, and flours. Puerto Rico has the ideal climate for growing corn, giving it three seasons in one year for harvest. <br><br>Knowing this condition of corn on Puerto Rico, Monsanto, a multi-national bio-technological seed corporation, scored big. The GMO seed producer and player in agro-technological experimentation receives extensive governmental benefits for their branch in Puerto Rico. along Multi-national seed corporations like Monsanto control just under 6,500 acres of the most fertile and arable lands in between Guayama and Juana Díaz. 44 percent of those lands are leased to these companies through the government and are used mainly for testing, not for the growing of food. Between 2006 and 2015, the transgenic seed and agro-chemical industry received more than 526 million dollars in subsidies and tax exemptions. The Puerto Rican government also refunds two dollars and 72 cents per hour of work paid by companies of unskilled laborers. Seed companies also get discounted rates on water sources from the Puerto Rico Electric Power Authority (PREPA), and will ultimately pay two dollars per acre-foot while other customers will pay from 163 and 325 dollars. All these benefits create a paradise for outside corporations to amass large amounts of wealth and damage local ecosystems. Their ability to extract wealth for Puerto Rico is made possible with through these nefarious government alliances, thus true agricultural revival and independence will not be achieved through regulatory efforts as evidenced by the quote below.</p><br><br>
-<img src="/puerto_rico_now/images/food_soverignty/government white.jpg"><br><br>
+<img src="/images/food_soverignty/government white.jpg"><br><br>
 
 
 <span style="font-family:'Open Sans', sans-serif; font-size:14pt;"><i>6. Garnish with cilantro. Eat with your community.
@@ -63,12 +63,12 @@ author: "Crystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 <p>Fresh cilantro is added to brighten the stew before serving. In 2016, 35 thousand kilograms of coriander seeds used to grow cilantro were imported at a total cost of 70 thousand dollars.<br><br>Cilantro is but a pittance of what gets brought into Puerto Rico. In 2016 alone, over one billion US dollars were spent on the select ingredients highlighted in this research. We believe these dollars could have made a positive contribution to the local economy had they been spent in ways that supported the local food system. Thus we have identified Puerto Ricans that are seeking to change the power dynamic by empowering those in their communities and placing them at the center of the food system. They continue to gather and collaborate with other grass root industries, creating the forces needed for radical transformation and decolonization.<br><br>TThe seeds of change are being cultivated by Puerto Ricans NGOs, food projects, and businesses that are focused on reversing the damage done to their local food system. Agro-ecological principles are at the core of grassroots agricultural organizations such as Cooperativa Organica Madre Tierra, La Organización Boricuá de Agricultura, Siembra Boricua, Taina Soy Apiario, and El Departamento de La Comida, all of whom are working to remove colonial structures of food production and give agency to local Puerto Rican farmers and residents in their food-purchasing decisions. Together, these NGOs have established seed banks, increased distribution of local produce, helped create new eco-farming systems for farmers, designed school gardens, involved students for learning opportunities, saved beehives, sourced non-governmental funding, supported entrepreneurs and so, so much more.<br><br>These organizations are primarily led by women and queer people, who are organizing to dismantle the political and historical processes that have made Puerto Rico so dependent on food importation. <br><br>At many of their meetings, you may find them nourishing one another with bowls of sancocho, practicing their culinary traditions and creating new recipes for food justice.</p><br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:16pt;"><b>So, How many Countries does it take to make Sancocho?</b></span><br><br><br>
-<img src="/puerto_rico_now/images/food_soverignty/Imports-GIF.gif"><i>Sancocho Ingredients Import Map</i><br><br><br>
+<img src="/images/food_soverignty/Imports-GIF.gif"><i>Sancocho Ingredients Import Map</i><br><br><br>
 <p>Data revealed that in 2016, 23 countries were sourced for ingredients commonly used in the making of sancocho. Though we were able to find this collection of data, an extensive report outlining what the 85 percent of food imports includes or excludes is not readily available.<br><br>While the countries that were exporting were found, it was impossible to calculate the number of miles traveled per food because the farms where produce was grown and the ports through which the food travelled were aggregated. We know that under the Jones Act of 1917, all imports are required to stop at a US port and goods are transferred to US cargo ships before arriving in Puerto Rico. </p><br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:16pt;"><b>Can Food Sovereignty be achieved without Political Sovereignty?
 </b></span><br><br>
-<img src="/puerto_rico_now/images/food_soverignty/sovereignty teal.jpg"><br><br>
+<img src="/images/food_soverignty/sovereignty teal.jpg"><br><br>
 <p>It is clear amongst Puerto Ricans that the current political status is both antiquated and deificient at handling the agricultural industry of the island. The existing governmental structures favor top-down approaches to agricultural production, placing dollars in pockets of large corporations. Though it is unclear what alternative political governance may look like, we know that non-governmental organizations are essential to the dismantling of colonial structures as their bottom-up approach genuinely works towards food sovereignty. Though, they have made  significant strides in fixing the ills of the past, many of these organizations need funding to continue their work thus complete food sovereignty will continue to be challenged by the complicated political status of Puerto Rico.</p><br><br>
 
 <span style="font-family:'Open Sans', sans-serif; font-size:16pt;"><b>Detecting the Pulse of Local Agriculture from a Distance</b></span><br><br>
@@ -86,8 +86,4 @@ author: "Crystal Herrera Pereira, Kevin Nick Borja, Shiori Osakata"
 2. Look for these organizations on the Map and follow them on Facebook<br>
 3. Vote on behalf of the Puerto Ricans on the island
 <br><br>
-<img src="/puerto_rico_now/images/food_soverignty/response_puertorico.jpg"><i>Illustration of local agriculture and community support, K. Lynch (2018) </i>
-
-
-
-
+<img src="/images/food_soverignty/response_puertorico.jpg"><i>Illustration of local agriculture and community support, K. Lynch (2018) </i>

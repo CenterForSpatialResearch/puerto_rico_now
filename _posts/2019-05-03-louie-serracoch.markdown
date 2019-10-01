@@ -1,11 +1,11 @@
 ---
 layout: post
 date:   2019-05-03
-image: "/puerto_rico_now/images/recovery/conflict-resolution-thumbnail.png"
+image: "/images/recovery/conflict-resolution-thumbnail.png"
 title:  "Conflict Resolution through Mapping"
 author: "Ashley Louie & Gloria Serra Coch"
 ---
-![Agency Through Mapping](/puerto_rico_now/images/recovery/decision-model-diagram.png)
+![Agency Through Mapping](/images/recovery/decision-model-diagram.png)
 
 #### **Puerto Rico Today**
 **Debt and Disaster**
@@ -18,14 +18,14 @@ As disaster funds for Puerto Rico are allocated, how and where funds are distrib
 **What are Decision Models?**
 In typical planning methodologies, decision models or Multicriteria Decision Analysis (MCDA) are “tools to augment, enable, or automate the decision-making process... where decision making is complex and/or requires several forms of input information.”[8] In a situation like Puerto Rico, with serious infrastructural damage to infrastructure from Hurricane Maria and many services cut due to austerity, a variety of factors will contribute to a decision making process on where to allocate recovery funds.
 
-When place-based decisions are the focus of the analysis, a decision model can illustrate spatial relationships between multiple layers of information can be weighted, and can help us envision a strategy for prioritizing improvements for the future of Puerto Rico. Because decision models rely on a rational mathematic process, it is assumed that "good data may be all we need for objectivity and objectivity may be all we need for fairness."[9] 
+When place-based decisions are the focus of the analysis, a decision model can illustrate spatial relationships between multiple layers of information can be weighted, and can help us envision a strategy for prioritizing improvements for the future of Puerto Rico. Because decision models rely on a rational mathematic process, it is assumed that "good data may be all we need for objectivity and objectivity may be all we need for fairness."[9]
 
 <p class="text">However, this poses the question:
 **The best decisions for whom?**</p>
 
 Despite the logical method, data is biased and weighted priorities can favor different outcomes. Decision models should not be understood as objective stand-alone tools, but as a system to weigh the priorities of stakeholders. The potential to represent different values can assist collaborative negotiation and consensus building processes, “where multiple communities with differing priorities must negotiate political (planning) processes for public decision making, data-driven decision support tools have been used to help visualize and describe alternative scenarios and outcomes.”[9]
 
-<!-- ![Decision Model](/puerto_rico_now/images/recovery/DecisionModel.jpg) -->
+<!-- ![Decision Model](/images/recovery/DecisionModel.jpg) -->
 
 If we can teach community leaders how to read into the assumptions of maps created through MCDA and use the tool to promote their own values, we can equip them with the knowledge and tools to defend their own priorities. Our goal is to empower communities to use the decision model as a participatory tool for advocacy and negotiation.
 
@@ -56,7 +56,7 @@ Prior to Hurricane Maria, the Puerto Rican government had already been strugglin
   <li>Build robust economy</li>
 </ul>
 
-<p class="img-left"><img src="/puerto_rico_now/images/recovery/CommunityLeader_layers.jpg" alt="Community Leader Data Layers Mapped"></p>
+<p class="img-left"><img src="/images/recovery/CommunityLeader_layers.jpg" alt="Community Leader Data Layers Mapped"></p>
 
 <p class="text-right">Data Layers Mapped:</p>
 <ul class="list-right">
@@ -100,7 +100,7 @@ Within the greater context of climate change, natural disasters have become more
   <li>Reduce risk from future threats (i.e. hurricanes, flood inundation, landslides, etc.)</li>
 </ul>
 
-<p class="img-left"><img src="/puerto_rico_now/images/recovery/RecoveryResilience_layers.jpg" alt="Recovery & Resilience Data Layers Mapped"></p>
+<p class="img-left"><img src="/images/recovery/RecoveryResilience_layers.jpg" alt="Recovery & Resilience Data Layers Mapped"></p>
 
 <p class="text-right">Data Layers Mapped:</p>
 <ul class="list-right">
@@ -144,7 +144,7 @@ With the lure of being an easily accessible island destination to U.S. citizens 
   <li>Beautify tourist destination areas</li>
 </ul>
 
-<p class="img-left"><img src="/puerto_rico_now/images/recovery/ExternalInvestor_layers.jpg" alt="External Investor Data Layers Mapped"></p>
+<p class="img-left"><img src="/images/recovery/ExternalInvestor_layers.jpg" alt="External Investor Data Layers Mapped"></p>
 
 <p class="text-right">Data Layers Mapped:</p>
 <ul class="list-right">
@@ -168,15 +168,15 @@ Many external investors see Puerto Rico is a desirable location for investors to
 </ol>
 
 #### **Weighting Stakeholder Values**
-![Puerto Rico Decision Model](/puerto_rico_now/images/recovery/DecisionModel2.jpg)
+![Puerto Rico Decision Model](/images/recovery/DecisionModel2.jpg)
 
-All the maps show a range of shades, from lighter to darker. Darker shades mean higher values, which also mean that those areas should be prioritized when deciding how to allocate resources in puerto Rico. 
+All the maps show a range of shades, from lighter to darker. Darker shades mean higher values, which also mean that those areas should be prioritized when deciding how to allocate resources in puerto Rico.
 
-In Valeria’s map, we can see how the distribution is very spread out throughout the island, which indicates that all the Island is in need of more resources. In the case of Maria’s map, we can detect higher values on the North East coast of the Island. In this case, this area is prioritized because it was the most damaged by the hurricane, according to FEMA data, while also having higher density of population potentially affected by it. In the case of Bill, we can see how his map highly prioritizes coastal areas and urban centres. This is a result of being tourist locations and also areas with more potential for development. This map also shows a more unequal distribution, with the mentioned concentrated areas valued very high and the rest of the island valued very low. 
+In Valeria’s map, we can see how the distribution is very spread out throughout the island, which indicates that all the Island is in need of more resources. In the case of Maria’s map, we can detect higher values on the North East coast of the Island. In this case, this area is prioritized because it was the most damaged by the hurricane, according to FEMA data, while also having higher density of population potentially affected by it. In the case of Bill, we can see how his map highly prioritizes coastal areas and urban centres. This is a result of being tourist locations and also areas with more potential for development. This map also shows a more unequal distribution, with the mentioned concentrated areas valued very high and the rest of the island valued very low.
 
-If Valeria, Maria and Bill were on a meeting with all of them advocating for their own priorities, different results could be met. In the case of the three of them having the same type of agency and agreeing to balance their values, coastal and urban areas would still be prioritized, specially places like San Juan or El Ponce. However, certain central municipalities would still be given high values, such as the northern area of Utuado, Ciales or south of Coamo. In general, the maps also show how the municipality division are not a good spatial unit to distribute the resources, as their boundaries hardly match the different shades of prioritization. 
+If Valeria, Maria and Bill were on a meeting with all of them advocating for their own priorities, different results could be met. In the case of the three of them having the same type of agency and agreeing to balance their values, coastal and urban areas would still be prioritized, specially places like San Juan or El Ponce. However, certain central municipalities would still be given high values, such as the northern area of Utuado, Ciales or south of Coamo. In general, the maps also show how the municipality division are not a good spatial unit to distribute the resources, as their boundaries hardly match the different shades of prioritization.
 
-If Maria and Valeria, the two puerto ricans, would align and impose their values, they would be able to press for more attention in the central areas of the Island, especially on the East side, arguing that they were more damaged by the hurricane and need more recovery funds. In addition, they could also argue for more access to services for the population, in municipalities like Villalba and Jayuya. 
+If Maria and Valeria, the two puerto ricans, would align and impose their values, they would be able to press for more attention in the central areas of the Island, especially on the East side, arguing that they were more damaged by the hurricane and need more recovery funds. In addition, they could also argue for more access to services for the population, in municipalities like Villalba and Jayuya.
 
 On the other side, if Maria decided to partner with Bill in order to focus on building a more competitive economy on the Island, rural areas would be more neglected, with the resources allocated in the coastal regions and the urban centers of population. San Juan, Ponce and Mumacao would receive the higher investment in that case.
 
