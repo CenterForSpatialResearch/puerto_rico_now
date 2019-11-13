@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2019-03-29
+date:   2019-05-01
 image: "/images/public_art/TITLE.PNG"
 
 title:  "Isla Verde Como Lección; Ocean Park Como Eventual Oposición"

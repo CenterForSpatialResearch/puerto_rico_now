@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2019-05-03
+date:   2019-05-11
 image: "/images/outage/thumbnail2.jpg"
 title:  "The Power of Outage"
 author: "Richard Chou & Lorena Galvao"
