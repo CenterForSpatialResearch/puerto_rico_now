@@ -3,8 +3,7 @@ layout: post
 date:   2019-03-29
 image: "/images/public_art/TITLE.PNG"
 
-title:  "ISLA VERDE COMO LECCIÓN;
-OCEAN PARK COMO EVENTUAL OPOSICIÓN"
+title:  "Isla Verde Como Lección; Ocean Park Como Eventual Oposición"
 author: "Tim Daniel Battelino, Daniel Bernal, Aris Minaretzis Tsionos, Jean Pierre Villafane"
 ---
 
