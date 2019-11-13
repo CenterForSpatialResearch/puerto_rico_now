@@ -10,11 +10,8 @@ While Hurricane Maria was undoubtedly powerful, making landfall in Puerto Rico w
 
 A well-known demonstration of this infrastructural failure during recovery was created using NASA’s Black Marble data by a team at the Goddard Space Flight Center. A series of images displays Puerto Rico’s night sky as a factor of luminosity; first, a baseline, then, immediately following Hurricane Maria, then through the following months during the island’s slow restoration of power. The published data was last collected March 20, 2018. On this day, The Department of Energy reported that 92% of its customers had been restored power; The Federal Communications Commission reported that 95% of cell sites were operable; and PREPA reported that 99% of peak load on the island, 95% of customers, and 100% of municipalities had been restored power. These numbers imply that infrastructural, and even consumer, energy consumption was near equivalent to consumption levels pre-Hurricane Maria. If this were the case, the latest visualization from NASA’s project should appear near-identical to the island’s baseline visualization - but it does not.  
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=15643cfe-7112-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe></div>
+<div class="iframe-column"><iframe src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=15643cfe-7112-11e9-8106-0edaf8f81e27" style="position:absolute;top:0;left:0;width:100%;height:200%;" frameborder="0"></iframe></div>
 
-&nbsp;
-
-&nbsp;
 
 *Source: NASA Goddard Space Flight Center*  
 
