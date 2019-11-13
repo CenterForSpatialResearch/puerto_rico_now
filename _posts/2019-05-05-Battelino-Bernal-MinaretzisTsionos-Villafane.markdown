@@ -1,7 +1,7 @@
 ---
 layout: post
 date:   2019-03-29
-image: "/images/public_art/TITLE.png"
+image: "/images/public_art/TITLE.PNG"
 
 title:  "ISLA VERDE COMO LECCIÓN;
 OCEAN PARK COMO EVENTUAL OPOSICIÓN"
