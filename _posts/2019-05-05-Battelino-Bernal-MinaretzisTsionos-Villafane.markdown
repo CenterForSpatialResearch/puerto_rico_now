@@ -16,7 +16,8 @@ The current state of vulnerability that Puerto Rico finds itself in provides amp
 Puerto Rico became even more desirable to American investors after Governor Ricardo Rosselló announced 98% of Puerto Rico as an Opportunity Zone. The announcement came after The US Treasury Department and IRS defined Puerto Rico as an opportunity zone based upon the [US Tax Cuts and Job Act of 2017](https://home.treasury.gov/news/press-releases/sm0341). Opportunity Zones are intended to foster investment in the *nation’s* disadvantaged communities. Hurricane Maria’s impact on the island fits the rhetoric of investment into low income communities, but whether they will substantially aid needy communities is another question.
 <br>
 
-<div class="iframe-column">
+
+<div class="iframe-full">
   <iframe width="940" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Opportunity Zones" src="https://opportunitydb.maps.arcgis.com/apps/webappviewer/index.html?id=6c94c8e9345d4614b247aac7cf314dc9">
   </iframe>
 </div>
