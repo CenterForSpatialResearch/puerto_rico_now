@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Conflict Urbanism Puerto Rico Now
-author: Center for Spatial Research
+author: [Center for Spatial Research](c4sr.columbia.edu)
 email: info@c4sr.columbia.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Student projects from the Spring 2019 Conflict Urbanism Puerto Rico seminar offered by Laura Kurgan and Frances Negron-Muntaner.
