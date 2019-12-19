@@ -1,6 +1,6 @@
 ---
 layout: post
-date:   2019-05-07
+date:   2019-05-01
 image: "/images/infra_power/cove_image.jpg"
 title:  "Infrastructures of Power: Caguas and Dorado, Case Studies in Disaster Capitalism"
 author: "Caitlin Sills, Alexander Van Odom"
